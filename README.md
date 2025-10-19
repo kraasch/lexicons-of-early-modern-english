@@ -38,15 +38,16 @@ The directory tree consists of 16 directories.
 
 Under [page/plaintexts](./page/plainText/) the original text sources can be found.
 
-An overview is provided by the table under [page/lexiconsByDate](./page/lexiconsByDate/index.html).
+An overview is provided by the table under [page/lexiconsByDate](./page/lexiconsByDate/index.html) and it has a [markdown version](./table.md).
 
 Another overview is provided by the list of authors in the directory [page/lexiconsByAuthor](./page/lexiconsByAuthor/).
+
 
 ## Tasks
 
 List of things to do:
 
-  - [ ] make [page/lexiconsByDate](./page/lexiconsByDate/index.html) into a markdown table.
+  - [X] make [page/lexiconsByDate](./page/lexiconsByDate/index.html) into a markdown table.
   - [ ] make [page/lexiconsByAuthor](./page/lexiconsByAuthor/) into a markdown table.
 
 ## Feedback
