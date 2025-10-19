@@ -70,7 +70,7 @@ View the [license file](./LICENSE).
 
 ### Original Publishing
 
-This project was originally published under [CC-BY-4.0-International](https://creativecommons.org/licenses/by/4.0/) and attributed to a team of ten people and edited by (Ian Lancashire)[https://www.artsci.utoronto.ca/news/memoriam-professor-emeritus-ian-lancashire]:
+This project was originally published under [CC-BY-4.0-International](https://creativecommons.org/licenses/by/4.0/) and attributed to a team of ten people and edited by [Ian Lancashire](https://www.artsci.utoronto.ca/news/memoriam-professor-emeritus-ian-lancashire):
 
 > from Five LEME Editors and Five LEME Programmers: Isabelle Zhu and Ian Lancashire, with contributions from Julia DaSilva, Paramita Dutta, Xueqi (Sherry) Fan, Sharine Leung, Sky Li, Kristie Liu, Tim Alberdingk Thijm and Shirley Wang. 2024.
 
