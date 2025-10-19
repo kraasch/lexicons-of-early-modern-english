@@ -1,5 +1,5 @@
 
-# MODULE
+# Lexicons of Early Modern English
 
 The LEME was published as one of many lexicons on [Lexicons of Early Modern English](https://utoronto.scholaris.ca/collections/10df91bc-8c9e-4ce1-b291-f02ad5715538) at the University of Toronto as learning material under permissive license (see below).
 
