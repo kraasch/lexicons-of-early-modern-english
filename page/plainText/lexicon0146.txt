@@ -1,0 +1,273 @@
+
+
+
+
+
+
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 3 4 3 2
+
+v e r . 1 . 0  ( 2 0 1 9 )
+
+
+
+A briefe note, taken out of M. Dees
+Mathematical Preface that goeth before Euclides Ele­
+mentes nowe extant in our Inglish tongue, as touching what
+the Mathematical Sciences are, that is to say, all those Artes 
+that order number, measure, or wayght, and tyme, without
+the which, in respect, we can doo nothing. For what can bee
+doone in any respect, but we must vse number, which is Arith­
+meticke? or what can be doone, but we must vse measure or
+wayght, which is Geometrie? or what can there be doone, but
+that we must vse tyme, which dooth appertayne vnto Astro­
+nomie? for by number we knowe howe many or fewe there are:
+and by measure we knowe whether it be ynches, feete, yardes,
+scores, myles, leagues, poundes, ounces, galloes, quartes, or
+tunnes: and by tyme, we knowe whether it be minutes, howres,
+dayes, weekes, monethes, yeeres, &c. Whereof two are prynci­
+pal, Arithmeticke and Geometrie, wherof al these compoun­
+ded sciences are spong of these two Simples.
+
+
+
+
+Thinges done by hand Geometricall.
+
+1 Mecometrie.  Is the measuring of the length
+any thing whatsoeuer.
+
+2 Embadometrie.  Is the measuring the con­
+tentes of all flat things, as Land, Boorde,
+Glasse.
+
+3 Stereometrie.  Is the measuring of all solid bo­
+dies, as Timber, Stone, Kaske, & such lyke.
+
+
+
+Thinges measured that haue di­
+staunce from you.
+
+4 Apomecometrie.  Is how farre any thing is
+from you, whether it be on lande or on water.
+
+5 Hipomettie.  Is how high or deepe any thing
+seene, is from the leuell, whether it bee on
+
+
+
+
+Lande or water. &.
+Not in OED.
+
+6 Platometrie.  How broade any thing is. &c.
+
+7 Geodesie.  Is the suruaying or measuring of
+landes, woods, or water, hauing distaunce
+from you by instrument or otherwise.
+
+8 Geographie.  Is the description of Countries,
+or Kingdomes.
+
+9 Cherographie or Typographie.  Is the descrip­
+tion of a part of a Country or kingdome. &c.
+No OED entry for "cherography"; antedates earliest OED entry for "typography" (1641)
+
+10 Hydrographie.  Is the discription of the Seas,
+with the Ilandes and rockes, and dangers
+and lynes, and Courses. &c.
+
+11 Stratarithmetrie.  Is the view or measuring of
+a battel of men, to know the number of them
+not comming neare them. &c.
+
+12 Perspectiue.  Demonstrateth the manner and
+propertie of all radiations directe, broken, 
+and reflected.
+
+13 Astronomie.  Is the mouing of the lightes and
+Planets. &c.
+
+14 Musike.  Teacheth the diuersyty of sounds. &c.
+
+15 Cosmographie.  Is the description of the whole
+earth, and the Paralell of the heauens an­
+swering thereunto. &c.
+
+16 Astrologie.  Is to geue iudgment by the signes,
+lights and planets. &c.
+
+17 Statick.  Is an art that doth order and deale
+with heuines and lightnesse. &c.
+Antedates earliest OED citation (1646)
+
+18 Anthropographie.  Is of thinges appertay­
+nyng to the body of man, to shew them. &c.
+
+19 Trochilike.   Doth appertaine vnto the turning
+of wheels, this art is necessary for Clockma­
+
+
+
+
+kers, & Crane makers, and Mylles, & al o­
+ther sciences, that doo deale with wheeles.
+
+20 Helicosophie.  Is an art to drawe hylical or
+Spheral or winding lines, and is very ne­
+cessary for Skrewe makers, & diuers other
+things.
+
+21 Pneumatithmie.  This art is necessary for all
+them that doo make Pumpes or great
+Bellows, for that it teacheth al those thinges
+that goe by wynde and water. &c.
+Not in OED
+
+22 Menadrie.  Is an art, that teacheth the making
+of al ingenes, as things to pull to, or thrust
+fro, or lyfting vp, or pressing downe. &c.
+
+23 Hypogeiodie.  Is that arte that dooth apper­
+tayne vnto myners in the grounde. &c.
+Not in OED
+
+24 Hydrogogie.  Is that art to bring water vnto
+any place assigned. &c.
+
+25 Horometrie, or Horologiographie.  Is the ma­
+king of Dyals of al sortes. &c.
+
+26 Zographie.  Is the art of a cunning Painter. &c.
+
+27 Althalmasat.  The art of Grauing.
+Not in OED
+
+28 Archetectur.  Is a cunning Mason or Car­
+penter. &c.
+
+29 Nauigation.  Is sayling on the Sea. &c.
+
+30 Thaurunaturaike.  Is that which dooth make
+strange workes, as those that made the bra­
+sen head seeme to speake, the brasen Serpent
+to hisse, the Doue of wood to flye, the Eagle
+made by art to flye. &c.
+Not in OED
+
+31 Archemastrie.  This art teacheth to bryng 
+to actual experience sensible, al worthy con­
+clusions, by al the artes Mathematical. &c.
+
+
+
+FINIS.
+
+
+
+
+
+
+
+
+To the Reader of the fyrst booke.
+
+
+
+
+Pricke " lexeme=" lyne " lexeme=" Plat " lexeme=" Superficial " lexeme=" Angles " lexeme=" sholded bodie " lexeme=" Circle " lexeme=" Centre " lexeme=" Circumference " lexeme=" Diametre
+FOr that it is sufficiently decla­
+red in diuers bookes nowe ex­
+tant in our Englishe tongue,
+wherefore I doo thinke it su­
+perfluous for to shewe what a
+Pricke is, or what a lyne is, or
+what a Plat or Superficial is, or
+what Angles be, and what a
+sholded bodie is, as it is suffici­
+ently declared in all these bookes: as in Euclides Ele­
+mentes, and in M. Thomas Dygges booke called Pan­
+tometay, and also in M. Leonarde Dygges booke cal­
+led Tectonicon. &c. A Circle is that whiche is dra­
+wen rounde with a payre of Compasses, a Centre is 
+the myddle pricke, Circumference is the compasse,
+Diameter is the breadth of a Circle. &c. 
+A Circle.
+A Centre.
+A Circumfe­
+rence.
+A Diametre.
+
+
+
+A Foote.
+A Yarde.
+A pase Geome­
+trical.
+A simple stop or
+ yarde.
+A pase is two
+steppes.
+foote " lexeme=" yarde " lexeme=" pase Geometricall " lexeme=" pase " lexeme=" steppe " lexeme="  score " lexeme=" myle " lexeme=" Rod of lande measure " lexeme=" Rod of woode measure " lexeme=" fadome
+And furthermore, for that in this first part there is
+the conclusions of the Scall, and the Crosse staffe, she­
+wyng by them howe for to knowe the distance vnto
+any place assigned: Therefore it is very necessarie
+for to knowe the partes of measure, as it is not vnkno­
+wen vnto all men, what a foote is, and that. 12. yn­
+ches maketh a foote, so. 3. foote is a yarde, and. 5.
+foote is a pase Geometricall: but some persons haue
+been of that opinion, that. 3. foote is a pase, which is
+a yarde, but it is but a simple steppe, and fewe men are
+able to endure to pase a yarde any long tyme togea­
+ther: but any person may endure to steppe two foote
+and a halfe, all a day long togeather. Therefore a pase
+Geometrical, is two reasonable steppes, and that is fiue
+foote: and so any man may endure all a day together,
+
+
+
+
+and twelue pases maketh a score, and that is twentye
+yardes, and that maketh. 60. foote: and a myle con&
+teyneth. 1000. Geometrical pases, and that is. 5000.
+foote, and that maketh 1666. yardes. 2/3. and that is. 2.
+foote, and that conteyneth 83. score. 1/3. and that is. 20.
+foote. &c. and a Rod is. 16. foote and a halfe, of lande
+measure, and. 18. foote is a Rod of woode measure,
+according to our Englishe account: and. 303. Rodde
+and 1/33. that is halfe a foote, is a myle of lande mea­
+sure, and. 277. Rodde, and. 7/9. that is. 14. foote of
+woode measure, is a myle, and a fadome is. 6. foote,
+and that is. 2. yardes: and. 10. fadome is a score and
+a myle conteyneth. 833. fadome, and. 1/3 part, that is 
+2. foote. &c. 
+12. pases is a
+score, that is,
+20. yardes.
+A myle is a 
+1000. pases,
+that is. 5000.
+foote, or. 1666.
+yardes, and 3.
+A Rod is. 16.
+foote. 2. of land
+measure, and
+18.foote is a 
+Rod of woode
+measure.
+6.foote is a fa­
+dome, and.833
+fadome is a 
+myle.
+
+
+And thus muche haue I saide as touching our En­
+glishe account, as concernyng the measuryng of the
+length, or the distances vnto any place assigned. &c.
+
+
+
+

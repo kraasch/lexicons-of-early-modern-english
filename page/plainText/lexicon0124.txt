@@ -1,0 +1,749 @@
+
+
+
+
+
+
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 6 8 5 8 
+
+v e r . 1 . 0  ( 2 0 1 9 )
+
+
+
+A GEOMETRICAL 
+Practise, named PANTOMETRIA,
+diuided into three Bookes, Longimetra,
+Planimetra and Stereometriea, containing Rules manifolde
+for mensuration of all lines, Superfices and Solides. With
+sundry straunge conclusions both by instrument
+and without, and also by Perspectiue glasses, to
+set forth the true description or exact plat of
+an whole Region: framed by Leonard
+Digges Gentleman, lately finished
+by Thomas Digges his
+sonne.
+
+
+
+
+
+
+
+
+
+Elementes of Geometrie,
+or Diffinitions.
+
+
+
+A Poynt I call whiche cannot be diuided, whose parte is
+nothing.
+
+A Lyne is a length without breadth or thicknesse, whose ex­
+tremities are two poyntes.
+
+THe shortest drawen between two Poyntes is a streight
+line, the contrary are crooked lines.
+
+A poincte A right line Crooked lines
+
+A Superficies is that hath length and breadth onely, beeing
+bounded or determined with lines.
+
+A Playne Superficies is that whiche lieth equally and euen­
+ly betweene his lines or boundes.
+
+A superficies.
+
+A Playne Angle is the inclination of two lines lying in one
+playne Superficies, concurring or meeting in a poynt.
+
+
+
+
+
+
+IF those lines that containe the Angle be straight, it is called
+a right lined Angle, and those two lines his containing sides,
+but if a third straight line be drawne crosse the former from 
+one to the other, that shall be called the subtending side.
+
+ABC the contayned angle
+AB BC the contayninge
+sides
+AC the syde
+subtendent.
+
+OF straight lined angles there are three kindes, the Ortho­
+gonall, the Obtuse and the Acute Angle.
+
+WHen any right line falleth Perpendicularly vpon an o­
+ther, that is to say, making the Angles on either side e­
+quall, eche of those Angles is an Orthogonall or right Angle,
+and that falling line a Perpendicular.
+
+AB is the Perpendicular
+DC the ground line.
+A Perpendicular
+A right angle
+
+BAC the right angle contained of the Perpendicular, and one
+part of the ground line equall to BAD the right angle contained
+of the Perpendicular, and the other portion of the grounde line, and
+therfore both Orthogonall.
+
+
+
+
+
+
+Longimetra
+
+The Brode or Obtuse Angle is greater than the Orthogonal.
+
+Abroode
+
+The Acute or sharpe, is lesser than the right angle.
+
+a sharpe
+
+A Figure is comprehended within limites and bounds, whe­
+ther it be one or many.
+
+A Circle is a plaine figure, determined with one line, which
+is called a Circumference, in whose mids there is a point
+named his Centre. From the which all right lines drawne to
+the circumference are equall.
+
+A circle. A circumferens.
+
+A Semicircle or halfe Circle, doth conteine both the Dime­
+tient and Centre of his circle, with the precise halfe of his
+circumference.
+
+
+
+
+
+
+A Right line drawne through the Centre vnto the Circum­
+ference of both sides, is named his Diameter or Dimeti­
+ent, the halfe of it is called his Demidiameter.
+
+"Demidiameter" not found in OED.
+
+
+
+An halfe circle 
+Dimetient
+
+ALl Straight lines besides the Diameter in any Circle
+pulled from one part of the Circumference to the other, be
+called cordes.
+
+THe portion of the Circumference from that corde compre­
+hended, is named an Arcke.
+
+A Touch line is that toucheth a circle in a Pointe.
+
+
+an arck
+A corde
+Diametre
+A corde
+A touche lyne
+
+A triangle 
+
+EMong Right-lined figures,
+suche as haue onely three si­
+des are Triangles, whereof
+there be sundrie sortes bearing seuerall names, according to
+the diuersitie of their sides and Angles.
+
+
+
+
+
+
+IF the Triangles three sides be euery of them of like length,
+it is called  an Equilater Triangle.
+
+ ISoscheles is such a Triangle as hath onely two sides like,
+the thirde being vnequall, and that is the Base. 
+
+ Schalenum hath three vnequall sides.
+
+"Schalenum" not found in OED.
+
+
+
+A Rightangled Triangle is suche a one as hath one Righte
+Angle. 
+
+AN Obtuseangle Triangle hath one obtuse angle, and is
+called Ambligonium. 
+
+Oxigonium hath all acute or sharpe Angles. 
+
+THere be also foure sided Figures called Quadrangles, 
+whose Opposite sides and angles are equall, suche are na­
+med Paralelogrammes, whereof there are but foure sortes.
+
+IF all the sides be equall, and al the angles right, than is that
+Paralelogramme called a square.
+
+
+
+
+
+
+If one side containing the right Angle, be longer than the o­
+ther containing side, then is that figure called a Rectangle.
+
+If all the sides be equall, and no angle aright, then is it called 
+Rhombus.
+
+BUt if it haue only the Opposite sides equall, and the other
+that containe an Angle vnequall, it shall be named  Rhom­
+boides.
+
+All other quadrangles are Trapezia.
+
+"trapezia" antedates earliest OED quotation (1631).
+
+
+
+POlygona, are such figures as haue moe than foure sides,
+whose angles if they be all like and equall, they are termed
+Equiangle Polygona.
+
+A figure of 
+manie sides
+
+AL other plain Superficies, whether they be enuironed with
+straight or crooked lines, shalbe named irregulare figures. 
+
+
+
+
+
+
+Longimetra
+ 
+WHen two right lines drawne in one plaine Superficies,
+are so equedistantly placed, that though they were infi­
+nitely extended on either side, yet would neuer meete nor con­
+curre, they shall be called Paralleles.
+
+Paralleles.
+
+ A Quadrant is the fourth part of a Circle, included with two
+Semidiameters commonly diuided in 90. portions, which
+partes are named grades or degrees. 
+
+
+
+
+
+
+
+
+
+
+
+The second kynde of Geome­
+trie called Planimetra.
+
+
+HAVING accomplished the first part called Longimetra, con­
+tayning sundrie rules to measure lengthes, breadthes, heigths,
+depthes, and distances: I thinke it meete now to proceede to
+the seconde kynde named Planimetra, wherein ye shall haue
+rules for the mensuration of all manner playne Figures, to 
+know their contente superficiall. And forasmuch as there is no Superficies,
+but is enuironed with lines either streight or curue. And all Figures com­
+prehended with streight lines may be resolued into Triangles: It seemeth
+most meete, first to teache the measuring of Triangles as followeth.
+
+
+The fyrst Chapter.
+
+Of Triangles.
+
+
+
+
+AS there are three kind of Angles, so is there also three kind
+of Triangles: the first is called Orthogonium, hauing one of
+his angles a right: the other Ambligonium contayning one
+obtuse angle: the third kinde is called Oxigonium, whose
+three angles are all acute. Of right angled Triangles also
+there are two kindes, for eyther it hath two equall sides, and then is it
+called Isoscheles, or three vnequall, and that is Scalenum.
+
+"Ambligonium" not a headword in the OED (but see quotation of 1570 under "obtuse-angled."
+
+
+
+
+
+
+
+
+
+
+
+
+The thirde kynde of Geome­
+trie named Stereometria.
+
+
+IN THIS thirde booke ye shall receyue sundrie rules to mea­
+sure the Superficies and Crassitude of solide bodies, whereof,
+although an infinite sorte of differente kyndes might be ima­
+gined, yet shall I only entreate of such as are both vsually re­
+quisite to be moten, and also may sufficiently induce the inge­
+nious to the mensuration of all other solides what forme or figure soeuer
+they beare. And forasmuch as in setting foorth their seuerall kyndes, I haue
+chosen to vse the accustomable and auncient names well knowen to any
+trauelled in Geometrie, rather than to forge newe Englishe wordes which
+can neither so breefly nor so aptly expresse the like effecte, least to the com­
+mon sorte any obscuritie might growe, I thinke good to adioyne euery of
+their diffinitions,
+
+
+DIFFINITIONS.
+
+
+
+1 A Solide body is that hath lengthe, breadth and thicknesse boun­
+ded or limited with Superficies.
+
+2 Lyke solides are such as are encompassed with superfices that are
+lyke and of equall number.
+
+3 A Prisma is a solide Figure comprehended of playne Superficies,
+whereof two are equall, like, and Parallele, the reste Parallelogrammes.
+
+"Prisma" not a headword in the OED.
+
+
+
+4 A Pyramis is a solide Figure enclosed with many playne Superfi­
+cies rysing from one, and concurring or meeting in a pointe.
+
+5. A Sphere is a grosse or solide body comprehended of one coruex
+Superficies. In the middes whereof there is a pointe from whence all
+right lines to the same superficies extended, are equall.
+
+6. That poincte is called his Center, and a streight line by that Cen­
+tre passing throroughe this solide bounded on eyther side with the conuex
+superficies is called the Diameter of that Sphere.
+
+
+
+
+
+
+7 Also intellectually ye may thus conceyue a Sphere to be made.
+Suppose a semicircle (his diameter remayning immouably fixed) to be
+turned round about til it returne to the place whence it firste beganne to
+moue, the figure so described, is a Sphere.
+
+8 Likewise, if a right angled triangle (one of the contayning sides re­
+mayning fixed) be turned circularly about the Figure so described, it is
+called a Cone.
+
+9 The right line that remayneth fixed is the Axis.
+
+10 The circle described by the other contayning side is the Base.
+
+11 The third line or Hypothenusa, is the side of the Cone.
+
+12 If a right angled parallelogramme (the one of the sides conteyning
+a right angle remayning immouable) be circularly turned, the Figure so
+described, is a Cylinder, and the immouable side is his Axis.
+
+13 The Bases are the Circles by reuolution of the two opposite Pa­
+rallele sides described.
+
+14 The altitude or heigth of any solide body, is a line perpendicular­
+ly falling from the toppe or highest parte of the solide vppon the playne
+whereon the body lyeth.
+
+15 This perpendicular or line of altitude in directe solides falleth
+within the body, and vppon the base, but in declyning solides, it falleth
+without the bodies and bases.
+
+16 As the concourse of lines maketh a playne angle, so the concurring
+or meeting of many superficies in a pointe, maketh a solide angle.
+
+17 In euery solide body a right line drawen from one solide angle to
+one other is called a line Diagonall. But if it passe betweene opposite an­
+gles, it is named the Diameter.
+
+
+
+
+
+
+
+
+
+
+A Mathematical Discourse of Geometrical solides.
+
+The Preface.
+
+ALthough the Rules and Preceptes already geuen abun­
+dantly may suffice for the exact mensuration of any man­
+ner Solides or vessels that are vsually occupied, or may
+be proponed to be moten, yet for the satisfaction also of
+such as deliting in matters only new, rare and difficile,
+seeke to reache aboue the common sorte, I haue thought
+good to adioyne this Treatise of the 5 Platonicall bodies,
+meaning not to discourse of their secrete or mysticall appliances to the
+Elementall regions and frame of Celestiall Spheres, as things remote
+and farre distant from the Methode, nature and certaintie of Geometrical
+demonstration, only heere I intend Mathematically to conferre the Super­
+ficiall and Solide capacities of these Regulare bodies with their Circum­
+scribing or inscribed spheres or Solides, & Geometrically by Algebraycall
+Calculations to search out the sides, Diameters, Axes, Altitudes, and lines
+Diagonal, together with the Semidimetients of their Equiangle Bases,
+containing or contained Circles, and as in the Problemes ye shal perceiue
+by Preceptes and Examples, the quantities and proportions of all these
+lines, Superficies and Crassitudes, with numbers Rationall and Radicall
+expressed, so haue I by Theoremes sowne the seede of Rules innumerable,
+wherin the studious may delite him selfe with infinite varietie: Finally I
+shall in the last Chapiter by Diffinitions and Theoremes partly set forthe
+the forme, nature and proportion of other fiue vniforme Geometricall So­
+lides, created by the transformation of the fiue bodyes Regulare or Plato­
+nicall: but not in so ample manner, as the noueltie or difficultie of the mat­
+ter requireth, meaning as I see these the first frutes of my studies liked and
+accepted, to bestowe time and trauaile vppon an other peculiare Volume,
+
+
+
+
+
+
+which shall conteyne, not onely the demonstrations of these Theorems
+of spherall solides, but also of Conoydall, Parabollical, Hyperbollical and
+Ellepseycal circumscribed & inscribed bodies, & many mo lynes & solides
+produced by the sections of these, and reuolution of their sections: but to re­
+turne to this present Treatise, let no man muse the writing in the English
+toung, I haue retayned the Latin or Greeke names of sundry lines and
+figures, as cordes Pentagonall, lines Diagenall, Icosaedron, Dedocae­
+dron, or such like, for as the Romanes and other Latin writers, not with­
+standing the copiouse and abundante eloquence of their toung, haue
+not shamed to borrow of the Gretians these and many other termes of
+arte: so surely do I thinke it no reproche, either to the English toung,
+or any English writer, where fitte words fayle to borrow of them both,
+but rather should we seeme therby to do them great iniurie, these beeing
+in deede certayne testimonies and memorials where such sciences firste
+tooke their originall, and in what languages and countreys they chieflye
+florished, which names or words how straunge soeuer they seeme at the
+firste acquayntaunce, by vse will grow as familiar as these, a triangle, a
+circle, or suche like, which by custome and continuance seeme meere En­
+glish, yet to auoyde all obscuritie that may grow by the noueltie of them,
+I haue adioyned euery of their diffinitions, and so proceded to Problems
+and Theoremes with suche methode, as howe obscure or harde soeuer
+they appeare at the firste, through the rarenesse of the matter: I 
+doubt not but by orderly reading, the ingeniouse Student,
+hauing any meane taste of cossicall numbers, shall
+finde them playne and easie.  
+
+
+
+
+
+
+
+Diffynitions.
+
+
+
+PRoportion is a mutuall or enterchangeable relation of two
+magnitudes, being of one kind, compared togither in respecte
+of their quantities.
+
+The second diffinition.
+When the proportion of two magnitudes is such as may be expressed
+with numbers, then is it certaine & apparant and here is called rational:
+But when the proportion is such as cannot be expressed with numbers,
+but with their rootes onely, then is that proportion certayne also, but
+not apparante, and therfore here I name it surde or irrationall.
+
+The thirde diffinition.
+When there be three suche magnitudes or quantities that the first to
+the second retayne the same proportion that the second doth to the third,
+those quantities are saide to be proportionall, and the first to the thirde
+retayneth double the proportion of the first to the second, and the seconde
+is named meane proportionall betweene the first and the last.
+
+The fourth Diffinition
+When foure magnitudes are likewise in continual proportion, the
+first & fourth are the extremes, and the second and thirde the meanes,
+and the extreames are sayd to haue triple the proportion of the meanes.
+
+The fifth diffinition.
+ Any lyne or number is sayde to be diuided by extreame & meane pro­
+portion, when the diuision or section is suche or so placed, that the whole
+line or numer retayne the same proportion to the greater parte, that
+the greater doth to the lesser.
+
+The sixth diffinition.
+ A lyne is sayde to be equall in power with two or moe lynes, when
+his square is equall to all their squares.
+
+The seuenth diffinition.
+ A lyne is sayd to matche a superficies in power, when the square of
+that line is equall to the superficies.
+
+The eyght diffinition.
+When any equiangle triangle, square, or Pentagonum is in suche
+sorte described within a circle, that euery of their angles touche the cir­
+cumference, their sides are called the trigonal, tetragonall and pentago­
+nall Cordes of that circle.
+
+
+
+
+
+
+The ninth diffinition.
+About euery equilater triangle, square, or Pentagonum, a circle may
+be described, precisely touching euery of those figures angles, and that
+circle shall be called the circumscribing or contayning circle.
+
+The tenth diffinition.
+Also within euery of these equiangle figures a circle may be drawen,
+not cutting but only touching euery of their sides, this is called the in­
+scribed circle.
+
+The eleuenth diffinition.
+Any right line drawen from angle to angle in those equiangle figures
+passing through the superficies, I name the line diagonall.
+
+The twelfth diffinition.
+A right line falling from any angle of these superficies perpendicu­
+larly to the opposite side shalbe named that playnes perpendiculare.
+
+The. 13. Diffinition.
+TETRAEDRON is a body Geometricall
+encompassed with fowre equall equiangle tri­
+angles.
+
+Tetraedron.
+
+The fourtenth Diffinition.
+HEXAEDRON or CVBVS is a solide fi­
+gure, enclosed with sixe equall squares.
+
+Cubus.
+
+The fiftenth Diffinition.
+OCTAEDRON is a body comprehended
+of eight equall equiangle triangles.
+
+Octahedron
+
+
+
+
+
+
+The 16. Diffinition.
+ICOSAEDRON is a solide Figure, vnder
+twentye equall equiangle triangles conteyned.
+
+Icosaedrum
+
+The. 17. Diffinition.
+ DODECAEDRON is a solide com­
+prehended of twelue equall equiangle pentago­
+nall Superficies.
+
+The. 18. Diffinition.
+These fiue bodies are called regular, and about euery of them a sphere
+may be described, that shall with his concaue peripherie exactly touche e­
+uery of their solide angles, and it shall be called their comprehending or
+circumscribing sphere or globe, and these solides shalbe called the inscri­
+bed or conteyned bodies of that sphere.
+
+The. 19. Diffinition.
+Also within euery of these regulare bodies a sphere may be described
+that shall with his conuex superficies precisely touche all the centres of
+those equiangle figuers wherewith these bodies are enuironed, and such
+a one I terme their inscribed or conteyned sphere, and those bodies shall
+be termed the circumscribing solides of that sphere.
+
+The. 20. Diffinition.
+The semidiameter of this inscribed sphere, forasmuche as it is the
+very Axis or Kathetus of euery Pyramis, hauing his base one of the equi­
+
+
+
+
+
+
+angle playnes, and concurring in the centre, of which Pyramides (intel­
+lectually conceyued) these bodies seeme to be compounded, it shal be na­
+med the Axis or Kathetus of that body.
+
+The 21 diffinition.
+Euery of these bodies side, I call any one of those equall righte lines
+wherewith these equiangle Figures are enuironed that comprehende
+and include these bodyes.
+
+The 22 diffinition.
+Any one of the Figures wherewith these solides be enuironed is cal­
+led the base of that solide.
+
+The 23 diffinition.
+A line falling from any solide angle of these bodyes perpendicularlye
+on the opposite playne or base, shall be named that solides Perpendi­
+culare.
+
+The 24 diffinition.
+The power of any line gyuen is sayde to be diuided into lines re­
+tayning extreame and meane proportion, when two suche lines are
+found as both make their squares ioyned togither, equall to the square of
+the line giuen, and also holde such proportion one to another as the two
+partes of a line diuided by extreame and meane proportion.
+
+The 25 diffinition.
+One of these regulare solides is saide to be described within an other,
+ when all the angles of the internall or inscribed body at once touche the
+superficies of the comprehending or circumscribing regulare solide.
+
+
+
+
+
+
+
+
+
+
+
+The. 25. Probleme.
+
+
+A Metamorphosis or transformation of the fiue
+regulare bodies.
+
+HItherto haue I onely intreated of the fiue regulare bodies.
+Theoretically and practically opening sundrie meanes to
+search out the proportion and quantities of their sides,
+diameters, axes, perpendiculares, altitudes, and contentes
+both superficiall and solide, and that not onely in these so­
+lides considered by them selues, but also conferred with other, aswell by
+inscription as circumscription, both of themselues and their spheres: so
+as I suppose hardely any question may be proponed concerning these bo­
+dies, whiche by the formal problemes or theoremes may not be resol­
+ued. Yet before I finishe this Treatise I thought good to adioyne one
+Chapter of the transformation of these Solides into suche bodies (as
+though they may not be tearmed regulare, for that Euclide hath demon­
+strate onely fiue, and no mo possibly to be founde or imagined) yet haue
+they such vniforme composition and conuenience with these solides, that
+they are not onely enuironed with equilater and equiangle superficies
+as they be, but also haue all their sides equall, and one comprehending
+sphere exactly and at once touching all their solide angles, they are also
+capable of the regulare bodies, and onely herein different, that whereas
+the regulare solides be inuironed with one kinde of playnenes and re­
+ceiue one internal sphere, and so consequently one axis. These Transfor­
+med bodies are incompassed with seuerall kinde of playnesse, and haue se­
+uerall axes and contayned spheres, of which their diuersitie aryseth ma­
+
+
+
+
+
+
+nyfolde mo straunge, rare, and differente kinds of proportions, than may
+in a very large volume (I will not saye be demonstrate, but onely by 
+Theoremes) be declared. Transformed regulare solydes I call them,
+both to auoyde the forging of newe names, which I should be inforced to
+vse for distinction sake, and also bicause they seeme to be created by the
+vnifourme section of the regulare bodies, and may by addition of certaine
+proportionall equall Pyramides, be reduced to the regulare solides, and
+are in sundry proportions and proprieties so agreable and resemblante
+to those regulare solides, whose names they beare, that they seeme onely
+to lose the fourme, and yet still to retayne the nature of them. I meane
+not here in so ample maner as the noueltie of the matter requireth to in­
+treate of them, but onely by diffinitions and Theoremes open so muche
+as may be sufficient to explane the composition, fourme, nature, and pro­
+portion of these, and also giue light to the ingeniouse infinitely to pro­
+ceede for inuention of the like, whose vse and appliance may be manyfold
+to conclusions no lesse straunge than necessarie: but thereof in due place
+for the nature of these transfourmed solides peruse their seuerall diffini­
+tions and Theoremes immediately ensuing.
+
+Of Tetraedron transformed.
+
+The firste Diffinition.
+TEtraedron transformed is a solide incompassed with foure equall
+equilater triangles, and foure equall equiangle playnes Heragonall,
+hauing equall sides with the triangles.
+
+
+
+
+
+
+Of the transfigured Cube.
+
+The seconde Diffinition.
+A Transfourmed Cube is a figure geometrical enuironed with 6 equi­
+angle Octogonall and 8 equilater triangular playnes or bases, whose
+sides are all equall.
+
+
+
+
+
+
+Of Octaedron transformed.
+
+The 3 Diffinition.
+A Transfigured Octaedron is a Geometricall Figure incompassed
+with 14 bases, whereof 8 are equall equiangle Hexagonall playnes,
+and the other 6 are equall squares.
+
+
+
+
+
+
+Of the transfigured Icosaedron.
+
+The fourth Diffinition.
+ICosaedron transfigured, is a solide bodye incompassed with 32 Equi­
+angle and equilater bases, whereof 20 are Hexagonall, and the other
+12 Pentagonall playnes.
+
+
+
+
+
+
+Of Dodecaedron transformed.
+
+The fifthe Diffinition.
+A Transformed Dodecaedron is a massie or solide figure, comprehended
+of 12 equiangle dexagonal, and 20 equilater triangular bases.
+
+"dexagonal" not found in OED.
+
+
+
+
+
+
+
+
+

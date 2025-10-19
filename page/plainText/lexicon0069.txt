@@ -1,0 +1,4163 @@
+
+
+
+
+
+
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 2 2 4 2 8
+
+v e r . 1 . 0  ( 2 0 1 9 )
+
+
+
+
+A treatise 
+of Schemes & Tropes
+very profytable 
+for the better vnderstanding of good 
+authors, gathered out of the best 
+Grammarians & Oratours
+by Rychard Sherry Lon­
+doner.
+
+¶ Whervnto is added a declamation,
+That chyldren euen strayt from their
+infancie should be well and gent­
+ly broughte vp in learnynge.
+Written fyrst in Latin
+by the most excel­
+lent and
+famous Clearke, Erasmus
+of Rotero­
+dame.
+
+
+
+
+
+
+
+To the ryght worshyp­
+ful Master Thomas Brooke 
+Esquire, Rychard Shyrrey 
+wysheth health euer­
+lastynge. 
+
+
+
+
+The tytle of
+thys worche
+straunge.
+
+
+I Doubt not but 
+that the title of 
+this treatise all 
+straunge vnto 
+our Englyshe 
+eares, wil cause 
+some men at the fyrst syghte to 
+maruayle what the matter of 
+it should meane: yea, and per­
+aduenture if they be rashe of 
+iudgement, to cal it some newe 
+fangle, and so casting it hasti­
+ly from theem, wil not once vouch 
+safe to reade it: and if they do, 
+yet perceiuynge nothing to be 
+therin that pleaseth their phan­
+sy, wyl count it but a tryfle, & a
+
+
+
+
+tale of Robynhoode. But of 
+thys sorte as I doubte not to 
+fynde manye, so perhaps there 
+wyll be other, whiche moued 
+with the noueltye thereof, wyll 
+thynke it worthye to be looked 
+vpon, and se what is contained 
+therin. These words, Scheme and 
+
+Sheme and
+Trope.
+
+Trope, are 
+not vsed in our Eng­
+lishe tongue, neither bene they 
+Englyshe wordes. No more 
+
+Vse maketh
+straunge thin­
+ges familier.
+
+be manye whiche nowe in oure 
+tyme be made by continual vse, 
+very familier to most men, and 
+come so often in speakyng, that 
+aswel is knowen amongest vs 
+the meanyng of them, as if they 
+had bene of oure owne natiue 
+broode. Who hath not in hys 
+mouthe nowe thys worde Pa­
+raphrasis, homelies, vsurped, 
+abolyshed, wyth manye other 
+
+
+
+
+lyke? And what maruail is it if 
+these words haue not bene vsed 
+here tofore, seynge there was no 
+suche thynge in oure Englishe 
+tongue where vnto they shuld be 
+applyed? Good cause haue we 
+therefore to gyue thankes vnto 
+certayne godlye and well lear­
+ned men, whych by their greate 
+studye enrychynge our tongue 
+both wyth matter and wordes, 
+haue endeuoured to make it so 
+copyous and plentyfull that 
+therein it maye compare wyth 
+anye other whiche so euer is the 
+best. It is not vnknowen that 
+oure language for the barba­
+rousnes and lacke of eloquence 
+
+Oure lan­
+guage falsely
+accused of
+barbarous­
+nes.
+
+hathe bene complayned of, and 
+yet not trewely, for anye defaut 
+in the toungue it selfe, but 
+
+
+
+
+rather for slackenes of our coun­
+trimen, whiche haue alwayes
+set lyght by searchyng out the 
+elegance and proper speaches 
+that be ful many in it: as plain­
+ly doth appere not only by the 
+most excellent monumentes of 
+our auncient forewriters, 
+
+Gower.
+Chawcer.
+Lidgate.
+
+Gow­
+er, Chawcer and Lydgate, but 
+also by the famous workes of 
+many other later: inespeciall 
+of the ryght worshipful knyght 
+
+Syr Thomas
+Elyot.
+
+syr Thomas Eliot, which first 
+in hys dictionarye as it were 
+generallye searchinge oute the 
+copye of oure language in all 
+kynde of wordes and phrases, 
+after that setting abrode good­
+lye monumentes of hys wytte, 
+lernynge and industrye, aswell 
+in historycall knowledge, as 
+of eyther the Philosophies, 
+
+
+
+
+hathe herebi declared the plen­
+tyfulnes of our mother tounge, 
+loue toward hys country, hys 
+tyme not spent in vanitye and 
+tryfles. What shuld I speake 
+of that ornamente Syr Tho­
+mas Wyat? which beside most 
+excellente gyftes bothe of for­
+tune and bodye, so flouryshed 
+in the eloquence of hys natiue 
+tongue, that as he passed ther­
+in those wyth whome he lyued, 
+so was he lykelye to haue bene 
+equal wyth anye other before 
+hym, had not enuious death to 
+hastely beriued vs of thys iew­
+el: teachyng al men verely, no 
+filicitie in thys worlde to be so 
+suer and stable, but that quick­
+lye it may be ouerthrowen and 
+broughte to the grounde. Ma­
+nye other there be yet lyuynge 
+
+
+
+
+whose excellente wrytynges do 
+testifye wyth vs to be wordes 
+apte and mete elogantly to de­
+clare oure myndes in al kindes 
+of Sciences; and that, what 
+sentence soeuer we conceiue, the 
+same to haue Englyshe oracion 
+natural, and, holpen by art, wher­
+by it may most eloquently be vt­
+tered. Of the whych thynge as 
+I fortuned to talke wyth you, 
+Master Brooke, among other 
+matters this present argument 
+of Schemes and Tropes came 
+in place, and offered it selfe, de­
+med to be bothe profitable and 
+pleasaunte if they were gathe­
+red together, and handsomelye 
+set in a playne ordre, and wyth 
+theire descriptions hansomely 
+put into our Englishe tongue. 
+
+
+
+
+And bicause longe ago, I was 
+well acquaynted wyth them, 
+when I red them to other in the 
+Latin, and that they holpe me 
+verye muche in the exposicion 
+of good authoures, I was so 
+muche the more ready to make 
+them speak English: partli, to 
+renew the pleasure of mine old 
+studies, and partelye to satys­
+fy your request. 
+
+Beside this, I was moued al­
+so wyth the authorytye of 
+
+Rodulphus
+Agricola.
+
+that famous clarke Rodul­
+phus Agricola, whyche in a 
+certeine Epistle wrytten vnto 
+a frynde of hys, exhorteth men 
+what soeuer they reade in 
+straunge tongues, diligently 
+to translate the same into their 
+owne language: because that 
+in it we sonar perceiue if there 
+
+
+
+
+be any faute in our speaking, 
+and howe euerye thynge ey­
+ther rightly hangeth together 
+or is darkelye, ruggishly, and 
+superfluously wrytten. No ler­
+ned nacion hath there bene but 
+the learned in it haue written of 
+schemes & fygures, which thei 
+wold not haue don, except thei 
+had perceyued the valewe. 
+
+Wherfore after theyr example 
+obtaynyng a lytle lesure, I red 
+ouer sundrye treatises, as wel 
+of those which wrot long ago, 
+as of others now in our daies: 
+fyndynge amonge them some 
+to haue wrytten ouer brieflye, 
+some confuselye, and falselye 
+
+Mosellane
+
+some. Mosellane hathe in hys 
+tables shewed a fewe fygures 
+of grammer, and so hathe con­
+founded them together, that his 
+
+
+
+
+second order called of Loquu­
+cion pertayneth rather to the 
+rhetoricians then to hys pur­
+
+Quintilian.
+
+pose. Quintilian briefly hathe 
+wrytten bothe of the Grama­
+tical and rhetorical Shemes, 
+but so that you may soone per­
+ceyue he did it by the waye, as 
+muche as serued hys purpose. 
+
+Cicero.
+ 
+Cicero in hys boke of an ora­
+tour wyth hys incomperable 
+eloquence hathe so hid the pre­
+ceptes, that scarselye they may 
+be tryed oute by theyr names, 
+
+Erasmus.
+
+or by theyr examples. Erasmus 
+in hys double copye of words 
+and thynges, hath made as the 
+tytle declareth but a comenta­
+rye of them bothe, and as it 
+wer a litle bil of remembraunce. 
+Wherfore to make these thin­
+ges more playne to the students 
+
+
+
+
+that lyst to reade them in oure 
+tongue, I haue taken a lytle 
+payne, more thorowelye to try 
+the definicions, to apply the ex­
+amples more aptly, & to make 
+things defused more plaine, as 
+in dede it shal ryght wel apere 
+to the dylygente. I haue not 
+translated them orderly out of 
+anye one author, but runninge 
+as I sayde thorowe many, and 
+vsyng myne owne iudgement, 
+haue broughte them into this 
+body as you se, and set them in 
+so playne an order, that redelye 
+maye be founde the figure, and 
+the vse wherevnto it serueth. 
+Thoughe vnto greate wittes 
+occupyed wyth weightye mat­
+ters, they do not greatelye per­
+tayne, yet to such as perchaunce 
+shal not haue perfecte instruc­
+ 
+
+
+
+
+toures, they may be commodi­
+ous to helpe them selues for the 
+better vnderstandynge of such 
+good authors as they reade. 
+
+For thys darre I saye, no elo­
+quente wryter maye be percei­
+ued as he shulde be wythoute 
+the knowledge of them: for as­
+muche as al togethers they be­
+longe to Eloquucion, whyche 
+is the thyrde and pryncipall 
+parte of rhetorique. The com­
+mon scholemasters be wont in 
+readynge, to saye vnto their 
+scholers: Hic est figura: and some­
+tyme to axe them, Per quam figu­
+ram? But what profit is herein 
+if they go no further? In spea­
+kynge and wrytynge nothyng 
+is more folyshe than to affecte 
+or fondly to laboure to speake 
+darkelye for the nonce, sithe the 
+
+
+
+
+proper vse of speach is to vtter 
+the meaning of our mynd with 
+as playne wordes as maye be. 
+But syth it so chaunseth that som
+tyme ether of necessitie, or to set 
+out the matter more plainly we 
+be compelled to speake other­
+wyse then after common faci­
+on, onles we wil be ignorante 
+in the sence or meaninge of the 
+mater that excellente authors 
+do wryghte of, we muste nedes 
+runne to the helpe of schemes 
+& fygures: which verely come 
+no sildomer in the writing and 
+speaking of eloquente english 
+men, then either of Grecians or 
+Latins. Many thinges might 
+I brynge in to proue not one­
+ly a great profyt to be in them 
+but that they are to be learned 
+euen of necessitie, for as muche 
+
+
+
+
+as not only prophane authors 
+wythout them may not be wel 
+vnderstand, but that also they 
+greatelye profit vs in the rea­
+dinge of holye scripture, where 
+if you be ignoraunte in the fy­
+guratiue speches and Tropes, 
+you are lyke in manye greate 
+doubtes to make to make but a slender 
+solucion: as ryght wyll do te­
+
+Vestimerus
+
+stefy Castelio Vestimerus and that no­
+
+Augustinus
+
+ble doctor saint Augustine. I 
+confesse I haue not made the 
+matter here so perfecte as my 
+wyll and desyer is it shoulde 
+haue ben, and that I haue but 
+brieflye touched, and as it were 
+with my litle fynger poynted 
+to these thinges, which require 
+a lenger declaracion. For what 
+can be hasted, and absolute to? 
+But if God spare me lyfe, I 
+
+
+
+
+truste hereafter to make it an 
+introduccion, wherbi our youth 
+not onlye shall saue that moste 
+precious Iewell, Time, whyle 
+they wander by them selues, re­
+adynge at all aduentures sun­
+dry and varyous authors: but 
+that also thei shalbe able better 
+to vnderstande and iudge of 
+the goodlye gyftes and orna­
+mentes in mooste famous and 
+eloquente oratoures. For as 
+
+And apte si­
+militude.
+
+lyke plesure is not to him whi­
+che gooeth into a goodlye gar­
+den garnyshed wyth dyuers 
+kindes of herbes and flowers, 
+and that there doeth no more 
+but beholde them, of whome it 
+maye be sayde that he wente in 
+for nothynge but that he wold 
+come out, and to hym which be­
+syde the corporall eie pleasure, 
+
+
+
+
+knoeth of eueri one the name & 
+propertye: so verelye much dif­
+ference is there in readynge 
+good authors, and in sundrye 
+sortes of menne that do it: and 
+muche more pleasure, and pro­
+fit hathe he whiche vseth arte 
+and iudgement, then the other, 
+whiche wyth greate studye in 
+dede turneth them ouer but for 
+lacke of the knowledge of pre­
+ceptes wanteth also the fruite 
+and delectacyon that he more 
+amplye myghte obtayne. The 
+lyuynge God from whome all 
+good giftes do procede, gyue 
+vs grace so to order all oure 
+words and speache, that it may 
+be to his honour and glory for 
+euer and euer. Amen. 
+
+¶ Geuen at London the.
+xiii. day of Decembre. 
+Anno M.D.L. 
+
+
+
+
+
+
+
+
+¶ A briefe note of eloqucion, the third 
+parte of Rhetoricke, wherunto 
+all Figures and Tropes be 
+referred.
+
+
+Eloquucion
+
+ELoquucion , which 
+the Greekes call 
+Phrase, whereof 
+also the name of 
+eloquence dothe 
+ryse, as of al par­
+tes it is the good­
+lyest, so also is it the most profita­
+ble and hardeste: in the whyche is 
+seene that diuine myghte and ver­
+tue of an oratoure, whych as Cice­
+ro in hys oratorie particions defi­
+neth, is nothyng else but wisedom 
+speakyng eloquently. For vnto the 
+maruelous greate inuencion of all 
+thynges, bothe it addeth a fulnes, 
+and varietie: it setteth oute & gar­
+nysheth wyth lyghtes of eloquent 
+speche, the thinges that be spoken 
+of, and also wyth very graue sen­
+tences, choyse wordes, proper, apt­
+ly translated, and wel soundyng, it 
+bryngeth that greate fludde of elo­
+quence, vnto a certein kynd of stile 
+
+
+
+
+and indyghtyng. And oute of thys 
+greate streame of eloquucion, not 
+only must we chose apte, and mete 
+wordes, but also take hede of pla­
+cinge, and settinge them in order. 
+For the myghte and power of elo­
+quucion consisteth in wordes con­
+sidered by them selues, and when 
+they be ioyned together. Apt wor­
+des by searchyng muste be founde 
+oute, and after by diligence conue­
+niently coupled. For there is a gar­
+nyshynge, euen when they be pure 
+and fyne by them selues, and an o­
+ther, when they be ioyned together. 
+To chose them oute finely, and hand­
+somlye to bestow them in their pla­
+ces, after the mynde of Cicero and 
+Quintilian, is no easy thynge. So 
+Marcus Antonius was wonte to 
+say, that he had knowen many wel 
+spoken men, but none eloquente. 
+
+Tullye and Quintilian thoughte 
+that inuencion and disposicion were 
+the partes of a wytty and prudent 
+man, but eloquence of an oratour. 
+For howe to finde out matter, and 
+set it in order, may be comen to all 
+men, whyche eyther make abridge­ 
+
+
+
+
+mentes of the excellent workes of 
+aunciente wryters, and put histo­
+ries in remembraunce, or that speake 
+of anye matter themselues: but to 
+vtter the mynde aptely, distinctly, 
+and ornately, is a gyft geuen to ve­
+ry fewe. And because we haue deui­
+ded eloquucion into two partes, 
+that is, wordes symple, or conside­
+red by them selues, and compound 
+or ioyned together in speache, ac­
+cordyng to thys we saye, that eue­
+rye eloquente oracion must haue in 
+it thre poyntes: euidence, which be­
+longeth to the fyrst parte of eloquu­
+cion, composicion & dignitie, which 
+belongeth to the order.
+
+
+
+Of Euidence and plainenes. 
+
+Of these thynges that we put in 
+eloquucion, lette thys be the fyrste 
+care, to speake euidentlye after the 
+dignitye and nature of thynges, 
+and to vtter suche wordes, whych 
+as Cicero sayth in hys oratour, no 
+man may iustely reprehende. The 
+playne and euident speche is lear­
+ned of Gramarians, and it kee­
+peth the oracion pure, and without 
+all faute, and maketh that euerye 
+
+
+
+
+thyng may seme to be spoken pure­
+lye apertlye, and clerelye. Euerye 
+speche standeth by vsuall wordes 
+that be in vse of daylye talke, and 
+proper wordes that belonge to the 
+thinge, of the which we shal speke. 
+Neyther be properties to be refer­
+red onely to the name of the thing, 
+but much more to the strength and 
+power of the significacion: & must 
+be considered not by hearyng, but 
+by vnderstandyng. So translacion 
+in the whych comonly is the grea­
+test vse of eloquucion, applieth wor­
+des not the selfe proper thinges. 
+But yet an vnvsed worde or po­
+etical, hath also somtyme in the o­
+racion hys dignitie, and beyng put 
+in place (as Cicero sayeth) often­
+tymes the oracion may seme grea­
+ter, and of more antiquitie, for that 
+Poetes do speake in a maner as it 
+were in a nother tonge, it is righte 
+sone perceiued. Finally two fautes 
+are committed in euerye language, 
+whereby it is not pure: Barbaris­
+me, and Solecisme. Of the whych, 
+that on is committed, when anye 
+worde is fautely spoken or writen: 
+
+
+
+
+that other, when in many wordes 
+ioyned together, the worde that fo­
+loweth is not wel applyed to that 
+that goeth before.
+"Barbarism" antedates the earliest OED citation (1578), and "Solecism" antedates the earliest OED citation (1577).
+ Of composicion 
+and dygnitye, we wyll speake here 
+after, when we come to the figures 
+of rethoryque. 
+
+
+
+Of the three kyndes of style 
+or endyghtynge. 
+
+Before we come to the precepts 
+of garnishing an oracion, we thinke 
+good, bryeffye to shewe you of the 
+thre kyndes of stile or endyghting, 
+in the whych all the eloquucion of 
+an oratoure is occupied. For that 
+there be thre sundry kyndes, called 
+of the Grekes characters, of vs fi­
+gures, I trowe there is no man, 
+though he be meanlye learned, but 
+he knoweth, namely when we se so 
+manye wryters of sciences, bothe 
+Greke and latine, whych haue ben 
+before tyme, to haue folowed for 
+the mooste parte sundrye sortes of 
+wrytyng, the one vnlyke to the o­
+ther. And there hath bene marked 
+inespecially thre kyndes of endigh­
+tynge: The greate, the small, the 
+meane.
+
+
+
+
+
+The greate kynde. 
+
+The greate, the noble, the migh­
+tye, and the full kynde of endygh­
+tynge, wyth an incredible, & a cer­
+ten diuine power of oracion, is v­
+sed in wayghty causes: for it hathe 
+wyth an ample maiestye verye gar­
+nyshed wordes, proper, translated, 
+& graue sentences, whych ar hand­
+led in amplificacion, and commise­
+racion, and it hathe exornacions 
+bothe of woordes and sentences, 
+wherunto in oracions they ascribe 
+verye great strength and grauitie. 
+And they that vse thys kynde, bee 
+vehement, various, copious, graue, 
+appoynted and readye thorowlye 
+to moue and turne mens myndes. 
+Thys kynd dyd Cicero vse in the o­
+racion for Aulus Cluencius, for 
+Sylla, for Titus Annius Milo, 
+for Caius Rabirius: agaynste Ca­
+tiline, agaynste Verres, agaynste 
+Piso. But they that can not skyll 
+of it oftentimes fall into fautes, 
+when vnto them that seemeth a 
+graue oracion, whych swelleth, and 
+is puffed vp, whych vseth straunge 
+wordes hardelye translated, or to 
+
+
+
+
+olde, and that be nowe longe sy­
+thens lefte of from vse of daylye 
+talke, or more graue then the thing 
+requyreth.
+
+
+
+The small kynde. 
+
+The small kynde of indighting, 
+is in a subtile, pressed, and fyled ora­
+cion, meete for causes that be a ly­
+tel sharper then are in the comon 
+vse of speakynge. For it is a kynde 
+of oracion that is lette downe euen 
+to the mooste vsed custume of pure 
+and clere speakyng. It hathe fyne 
+sentences, subtile, sharpe, teachyng 
+all thynges, and makynge them 
+more playne, not more ample. 
+
+And in the same kynde (as Cicero 
+sayeth in hys oratoure) some bee 
+craftye, but vnpolyshed, and of pur­
+pose lyke the rude and vnskylfull: 
+Other in that leanes are trymme, 
+that is somwhat floryshynge also 
+and garnyshed. Cicero vsed thys 
+kynde in hys philosophicall dispu­
+tacions, in the oracion for Quincius 
+for Roscius the Comedy plaier, & Te­
+rence, & Plautus in their Comedies. 
+Such as can not handsomly vse them 
+
+
+
+
+selues in that mery conceyted slen­
+dernes of wordes, fall into a drye 
+and feble kynde of oracion.
+
+
+
+The meane kynde. 
+ 
+The mean and temperate kynd 
+of indyghting standeth of the low­
+er, and yet not of the loweste, and 
+moste comen wordes and sentences. 
+And it is ryghtly called the tempe­
+rate kynde of speakyng, because it 
+is very nygh vnto the small, and to 
+the greate kynde, folowyng a mo­
+deracion and temper betwyxt them. 
+And it foloweth as we saye in one 
+tenour, distinguyshyng all the ora­
+cion wyth small ornamentes both 
+of wordes, and sentences. Cicero v­
+seth thys for the lawe of Manili­
+us, for Aulus Cecinna, for Marcus 
+Marcellus, and moste of all in hys 
+bookes of offices. In this it is fau­
+tye to come to the kynd that is nye 
+vnto it, whyche is called dissolute, 
+because it waueth hyther and thy­
+ther, as it were wythout senowes 
+and ioyntes, standyng surely in no 
+poynte. And suche an oracion can 
+not cause the hearer to take anye 
+heede, when it goeth so in and out, 
+
+
+
+
+and comprehendeth not any thyng 
+wyth perfecte wordes
+
+
+
+Of Schemes and Tropes. 
+
+
+
+Scheme
+
+Scheme is a Greke worde, and 
+signifyeth properlye the maner of 
+gesture that daunsers vse to make, 
+when they haue won the best game, 
+but by translacion is taken for the 
+fourme, fashion, and shape of anye 
+thynge expressed in wrytynge or 
+payntinge: and is taken here now 
+of vs for the fashion of a word, say­
+ynge, or sentence, otherwyse wryt­
+ten or spoken then after the vulgar 
+and comen vsage, and that thre sun­
+dry waies: by figure, faute, vertue.
+
+
+Figure. 
+
+Fygure, of Scheme the fyrst part, 
+is a behaueoure, maner, or fashion 
+eyther of sentence, oracion, or wor­
+des after some new wyse, other then 
+men do commenlye vse to wryte or 
+speake: and is of two sortes. Dia­
+noias, that is of sentence, and Lex­
+eos of worde. 
+
+Figure of Dianoias, or sen­
+tence, because it properlye belon­
+geth to oratoures, we wyll speake 
+of it hereafter in place conuenient,
+ 
+
+
+
+
+now wyll we entrete of the figure 
+Lexeos, or of worde, as it pertey­
+neth to the Gramarians.
+
+
+Figure of worde. 
+
+Figure Lexeos, or of worde, is 
+when in speakyng or wrytyng any 
+thynge touchynge the wordes is 
+made newe or straunge, otherwyse 
+then after the comen custume: & is of 
+ii. kyndes, diccion, & construccion.
+
+
+Figure of Diccion. 
+
+Figure of diccion is the transfor­
+macion of one word, either written 
+or pronounced: & hath these partes.
+
+
+
+Prosthesis.
+
+Appositio , apposicion, the putting 
+to, eyther of letter or sillable at the 
+begynnyng of a worde, as: He all 
+to bewretched hym.
+
+
+
+Apheresis
+
+Ablatio , the takynge awaye of a 
+letter or sillable from the begyn­
+nynge of a worde, of a letter, when 
+we say: The penthesis of thys house 
+is to low, for the epenthesis. Wher 
+note this the word penthesis is a greke 
+worde, & yet is vsed as an englishe, 
+as many mo be, and is called a pen­
+tis by these figures, Sincope and 
+Apheresis, the whole word beynge 
+as is before, epenthesis, so called be­ 
+
+
+
+
+cause it is betwyxt the lyght & vs, as 
+in al occupiers shops commenli it is.
+
+"Epenthesis" antedates the earliest OED citation (1656); "penthesis" not found in OED. 
+
+
+
+
+
+Epenthesis.
+
+Interpositio , when a letter is ad­
+ded betwene the fyrste sillable of a 
+word and the laste, as: Relligion for 
+religion, relliques for reliques.
+
+"Epenthesis" antedates the earliest OED citation (1656); "penthesis" not found in OED. 
+
+
+
+
+
+Syncope.
+
+Consicio , contrary to Epenthe­
+sis, is when somewhat is cutte of 
+from the myddeste of the worde, 
+as: Idolatry for Idololatry.
+
+
+
+Proparalep­
+sis.
+
+Preassumpcio , when a sillable is ad­
+ded to a word, the significacion of 
+the worde therby nothyng altered, 
+as: He vseth to slacken his mat­
+ters, for to slacke his matters.
+
+"Proparalepsis" antedates the earliest OED citation (1577).
+
+
+
+
+
+Apocope.
+
+Absissio , the cuttyng away of a let­
+ter or sillable from the end of a word, 
+as: She is a wel fayr may, for maid
+
+"Apocope" antedates the earliest OED citation (1591).
+
+
+
+
+
+Ectasis.
+
+Extensio , the making long of a sil­
+lable whych by nature is short, as: 
+This was ordeined by acte, for or­
+dined.
+
+"Ectasis" antedates the earliest OED citation (1706).
+
+
+
+
+
+Systole.
+
+Contractio , the makynge short of 
+a sillable which bi nature is long, as 
+He is a man of good perseueraunce: 
+wher some men commit .ii. fautes at 
+once, one that they take perseueraunce 
+for knoweledge, whiche signifieth 
+
+
+
+
+alwais continuance, an other that they 
+make this sillable (ue) short, where 
+it is euer longe: and so do they erre 
+in thys worde, adherentes, also, ma­
+kyng (he) short, when it is alwayes 
+longe, as when they saye: I defye 
+hym, and all his adherentes.
+
+
+
+Synolephe.
+
+Delecio , puttynge oute, when .ii. 
+vowels comyng together, the first 
+is as it were put out: as thone and 
+thother, for the one and the other.
+
+
+
+Antisthecon.
+
+Littera pro littera . One letter for 
+an other, as akecorne for okecorne.
+
+"Antisthecon" not found in OED.
+
+
+
+
+Transposicio . Transposing of let­
+ters in wrytynge, as chambre, for 
+chamber.
+
+
+Figure of construccion . 
+Figure of construccion is when 
+the order of construccion is other­
+wyse then after the comen maner. 
+And the kyndes be these.
+
+
+
+Prolepsis.
+
+Presumpcio , a takynge before, or 
+generall speakynge of those thyn­
+ges whych afterwardes be decla­
+red more perticulerlye: as, in the 
+meane season that kyng Henry rode 
+royally to Calais on a sumpteous 
+
+
+
+
+courser, Lewes in a gorgeous cha­
+riot was carted to Boloygne.
+
+
+
+Zeugma.
+
+Iunctio , ioynyng, as Linacer say­
+eth, is when in lyke sentences a cer­
+ten comen thyng that is put in the 
+one, and not chaunged in the other 
+is not expressed, but lefte out: as in 
+Vyrgyll. Before I forget Cesar, ey­
+ther the Parthian shall drynke of 
+the flud Araris, or Germany of Ti­
+gris: here is left out, shall drynke. 
+Or to define it more playnelye.
+"Zeugma" antedates the earliest OED citation (1589).
+
+
+
+Iniunctio, is when the verbe in di­
+uerse lyke sentences is referred to 
+one: and that thre maner of waies.
+
+
+
+Presozeug­
+ma.
+
+ Fyrste when it is set before, and 
+is called Preiunctio, as There dyd 
+ouercome in hym, lechery, his cha­
+stitie, saucines his feare, madnesse 
+hys reason.
+
+
+
+Mesozeug­
+ma.
+
+ Secondlye when it is set in the 
+middes, & is called Media iunctio, 
+as bewtye, eyther by age decaieth, 
+or by syckenes. 
+
+
+
+
+
+Hypozeug­
+ma.
+
+ Thyrdly when it is put in the end 
+and is called Postiunctio, as dewtie 
+by syckenes, by sorowe, or by age 
+decayeth.
+
+"Hypozeugma" antedates earliest OED citation (1589).
+
+
+
+
+
+
+
+
+
+Diazeug­
+ma.
+
+Disiunctio, disiunccion, when of 
+those thynges of whych we speake, 
+eyther both, or eche one of them is 
+concluded with their certen verbe, 
+thus: The people of Rome destroy­
+ed Numance, ouerthrew Cartage, 
+cast downe Corinth, and raced Fre­
+gels. Couetousnes hurteth the bo­
+dye, and corrupteth the mynd.
+
+
+
+Silepsis.
+
+Concepcio , when in vnlike clau­
+ses a certeyn common thynge that is 
+put in one of them, can not agre with 
+the other, excepte it be chaunged. 
+But thys is more playne in the la­
+tine because of the concordes, albe­
+it in englyshe for the verbe we may 
+vse this example. The Nobles and 
+the Kynge was taken. Hys head 
+and hys handes were cutte of: In 
+the whyche sentences the verbe a­
+greeth wyth the nexte.
+
+"Silepsis" antedates earliest OED citation (1577).
+
+
+
+
+
+Epergesis.
+
+Appositio , when two substantiues 
+are put together immediatly with 
+oute any verbe betwyxt, the one to 
+declare the other, as in Vyrgyll. 
+Coridon loued faire Alexis his ma­
+sters darlynge.
+
+"Epergesis" antedates earliest OED citation (1621). The characters "r" and "x" are often confused in black-letter type.
+
+
+
+
+
+Ayperbation
+
+Transgressio , when the ryghte 
+
+
+
+
+order of wordes is troubled, & hath 
+these kyndes.
+
+"Ayperbation" antedates earliest OED citation (1579).
+
+
+
+
+
+Anastrophe.
+
+Reuersio , a preposterous order 
+of the woordes contrarye to the 
+good order of speakyng, as: He fell 
+from of the wall, for he fel of from 
+the walle.
+
+"Anastrophe" antedates earliest OED citation (1577).
+
+
+
+
+
+Hysterolo­
+gia
+
+Prepostera loquutio , when that that 
+is done afterwardes, is set in spea­
+king in the former place, as: plucke 
+of my bootes and spurres.
+
+"Hysterologia" not found in OED.
+
+
+
+
+
+Tinesis
+
+Dissectio , a cutting, when the ioy­
+nyng of a compound worde is losed 
+by putting somewhat betwixt, as: 
+Hys saying was true, as here shal 
+appere after, for hereafter. He shal 
+be punyshed what man so euer offen­
+deth, for whatsoeuer man.
+"Timesis" antedates the earliest OED citation (1592).
+
+
+
+
+Parenthesis
+
+Interpositio , Interposicion, is a 
+dissolucion of the order of the words 
+by putting a sentence betwixt, as: 
+The man (I speke it for no harme) 
+wyl somtime haue his owne wyll.
+
+
+
+Eclipsis.
+
+Defectus , when somewhat lac­
+keth in speakyng, but commenly v­
+sed to be vnderstand, as: Good mo­
+rowe. Good nyght.
+
+
+
+Antiptosis.
+
+Casus pro casu , when one case is 
+
+
+
+
+putte for another, as me thynke it 
+is so.
+
+"Antiptosis" antedates the earliest OED citation (1656).
+
+
+
+
+
+Faute. 
+
+Of Scheme, the second parte is 
+in speach as it were a faute, which 
+though it be pardoned in Poetes, 
+yet in prose it is not to be suffered. 
+The kyndes bee these: obscure, in­
+ordinate, barbarous. 
+
+
+Obscure and hys partes. 
+
+Obscure is, when ther is a dark­
+nes thorow faut, eyther of the wor­
+des, or of the settynge of them, and 
+these ben the partes.
+
+
+
+Acprologia.
+
+Improprietas , when a worde no­
+thynge at all in hys proper signifi­
+cacion is broughte into a sentence 
+as a cloude: as you shall haue syxe 
+strypes you longe for.
+
+
+
+Pleonasmus
+
+Super abundancia , when the sentence 
+is laden with superfluous wordes, 
+as, he spake it wyth his mouthe, he 
+sawe it wyth hys eyes.
+
+
+
+Perissologia
+
+Sermo superfluus , when a sentence 
+is added, the matter therby made ne­
+uer the waightyer: as the Embassa­
+dours obteining no peace, returned 
+backe home, from whence they came.
+
+
+
+
+
+
+Tautologia.
+
+Inutilis repeticio eiusdem , is a 
+vayne repeting agayn of one word 
+or moe in all one sentence, whyche 
+faute by takyng lytle heede, Cicero 
+also fell into, as in the oracion for 
+Aulus Cluencius. Therefore that 
+iudgement was not lyke a iudgement 
+O Iudges.
+
+
+
+Homiologia.
+
+Sermo vbique sui similis , a grea­
+ter faute then the other, is when 
+the whole matter is all alyke, and 
+hath no varietie to auoyde tedious­
+nes, as: He came thither to the bath, 
+yet he saide afterwardes. Here one 
+seruant bet me. Afterwardes he 
+sayde vnto hym: I wyll consider. 
+Afterwardes he chyd wyth hym, & 
+cryed more and more when manye 
+were presente. Such a folyshe tel­
+lyng of a tale shall you heare in ma­
+ny simple & halfe folyshe persons.
+
+
+
+Amphibolo­
+gia.
+
+Ambiguitas , when thorow faute 
+of ioynyng the wordes, it is doute­
+full to whych the verbe belongeth, 
+as: Hys father loueth hym better 
+then hys mother.
+
+
+
+Periergia.
+
+Sedulitas superflua , when ther is 
+in speakyng tomuch diligence and 
+
+
+
+
+curiositye, and the sentence ouerla­
+den with superfluous wordes, whi­
+che faute is the same, or verye lyke 
+
+Macrologia
+
+to that, that is called Macrologia, 
+whych is when the sentence vpon 
+desyre to seme fyne and eloquent, is 
+longer then it shulde be.
+
+
+
+Inordinate and his partes.
+
+Inordinate  is, when eyther or­
+der or dignitie lacketh in the wor­
+des: and the kyndes ben these.
+
+
+
+Tapinosis.
+
+Humiliatio , when the dygnitye 
+of the thyng is diminyshed by base­
+nes of the worde: as if we shuld say 
+to a greate prynce or a kynge: If it 
+please your mastershyp.
+"Tapinosis" antedates the earliest OED citation (1589).
+
+
+
+
+Aschrologia.
+
+Turpis loquutio , when the words 
+be spoken, or ioyned together, that 
+they may be wronge into a fylthye 
+sence. Of thys it nedeth not to put 
+any example, when lewde wanton 
+persons wyl soone fynde inowe.
+
+
+
+Cacozelia.
+
+Mala affectatio , euyll affectacion 
+or leude folowyng; when the wytte 
+lacketh iudgement, and fondlye fo­
+lowyng a good maner of speaking, 
+runne into a faute, as when affec­
+tyng copy, we fall into a vaine bab­
+ 
+
+
+
+
+lynge, or laboryng to be brief, wax 
+bare & drye. Also if we shuld saye: a 
+phrase of building, or an audience of 
+shepe, as a certen homely felow dyd.
+
+
+
+Aschematiston
+
+Male figuratum , when the oraci­
+on is all playne and symple, & lac­
+keth his figures, wherby as it wer 
+wyth starres it might shyne: which 
+faute is counted of wryters, not a­
+monge the leaste.
+
+
+
+Cacosinthe­
+ton.
+
+Male collocatum , when wordes 
+be naughtelye ioyned together, or 
+set in a place wher thei shuld not be
+
+
+
+
+Soraismus.
+
+Cumulatio , a mynglyng and hea­
+pyng together of wordes of diuerse 
+languages into one speche: as of 
+Frenche, welche, spanyshe, into en­
+glyshe: and an vsynge of wordes be 
+they pure or barbarous. And al­
+though great authors somtyme in 
+long workes vse some of these fau­
+tes, yet must not their examples be 
+folowed, nor brought into a common 
+vsage of speakyng.
+
+
+
+Barbarie and hys partes.
+
+
+Barbarie  is a faute, whych tur­
+neth the speche from his purenes, and 
+maketh it foule and rude, and the 
+partes be these.
+
+
+
+
+
+
+Barbaris­
+mus.
+
+Barbarismus  is, when a worde 
+is either naughtely wrytten or pro­
+nounced contrary to the ryght law & 
+maner of speakinge. And it is done 
+by addicion, detraccion, chaunging, 
+transposynge, eyther of a letter, a 
+syllable, tyme, accent, or aspiracion. 
+Hereof we haue shewed exampels 
+partly wher they be called figures, 
+and partly, doute ye not, but both 
+the speakynge and wrytyng of bar­
+barouse men, wyll gyue you inow. 
+Hytherto be referred the fautes of 
+euil pronouncing certein letters, & 
+of tomuch gapyng, or contrarye of 
+speakyng in the mouth.
+
+
+
+Solecismus.
+
+Inconueniens structura , is an vn­
+mete and vnconuenient ioynynge 
+together the partes of spech in con­
+struccion, whych is marked by all 
+thynges that belong to the partes 
+of speche: as when one parte is put 
+for another, when gender for gen­
+der, case for case, tyme for tyme, 
+mode for mode, number for num­
+ber, aduerbe for aduerbe, preposi­
+cion for preposicion: whych because 
+it is vsed of famous authores, in 
+stede of fautes, be called figures.
+
+
+
+
+
+
+Vertue. 
+Vertue, or as we saye, a grace & 
+dygnitye in speakynge, the thyrde 
+kynde of Scheme, is when the sen­
+tence is bewtyfied and lyfte vp a­
+boue the comen maner of speaking 
+of the people. Of it be two kyndes: 
+Proprietie, and garnyshyng.
+
+Proprietie and his partes. 
+Proprietie, is when in wryting 
+and pronunciacion ther be no fau­
+tes committed, but thynges done 
+as they shulde be. The partes bee 
+proposicion, and accenting.
+
+
+
+Analogia.
+
+Proportio , proporcion is, where­
+by the maner of true wrytynge is 
+conserued. By thys the barbarous 
+tonge is seperated from the verye 
+true and naturall speche, as be the 
+fyne metals from the grosser. To 
+speke is no lawe, but an obserua­
+cion or markyng, not leanyng vpon 
+cause, but vpon example. For in e­
+loquence, the iudgement of excellent 
+men standeth for reason, as saythe 
+Quintilian in hys fyrst boke.
+
+
+
+Tasis.
+
+Extensio , is that wherby a swete 
+and pleasaunt modulacion or tuna­ 
+
+
+
+
+blenes of wordes is kepte, because 
+some are spoken wyth a sharpe te­
+nure or accent, some wyth a flatte, 
+some strayned out. This grace spe­
+cially perteineth to a turnyng of the 
+voyce in pleasaunte pronunciacion.
+
+
+Garnyshyng and his kyndes. 
+
+Garnishyng as the word it selfe 
+declareth, is when the oracion is gay­
+lye set oute and floryshed with diuerse 
+goodly figures, causyng much plea­
+sauntnes and delectacion to the hea­
+rer: and hath two kyndes, compo­
+sicion, and exornacion.
+
+
+
+Sinthesis.
+
+Composicion  is an apte settinge 
+together of wordes, whych causeth 
+all the partes of an oracion to bee 
+trymmed al alyke. And in it muste 
+be considered that we so order our 
+wordes, that the sentence decrease 
+not by puttynge a weaker word af­
+ter a stronger, but that it styl go vp­
+warde and increase. There is also 
+a naturall order, as to saye: men & 
+women, daye and nyght, easte, and 
+weste, rather then backewardes. 
+
+In thys muste be auoyded also to 
+often comyng together of vowels, 
+which make the oracion wyde and 
+
+
+
+
+gapyng. To muche repetyng of all 
+one letter in the beginning of wor­
+des, to much repeting of one word, 
+and that they ende not to much all 
+alyke, that the sentence be not held 
+on to longe, which werieth the hea­
+rer, and the speaker: nor that ma­
+nye consonantes run not to harshely 
+together, wyth many other, which 
+Cicero speaketh of in hys thyrde 
+booke of hys oratour, and Quinti­
+lian in hys nynth, wherof here to 
+put examples were to longe.
+
+"Synthesis" antedates the earliest OED citation (1611).
+
+
+
+
+Exornacion  is a fyne polyshinge 
+of wordes and sentences by disseue­
+ryng them with diuerse goodly colours 
+and tropes or chaungings of speach.
+
+
+
+Tropes.
+
+
+Emonge authors manye tymes 
+vnder the name of figures, Tropes 
+also be comprehended:  Neuerthe­
+lesse ther is a notable difference be­
+twixt them. In figure is no alteraci­
+on in the wordes from their proper 
+significacions, but only is the ora­
+cion & sentence made by them more ple­
+asaunt, sharpe & vehement, after the affec­
+cion of him that speketh or writeth: 
+to the which vse although tropes al­
+so do serue, yet properlye be they so 
+
+
+
+
+called, because in them for necessi­
+tye or garnyshynge, there is a mo­
+uynge and chaungynge of a worde 
+and sentence, from theyr owne sig­
+nificacion into another, whych may 
+agre wyth it by a similitude. The 
+former parties ben these.
+
+
+
+Metaphora.
+
+Translatio , translacion, that is a 
+worde translated from the thynge 
+that it properlye signifieth, vnto a­
+nother whych may agre with it by 
+a similitude. And amonge all ver­
+tues of speche, this is the chyefe. 
+None perswadeth more effecteous­
+lye, none sheweth the thyng before 
+oure eyes more euidently, none mo­
+ueth more mightily the affeccions, 
+none maketh the oracion more good­
+lye, pleasaunt, nor copious. 
+
+Translacions be diuerse. 
+
+
+i.
+
+
+Some from the body to the mynd, 
+as: I haue but lately tasted the He­
+brue tonge, for newely begunne it. 
+Also I smell where aboute you go, 
+for I perceyue. 
+
+
+ii.
+
+From the reasonable to the vnre­
+sonable, as Vyrgill in hys Geor­
+gere applyed the counselles and 
+fashion of warres belongynge to 
+
+
+
+
+men, to bees. 
+
+
+iii.
+
+From the vnreasonable to the re­
+sonable. What whinest thou? what 
+chatterest thou? That one taken of 
+a wolfe, that other of a pye. 
+
+
+iiii.
+
+From the liuinge to the not li­
+uyng. The mouthe of the well, the 
+fatnes of the earth. The lande wyl 
+spewe them oute. 
+
+
+v.
+
+From the not lyuynge to the li­
+uyng. Cicero florisheth in eloquence. 
+
+
+vi.
+
+From the liuyng, to the liuynge. 
+The iews winched against Moses. 
+
+
+vii.
+
+From the not liuinge to the not 
+liuynge. The wordes flowe oute of 
+hys mouth. He is good for a grene 
+wounde.
+
+
+
+Catachresis.
+
+Abusio , when for a certeyne and 
+proper worde, we abuse a lyke, or 
+that is nie vnto it, as when we say: 
+longe counsel, lytle talke, smal mat­
+ter. Here maye we soone perceyue 
+that by abusion wee take wordes 
+that be somwhat nye, whych pro­
+perly do belong to vnlyke thinges.
+"Catachresis" antedates the earliest OED citation (1589).
+
+
+
+
+Metalepsis.
+
+Transsumptio , Transsumpcion, is 
+when by degrees we go to that that is 
+shewed as: he hyd hym selfe in the 
+blacke dennes. By blacke, is vnder­
+ 
+
+
+
+
+stand ful of darkenes & consequent­
+ly stepe downe, and verye depe.
+
+
+
+Metonomia
+
+Metonomya , Transnominacion, 
+when a worde that hathe a proper 
+significacion of hys owne, beynge 
+referred to another thing, hath ano­
+ther: & this is done diuerse waies. 
+
+
+i.
+
+When the chiefe master or doar 
+of a thyng is put for the thing it self, 
+as: Put vpon you the Lorde Iesus 
+Christ. Also: You play Iudas with me 
+
+
+ii.
+
+When the place, or that that con­
+teineth, is put for the thyng that is 
+in it, as: All the round earthe pray­
+seth God. Oxforth (some say) hath 
+not forsaken all popery, for the stu­
+dentes therin. 
+
+
+iii.
+
+When that that is conteyned is 
+put for that that doth conteine, as: 
+The fryer Austens is goodly buyl­
+ded, for the house wher the fryers wer. 
+
+
+iiii.
+
+When the doer is put for that that 
+is done, as: God brought the Isra­
+elites out of Egypte wyth a stret­
+ched out arme, and stronge hande. 
+Also: Is gods hand drawen in? for 
+power and strength. 
+
+
+v.
+
+When that is done is put for the doer.
+"Transnomination" antedates the earliest OED citation (1561).
+
+
+
+
+Synecdoche
+
+Intellectio , Intelleccion when one 
+
+
+
+
+thyng is vnderstand by another that 
+is of the same maner and kynd, and 
+this is done many wayes. 
+
+
+i.
+
+When bi the whole is vnderstand 
+a parte, as: Abraham set a calfe be­
+fore them, for calues fleshe. 
+
+
+ii.
+
+By a parte the whole, as: He re­
+ceyued the straungers vnder the suc­
+cour of hys house rofe, for into hys 
+house. 
+
+
+iii.
+
+By one many, as: The Frenche­
+man in the batail had the ouerthrow. 
+
+
+iiii.
+
+By a kynd the general, as: If thou 
+se thyne enemies Asse fal vnder his 
+burden, for cattell. 
+
+
+v.
+
+By the general the kynd: Eue the 
+mother of al liuing things, for of al 
+men: Preach to al creaturs, to al men. 
+
+
+vi.
+
+By that goeth before, the thynge 
+that foloweth, as: Defer hys spur­
+res to hys horse, for he rode a pace, 
+or fled faste awaye. 
+
+
+vii
+
+By that that foloweth, the thinge 
+wente before, as: I got it wyth the 
+swete of my face, for with my labour. 
+
+
+viii.
+
+By the matter, the thynge that is 
+made of it, as: Fleshe and bloude 
+shewed the not it. 
+
+
+ix.
+
+By the signe, the thyng that is signified 
+
+
+
+
+as: Lo, now the toppe of the chym­
+neyes in the villages smoke a farre 
+of: wherby Vyrgyl signifieth night 
+to be at hande.
+
+
+
+Pronominia­
+cio.
+
+Antonomasia , is, whych for the pro­
+per name putteth some other word
+As the Archebyshop confuted the 
+errour, for Cranmer. The Philoso­
+pher lyed that the worlde was eter­
+nall, for Aristotle. The Apostle say­
+eth wee be iustified by faythe, for 
+Paule.
+"Antonomasia" antedates the earliest OED citation (1553).
+
+
+
+
+Periphrasis.
+
+Circuicio , is a larger descripcion 
+eyther to garnyshe it, or if it bee 
+foule to hyde it, or if it be bryefe to 
+make it more playn: by etimology, 
+by sygnes, by definicion 
+Example of the fyrste. The proui­
+dence of Scipio, ouerthrew the might 
+of Carthago. Here saue onlye for 
+garnyshyng sake he myghte haue 
+sayde playnlye: Scipio ouerthrew 
+Carthage: Of the nexte. When 
+Saule was doyng his busines, Da­
+uid might haue killed hym. Doyng 
+hys busines, ye wot what it mea­
+neth. Of the thyrd, you haue the lar­
+ger exposicions vpon the Gospels 
+called by the name of thys figure. 
+
+
+
+
+By Etymologie or shewyng the 
+reason of the name. Well maye he be 
+called a parasite, for a parasite is 
+the loueth other because of his meat. 
+
+By sygnes, as: when by certeine 
+notes we describe anye thynge, as 
+if a man understandyng anger wyll 
+saye that it is the boylynge of the 
+mynde, or color, whych bryngeth in 
+palenes into the countenaunce, fierse­
+nes in the eies, and tremblyng in the 
+members. 
+
+By definicion. The arte of well 
+indyghting, for Rhetorique.
+
+
+
+The second parte of Trope. 
+
+
+Allegoria , the seconde parte of 
+Trope is an inuersion of wordes, 
+where it is one in wordes, and ano­
+ther in sentence or meanynge.
+
+
+
+Aenigma.
+
+Sermo obscurus , a riddle or darke 
+allegorie, as: The halfe is more then 
+the hole.
+
+
+
+Parenna.
+
+Adagium , a sayinge muche vsed 
+and notable for some noueltye, as: 
+The wolfe is in our tale.
+
+
+
+Ironia.
+
+Dissimulatio , is a mockyng whi­
+che is not perceiued by the wordes 
+but eyther by the pronunciacion, or 
+
+
+
+
+by the behaueour of the person, or 
+by the nature of the thyng, as: You 
+are an honest man in deede.
+
+
+
+Sarcasmis.
+
+Amara irrisio , is a bitter sporting 
+a mocke of our enemye, or a maner 
+of iestyng or scoffinge bytynglye, a 
+nyppyng tawnte, as: The Iewes 
+sayde to Christ, he saued other, but 
+he could not saue hymselfe.
+
+
+
+Astysmus.
+
+Festina urbanitas , is a certen mery 
+conceyted speakyng, as on a tyme 
+a mery felow metynge with one that 
+had a very whyte head, axed him if 
+he had lyen in the snowe al nyght.
+
+
+
+Mycteris­
+mus.
+
+Subsannatio , a skornyng by some 
+iesture of the face, as by wrythinge 
+the nose, putting out the tonge, pe­
+tyng, or suche lyke.
+
+
+
+Antiphrasis.
+
+Dictio contrarium significans , when 
+the mock is in a worde by a contra­
+rye sence, as when we call a fusti­
+lugges, a minion.
+"Fustilugges" antedates the earliest OED citation (1607).
+
+
+
+
+Charientis­
+mus.
+
+Graciosa nugatio , when wordes 
+toughly spoken be molified by plea­
+saunt wordes: as when we saye to 
+hym that threatneth vs: I praye 
+you be good master to me.
+
+
+
+
+
+
+
+The fyrst order of the fi­
+gures Rethoricall. 
+
+
+
+Epanaphora
+
+Repeticio , repeticion, when in 
+lyke and diuerse thynges, we take 
+our begynnyng continually at one & 
+the selfe same word, thus: To you 
+this thyng is to be ascribed, to you 
+thanke is to be geuen, to you thys 
+thynge shal be honour. In this ex­
+ornacion is much pleasantnes, gra­
+uitie, and sharpnes, & it is much v­
+sed of al oratours & notably setteth 
+oute, and garnysheth the oracion.
+"Epanaphora" antedates the earliest OED citation (1678).
+
+
+
+
+Antistrophe.
+
+Conuersio , conuersion is whych 
+taketh not hys begynnynges at al 
+one and the same worde, but with all 
+one worde styll closeth vp the sen­
+tence, & it is contrary to that other 
+before, as: Sence the time that concord 
+was taken awaye from the citie, ly­
+berty was taken awai: fidelity was 
+taken away: frenship was taken away
+"Antistrophe" antedates the earliest OED citation (1605).
+
+
+
+
+Symploce.
+
+Complexio , complexion compriseth 
+both two exornacions, both this, & 
+that whych we declared before, that 
+both all one fyrste worde shulde be 
+often repeted, & we shuld turne often 
+to all one laste word, as: Who toke 
+Sidechias prisoner, & put out both 
+
+
+
+
+hys eyes? Nabuchodonozer. Who 
+put Daniell and hys felowes into 
+the burnyng furnace? Nabuchodo­
+nozer. Who was transformed from a 
+man into a beast, & eate haye wyth 
+oxen? Nabuchodonozer.
+"Symploce" antedates the earliest OED citation (1577).
+
+
+
+
+Anadiplosis.
+
+Reduplicatio , is a continent re­
+hearsyng agayne of all one worde, 
+or wordes, for the more vehemence, 
+and some effect of the mynde. Cice­
+ro agaynst Catiline. Yet he liueth, 
+liueth? yea commeth also into the 
+counsel house. It is thou, it is thou 
+that troublest all the houshold. 
+Also, dareste thou nowe come into 
+our syght, thou traitour of thy contrey? 
+Thou traitour I say of thy contrei, 
+darest thou come into oure syghte?
+"Anadiplosis" antedates the earliest OED citation (1589).
+
+
+
+
+Epanodus.
+
+Traduccio , Traduccion is, why­
+che maketh that when all one word 
+is oftentymes vsed, that yet it doth 
+not onlye not displease the mynde, 
+but also make the oracion more trim 
+in this wyse: Suffer ryches to be­
+longe to riche men but prefer thou 
+vertue before ryches: For if thou wylt 
+compare ryches wyth vertue, thou 
+shalte scarse thynke them meete to 
+be called ryches, whych at but hand 
+
+
+
+
+maydens to vertue. Also, we are vn­
+to God the swete sauour of Christ. 
+To the one part are we the sauour 
+of death vnto deathe, and vnto the 
+other part are we the sauour of lyfe 
+vnto lyfe. ii. Cor. ii.
+
+
+
+Sinonimia
+
+Nominis communio , communion of 
+the word, when we renewe not the 
+selfe same worde by rehearsyng a­
+gayn, but chaunge that that is put 
+wyth an other word of the same va­
+lewe, thus: Thou hast ouerthrow­
+en the comon wealth euen from the 
+foundacion, and cast downe the ci­
+tye, euen from the roote. The iuste 
+man shall floryshe as the palme tre, 
+and shall be multiplyed as the Ce­
+der tre. Cicero for Q. Ligarius. 
+Whose syde wolde that poynte of 
+thy swerd haue pricked? what mea­
+ned thy weapons? what was thy 
+mynde? what meante thyne eyes? 
+handes, that burning of thy mynd? 
+what desiredst thou? what wyshedste 
+thou? Lytle differeth thys figure 
+from the other before, only because 
+the wordes be chaunges, the sentence 
+remayning.
+
+
+
+
+
+
+Sinathris­
+mus.
+
+Frequentacio , frequentacion is, 
+when the thynges that be dispersed 
+thorowout all the cause, are gathe­
+red together into one place, that the 
+oracion shulde be the wayghtier, & 
+rebukefuller, thus: What faute is 
+he without? why shuld you O Iud­
+ges be mynded to deliuer hym? He 
+is an harlot of hys owne bodye, he 
+lyeth in wayte for others, gredy, in­
+temperate, wanton, proud, vnnatu­
+ral to his parentes, vnkynd to hys 
+frindes, troubleous to hys kynse­
+folke, stubburn to hys betters, dys­
+daynful to his equals, cruel to hys 
+inferiours, finally, intollerable to 
+all men.
+
+
+
+Epiphonesis
+
+Exclamacio , exclamacion is, whi­
+che sheweth the significacion of so­
+rowe, or of anger, by callyng vpon 
+eyther a man, a place, or a thynge? 
+Cicero in hys oratour: O deceitful 
+hope of men, and frayle fortune: & 
+our vayne contencions, whych often 
+tymes are broken in the myd way, 
+rushe downe, and in the fal ar quite 
+ouerthrowen before they can se the 
+hauen. Hereunto belongeth expecta­
+cion, obtestacion, wishyng, rebuking.
+"Epiphonesis" antedates the earliest OED citation (1589).
+
+
+
+
+
+
+
+Areia.
+
+Execracio , execracion: O fye vp­
+on Idolatry, that taketh away the 
+honoure due vnto God alone, and 
+geueth it to synfull creatures, and 
+Images made by mans hand.
+
+
+
+Deesis.
+
+Obtestacio , obtestacion, when for 
+God, or for mannes sake we vehe­
+mently desyre to haue any thynge 
+As Cicero for Publius Sestius: O 
+I praye you, & for the Gods sakes 
+most herteli besech you, that as it was 
+your wylles to saue me, so you wyl 
+vouchsaf to saue them thorow whose 
+helpe you receiued me agayne.
+
+
+
+Euche.
+
+Votum , wyshynge: O wolde God 
+that the adulterer had bene drow­
+ned in the ragyng sea, whan wyth 
+hys nauye of shyppes he sayled to 
+Lacedemonia.
+
+
+
+Epiplexis,
+
+Increpacio , Cicero agaynst Cati­
+line. Thynkest thou that thy coun­
+selles are not knowen? and that we 
+knowe not what thou dyddest the 
+laste nyghte? and what the nyghte 
+before?
+
+"Epiplexis" antedates the earliest OED citation (1678).
+
+
+
+
+
+Erotesis.
+
+Interrogacio , Euerye interro­
+gacion is not of grauity, neither yet 
+a Scheme, but thys whyche when 
+
+
+
+
+those thinges be rehearsed vp whi­
+che hurte oure aduersaryes cause, 
+strengthneth that thynge that is 
+gone before, thus seynge then that 
+he spake all these wordes, and dyd 
+all these thynges, whether dyd he 
+put away our felowes myndes from 
+the common wealthe or not?
+
+"Erotesis56" antedates the earliest OED citation (1656).
+
+
+
+
+
+Erotema.
+
+Raciocinatio , raciocinacion is, 
+by the whych we our selues axe a 
+reason of our selfe, wherefore eue­
+rye thynge shulde be spoken, & that 
+oftentymes we demaund of our sel­
+ues a declaracion of euery proposi­
+cion after thys maner: Thys was 
+well ordeined of oure elders to de­
+pryue no kynge of hys lyfe whome 
+they had taken in batayl. Why so? 
+for the power whyche fortune had 
+geuen vs, it to consume in the pu­
+nyshement of them whom the same 
+fortune a lytle before had set in hy­
+este degree, were agaynste reason. 
+Yea but he brought a greate army 
+agaynst you? I wyl not remember 
+it. Why so? For it is the poynte of 
+a valiaunte man, such as contend 
+for the vyctorye, them to counte ene­
+myes: suche as be ouercome, those 
+
+
+
+
+to count men: so that fortitude maye 
+diminishe war, humanitie increase 
+peace. But he if he had ouercome, 
+wolde he haue done so? Verelye he 
+wolde not haue bene so wyse. Why 
+shulde ye spare hym then? because 
+such foly I am wont to despise, not 
+to folowe.
+
+"Erotema" antedates the earliest OED citation (1589).
+
+
+
+
+
+Prosapodo­
+sis.
+
+Subiectio , when we axe of oure 
+selfe what can be saide agaynst vs, 
+and answere to our selues thus: 
+Shall we tary in synne? God for­
+byd. Or compell our aduersarye to 
+answer thus: O Iewes, what can 
+you say for denyall of Christe. Wyl 
+you saye that you haue not youre 
+Messias? but your prophets say the 
+contrarye. Your Types are confoun­
+ded. Whom wyl you be iudged by? 
+by Hystories? Oures declare that 
+you be out of the way, & shall come 
+agayne to Christ.
+
+
+
+Antiphora.
+
+Tacite obiectioni responsio. When 
+we make answere to a thynge that 
+myght priuely be obiected agaynst 
+vs, as in the fyrst epystle of Ouide, 
+Penelope wylling her husband V­
+lysses to come home hymselfe, and 
+wryte nothyng vnto her. Wher he 
+
+
+
+
+myght haue layed for hys tarying 
+the warres, she priuely toke awaye 
+the excuse, saying: Troy is destroied.
+
+
+
+Aporia.
+
+Dubitatio , dubitacion, when wee 
+doute of two thynges, or of many, 
+whych we shuld inespecially speke 
+of. Much hurted the common wealth 
+at that tyme, whether I shuld saye 
+the folyshenesse of the consulles, or 
+the malyce, or bothe, I can not tell.
+
+"Aporia" antedates the earliest OED citation (1589).
+
+
+
+
+
+Apophasis.
+
+Expeditio , expedicion, when ma­
+ny reasons rehearsed vp, wherby a 
+thynge myghte be done or not, the 
+other are taken away, and one left 
+that we entende, thus: It muste 
+needes bee that thys controuersie 
+touching the sacrament must stand 
+eyther vpon the much pressyng and 
+rigour of the wordes, or vpon the 
+meanynge and vnderstandynge of 
+them. The wordes as they stande, 
+brynge wyth them greate inconue­
+nience, to wytte, to expositoures, 
+and the other textes. The meaning 
+doth not so, but auoydeth al these in­
+conueniences, & satisfieth reason, ex­
+positours, & texts of the scripture: 
+wherfore wyt, expositour, & scrip­
+ture thinketh it better to take the 
+sentence, then the worde.
+
+"Apophasis" antedates the earliest OED citation (1656).
+
+
+
+
+
+
+
+
+Epilogus.
+
+Conclusio , conclusion is, which by 
+a brief argumentacion of these thin­
+ges that be spoken before or done, 
+inferreth that thynge that necessa­
+rilye shulde folowe, thus: And if 
+a reuelacion wer geuen to the Tro­
+ianes, that Troy myght not be taken 
+without the arowes of Philectetes, 
+and thei did nothing else but strike 
+Alexander to kyl him that in dede 
+was Troy to be taken.
+
+
+
+Epitrope.
+
+Permissio , permission, when we 
+shew that we geue & graunt any thyng 
+altogether to a mans wyll, thus: 
+Because al thynges taken away, on­
+ly is left vnto me my body & mynd, 
+these thynges, whych only at leste 
+vnto me of many, I graunte them to 
+you and to your power.
+
+"Epitrope" antedates the earliest OED citation (1656).
+
+
+
+
+
+Anacinosis.
+
+Communicacio , communicacion is, 
+when we leaue sumwhat to the Iud­
+ges to be estemed, thus: I leaue vn­
+to you o iudges to be thought what 
+hurt the common welth shal take hereof
+
+
+
+Dialisis.
+
+Diuisio , diuision is which diuiding 
+one thyng from another, endeth them 
+both by shewing a reason, thus: why 
+shuld I lay ani thing to thi charge? 
+if thou bee good, thou hast not deserued 
+
+
+
+
+it, if thou be naught, thou carest not 
+for it. Also, what shuld I speake of 
+myne owne good turnes towarde 
+the. If thou do remember them, I 
+shuld but trouble you: If you haue 
+forgotten them, when by deede I 
+haue profited nothyng, what good 
+can I do in wordes?
+
+
+
+Antitheton.
+
+Contentio , contencion, when the 
+reason standeth by contrary wordes 
+or contraries be rehearsed by compa­
+rison, thus: Flattery hath pleasaunt 
+begynnynges, but the same hathe 
+verye bytter endynges. Cicero a­
+gaynst Catiline: when they coulde 
+not lyue honestlye, they had rather 
+dye shamefully. They that be after 
+the fleshe, care for these thynges that 
+be of the fleshe. They that be after 
+the spirite, care for the thynges of 
+the spirite.
+
+
+
+Antithesis.
+
+Contrarium , contrary is, that of 
+two diuerse thynges confirmeth the 
+one bryefely and easelye, thus: For 
+he that alwayes wyll be an enemy 
+to hys owne rekenyngs, how shuld 
+a man trust that he wold be a frind 
+to other mens matters? He that in 
+familiare communicacion and com­ 
+
+
+
+
+pany of hys friendes wyl neuer say 
+truth, thinkest them that he wil absteine 
+from a lye in a common audience.
+
+
+
+Colon.
+
+Membrum oracionis , a member of 
+the reason is so called when a thinge 
+is shewed perfitely in fewe wordes 
+the whole sentence not shewed, but 
+receyued agayne with an other parte, 
+thus: Thou dyddest bothe profite 
+thyne enemie, and hurte thy frynd. 
+Thys exornacion may be made of 
+two partes only, but the perfiteste 
+is made of thre, thus: Thou diddest 
+profite thine enemy, hurt thi frind, 
+and dydst no good to thy selfe.
+
+"Colon" antedates the earliest OED citation (1589).
+
+
+
+
+
+Dialyton.
+
+Articulus , article is, when eche 
+word is set a sunder by cutting the 
+oracion thus. By sharpnes, voyce, 
+countenaunce, thou madeste thyne 
+enemyes afrayd. Thou destroyedst 
+thyne enemyes wyth enuye, wron­
+ges, power, falsehead.
+
+
+
+Isocolon.
+
+Compar , euen or equall, is when 
+the oracion hath in it the partes of 
+the whyche we spake before, & that 
+they be made of euen number of sil­
+lables: but thys equalitie must not 
+stand by numbryng of them, but by 
+perceyuyng of it in the mynd. Christe 
+
+
+
+
+afore the Iudge was led, & on hys 
+head a croune of thorne was putte, 
+in token that in dede, the kynge of 
+Iews he was borne. Here be some 
+mo wordes in on member then in an 
+other, yet sound they to the eare of 
+lyke lengthe.
+
+
+
+Homioptoton
+
+Similiter cadens , fallyng al alike 
+is, when in the same construcci­
+on of wordes ther be two wordes 
+or mo which be spoken alyke in the 
+selfe same cases, thus: Thou pray­
+sest a man nedye of vertue, plente­
+ful of money. Cicero for Flaccus: 
+There is in them no varietie of opini­
+on, none of wyll, none of talke.
+
+"Homioptoton" antedates the earliest OED citation (1678)).
+
+
+
+
+
+Homoteleto.
+
+Similiter desinens , endynge al a­
+lyke, when words or sentences haue 
+alyke endyng, as: Thou dareste do 
+fylthely, and studiest to speke bau­
+dely. Content thy selfe with thy state, 
+in thy herte do no man hate, be not 
+the cause of stryfe and hate.
+
+
+
+Climax.
+
+Gradacio , is when we rehearse a 
+gain the word that goth next before, & 
+destend to other thinges by degrees 
+thus: To Affrican industry gat ver­
+tue, vertue glory, glory hatered.
+
+
+
+Orismus.
+
+Definicio , definicion, wherby the pro­
+ 
+
+
+
+
+per effect of any thynge is declared 
+briefely & absolutely in this wyse: 
+This is not diligence but couetous­
+nes, because the diligence is a nedy sa­
+uing of thine own: couetousnes is 
+a wrongful desyre of othermens.
+
+
+
+Metabasis.
+
+Transicio , transicion is, wherby brief­
+ly we monyshe what hath ben spo­
+ken, & what may folowe, as: What 
+he hath ben to hys contrey I haue 
+told, now ye shal hear how he hath 
+shewed him self to hys parentes. Al­
+so Cicero for the law of Manilius: 
+Because we haue spoken of the kind 
+of the warre, now wyll we shewe a 
+fewe thynges of the greatnes of it.
+
+
+
+Paralepsis.
+
+Occupatio , occupacion is, when we 
+make as though we do not knowe, 
+or wyl not know of the thyng that wee 
+speke of most of al, in this wyse: I 
+wyl not say that thou tokest money of 
+our felowes, I wyl not stand much 
+in thys that thou robbedst kingdoms, 
+cityes, and al mens houses: I passe 
+ouer thy theftes, & al thy rauyns.
+
+
+
+Asindeton.
+
+Dissolutio , when the oracion lacketh 
+coniunccions, thus: Obey thy paren­
+tes, be ruled by thi kinsfolke, folow 
+thy fryndes, obey the lawes.
+"Asyndeton" antedates the earliest OED citation (1589).
+
+
+
+
+
+
+
+Apostrophe.
+
+Auersio , auersion, when we turne 
+our speche from them to whom we 
+dyd speake to another personne, ey­
+ther present or absent, or to a thing 
+to the whych we fayne a person, as 
+a precher, speaking of priestes, that 
+feede not the flocke, may fytly turn 
+hys speche vnto Peter, sayinge: O 
+Peter, I wold thou liuedst, & saw­
+est what thy brethren do, howe far 
+they be gone from that thou prescri­
+bedst them to do. Againe: O world, 
+howe pleasant be the thynges that 
+thou dost promyse, how bytter ben 
+they that thou geuest.
+
+
+
+Anangeon.
+
+Necessum , necessitie, when we con­
+fesse the thynge to be done, but ex­
+cuse it by necessitye, eyther of the per­
+son or tyme, thus: I confesse that 
+thys I dyd. But the woman that 
+thou gauest me, dyd deceyue me. 
+Also, somtyme I was in that opi­
+nion, but the tyme so required.
+
+
+
+Anaclasis.
+
+Refractio , that is the turninge 
+backe agayne of a worde into a con­
+trary significacion, thus: I knowe 
+kynge Ezechias that all thys lyfe 
+is but bitternes, but I praye thee 
+gyue me suche bytternes.
+"Anaclasis" antedates the earliest OED citation (1784) but also has a quite different sense.
+
+
+
+
+
+
+
+Bomphiolo­
+gia.
+
+Verborum bombus , when small & 
+triflyng thynges are set out wyth 
+great gasyng wordes. Example of 
+this haue you in Terence of the boa­
+sting souldiar, & creping smel feast.
+
+
+
+Miosis.
+
+Diminutio , when greate matters 
+are made lyghte of by wordes, as 
+when he was wel beaten bi a knaue, 
+that knaue wyll saye he dyd but a 
+lytle stryke hym.
+
+
+
+Liptote.
+
+Extenuatio , the makyng lesse of a 
+thynge to auoyde arrogance, thus: 
+If I haue any wit O Iudges, if a­
+ny exercyse of endyghtyng, al may 
+I thanke Archias the Poete of. 
+Cicero for Archias.
+
+"Liptote" antedates the earliest OED citation (1589).
+
+
+
+
+
+Diasirmus.
+
+Eleuacio , when we make lyghte 
+of, and dyspyse great argumentes 
+brought agaynst vs, whych to aun­
+swer vnto it is labour, and we saye 
+they perteyne not to the purpose, 
+or that they are vnworthy to be an­
+swered vnto, or that we kepe them 
+tyll another tyme: Of thys ther ne­
+deth none example
+
+
+
+
+
+
+
+AS oute of lytle springs 
+ariseth greate fluddes: 
+so now these preceptes 
+of grammer finyshed, 
+and the fyrste order of 
+the Rethorical figures: We nowe 
+come vnto that greate declaracion 
+of eloquence, called of Quintilian & 
+Cicero, the ornamentes of sentence.
+
+Figures of sentence.
+
+
+
+Particio.
+
+Particion  called also diuision & 
+distribucion rethoricall, is when a 
+thing that mai be generally spoken, 
+is more largely declared, and diui­
+ded into partes. Example: He is 
+perfitely seene in all the sciences. 
+This sentence spoken as it were in a 
+summe, may be enlarged, if seuerally 
+you reherse vp al the kindes of lear­
+ning. There is no kynd of doctrine 
+at al but he is exquisitely sene in it. 
+There is no science, but he hathe 
+learned it thorowly, and so learned 
+it, that you wolde thynke he had la­
+bored onely in it. So maruelouslye 
+he knoweth all the fables of al the 
+Poetes, he so aboundeth in the 
+floures of the Rethoricians: He 
+hath so boulted oute the paynefull 
+
+
+
+
+rules of the gramarians. So per­
+fitely knoweth he the subtilnesse of 
+the Logicians, and hath so soughte 
+oute the priuities of natural thyn­
+ges, and ouercome the harde poyn­
+tes of supernaturall wisedome: he 
+hathe passed thorowe the secretes 
+of the diuines, and hath thorowlie 
+perceyued the mathematical demon­
+stracions. He so knoweth the mo­
+cions of the starres, the reasons of 
+numbers, the measurynges of the 
+earth, the situacions, names & spa­
+ces of cities, mountaynes, fluddes, 
+and fountaynes, he so knoweth the 
+difference and harmonies of tunes: 
+He so remembreth all hystoryes olde 
+and late: So knoweth all good au­
+thors, all antiquities & nouelties, 
+and also is perfitelye well seene as 
+wel in Greke as latyne. Finallye 
+whatsoeuer learnynge hathe bene 
+found and taught of good authors, 
+al that thorowlie hath he percey­
+ued, knowen and remembred. Here 
+these wordes, he is perfitelye seene 
+in all the sciences, bee declared in 
+theyr partes.
+
+
+
+Enumeracio
+
+Enumeracion  is much lyke vn­
+to thys, when not beynge contente 
+
+
+
+
+
+Enumeracion
+of thynges
+that go before
+
+at once to declare the ende of the 
+matter, we rehearse vp all that went 
+before it was done. Example: Cice­
+ro oppressed the mischeuous purpo­
+ses of Catiline. Thus maye you set 
+it forth: The myscheuous enterpry­
+ses of Catiline by most vngracious 
+yonge men, whych went about the 
+destruccion of the citie of Rome, M 
+Tullius the consull dyd quickelye 
+smell out by hys foresyghte, and by 
+hys singuler vigilancye sought them 
+oute, by his hyghe prudence espyed 
+them, by his incredible eloquence 
+conuinced them, and by hys graue 
+authoritie repressed them, by force of 
+armes subdued them, & with great 
+happines toke them quyte awaye. 
+
+Hitherto also apperteineth, when 
+we expound a thyng not barely, but 
+
+Enumeracion
+of the causes.
+
+repete the causes also sumwhat be­
+fore, and of what begynnynges it 
+came of. As if not contente to haue 
+sayd, that the Frenchmen made ba­
+taile with the Neapolitans, we re­
+hearse also what wer the causes of 
+theyr stryfe, who was the setter for­
+ward, and what was the occasion 
+of the warre, what hope and truste 
+
+
+
+
+eyther of them had to the victorye. 
+Of these ar many examples in Sa­
+luste & Liuie. From thys differeth 
+
+Enumeracion
+of effectes, &
+consequences.
+
+not when we do not simplye shewe 
+forthe the matter, but reherse also 
+those thynges that eyther go with 
+it, or folowe it, as thus: We thanke 
+the of thys warre. Thus maye you 
+dilate the matter. The treasure 
+spente vpon the Barbariens, the 
+youthe broken wyth laboures, the 
+corne troden downe, the cattel dri­
+uen awaye, stretes and vyllages e­
+uery where set on fyre, fieldes lefte 
+desolate, walles ouerthrowen, hou­
+ses robbed, temples spoyled, so ma­
+ny olde men chylderles, so manye 
+orphanes, so manye wyddowes, so 
+many virgins shamefully defiled, the 
+maners of so many yong men made 
+worse by leude liberty, so many men 
+slayne, so great mourning, so many 
+good artes loste, lawes oppressed, 
+religion blotted, al thynges of god 
+and man confounded, all good or­
+der of the citie corrupted: I say all 
+this heape of myschiefs that riseth 
+of war, we mai thanke the only of it, 
+which wast the beginner of this war
+
+
+
+
+
+
+Euergia.
+
+Enargia , euidence or perspicui­
+tie called also descripcion rethori­
+call, is when a thynge is so descri­
+bed that it semeth to the reader or 
+hearer that he beholdeth it as it were 
+in doyng. Of thys figure ben many 
+kyndes.
+
+
+The fyrste, called effiguracion 
+or descripcion of a thynge, where­
+by the figure and forme of it is set 
+out: as of the vniuersall flud.
+
+"Effiguration" not found in OED.
+
+
+
+
+The seconde, the descripcion of 
+a personne, when a man is descri­
+bed, as are the noble menne in Plu­
+tarch, and the Emperours in Sue­
+tonius. Howe be it the rethorici­
+anes vse thys worde Prosopopeia, 
+that is descripcion of a personne 
+to comprehende the sixe kyndes fo­
+lowinge.
+
+
+
+Charactirs­
+mus.The thyrde kinde is called Cha­
+ractirismus , that is the efficcion or 
+pycture of the bodye or mynde, as 
+Dauus described Crito, & Mino 
+describeth Demea.
+
+"Effiction" antedates the earliest OED citation (1656).
+
+
+
+
+
+Prosopogra­
+phia.
+
+The .iiii is the fainyng of a person 
+called Prosopographia, and is of .ij 
+sorts. Fyrst the descripcion of a fained 
+
+
+
+
+person, as Vyrgyl in the syxt of E­
+neid, faineth Sibil to be mad, & fay­
+neth the persons in hell. An other 
+forme is when we fayne person, commu­
+nicacion, or affecte of a man or of a 
+beaste, to a dumme thynge, or that 
+hath no bodye, or to a dead man: as 
+to the Harpies, furies, deuils, slepe 
+hongar, enuie, fame, vertue, iustice, 
+and suche lyke, the poetes fayne a 
+person, and communicacion. This 
+seconde fashion the Poetes do call 
+Prosopopey. The fyrst kind is called 
+
+Aetopeia.
+
+AEtopeia, that is an expression of ma­
+ners or mylde affeccions, and hath 
+thre kyndes: of the whych the fyrst 
+is a significacion or expression of 
+maners somewhat longer, as of 
+wittes, artes, vertues, vices. Thus 
+we expresse Thraso a boster, and 
+Demea a sowre felowe.
+
+The seconde forme, is an expres­
+sion of naturall propensitie, and 
+inclinacions to naturall affecci­
+ons, as of the fathers loue toward 
+the chyldren. &c. of fryendshyppe, 
+neyghbourhod & cete. as you maye 
+se in hystoryes. 
+
+
+
+
+The thyrd kynde is the expression 
+of lighter affeccions, as when wee 
+go about by fayre meanes to gette 
+the mery affeccions of meane to vs 
+ward or to other, & when the mynd 
+is lyft vp into hope, myrth, & laugh­
+ter, and as be louyng salutations, 
+promises, & communynges together 
+in familiar epistles and dialogues, 
+and the getting of loue and fauour 
+in the begynnynges, and finallye 
+thys figure doth teach, that Retho­
+rique is a part of flattery. The sixt
+kynde of rethoricall descripcion is 
+
+Pathopeia.
+
+ Pathopeia, that is expressyng of ve­
+hement affeccions and perturbaci­
+ons, of the whych ther be two sortes. 
+ 
+
+The fyrste called Donysis , or inten­
+cion, and some call it imaginacion, 
+wherby feare, anger, madnes, hate­
+red, enuye, and lyke other perturba­
+cions of mynde is shewed and de­
+scribed, as in Ciceros inuectiues.
+
+
+Another forme is called Oictros , 
+or commiseracion, wherby teares be 
+pyked out, or pyty is moued, or for­
+geuenes, as in Ciceros peroracions, 
+and complaintes in Poets: And to 
+
+
+
+
+be shorte ther is gotten no greater 
+admiracion or commendacion of e­
+loquence then of these two, AEtope­
+ia, and Pathopeia, if they be vsed in 
+
+dialogismus
+
+place. The .vii. kind is Dialogismus  
+whych is how often a short or long 
+communicacion is fayned to a per­
+son, accordyng to the comelines of 
+it. Such be the concions in Liuie, & 
+other historians. The .viii. kynd is 
+
+Mimisis.
+
+called Mimisis, that is a folowing 
+eyther of the wordes or manoures 
+whereby we expresse not onlye the 
+wordes of the person, but also the 
+gesture: and these foresayd sixe kin­
+des Quintiliane dothe put vnder 
+Prosopopeia. The .ix. kynde is the 
+descripcion of a place, as of Car­
+thage in the fyrst of Eneid. Referre 
+hither Cosmographie and Geogra­
+phie. The .x. kynd is called Topote­
+sia , that is ficcion of a place, when 
+a place is described such one perad­
+uenture as is not, as of the fieldes 
+called Elisii in Virgil: refer hither 
+Atrothesiam, that is the descripcion 
+of starres. The .xi. kinde is Chrono­, 
+
+
+
+
+graphia, that is the descripcion of 
+the tyme, as of nyght, daye, and the 
+foure tymes of the yere. 
+
+
+
+Amplificacio
+
+A greate parte of eloquence is 
+set in increasing and diminyshing, 
+and serueth for thys purpose, that 
+the thyng shulde seme as great as 
+it is in dede, lesser or greater then it 
+seemeth to manye. For the rude 
+people haue commonly a preposte­
+rous iudgement, and take the worst 
+thynges for the beste, and the beste 
+for the worst. Al amplificacion and 
+diminucion is taken eyther of thin­
+ges, or of wordes. Of thynges ryse 
+effeccions, of words those fashions 
+that nowe I wyll shewe. The first 
+waye of increasyng or diminishing 
+is by chaungynge the worde of the 
+thynge, when in encreasynge we 
+vse a more cruell worde, and a sof­
+ter in diminyshynge, as when we 
+call an euyll man a thiefe, and saye 
+he hathe kylled vs, when he hathe 
+beaten vs. And it is more vehemente 
+if by correccion we compare grea­
+ter wordes wyth those that we put 
+before: As thou haste broughte not 
+a thyefe, but an extorcioner, nor 
+
+
+
+
+an adulterer, but a rauysher. &c.
+
+
+Lyke vnto this is Hyperbole , why­
+che saythe more then the truthe is 
+in deede, as when we saye: The 
+crye was hearde to heauen, mea­
+nyng it was a greate crye. An o­
+ther kynde is by increase, whyche 
+is when the thynges goyng before 
+beynge exaggerate, we come from 
+them to the hyeste: As agaynste 
+Verres. It is a myscheuous deede 
+to bynde a Citizen of Rome, hay­
+nous to beate hym, what? shall I 
+saye to hange hym? An other waye 
+of increase is, when wythoute dis­
+tinccion in the context and course 
+of the oracion, the circumstaunces 
+sette in order, somewhat alwayes 
+is added bygger then the fyrste, 
+and that we come to the hyest by a 
+swyfte pace. As he was not asha­
+med to playe at dyce wyth iesters 
+in the common cokerye, beynge a 
+prieste, a Person, a Diuine, and a 
+Monke. There is another kynde 
+of amplyfienge that is by compa­
+rison contrary to increase. For as 
+in increase the thynges that go be­
+fore beyng exaggerat, we go from 
+
+
+
+
+them to the hyest, so comparison ta­
+keth increase of the lesser, whych if 
+they be greater in all mens opini­
+ons, that must nedes appeare verie 
+greate that we wyll haue amplifi­
+co: And comparison is made by fic­
+cion, & by puttynge to an example. 
+By ficcion, eyther in one degree, or 
+in many. As in the fyrst part of the 
+amplifiyng of Antonies vomite, for 
+he fayneth it had happened vnto 
+hym at supper beyng but a priuate 
+person. If at supper in these great 
+bowles of thine thys happened vn­
+to thee, who wolde not haue coun­
+ted it a shame: But now in the syght 
+of the people of Rome beynge a com­
+mon officer, master of the horse, to 
+whom it was shame once to belch, 
+he wyth hys gobbets of meat that 
+stanke al of wyne, fylled al his lap, 
+and the iudgement seate. Here am­
+plificacion is taken of smaller thin­
+ges, and is made by one degree of 
+many degrees, this maye be an ex­
+ample. If a man gaue the euery yere 
+xl. pound, woldest thou not thanke him? 
+If a friend had redemed the out of 
+prison with hys money, woldest thou 
+
+
+
+
+not loue hym? If eyther in battell 
+or shypwracke a man by hys vali­
+antnes had saued the, woldest thou 
+not worshyp hym as God, and saye 
+thou were neuer able to make hym 
+amendes? What ingratitude is it 
+then that Christ God & man, which 
+hathe made the, to whom thou dost 
+owe al that thou hast, &c. so to dis­
+pyse hym, so wyth dayely fautes to 
+anger him, & for so great beniuolence 
+to geue hym agayn so great contu­
+melye and despyte? Neyther skyl­
+leth it that we haue rehearsed ficci­
+on and comparicion amonge argu­
+mentes, for there is no cause why 
+that amplificacion and ornacion 
+shuld not be taken out of the same 
+places from whence ther commeth 
+probacion. Nor it is no newes 
+the selfe same thynges to be apply­
+ed to diuerse vses. As of all circum­
+staunces both of the thyng, and of 
+the person are taken argumentes, 
+but euen oute of the selfe same are 
+fet affeccions and exaggeracions, 
+whych is manifest in the kynde de­
+monstratiue: As when we prayse 
+chastitie in a yonge man, we go not 
+
+
+
+
+aboute to perswade that he was 
+chaste, but that that vertue shulde 
+appeare greater in floryshyng age. 
+To lyke vse serue examples and si­
+militudes, as in Esaye: The Oxe 
+knewe hys owner, and the Asse the 
+maunger of hys master, but Isra­
+el hathe not knowen me. The ex­
+ample of the Oxe & the Asse is not 
+vsed for this to proue that the He­
+brewes dyd not knowe their God, 
+but that the impietie and folishnes 
+of that nacion shulde be amplified. 
+The same may be applied to profe 
+after thys maner. If the Oxe and 
+Asse knowledge theyr masters, of 
+whom they are norished and do serue 
+them, how much more conueniente 
+is it, that man shuld knowledge hys 
+maker and norisher, and serue him 
+bothe in bodye and mynd. Contra­
+rye, when Paul sayth: no man ser­
+ueth in warre on his owne wages, 
+be proueth by similitudes, that it 
+is not comelye, that they that war 
+vnder the gospell, shulde be compel­
+led to be carefull for their liuynge. 
+He shuld haue applied it to ampli­
+fiyng, if he had propouned it thus. 
+
+
+
+
+They that serue vnder a capteine 
+be not careful for their liuyng, but 
+lokinge for the sustenaunce of their 
+capteine, only studye for thys to do 
+hym faythful seruice, howe muche 
+more shame is it that some menne 
+that haue promised to fyght vnder 
+Christ in the gospel, to distrust such 
+a capteyne, and studye all they can 
+to gather riches. Comparison by put­
+tyng to example is, when by setting 
+out as it were a lyke example, wee 
+brynge to passe that that we exag­
+gerate may be thought either very 
+lyke, eyther equal, either bygger. 
+And in this kynd both the whole is 
+compared to the whole, & the partes 
+to partes: as in the oracion of Ci­
+cero for Milo. Did I pray you the no­
+ble man Scipio being a priuat person 
+kil Tiberius Gracchus whych sha­
+ked the commom wealthe but a lytle, & 
+shall wee beynge consulles suffer 
+Catiline, that gothe aboute to wast 
+the whole worlde wyth murther 
+and fyre? Here bothe Catiline is 
+compared to Gracchus, and the 
+estate of the common wealthe to 
+the whole world, & a lytle shakyng 
+
+
+
+
+to slaughter, fyer and wastyng, and 
+a priuate person to the consuls. 
+Ther is an amplificacion also when 
+contraries be set together, wherby 
+bothe the partes seme bygger, and 
+more euidente. As when exhorting 
+men to liberalitie, we shewe howe 
+foule a faute couetousenes is, that 
+the foulnes of the faute being exag­
+gerate, the goodlines of the vertue 
+shulde be more encreased. There is 
+another kynd of amplifiyng called 
+reasonynge, when of those thinges 
+that eyther folowe or go before, the 
+hearer doth gather how great that 
+thynge is that we wolde to be am­
+plified. By thynges that go before, 
+as when Homer armeth Achylles, 
+or Hector to batayle, by the greate 
+preparacion, we gather how sore the 
+sight shal be. Of thinges that folowe: 
+How much wyne Antony dranke, 
+when that hauyng such a strong body 
+he was not able to digeste it, but 
+spewed it vp the nexte daye after. 
+Of thynges ioyned to: as when Ma­
+ro sayeth to Poliphemus: He had 
+the bodye of a pineapple tree for a 
+staffe in hys hande. Manye other 
+
+
+
+
+kyndes ben there of amplifynge, 
+which who so wyl se more at large, 
+may read that right excellent boke 
+of the famouse doctor Erasmus, 
+whych be intituled the preacher. 
+
+
+
+The inuencion of many proposi­
+cions is, when the chyefe state or 
+principal proposition of the cause is 
+declared and proued by manye o­
+ther proposicions and argumentes, 
+so set in iuste order that there be no 
+confusion of proposions. And pro­
+posicions be taken partely of those 
+that be common, and partly of those 
+thynges that belonge properlye to 
+the cause: As if a man wolde coun­
+sell Tullye not to take the condi­
+cion offered of Antony, that is, that 
+by burnynge of hys bookes called 
+philippia, he shulde haue hys lyfe, 
+he myght vse commonly these pro­
+posicions. Fyrste that no man oughte 
+to by his life so dere, that therby he 
+shulde lose hys immortall name. 
+To thys generall may serue a per­
+ticuler taken oute of circumstaun­
+ces, that it oughte not to be done, 
+inespecialy of Cicero, whych by so 
+many laboures hathe gotten vnto 
+
+
+
+
+hym selfe an excellente and euerla­
+styng name, and that hath shewed 
+moste eloquently by putting out so 
+manye noble workes that deathe 
+ought to be despised, inespeciallye 
+seynge that now he hath not much 
+tyme to lyue beynge an olde man. 
+Agayn, another principall proposi­
+cion shall be taken of the circumstaun­
+ces. That nothynge is worse, then 
+that Cicero beyng a very good man 
+shulde owe his lyfe to Antonye the 
+worst man of the world. The third 
+proposicion shal be coniectural: how 
+that Antony craftely goeth about 
+that the bookes beynge burned, in 
+the whych he perceiueth bothe hys 
+owne immortal glory of Cicero, when 
+he hath afterwardes taken awaye 
+hys lyfe, he maye vtterlye extin­
+guyshe Cicero.
+
+
+
+¶ A copious heaping of probacions. 
+
+
+
+Proues.
+
+So when proposicions be found, 
+remaineth argumentacion or proues, 
+called in Greke Pistis, because they 
+make suretye of a doutefull thyng. 
+
+Two sortes
+of proues.
+
+Of proues some be artificiall, some 
+vnartificial. Vnartificial be, fore­
+
+
+
+
+iudgementes, rumoures, tormen­
+tes, tabelles, othe, wytnesses, diui­
+nacion, oracles. To these be refer­
+red whych the Greekes cal Symeia 
+
+Signes be re­
+ferred to pro­
+ues vnartifi­
+cial, & whyt
+
+or sygnes: For they also common­
+lye are not set by the wytte of hym 
+that disputeth, but are ministred 
+
+Signes
+wherfore.
+
+otherwyse. They be called signes 
+properlye, whyche rysynge of the 
+thynge it selfe that is in question 
+
+Signes be re­
+ferred to
+tyme.
+
+come vnder the sences of menne, as 
+threatninges, whych be of the time 
+that is paste, cryinge herde oute of 
+a place, whyche is of the tyme pre­
+sente, palenesse of hym whyche is 
+axed of the murther, whyche is of 
+the tyme folowynge, or that bloud 
+leapte oute of the bodye latelye 
+slayne, when he came that dyd the 
+
+Two maner
+of signes.
+
+murther. Also of signes some bee 
+necessary, as that he liueth whiche 
+dothe breathe, and some probable, 
+as bloude in the garmente, whych 
+myghte also come oute of the nose, 
+
+Proues taken
+oute of circum­
+staunces.
+
+or otherwyse. Also proues and ar­
+gumentes are taken oute of circum­
+staunces, partly of the person, part­
+lye of the cause or thyng it self, and 
+be called also of the Rethoricians 
+
+
+
+
+
+How proues
+of circumstaun­
+ces differ from
+Aristotels
+places.
+
+places, neyther cleane contrarie to 
+those that Aristotle hath taughte, 
+neyther the very same: for some a­
+gree wyth them, some be all one, 
+and some diuerse. Onlye differeth 
+the manour of teachynge, because 
+the Rethoricianes do teache a pa­
+trone, the philosopher generally 
+
+Circumstauces
+of person.
+
+helpeth iudgement. Circumstaun­
+ces of the person ben these. Kinred, 
+nacion, contrey, kynde, age, bryng­
+ynge vp, or discipline, hauioure of 
+the body, fortune, condicion, nature 
+of the mynde, studies, affectacion, 
+wordes forespoken, & deedes done 
+before, commocion, counsell, name. 
+Kynred monisheth vs to consider of 
+
+Kynred.
+
+what progeny a man dothe come. 
+For it is semely, and happeneth com­
+monlye that the sonnes be lyke the 
+forefathers, and thereof procedeth 
+
+Nacion
+
+causes to lyue well or euyll: Nacion 
+sheweth what disposicion and ma­
+ners euery nacion hath peculiarly 
+
+Kynd.
+
+of theyr owne. The difference of 
+kynde is knowen to euerye man: 
+To diuerse ages diuerse thyngs be 
+
+Age.
+
+conueniente. It skylleth more by 
+
+Educacion.
+
+whom, and by what wayes men be 
+
+
+
+
+brought vp, then of whom they be 
+begotten. The hauioure of the bo­
+dye comprehendeth fayrnes or foul­
+
+Hauiour of
+the bodye.
+
+nes, strength or weaknes: For more 
+credible is the accusacion of leche­
+rye in a fayre body then in a foule, 
+and violence more probable in the 
+strong, then in the weake. Fortune 
+
+Fortune
+
+perteineth to ryches, kynred, frien­
+des, seruitures, dignities, honours. 
+
+Condicion.
+
+Condicion comprehendeth manye 
+thynges: as whether he be noble or 
+not noble, an officer, or a priuate 
+person, a father or a sonne, a citizen 
+or a straunger, a fre man, or a ser­
+uaunt, a maried manne, or a single 
+man, a father or none, hauinge had 
+
+The nature
+of the mynd
+
+but one wyfe, or two. The nature 
+of the mynde hath manifold varie­
+ties in men. Some be fearful, some 
+strong, some gentle, some vehement, 
+chaste, lecherous, glorious, modeste 
+
+Studies
+
+&c. Studies, for other be the ma­
+ners of the rustical, then of the law­
+yer, of the marchaunte, then of the 
+Soldier, of the shipman then of the 
+phisicion. To these they adde affec­
+
+Affectacion.
+
+tacion: For it skylleth muche what 
+maner man euerye one wolde seme 
+
+
+
+
+to be, whether he be the same or not: 
+as ryche, or eloquent, iuste or migh­
+tie, mery or sad, a fauorer of the peo­
+ple, or of the great men. Both wor­
+des that be spoken before time, and 
+
+Wordes spo­
+ken, & deedes
+done before
+Commocion
+
+dedes that be done, be also conside­
+red. For of thynges that be paste, 
+the present be estemed, & also thin­
+ges that be to come. Commocion in 
+thys differeth from the nature of 
+the mynde, because that one is per­
+petuall, that other for a whyle: as 
+anger is commocion, rancour the 
+nature of the mynde, and feare a com­
+mocion, fearefulnesse nature.
+
+Name.
+
+To these they adde the name of the 
+person, of whence many tymes an 
+argument is taken: as Cicero iesteth 
+muche vpon Verres, or sweepers 
+name, because beyng a strong thief, 
+he swepte altogether. Thus haue 
+we shewed that much matter may 
+be taken of thynges belongyng to 
+a personne, so maye be also of those 
+that belonge to a thynge or cause, 
+whiche places bee so handeled of 
+Quintiliane, that he myngleth them 
+wyth the places whyche Aristotle 
+hathe comprehended in hys eyghte 
+
+
+
+
+bookes of Topyckes. 
+
+
+
+Circumstaun­
+ces of things
+be these.
+Circumstan­
+ces of the thynges be these: Cause, 
+place, tyme, chaunce, facultie, in­
+strumente, manour. And fyrste of e­
+uerye thinge there be foure causes, 
+efficient, materiall, formall and fi­
+nall. Matter is the receptacle of al 
+formes. The forme causeth it to be 
+thys, and not another thynge: as 
+the reasonable soule geueth to the 
+body that it is a man, and the soule 
+because it is a substaunce hathe her 
+vnnamed forme, whereby she is a 
+
+
+Fine or ende.
+
+
+soule, and not an aungel. And what 
+soeuer is made, is made to a certen 
+ende, and one thynge maye haue di­
+uerse endes: as nature hathe geuen 
+brestes vnto women to geue milke, 
+and also for comlynesse of theyr bo­
+dies, neyther doth any man that is 
+of a sounde mynde take vpon hym 
+anye businesse, but for that he desy­
+reth to haue some thynge: nor there 
+is nothynge desyred, but under the 
+consideracion of good or profite. 
+So the ende whyche is laste in ef­
+fecte, and fyrste in intencion, lo­
+keth vpon the gettinge of profites, 
+increase, and confirmacion of them, 
+
+
+
+
+and also vpon them, eschuynge of 
+disprofites, diminyshynge, or put­
+tyng them awaye. But in chosyng 
+them, false perswacion deceyueth 
+manye, whylest by errour they be­
+leue that to be good that is naughte. 
+This place therfore serueth for ma­
+ny thynges, to make more or lesse. 
+Greatly happy shulde men be, if e­
+uerye man wolde looke vpon the 
+marke, not the whych desyre hathe 
+sette before hym, but whyche God 
+and honest reason hath prefixed. 
+And of such strengthe is the ende, 
+that hereof is taken the felicitie of 
+euery thyng. To fast that the body 
+maye obeye the mynde, to do good 
+workes is an holy deede. To fast to 
+be counted holye, is hypocrisie. To 
+faste to encrease thy good, is coue­
+tousenesse. To faste to be whole in 
+thy bodie is phisycke, and so of prai­
+ynge, almose, and other laudable 
+workes. After lyke maner must be 
+wayed the secondarie endes. An o­
+ther circumstaunce of a thynge, is 
+
+Place.
+
+the place, whose qualitie often­
+times maketh the faute either gre­
+ter or lesser: as to steale an holye 
+
+
+
+
+thing out of an holy place, is worse 
+then some other kynde of theft. No 
+lesse matter of argumentacion mi­
+nistreth the qualitie of time, which 
+
+Tyme.
+
+signifieth two thynges. Fyrst it is 
+taken playnly for the time present, 
+
+Tyme hathe
+two significa­
+cions.
+
+past, or to come: Seconde it signifi­
+eth oportunitie to do a thynge, and 
+so when a man cometh as we wold 
+haue it, we saye he cometh in time. 
+And in the seuenth of Ihon, when 
+Christ sayth: My tyme is not yet 
+come, tyme is taken for oportuni­
+tie of tyme. And lykewyse in the 
+syxt to the Galat. Therfore whyle 
+
+Chaunce.
+
+we haue tyme &c. The Rethorici­
+anes put chaunce vnder tyme, be­
+cause the ende of a thynge pertey­
+neth to the time that foloweth: but 
+of thys wyll we speke in the place 
+called Euent. Facultie is a power 
+to do the thynge that is taken in 
+hand: and in coniectures two thin­
+ges speciallye be considered: whe­
+ther he could or wold. Wyll is ga­
+thered of hope to performe it, and 
+is made more probable when the na­
+ture of the mynde is ioyned to it: 
+as it is not like he wyl abide in his 
+
+
+
+
+glorye, because he is enuious and 
+ambicious. Also when we counsell 
+one to leaue of vayne mournynge, 
+when it is not in his power to get 
+agayne that is gone.
+
+
+
+Instrument.
+
+Instrument semeth to be a part 
+of facultie: for instrumentes some­
+tyme are cause of oure hablenes to 
+do a thinge: and it is a more mische­
+uous deede to kyl with venome then 
+with swearde. And to instrument 
+some is the manour of doyng, that 
+almoste it is all one. But more pro­
+perlye perteyne to the manour or 
+fashion, those thynges that be ey­
+ther excused, or made greater by 
+wyl: As lesse faute is it to fall into 
+a vice by ignorance or frailtie, then 
+of a purpose and full deliberacion. 
+The vse of circumstances profiteth to 
+amplifie, to extenuate, to euidence, 
+to confirmacion, and probabilitie. 
+And hytherto be referred also the 
+common places that indifferentlye 
+apperteyne to all kyndes and par­
+tes of causes, of the whyche Ro­
+dulphe entreateth, and Aristotle 
+in his Topyckes. But before we 
+speake of them, it is to be noted, 
+
+
+
+
+that thys woorde place, is taken 
+foure maner of wayes. They are 
+called common places, because thei 
+be entreated of, of bothe partes, al­
+thoughe not in all one cause: as he 
+that is sore spoken agaynste by wit­
+nesses, swadeth that we shulde not 
+geue credite to witnesses. Contra­
+rye, he that is holpen by them spea­
+keth in defence of wytnesses, and 
+so of other that we spake of before, 
+when we entreated of vnartificial 
+argumentes. Lyke to thys sorte be 
+sentences, whyche wee exaggerate 
+as it were wythoute the cause, but 
+so that they serue to the cause whi­
+che wee haue in hande: as bee the 
+amplificacions of vertues, and the 
+exaggeracions of vices. As when 
+wee accuse anye manne that by e­
+uyll companions he was broughte 
+to do also the mischeuouse deede, 
+A common place shall bee, wyth 
+wordes to exaggerate howe much 
+it profiteth to keepe goodnesse, to 
+bee in companye wyth good men, 
+and contrarye howe greate mys­
+chyefe the companye of euyll men 
+dothe cause. 
+
+
+
+
+In the third sence places be called 
+seates of argumentes, whyche the 
+Rethoricianes do applie to eche 
+kyndes of causes: As in the kynde 
+suasorie, honest, profitable, pleasaunt 
+easye, necessarie .&c. In demonstra­
+tiue kynde, kynred, contrey, goodes 
+of the bodye and of the mynde. In 
+the Iudiciall kynde, inespecial de­
+niall, those that we spake of euen 
+nowe. The fourth places be gene­
+ral, whych declare what belongeth 
+to euerye thynge, and howe oute of 
+eche of them there be taken argu­
+mentes, partly necessary, and part­
+lye probable. These be commen to 
+the Oratours with the Logicians, 
+albeit Aristotle hathe seperatelye 
+written of them in hys Topickes, 
+and in his Rethorickes hathe not 
+touched them, and they profite much 
+both to iudgement, and to endigh­
+tynge, but the varietie of authors 
+hath made the handlynge of them 
+sumwhat darke, because amonge 
+them selues they can not wel agre, 
+neyther of the names, neyther of 
+the number, neyther of the order. 
+
+
+
+
+Examples.
+
+An example is a rehearsall of a 
+
+
+
+
+thynge that is done, and an apply­
+nge of it vnto our cause, eyther for 
+similitude or dissimilitude, profi­
+table to perswade, garnyshe, and 
+delyght. Examples, some be taken 
+out of hystories, some of tales, some 
+of fayned argumentes, in comedies, 
+and bothe sortes be dilated by pa­
+rable and comparicion. Compara­
+cion sheweth it equall, lesse, or byg­
+ger. Parable is a feete similitude, 
+whych sheweth the example that is 
+brought, ether like, vnlyke or contra­
+rye. Lyke as Camilius restored the 
+common wealth of the Romaines 
+that was oppressed by the French­
+men, and when it was brought in­
+to extreme losse, by theyr valiaunt­
+nesse expelled the Barbariens: So 
+Valla, whan thorowe the ignorance 
+of the Barbarians, learnyng was de­
+stroyed, restored it agayn, as it wer 
+from death into hys former bright­
+nes. Vnlike. As not lyke thanke is 
+done to Laurence and Camilius, be­
+cause that the one moued by vertue 
+wyth the ieopardie of hys lyfe de­
+liuered his contrey from the vngra­
+cious, that other styrred vp by de­
+
+
+
+
+syre of fame, or rather wyth an e­
+uyll luste to checke manye, not resto­
+red agayn the latten tong oppressed, 
+but brought it as it were into cer­
+ten rules. Contrary, Brutus kylled 
+hys chyldren goyng about treason, 
+Manlius punished by death the va­
+liauntnes of hys sonne. Compara­
+cion sheweth the thing that is brought, 
+eyther equall, lesse, or bigger: Lesse, 
+as our elders haue warred often­
+tymes, because theyr marchauntes 
+and mariners wer euyl entreated. 
+What mynd ought you to be in, so 
+many thousande citizens of Rome 
+slaine at one message, and one time? 
+Equall, as in the same Cicero. 
+For it happed unto me to stand for 
+an offyce wyth two gentlemenne, 
+that one very naughte, that other 
+very gentle, yet ouercame I Cati­
+line by dignitie, and Galba by fa­
+uoure. Bygger: As for Milo, they 
+saye he shulde not lyue that confes­
+seth he hathe kylled a man, when 
+M. Horacius was quitte, whyche 
+kylled hys owne syster. 
+
+
+
+
+Parable.
+
+Parable, which some call simili­
+tude, some comparacion, is a compa­ 
+
+
+
+
+ryng of a thyng that hath no life, or no 
+bodye to our cause and purpose, for 
+some thyng that is lyke or vnlyke. 
+And as example is taken of the dede 
+of a man, and the person of an hy­
+storye, or that is fabulous and fay­
+ned, so is comparison taken of thin­
+ges that be done, or that be ioyned 
+to them by nature, or by chaunce. 
+As Attilius retournyng agayne to 
+hys enemies is an example of ke­
+pynge faythe and promise: But a 
+shyp in the whych the sayles be hoy­
+sed vp, or taken down after the blow­
+yng of the winde, is a parable whi­
+che teacheth a wyse man to geue 
+place to tyme, and applye hymselfe 
+to the world that is presente. And 
+lyke fashion is of dilatyng a para­
+ble, as we haue shewed in example. 
+For sometime it is noted in a word 
+as: Doest thou not vnderstand that 
+the sayles muste be turned? Some­
+tyme it is more largelye declared, 
+as in the oracion for Murena. And 
+if vnto menne that sayle out of the 
+hauen. &c. Analogia. 
+
+
+
+Icon , called of the latines Imago, 
+an Image in Englyshe, is muche 
+
+
+
+
+lyke to a similitude, and if you de­
+clare it is a similitude: as if you 
+saye: As an Asse wyll not be driuen 
+from her meat, no not with a club, 
+vntyl she be full: no more wil a war­
+riour reste from murther vntyll he 
+hath fylled his mynd with it. This 
+is a similitude: but if you saye that 
+a man flewe vpon his enemies like 
+a dragon, or lyke a lyon, it is an I­
+mage. Howbeit an Image serueth 
+rather to euidence or grauitie, or io­
+cunditie, then to a profe. There is 
+also a general comparacion, speci­
+allye in the kynde demonstratiue, 
+person wyth person, and one thing 
+with an other, for praise or dispraise
+
+
+
+Indicacio.
+
+Indicacio, or authoritie, is the com­
+paring of an other mans saying or 
+sentence vnto our cause: of the whi­
+che ther be seuen principal kyndes. 
+The fyrst a comon morall sentence, 
+as a common principle perteyning 
+to maners: as continuall laboure 
+ouercommeth all thynges, and as 
+be the sentences of Salomon and 
+Cato: and all morall philosophy is 
+ful of suche sentences. The seconde 
+are common rules, whych be called 
+
+
+
+
+dignities in euery science. The .iii. 
+a prouerb. The fourth called Chria, 
+which is a very short exposicion of 
+any dede or worde wyth the name 
+of the author recited. The fyfte an 
+Enthimeme, whyche is a 
+sentence of 
+contraries: as if it be a great praise 
+to please good men, surely to please 
+euyl men it is a greate shame. The 
+syxte called AEnos, that is a saying 
+or a sentence, taken out of a tale, as 
+be the interpretacions of fables, 
+and theyr allegories. The seuen is 
+any answere taken out of the mouth 
+of God, or taken out of the commaun­
+dement of God.
+
+"Chria" antedates the earliest OED citation (1612), as does "enthymeme" (1588).
+
+
+
+
+
+Exergasia.
+
+Expolicion  is, when we tarye in 
+one thynge, speakynge the same in 
+diuerse wordes and fashions, as 
+though it were not one matter but 
+diuerse. A goodlye example of the 
+moste largest expolicion is rehear­
+sed in Erasmus, whych, because it 
+is very profitable, I wyll wholye 
+rehearse it. A wyse man for the com­
+mon wealthe sake shall eschue no pe­
+ryll: euen for thys cause that it hap­
+peneth often, that wher he wold not 
+
+
+
+
+dye for the common wealth, he pe­
+rysheth yet of necessitie wyth the 
+common wealth. And because all the 
+commodities we haue be taken of 
+our contrey, ther ought no incommo­
+ditie to be counted paynfull, taken 
+for our contrey. They therfore that 
+flye that peryll which must be taken 
+for the common wealth, do folyshely: 
+for neither can they auoyde it, and 
+they be found vngrate to the citie. 
+But they that by their owne peril 
+put away the perils of their contrei, 
+they are to be counted wyse, seyng 
+that bothe they geue to the common 
+wealth that honour that they shulde 
+geue, and had rather dye for many, 
+then with many. For it is much against 
+reason that receiuing thy naturall 
+lyfe by thy contrey, to deliuer it a­
+gayne to nature when she compel­
+leth the, and not to geue it to thy con­
+trey when she desyreth the. And 
+where thou mayst wyth hye valiaunt­
+nes & honour die for thy contrei, to 
+haue rather lyke a cowarde to liue 
+in shame. And for thy fryndes and 
+parentes, and other acquayntance 
+to put thy selfe in peryll: for the co­
+
+
+
+
+mon wealth in the whyche both it 
+& that most reuerende name of the 
+contrey is conteyned, not to be wil­
+lynge to come in ieopardye. Wher­
+fore as he is to be dyspised whyche 
+being vpon the sea had rather haue 
+hym selfe safe, then the ship: so is he 
+to be rebuked, whych in ieopardye 
+of the commen wealthe, prouideth 
+more for his own then for the common 
+wealthe. When the shyppe hathe 
+ben broken, many haue ben saued: 
+But after the shypwrake of the con­
+trey no man can escape. Whyche 
+thynge me thynketh Decius dyd 
+wel perceiue, whych reported who­
+ly to haue bestowed hym selfe, and 
+for the sauegard of his men of war 
+to haue run amonge the myddest 
+of hys enemyes. Wherfore he loste 
+not hys lyfe, but let it go: for he re­
+demed for a thynge of verye small 
+pryce, a ryght dere thyng. He gaue 
+his life, but he receiued his contrei. 
+He loste his life, but he inioyed glo­
+rye, whyche written to his greate 
+prayse, shyneth euerye daye more 
+and more. Wherefore if we haue 
+proued both by reason & by example, 
+
+
+
+
+that we be bounde to put oure selfe 
+in peryll for the common wealthe, 
+they are to be counted wyse men, 
+whych for the sauegarde of the con­
+trey auoyde no peryll. It wolde be 
+meete to exercyse chyldren in suche 
+themes, wherby shal be gotten bothe 
+wysedome and eloquence. And here 
+me thynketh I maye ryghte well 
+ende these Rethoricall preceptes, 
+although I be not ignoraunt that 
+much helpeth bothe to persuasions 
+and copye, the proper handlyng of 
+tales taken oute of the nature of 
+beastes, dreames, fayned narraci­ 
+ons, sumwhat lyke vnto the truth, 
+with allegories much vsed of diuines. 
+But because they requyre a longer 
+treatie, for this tyme I leaue them 
+of, addynge vnto these before writ­
+ten rules of oratory, a declamacion 
+bothe profitable and verye elo­
+quente, wrytten by Erasmus 
+vnto the moste noble Duke 
+of Cleue, as here appe­
+reth after. 
+
+
+"Expolition" antedates the earliest OED citation (1589).
+
+
+
+
+
+
+
+

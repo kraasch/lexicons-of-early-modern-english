@@ -1,0 +1,4470 @@
+
+
+
+
+
+
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 2 2 4 2 9
+
+v e r . 1 . 0  ( 2 0 1 9 )
+
+
+
+
+A Treatise of the Figures of Grammer and Rhetorike,
+profitable for al that be studious of Eloquence, and in especiall for suche as
+in Grammer scho­ les doe reade moste elo­ quente Poetes and
+Oratours:
+
+Whereunto is ioygned the oration 
+which Cicero made to Cesar, ge­
+uing thankes vnto him for 
+pardonyng, and restoring 
+again of that nobleman 
+Marcus Marcellus, 
+sette foorth by Ri­
+charde Sherrye 
+Londonar.
+
+Londini in ædibus Ri­
+cardi Totteli.
+
+Cum priuilegio ad impri­
+mendum solum.
+
+
+
+
+
+
+
+
+
+
+
+HONORATISSIMO DOMINO 
+Guilielmo Pagetto, nobilissimi ordinis Gar­
+terit equiti aurato, domino de Beudesert, 
+& illustrissi. nostræ reginæ Maria con­
+siliario, Ricardus Sherryus sa­
+lutem optat perpetuam.
+
+QVando ex omnibus dei
+opt, Max creaturis nul­
+lum animal homine pre­
+stantius esse constat, Ho­
+noratissime domine, eius 
+tamen quanta sit digni­
+tas, cum ex aliis multis, 
+tum velhinc potissimum 
+colligimus, quod cum caiera fere corporis omnia 
+cum brutis habeamus communia, non tamen vt illa, 
+(que natura prona, atque ventri obedientia finx­
+it) obtutu in terram desixo, incurui deuoluimur, 
+sed erecta ad cœlum facie, amplissimum huius 
+mundi the atrum, & quid quid est cius ornatus sy­
+derei, id totum oculis perlustrantes, non sine magna 
+quadam animi iucunditate, diligentissime per­
+discimus, & lubentissime contemplamur, Verum 
+enimuero cum intellectus noster id sibi quasi pecu­ 
+liare videatur habere, rerum causas perquirendo, 
+meditando, cogitando, complecti: sua ipsius subli­
+
+
+
+
+mitate contenta, seque, suisque bonis, suauissimis qui­
+dem illis, apud se tantummodo perfruitur. Atqui 
+id ne semper fieret, sed maiorem stirps humana vt 
+caperet vtilitatem, τονλογον, id est, sermonem 
+illi attexuit diuina benignitas, vt motus suos illos
+inter nos, sua sibi mentis æterna agitatione fabri­
+catos, in communem hominis vsum, diserta oris, atque 
+linguæ interpretatione, postea proferret, &, in quam 
+plurimos latissime diffuderet: adeo vt mihi rectis­
+sime iudicasse videantur, qui hanc hominis diffe­
+rentiam, quasique peculiarem notam esse existimaue­
+runt,   τονλογικονειναι id est, fandi conpotem esse. 
+Ceterum cum id a nonnullis simplicius fiat, atque 
+rudius, nihil vt propemodum a mutis, ac brutis, 
+differre videantur, certe in quibus vis illa diuina, 
+atque dicendi facultas, vires suas abundantius, 
+ac fortius exeruit, hos, certe tanto ceteris prestare 
+iudicamus, quanto illa rationis enargia, atque ser­
+monis magnificentia, reliquis antecedunt, & plu­
+res in sui admirationem adducunt. Huius gene­
+ris, & si pauci extiterunt (si ad multitudinem re­
+spicias) extiterunt tamen vbique fere gentium non 
+nulli, maxime vere Græci, atque Latini, quorum 
+fama nunc in illustri posita, æditis ad posteros cla­
+rissimis monumentis, æternitatem sine dubio est 
+consequuta: Hi, & apud suos, & in republica sum­
+mo semper cum honore versati, id velin primis v­
+
+
+
+
+tile atque adeo necessarium existimauerunt, Elo­
+quentiam excolere: cuius beneficia tanta, non mo­
+do tot retro seculis (ab immanitate videlicet ad hu­
+manitatem deducto iam humano genere opti­
+me intelligebant homines nimirum prudentissimi, 
+sed in posterum quoque tantas eius commoditates 
+exorituras, vt in longissimum, atque adeo in eternum 
+sint duraturæ. Quod vt fieret, neue vt vlla tempo­
+ris iniuria, aut edaci annorum serie aboleantur, 
+cum a compluribus sedulo sit curatum, tum ab 
+his certe haud leue momentum allatum esse vide­ 
+tur, qui relictis posteritati luculentissimis preceptis 
+Eloquentie laudem, atque memoriam, orbi commem 
+datissimam esse, voluerunt. Quorum aliquot scripta 
+cum nuper legerem, atque ex his, quedam non te­
+mere annotata, excerperem, que, cum aliis multis, 
+tum in ludo literario versantibus, in primis prosu­ 
+tura existimo: ea quisquis iuuandi studio in me­
+dium protulerit, etiam si laudem nullam fuerit conse­
+quutus, procul tamem a sicophantarum morsibus esse
+debet. Et certe si verum fateri volumus, absque Tropo­ 
+rum, & Schematum perfecta cognitione, imperfecta 
+plane omnis poetarum, simul & oratorum est pre­
+lectio. Quia vero de figurarum generibus, atque vo­
+bulis inter artis scriptores non satis conuenit, aliis 
+confusius, nonnullis conscise nimis de illis tractan­
+tibus, haud indignum opere laborem me suscep­
+
+
+
+
+turum putabam, si paulo acutius inspectis earum 
+descriptionibus, ordine quam fieri potuit lucidissi­
+mo, non quidem vniuersas, sed maxime scitu dig­
+nas comprehenderem, & studiose iuuentuti, quasi
+in tabella spectandas, proponerem. Cæterum vt ca­
+lumiatorum plena sunt omnia, ita non defuturos 
+puto, qui hunc meum laborem vt leuiculum, con­
+temnent, atque etiam vel hoc nomine irridebunt 
+etiam, quod Anglice de Rhetoricis scribam. Inua­
+luit enim nescio quo modo, ac sepissime auditur 
+stultissima ista quorundam, sibi quidem vt viden­
+tur criticorum, opimo, negantium fieri posse, vt que 
+aliena in lingua diserte scribuntur, maxime si dis­
+ciplinas attingunt, ea, cum venustate aliqua 
+in nostrum sermonem posse transfundi. Horum 
+ineptias, & si non sit difficile multis, eisque 
+fortissimus argumentis refellere, vt tamen il­
+lis ora obstruantur, non quidem meis vllis rationi­
+bus, sed illius viri testimonis, cuius autoritate com­
+pressi, postea ne hiscere quidem contra, nisi impu­
+dentissime audebunt, placuit in medium profer­
+re, que super hac re, eximius ilie Rodulphus Agri­
+cola, & prudentissime iudicauit, & disertissime
+in hec verba conscripsit Quicquid apud emendatos 
+autores leges, vtilissimum fuerit, idipsum 
+quam maxime propriis, & idem significantibus 
+verbis reddere vernaculo sermone. Hac enim ex
+
+
+
+
+ercitatione assequeris, vt quoties dicendum tibi
+aliquid, scribendumue fuerit, quando concipiendis 
+verbis apud animum tuum sese quo natura 
+fert vernaculus sermo protulerit, statim quoque la 
+tina verba iam pridem illic hoc vsu accommodata, 
+sequantur. Ad hec quoque si quid scribere voles, 
+optimum erit idipsum, quam plenissime, rectissi­ 
+meque, patrio sermone intra animum tuum for­
+mare, deinde latinis, pure, proprieque id signifi­ 
+cantibus, explicare. Sic fiet, vt omnia aperte, & 
+quam maxime plene, dicantur. Omnes enim si quid 
+in dicendo est vitri, facillime in eo perspicimus 
+sermone, ad quem sumus nati, &, si quid vel dilu­ 
+cide parum, vel breuius quam conueniat, vel con­ 
+torte nimium, nec satis cum re proposita coherens 
+dictum fuerit, in eo sermone expeditius annotabit 
+quisque, quem notissimum habebit. Hactenus 
+Rodulphus. Ex quibus plane conuincitur, non 
+modo ex aliena lingua nostras versiones esse pro­ 
+bandas, sed quanta quoque eius rei sit vtilitas, 
+luculentissime ostenditur, Sed ad te reuertor Ho­ 
+noratiss domine. Equidem munusculum hoc longe infra 
+dignitatem tuam esse confiteor, qui pro tua sapien­ 
+tia, & ante complures annos, & nunc ab illustris­ 
+sima nostra regina Maria in consilium ascitus, in 
+hoc munere longe honorificentissimo, summo cum
+
+
+
+
+citer administrandis, pari cum fide, & integrita­ 
+te, versaris. Vt tamen islud qualecunque est Do­ 
+minationi tuæ offerrem, audaciam mihi fecit, sin­ 
+gularis ille ammi tui candor, quo semper in stu­
+diosos omnes, tum in me priuatim benignissime 
+vsus, vt de tuo in me animo, ac propensa voluntate 
+felicissima queque mihi promitterem, ac etiam op­
+time sperarem, effecisti Atque vt in his colligen­
+dis haud omnino nullus fuit labor, ita carte mul­
+tis, que ad suscepti operis expolitionem pertinebant, 
+hoc tempore dificientibus, non vt volui, sed vt po­
+tui, opusculum hoc, & quasi syluam vberioris ope­
+ris futuri, in publicum emisi: ampliaturus, si mo­
+do vita, ociumque literis dignum contigerint, In­
+terim hunc meum qualemcunque laborem, 
+si æquis lectoribus, maxime vero tuæ prestan­
+tiæ, non ingratum sore intellexero, certe, & 
+scriptionis huius abunde mihi magnum 
+pretium cepisse videor, & hac vestra 
+facilitate, ad maiora in posterum sus­
+cipienda, animabor, Dominati­
+onem tuam deus. Opt: Max. 
+quam diutissime? seruet 
+incolumen.
+
+
+
+
+
+DE ELOQVVTIONE.
+	
+
+ELoquutio, quam  Φζασιν 
+Græci dicunt, vnde & 
+Eloquentiæ nomen or­
+tum esse putant, omni­
+um partium vt pulcher­
+rima, ita quoque vtilis­ 
+sima, atque difficilima 
+est, in qua oratoris vis 
+illa diuina cernitur, quam cum Cicerone optimo 
+doctore, in partitionibus, copiose loquendi sapien­
+tiam definio, Nam et ea profusæ & immensæ re­
+rum omnium inuentioni varietatem, plenitudi­
+nemque addit: & certis dicendi luminibus, res 
+in orationibus explicat, atque exornat: & flumen 
+grauissimis, sententiis, et optimis verbis, propriis, ap­
+te translatis, sonantibus, ad dicendi gænus addu­
+cit. Nec solum ex flumine isto eloquutionis eligere 
+verba oportet, sed etiam collocare. Vis enim & fa­
+cultas orationis in simplicibus verbis, & coniun­
+ctis versatur, quarum illa inuemenda sunt, hæc 
+collocanda. Est enim quidam ornatus, qui ex sin­
+gulis verbis est: alius qui ex coniunctis constat. E­
+ligere autem & suo queque loco collocare, de sen­
+tentia Ciceronis, in oratore, & Fabij Quintiliani 
+libro institutionum oratorium octauo, nequa­
+
+
+
+
+quam facile est. Sic. M. Antonius dicere sole­
+bat disertos se vidisse multos, eloquentem adhuc 
+nominim. Et M. Fullius (vt ait Fabius) inuen­
+tionem quidem & dispositionem prudentis ho­
+minis putauit, eloquentiam vero oratoris. Ratio 
+enim inueniendi, & collocandi, communis omnium 
+esse potest, qui vel antiquitatis clarissima monu­
+menta in codicillos referunt, atque historias lite­
+ris memoriæque mandant, vel, qui de aliqua 
+re loquuntur eloqui apte, destincte, ornateque di­
+cere, admodum paucis concessum est. Sed quoniam 
+bipartita nobis eloquutionis est preceptio, pri­
+mum dicemus quas res omnis oratoria elocutio 
+habere debet, que pars in sermone Latino atque 
+perspicuo, & compositione, & dignitate posita 
+est: deinde quibus in dicendi generibus versa­
+tur. Eloquutio igitur commoda & perfecta, 
+tres res in se habere debet: Sermonem Latinum, 
+& perspicuum, compositionem, dignitatem.
+
+De Latino & perspicuo 
+sermone.
+
+DE his autem que in Eloquutione posuimus, 
+hec sit prima cura, vt Latine & perspi­
+cue ad rerum dignitatem atque naturam lo­
+
+
+
+
+quamur, & verba efferamus ea, que, (vt 
+ait Cicero de oratore) nemo iure reprehendat. 
+Latinus autem sermo & prespicuus ex Gram­
+maticis discitur, qui orationem puram & ab 
+omni vitio intermissam conseruat, & facit vt v­
+numquodque pure, & aperte, & dilucide di­
+ci videatur. Constat autem Latinus sermo 
+vsitatis verbis, quæ in vsu quotidiani ser­
+monis versantur, & proprijs, quæ eius rei 
+sunt, de qua loquetur. Nec vero proprieta­
+tes ad nomen duntaxat, sed multo etiam ma­
+gis ad vim significationis referri, ac potestatem 
+oportet: nec auditu, sed intellectu perpendi. 
+Ita translatio quoque, in qua fere maximus 
+est Elocutionis vsus, verba non suis rebus ac­
+commodat. Sed tamen aliquando habet eti­
+am in oratione inusitatum aliquod verbum, aut 
+poeticum, dignitatem, quibus, loco positis (vt Ci­
+ceronis verbis vtar) grandior, atque antiquior ora­
+tio sepe, videri solet. Poetas enim omnino quasi 
+alia quadam lingua loqui, nemo est qui ignoret. Vi­ 
+tia denique in sermone, quo minus is Latinus sit, 
+duo enumerantur, Barbarismus, & Solœcismus, 
+quorum ille, cum verbum aliquod vitiose effertur, 
+hic, cum verbis pluribus consequens verbum su­
+periori non accomodatur, committi solet.
+
+
+
+
+
+
+	
+A briefe note of Eloquution the 
+thirde parte of Rhethorike.
+
+
+Eloquution 
+which the Greekes call 
+Phrase, wherof also the name of Elo­
+quence doth ryse: as of all partes it is 
+the goodliest, so is it also the profitablest 
+& hardest, in whiche is seen that diuine 
+might and vertue of an oratour, which 
+as Cicero in his oratorie partitions de­
+fineth, is nothing els but wisedom spea­  
+king eloquently. For vnto the maruay­
+lous great inuention of al thinges, both 
+it addeth fulnes and varietie: it setteth 
+out & garnisheth with certaine lightes 
+of endighting the thinges that be spoken 
+of, and also with very graue sentences, 
+choyse wordes, proper, aptly translated 
+and wel sounding, it bringeth that great 
+floud of eloquence, vnto a certain kynd 
+of stile. And out of this great streame of 
+Eloquution, not onely must we choose 
+apt & mete woordes, but also take hede 
+of placyng and setting them in order. 
+For the might & power of Eloquution, 
+consisteth in wordes, considered by them­
+selues, & when thei be ioyned together.
+
+
+
+
+Apt wordes by searchyng must be found 
+out, and after by diligence, conueniently 
+coupled. For there is a garnishyng, euen 
+when they bee pure and fine by them­
+selues, and an other when thei be ioy­
+ned together. To chose them out fyne­
+ly, and handsomely to bestowe them in 
+their places, after the minde of Cicero 
+and Quintilian, is no easye thing. So 
+Marcus Antonius was wont to saye, 
+that he had knowen many well spoken 
+men, but none eloquent. Tully & Quin­  
+tilian thought that inuention and dis­
+position, wer the partes of a witty and 
+prudent man: but eloquence of an ora­
+tour. For how to fynde out matter and 
+set it in order, may be common to al men, 
+whiche either make abridgementes of 
+the excellent workes of auncient wry­
+ters and put histories in remembrance, 
+or that speake of any matter themselues: 
+but to vtter the minde aptly, distinctly, 
+and ornatelye, is a gift geuen to verye 
+few. And because we haue diuided Elo­
+quution into two partes, that is, wordes 
+simple, or considered by themselfes, and 
+
+
+
+
+compound, or ioyned together in speach, 
+according to this we say, that euery elo­  
+quent oration must haue in it. iii. pointes 
+euidence, which belongeth to the fyrste 
+part of eloquution, composition, & dig­
+nitie, which belongeth to the other.
+
+
+
+
+Of Euidence and plaines.
+
+Of these thinges that we put in elo­
+quution, let this be the first care, to speake 
+euidently after the dignitie and nature 
+of the matter: & to vtter suche wordes, 
+whiche as Cicero sayth in his oratour, 
+no man may iustly reprehend. The plain 
+& euident speache is learned of Gram­
+marians, and it kepeth the oration pure, 
+and without al fault: and maketh that 
+euery thyng may seme to be spoken, pure­  
+ly, apertly, & clerely. Euery speach stan­
+deth by vsual wordes, that be in vse of 
+daily talke, and proper wordes that be­
+long to the thing, of whiche we shall 
+speake. Neither bee properties to be re­
+ferred only to the name of the thyng, 
+but much more to the strength & power 
+of the signification: and must be consi­
+dred not by hearing, but by vnderstan­
+
+
+
+
+ding. So translation in the which commonly 
+is the greatest vse of eloquution, appli­
+eth woordes, not to the selfe proper 
+thynges. But yet an vnused woorde, or 
+poeticall, hath also sometyme in the o­
+ration his dignitie & being put in place, 
+(as Cicero sayth) often times may seme 
+greater, & of more antiquitie. For that 
+Poetes doe speake in maner as it were 
+in an other tongue, it is right sone per­
+ceiued. 
+Finally two fautes are commit­
+ted in euery language, wherby it is not 
+pure, Barbarisme and Solecisme. Of 
+the which that one is committed, when 
+any worde is fautily spoken or written, 
+that other, when in many wordes ioyned 
+together, the woorde that foloweth is 
+not well applied to that that goeth be­
+fore.
+
+"Barbarism" antedates the earliest OED citation (1578), and "Solecism" antedates the earliest OED citation (1577).
+
+
+
+
+
+	
+De vitiis orationis.
+OMnis oratio bona & diserta, tres habere de­
+bet præcipuas virtutes. Vt sit pura, dilucida, 
+& ornata. His totidem opponuntur vitia. Barba­
+rum, obscurum, inornatum. Horum trium vitio­
+sorum generum certæ quædam species sunt collec­
+
+
+
+
+tæ, quarum exempla subijciemus.
+De Barbaro.
+
+Barbarum vitium est, quando Barbaries que­
+dam in orationem inducitur. Eius tres sunt 
+species.
+
+    Barbarismus.
+    Barbaralexis.
+    Solœcismus.
+
+Barbarismus primum Eloquutionis vitium, est 
+error in Orthographia, & prosodia.
+
+In Orthographia peccatur, quando in dictione 
+aliqua, litera, vel Syllaba, adijcitur detrahitur, 
+immutatur, aut transponitur. Exemplum, cum de 
+figuris Grammaticis agemus, post oftendetur.
+
+Error in prosodia est, cum contra rectam vocum 
+pronuntiationem, eam syllabam que erat eleuan­
+da deprimimus, vel contra, quæ deprimenda erat, 
+eleuamus. Id ne fiat, diligenter a Grammaticis 
+est prospectum: qui vnicuique syllabæ suum tonum 
+quo vel eleuatur, vel deprimitur, vel circumfle­
+ctitur assignarunt: primum acutum, secundum 
+grauem, tertium circumflexum appellantes.
+
+Barbaralexis est, quum barbara, & peregrinæ 
+singuæ vox Romano sermone inseritur.
+
+Solœcismus. Hoc vitium ad figuras constructi­
+onis pertinet, & antea in initio est definitum.
+ 
+
+
+
+
+Barbaro opponitur Latinitas, quæ constat regula, 
+authoritate, & consuetudine. Latine loqui lex non 
+est, sed obseruatio quedam excellentium virorum, 
+cuius iudicium pro ratione stat.
+
+
+
+Faultes of an Oration.
+
+Euery good and eloquent oration must 
+haue three principall vertues: that it be 
+pure, playn, and garnished. To these are 
+there as many contrary vices. Barba­
+rous, dark, and vngarnished. Of which 
+three generall vices, there bee gathered 
+certayne kyndes, whereof exaumples 
+shall folow.
+
+Of Barbarous.
+
+
+Barbarous is a fault, when a certein 
+vnpurenes is brought into the speche, 
+and it hath three kindes.
+Barbarisme.
+Barbaralexis,
+Solecisme.
+
+"Barbaralexis" not found in OED.
+
+
+    
+
+Barbarisme the fyrste fault of Elo­
+quution, is an errour in true writyng, 
+and true accenting.
+We misse in true writing, when in 
+any word a letter or sillable is put too, 
+taken away, chaunged, or transposed. 
+
+
+
+
+Examples we will shewe afterwardes 
+when we speake of the figures of Grammer.
+The fault in accenting is, when con­
+trarye to the ryght pronunciation of 
+woordes, we put downe that syllable 
+which should be lift vp: or contrary lift 
+vp, which should be put down. And that 
+we should not so do, the Grammarians 
+haue made good prouision, which to e­
+uery syllable haue assigned their accent, 
+wherby it is eyther lift vp, put downe, 
+or strayned: calling the first an accente 
+acute, the seconde graue, the thyrde cir­
+cumflecte.
+
+Barbaralexis, when a rude worde or 
+of a straunge tong is brought into the 
+Romain tonge. In the English speache 
+there be so many, that some thinke we 
+speake litle English or none at al.
+
+Solecisme, this fault pertayneth to the 
+figures of construccion and is defined 
+afore in the begynnyng.
+
+
+Contrary to barbarous is pure la­
+tin, which standeth by rule, authoritie, & 
+custome. For to speake latin is no lawe, 
+but an obseruacion of excellent menne, 
+
+
+
+
+whose iudgement standeth for reason.
+
+
+
+
+De obscuro.
+
+OBscurum est cum vel verborum, vel structu­
+ræ vitio, obscuritas quædem iuducitur. Eius 
+species sunt.
+
+Improprietas, Cum dictio minimæ propriæ si­
+gnificationis, orationi ceu nubes, inducitur. 
+Terentius. Nam quod tu speras propulsabo faci­
+le, speras, pro times, dixit.
+
+Ambiguitas verbi, aut orationis, vt: Aio te 
+Eacida Romanos vincere posse. Hic vitio composi­
+tionis in ambiguo posita sententia. Nam vtri vi­
+ctoria promittatur incertum.
+
+Hyperbaton, Perplexa, & impedita constructio 
+vol iusto longior, Qualis plerunque fit ab ineptis 
+affectatoribus Periodorum.
+
+Eclipsis, Quum necessaria dictio sententiæ deest, 
+ita vt perfectum sensum non referat. Vt in epi­
+stolis ad Atticum permulta sunt.
+
+Brachylogia, Quum de re graui nimis breuiter 
+& anguste loquimur, quæ & longiorem, & aptiorem 
+requirebat sermonem Est & orationis virtus, quum 
+plura paucis complectimur.
+
+Atque hæ sunt ferme species obscuritatis, cui op­ 
+ponitur secunda virtus orationis, perspicuitas, constans
+
+
+
+
+proprietate, sensu, & compositione, Vt docet Fa­
+bius in octauo libro. Cap. ij.
+ 
+
+
+Of obscuritie.
+
+Obscuritie is, when through the 
+fault of wordes, or of settyng them toge­ 
+ther, a certayn darkenes is brought in, 
+and hath these kyndes.
+
+Impropertie, when a worde is brought 
+into the talke hauing nothyng at al his 
+owne proper signification: as when we 
+say, you shall haue sixe stripes whiche 
+you long for: when thei long for them not 
+one whit.
+
+Ambiguitie, is of one word or of moe, 
+as, I say the Eacida the Romains may 
+ouercome. Here through the faulte of 
+composicion, it is in doubt to whom the 
+victorie is promised.
+An intricate construction, or lenger 
+than should bee. Suche as oftentymes 
+happeth to them that fondly labour to 
+tell a good rounde tale.
+
+Eclipsis is, when there lacketh a ne­
+cessary word in the sentence, so that it is 
+not ful and perfecte. Many of these are 
+in Ciceros Epistles written to Atticus.
+
+
+
+
+Brachylogia, when of a graue matter 
+we speake too briefly, and that it requi­
+red a larger, & more mete treatise. It is 
+also a vertue in speache, when we com­
+prehend many thynges in fewe wordes.
+
+"Brachylogia" antedates the earliest OED citation (1589).
+
+
+
+
+Contrary to obscuritie, is playnesse, 
+standyng in proprietie, sense, and compo­ 
+sition, as Fabius dooeth shewe in hys 
+eyght booke.
+
+
+De Inornato.
+
+
+INornatum est quum vel ordo, vel dignitas ver­ 
+bis deest. Species sunt hæ.
+
+Pleonasmus, Hoc est, adiectio verbi superuacui 
+ad plenam significationem. Vt sic ore loquuta est. 
+Nonnunquam tamen asseuerationis gratia ad­
+hibetur. Vt apud Terent. Hisce oculis egomet vidi, 
+ne nega.
+
+Perittologia, verborum adiectio superuacua, si­
+ne vlla vi rerum. Est autem Pleonasmo vitium 
+affine, nisi quod hæc in sensu, Pleonasmus in ver­
+bis spectatur. Seneca, Habet inquit, hoc Monta­
+nus vitium. Sententias suas repetendo corrum­
+pu, dum non est contentus vnam rem semel bene 
+dicere efficit ne bene dixerit.
+
+ταντολογια Inutilis eiusdem verbi, aut con­
+structionis iteratio, cum quid magno fastidio sepius
+
+
+
+
+quod ingeminatur, id quod inexercitatis fere accidit, 
+vt eandem semper cantilenam canant.
+
+Periergia, Quum in re tenui multum ver­
+borum, & superuacaneam operam consumimus, ac 
+nimium immoramur. Id quod copiam male affe­
+ctantibus accidit. Fabius superuacuam operosi­
+tatem vocat. Huic opponitur expolitio, qua iam 
+virtus est, quum videlicet versamur sepe diuersis 
+modis eadem, & in vna re, atque in eadem sen­
+tentia diutius commeramur.
+
+Macrologia, quum aut tota oratio, aut ali­
+qua sententia fit iusto longior, vt audientem fa­
+tiget. Alii orationem esse dicunt, res non necessa­ 
+rias complectentem. Fabius hoc exemplum eo 
+Liuio ponit, libro octauo. Legati non impetrata pace 
+retro domum vnde venerant, reuerterunt. Teren­
+tius. Mea est sic ratio, & sic animum induco me­
+um. Sunt qui Macrologiam orationem esse ve­
+lint nimis cultam, aut longa descriptione pro­
+ductam sententiam. Mihi non absimile vitium 
+esse periergiæ videtur. Huic vicina Periphrasis, 
+virtus habetur.
+
+
+ταωπεινοσισ, Cum rei magnitudo, vel 
+dignitas, verbi humilitate deprimitur.
+
+μειωσισ Cognatum superiori vitio, nisi 
+quod pluribus verbis fit, vbi de re magna, & ar­
+
+
+
+
+dua iusto tenuior, & simplicior oratio, quam 
+res ea ferat.
+
+
+Bομφιολια Miosi contraria, quum 
+res tenues ac leuiculæ, quadam efferuntur ni­
+mis tumida, & magnifica oratione. Qualem 
+comici pro decoro personæ militibus gloriosis, & 
+parasitis tribuunt.
+
+Asiatismus, hoc est Asianum genus orationis, 
+immodicum, ac redundans verbis et figuris, sed 
+rebus inane.
+
+
+Aισχρολορια Quum vitio compositi­
+onis inuerecunda est oratio.
+
+Cacemphaton, id est absurditas, vel absonum 
+quum duriter & deformiter inter se coherent li­
+tere vel syllabæ. Vt, iuuat ire & dorica castra. Et 
+ceca caligine soles. Tale est, O tite, tute tati. Fa­
+bius Cacephaton esse ait, cum aut mala consue­
+tudine in obscœnum intellectum est sermo detor­
+tus, aut iunctura deformiter sonat.
+
+Cακοζκια. Hoc est praua & peruersæ 
+affectatio, vt si quis eam orationem affectet, cui 
+non sit par. Breuiter quoties ingenium iuditio 
+caret, & specie boni fallitur. Vt recte quidam 
+Cacozeliam esse dixerunt, per affectationem 
+decoris corruptam sententiam, quum eo ipso
+
+
+
+
+dedecoretur oratio, quo illam voluit autor ornare 
+Hec fit aut nimio tumore, aut nimio cultu.
+
+
+αισχκματον Quum oratio omni ornatu ver­ 
+borum, et figurarum caret, vel contra, cum est inept 
+figurata. Nam in vitium ducit culpe fuga si ca­ 
+ret arte.
+
+ὁμιὁκογια Vbi nihil est in oratione varie­ 
+tatis, aut suauitatis. hoc est, quum est vnifor­ 
+mis, et vbique sui similis oratio, & que nulla va­ 
+rietate leuet tædium. Estque hoc vitium, & supe­ 
+riori finitimum, & sequenti contrarium.
+
+Γοικιλια Vbi nihil est in oratione rectum 
+aut proprium, sed omnia immodice figurata, et nimi 
+picturata Qualis est ferme sermo Apulaianus
+
+ σωζαισμοσ Commistio inepta sermonis 
+variis linguis & idiomatibus consuta.
+
+Item, si quis poeticas figuras orationi solutæ ad­
+misciat.
+
+ἁζιθμον Tractum genus dicendi, & ora­
+tio prorsus carens numeris, & compositione tole­
+rabili.
+
+κακοσυνφετ Incompositum, seu male collo­
+catum, hoc est, vbi verba male congeruntur, pe­
+nisque coherent, alioqui bona si in loco poneren­
+tur, vel Cacosyntheton est indecens structura ver­
+borum, et compositio vitiosa.
+
+
+
+
+ἁνοικονοομκτον Male dispositum, & in­
+distinctum, affine superiori vitium, quum nulla 
+est in oratione œconomia, sed omnia confusa sursum 
+deorsumque miscentur. Atque hæc sunt breuiter 
+descripta orationis vitia.
+
+
+
+Of vngarnished.
+
+
+Vngarnished is, when eyther there 
+lacketh order, or beautifying in the 
+wordes. The kindes be these.
+
+Pleonasmus, the putting too of a su­
+perfluous worde, to a ful significacion: 
+as, So she spake with her mouth. Som­
+tyme it is vsed for asseueracion, as, I 
+sawe it with these eyes of myne: denye 
+it not.
+
+Perittologia, a superfluous addyng 
+of woordes, without any pythe of mat­
+ter. It is like faulte to Pleonasmus, 
+saue that the one standeth in sense, the 
+other is seen in wordes. Seneca. Mon­
+tanus hath this fault, that he marreth 
+all by to much repetyng of sentences, & 
+while he is not content to haue spoken 
+a thing once, he maketh all nought.
+
+Tautologia, an vnprofitable rehear­
+sall of all one woorde, or construccion 
+
+
+
+
+when with great yrcksomnes we dou­
+ble the matter, whiche commonly they 
+are wont to doe that bee not exercised, 
+but therefore sing all one song.
+
+Periergia, when in a small matter 
+we spend many wordes, & labour much 
+in vain, and tarry to long in it. Which 
+thing happeth to them that lewdly seke for 
+copie. Fabius calleth it, vayne curiosi­
+tie. Contrary to this, is Expolicion, 
+which is a vertue, when in dede we stand 
+in one thing and sentence, turnyng the 
+same diuers waies.
+
+"Expolition" antedates the earliest OED citation (1589).
+
+
+
+Macrologia, when eyther the whole 
+oration, or some sentence thereof, is 
+lenger then it should be, and weryeth 
+the hearer, Fabius taketh this example 
+out of Liuie, in the eyght booke. The 
+Legates (peace not beyng obtayned) did 
+returne home agayne from whence thei 
+came. Terence. This is my reason, and 
+thus I thinke in my minde. There bee 
+that call it Macrologia, when the 
+oration is to trimme, & set out at length 
+with some godly description. Me thinks 
+it is much like Periergia. Periphrasis.
+
+
+
+
+which draweth nye to this, is counted 
+a vertue.
+
+Tapinosis, when a weightie & high 
+matter is brought downe by basenes of 
+a worde: as if you would say to a king, 
+And it please your Mastership.
+
+"tapinosis" antedates the earliest OED citation (1589).
+
+
+
+Bomphiologia, contrary to Miosis, is 
+when lighte and tryfling matters, are 
+set out with gaye and blasing wordes. 
+Suche as in Commedies are wont to 
+be spoken, of crakyng souldiers, & smell 
+feastes.
+
+"Miosis" antedates the earliest OED citation (1807; a different sense).
+
+
+
+Asiatismus, a kynde of endighting v­
+sed of the Asians, full of figures, and 
+wordes, lackyng matter.
+
+"Asiatismus" is not found in the OED.
+
+
+
+Aischrologia, when through the fault 
+of ioynyng wordes together, some vn­
+cleanly meaning may be gathered.
+
+Cacemphaton, when letters & sylla­
+bles hang euil fauouredly together: as 
+if there be to many of this letter, r, or of 
+t, which causeth a roughnes, or stamme­ 
+ring.
+
+"Cacemphaton" antedates the earliest OED citation (1589).
+
+
+
+Cacozelia, a peuishe desyre to folowe 
+suche a kynde of wrytyng as thou 
+rte not mete for: defacyng the thyng 
+
+
+
+
+which thou wouldest faynest beautifie.
+
+"Cacozelia" antedates the earliest OED citation (1579).
+
+
+
+Aschematon, when in the oration there 
+is no varietie, nor pleasauntnes, but it 
+is all alike, and by no varietie taketh a­
+way tediousnes, a fault lyke to that that 
+goeth before, and contrary to thys that 
+foloweth.
+
+Pοικιλορια When in the oration ther 
+is nothing rightly and properly spoken, 
+but all is to muche befigured and be­
+gayed. Such is the writing of Apuleius
+
+Sωραισμὁσ A foolishe mingling to­
+gether of wordes out of diuers langua­ 
+ges. Also if a man in prose would vse fi­
+gures poeticall.
+
+ἁριθμον A kind of endighting drawen 
+out a long, vtterlye voyde of all swete 
+and rounde composicion.
+
+Cacosyntheton, when the wordes be 
+euil heaped together, and be worse ioy­
+ned: beyng good if thei wer set in place.
+
+"Cacosyntheton" is not found in the OED.
+
+
+
+άνοικονομκτὁν A faulte somewhat 
+lyke the other: when there is no good 
+disposicion of the woordes, but all are 
+confused vp and down, and set without 
+order.
+
+
+
+
+
+
+De figuris Grammaticis
+Orthographicis.
+
+APud Grammaticos, figurarum duo sunt ge­
+nera: alterum singulorum verborum, alterum con­
+structorum. Priores figuræa Grecis  μετα­
+ωλασμοι nominantur, quia verba, transfor­
+mant. In prosa, his vti non licet, si barbarismi re­
+prehensionem volumus effugere. A poetis metre 
+causa vsurpantur. In oratione soluta nihil impe­
+dit quo minus verba, ac syllabas integre pro­
+nunciemus, & scribamus: quod quia versibus non 
+fit, orthographicæ etiam vocantur, quasi orthogra­
+phiam vitiantes. Et si autem Latinis, sed Grecis 
+maxime in componendis versibus celebrantur, ta­
+men nostris quoque poetis non sunt infrequentes 
+si quis eorum poemata cum ratione perlegerit. Sed
+nunc ad figuras.
+
+Defiguris orthographicis.
+
+FIgura Orthographica est, cum a vulgari rati­
+one scribendi, aut loquendi, metri causa de­
+flectimus. Eius species sunt.
+
+Prosthesis. Cum dictionis initio, litera, syllaba­
+ue additur. vt. Virg. Oscula libauit gnatæ de­
+hinc talia fatur gnatæ pro natæ. Terentius. Pol 
+hoc si scissem: num quam huc tetulissem pedem, pro, 
+tulissem.
+
+Epenthesis cum medio.
+
+
+
+
+Iuuenal. Rara auis in terris nigroque similli­ 
+ma cigno pro, similima. Virgil. Romanus Gra­
+iusque & Barbarus induperator. pro, imperator
+
+Paragoge, cum aliquid fini additur.
+
+Persius. At pulchrum est digito monstrari, eo 
+dicier hic est. pro dici.
+
+His totidem contraria sunt, 
+vbi aliquid deest.
+
+Apheresis. Cum principio dictionis aliquid 
+adimitur. Virgil. Babit ille ruinas.
+
+Arboribus, stragemque satis: ruet omnia la­ 
+te ruet, pro cruet. Horat. Et cetera ludicra pono 
+pro depono.
+
+Sincope, cum aliquid in medio deest. Virgil 
+Sustulit, exutas vinclis ad sydera palmas. pro vin­
+culis, Idem. Cingite fronde comas, & pocula por­ 
+gite dextris pro, porrigite.
+
+Apocope, Cum a fine aliquid adimitur. O­ 
+uid. Adfuit & certis tempora vinctus Hymes 
+pro Hymeneus.
+
+Metathesis, transpositio quædam literarum 
+Virg. Nam tibi timbre caput Euandrius abstu­
+lit ensis. pro timber.
+
+Antisthecon. Literæ pro litera positio. Virgilium 
+Olli subridens hominum sator atque deorum. 
+Olli, pro, illi.
+
+
+
+
+Εχκματα Γροσωδικα
+
+Sequuntur schemata prosodica, que in versuum 
+dimensione adhiberi solent.
+
+Diæresis, vnius syllabæ, hoc est, diphthongi in 
+duas syllabas diductio. Virg. Diues equum, 
+diues, pictai vestis & auri.
+
+Syneresis. Duarum syllabarum in vnam con­
+prehensio. Ouid. Notus amor Phædra, nota est 
+iniuria Thesei. Vbi. E. i. sonandum tanquam. i.
+
+Hæ due figuræ in versuum scantione adhiberi 
+solent.
+
+Diastole, Syllabæ breuis, aut ancipitis pro­
+ductio. Virg. Exercet Diana choros. Diana pri­
+ma producta dixit, quum sit alioqui breuis.
+
+Systole, Cum longam syllabam corripimus. 
+Virg. Connubio iungam stabili propriamque di­
+cabo. Hic. nu. corripitur, quum tamen sit longæ. 
+Et hæ due figuræ ad syllabarum quantitatem 
+pertinent.
+
+
+
+THe like vnto these figures gen­ 
+tel reader, vndoubtedly be found 
+in oure Poetes, where for the 
+Metre sake, they oftentymes 
+bee fayne, to adde, to chaunge, to 
+dyminyshe Letters, and Syllables, 
+
+
+
+
+from the true writyng and reading of the 
+woorde: as Chaucer sometyme calleth 
+hym Nerown, whose name in dede is 
+Nero: and that to make the Meter a­
+gree with the staffe that went before, & 
+so addeth a syllable in the latter end of 
+the woorde, as dooe the Latines, whan 
+they saye Dicier for dici. And as here is 
+added somewhat to the ende: so in thys 
+verse, In wintars iuste returne whan 
+Boreas gan his raygne: is taken awaye 
+a syllable from the begynnyng, (gan) 
+beyng put for began: but so yf he should 
+haue sayde, than had the verse been to 
+long by a syllable, although in deede 
+the worde shoulde so haue been truelye 
+written. Nowe because I am not well 
+seen in Englishe Meters my self, ther­
+fore I coulde not, I confesse, wel exem­
+plifye in Englishe all these foresayde fi­
+gures in Latin. Virgil sayde well. Non 
+omnia possumus omnes. Whoso can do it, is 
+worthy prayse, and worthy more praise 
+yf he wyll doe it. But to say somewhat 
+of these figures: whosoeuer thynketh 
+them lyghtly to be passed ouer, iudgeth 
+
+
+
+
+ouer lightly. For truly it is not inough 
+in expounding Latin Poetes, to say, here 
+      figure: except he tell him also it is 
+a faulte. But because of the Metre, in 
+stede of fault it is called a figure. And 
+the like is not to be vsed in prose, whan 
+there is no necessitie why we shoulde 
+not bothe write out the worde at length 
+and also pronounce it as it is wrytten. 
+Who will saye, and say truely, porge dex­
+tram, for, porrige dexteram: and yet so sayeth 
+Virgill before alleged, in the figure Sin­
+cope. And so of the reste. Thus muche I 
+thinke sufficient to haue noted touching 
+this matter.
+
+
+
+	
+De figuris constructionis.
+
+FIgurarum Grammaticarum partem alteram 
+in verbis coniunctis positam esse diximus, quæ
+Syntaxis Grecis dicitur. Ea est ratio coniungen­
+dorum verborum, secundum artis regulas, vt per­
+fecta inde conficiatur oratio. De eo, Grammatici 
+plurima dederunt precepta. Aduersus quæ, viti­
+um qui committit, in Solœcismum incidit. Ve­
+rum quia non temere, sed certis de causis, ex­
+imij authores, a regulis illis declinant, pro­
+
+
+
+
+vitio figura est appellata.
+
+Figura constructionis quid.
+
+Est itaque figura Constructionis, cum a com­
+muni ratione loquendi, breuitatis, aut alicu­
+ius commoditatis gratia, non nihil deflectimus. 
+Eius species sunt.
+
+Eclypsis, cum ad legitimam constructionem, 
+dictio necessaria deest, quæ tamen vel consuetu­
+dine authorum subaudiri solet, vel quia ex cete­
+ris verbis precedentibus est certa, vt.
+
+Post quam ventum est ad Pauli.
+
+Cur non recta introijsti.
+
+Datæ primo Ianuarij.
+
+Tendebat in valle.
+
+Laborat morbo quartane.
+
+Nemini bonus est preterquam suis.
+
+Ex eo non cessauit insidias struere fratri.
+
+Sunt qui te cursu antevortant.
+
+De his satis.
+
+In his omnibus verba in margine posita sunt 
+intelligenda.
+
+Aposiopesis, cum aliquid sermonis integritati 
+deest, vel affectu aliquo, vel transitus causa ad aliud
+
+Affectu sic. Sepius te huius errati admonui ve­ 
+rum nisi caues. Hic per iram abscinditur sententia.
+
+
+
+
+Noui quando, & quo in loco, tu. Hic pudore 
+impeditur sermo. Transitu sic, Quos ego Sed motos 
+restat componere fluctus.
+
+Zeugma est, quum in similibus clausulis com­
+mune aliquid in vna positum, in aliis non mu­
+tatum, desideratur, Fitque multis modis.
+
+Quod detrahitur, aut ipsum est verbum, aut a­
+liquid quod verbum vel precedit, vel sequitur. Et 
+verbum quidem sic.
+
+Non locus virum honestat, sed vir locum. In se­
+cunda clausula omittitur (honestat.)
+
+Quod verbum precedit sic.
+
+Probus non solum presentes amicos colit, sed eti­
+am absentes amicos obserant. Iterum supplendam 
+(Probus.)
+
+Quod verbum sequitur sic.
+
+Vt probus absentes amicos tuetur, ita improbue 
+distituit. Subaudi amicos.
+
+Variatur Zeugma & a loco vbi illud commu­
+ne ponitur. Nam si in priore clausula sit, vocatur 
+Prozeugma. Si in media. Mesozeugma. Si in vl­
+tima, vocatur Hypozeugma. Hoc modo.
+
+Vicit pudorem libido, timorem audacia, ratio­
+nem amentia.
+
+Forma & etate deflorescit, & morbo.
+
+Forma, morbo, dolore, atque ætate deflorescit.
+
+
+
+
+Diazeugma, cum vnaquæque clausula suum
+habet verbum, sic, Auaritia corpus ledit, animi 
+corrumpit.
+
+Prolepsis, quum generale præcedens, diuiditur 
+in partes, in quibus subauditur coniunctio, vel 
+copulatiua, vel discretiua. Vt, Aquilæ volant, hæc 
+ab oriente, illa ab occidente, pro, & hec volat ab o­
+riente et illa ab occidente. Cepere captiuos, partim 
+integros, partim saucios: pro, & partim cepere 
+integros, & partim cepere saucios. Mire faciunt 
+be duæ figure ad breuitatem, tum loquendo, tum 
+scribendo.
+
+Appositio, duorum aut plurium substantiuorum 
+ad eandem rem spectantium, quorum alterum 
+declarat alterum, immediate facta coniunctio 
+vt Fluuius Tamesis in mare, influit.
+
+
+Apposition is an immediate ioyning 
+together of two nownes substantiues 
+or moe, the one declaring the other. As, 
+The floude Temmes floweth into the 
+Sea.
+
+
+
+Diuersum ab his genus est, quod excessu con­
+stat. Pleonasmus generatim appellari solet. Acci­
+dit autem cum vna plures ve dictiones ad legiti­
+mam constructionem non necessariæ, in oratione re­
+dundant, sic.
+
+
+
+
+Meis egomet oculis vidi.
+
+Sic ore loquutus est.
+
+Vbinam gentium illum inueniam nescio.
+
+Huc spectat Epanalepsis, qua, post aliquam 
+multa interposita resumimus quod in principio 
+collocauimus, cum alioqui sine eo, constructio suos
+numeros haberet. Resumimus autem, vel verbis 
+usdem, vel diuersis, aut potestate paribus, vel ma­
+is generalibus, Eisdem sic. Caue existimes Bru­ 
+te (quanquam non est necesse illud ad te scribere) 
+iaue putes probitate, constantia, cura Reip, quic­
+quam illi esse simile. Potestate paribus sic. Confir­
+mato illo, de quo, si verum dicit Philosophus, du­ 
+bitare non possumus: hoc inquam stabilito, & fixo 
+illud excutiendum, quid sit dolore carere. Magis 
+generalibus sic. Verum animum vincere, irra­
+cundiam cohibere, victoriam temperare: Hæc qui 
+faciat, non ego eum summis viris compato, sed si­ 
+milimum deo iudico.
+
+Restant configurationes, quæ non verborum vt 
+superiores, sed ordinis Grammatici, quasi pertur­
+bationem habent, cumque  ὐπερβαίνουσι hoc 
+est, transeunt. Quo sit, vt apud Grecos generale no­ 
+men & tanquam caput ad quod ipsæ referuntur, ha­ 
+beant Hyperbaton: quia ordo legitimus dictionum, 
+clausularumue immutatur. Eius species sunt hæ.
+
+
+
+
+Anastrophe, verborum ordo præposterus.
+
+Mare fluit insulam omnem circum.
+
+Diu cum pugnatum esset.
+
+Histerologia, cum prepositio non casui cui seruit 
+sed verbo, quasi cum eo compositum sit, tungitur
+Vt Tyriam qui adueneris vrbem Et, atque roti 
+summas leuibus, perlabitur vndas.
+
+Hysteron proteron, hoc differt a precedente  
+quod illic, vocabulorum & eorum tractationis 
+hic autem rerum ipsarum est transpositio. Cum 
+videlicet, quod secundo loco fit, priorem in orati­  
+onis ordine locum possidet, Virg.
+
+Postera Phæbea lustrabat lampade terras.
+
+Humentemque aurora polo dimouerat vm­
+bram.
+
+Tmesis. Cum composita voce diuisa, dicti 
+aliqua eius partibus interponitur. Terentius 
+Qæu meo cunque animo libitum est facere, feco 
+Cicero: Quam rem procul inquit dubio dixisset
+
+Interposito, Sensus quispiam sermom, an­ 
+tequam absoluatur interiectus: qui quanquam 
+eius viribus aliquid confert, tamen sublatus 
+legitimum sermonem relinquit. Horat. Cetera de 
+genere hoc (adeo sunt multa) loquacem delassare 
+valent Fabium.
+
+
+
+Of Grammatical figures we sayde 
+
+
+
+
+the other to be put in wordes, whan they 
+are ioyned together, which in Greke is 
+called construction. That is, a maner 
+and way to set them together after the 
+rules of the Arte, that of them maye be 
+made a perfecte and full oration. Of 
+whiche the Grammarians haue geuen 
+many preceptes. The faulte thereof in 
+a generall woorde is called Incongruite. 
+But because this is openlye vsed of 
+excellent authours, not at al aduentures, 
+but for certayn causes, in stede of fault 
+it is called a figure.
+
+Of the figure of Con­
+struction.
+
+
+So then the figure of Construction  
+is, when we somewhat turne away from 
+the common and vulgare maner of 
+speaking, because of briefnes or some com­ 
+moditie. The kindes be these.
+
+Eclypsis, when to the iuste Con­
+struction a necessarye woorde lacketh, 
+whiche yet is wont to be vnderstande 
+eyther by the custome of authours, or 
+because it is certayne by other wordes 
+that go before: as.
+
+
+
+
+After we wer come to Paules.
+Why went you not straighte in?
+Dated the fyrst of Ianuary,
+He pitched in the valley.
+He is sicke of a quartane.
+He is good to none but to his owne.
+Since that, he ceased not to lye in wait 
+for his brother.
+There be that wyll ouerrunne you.
+Inough of this
+
+In all whiche must be vnderstand 
+the wordes put in the margent.
+
+The words in the margin are:
+Churche.
+Waye.
+Letters.
+His tent.
+Feuer.
+Frendes or seruantes.
+Tyme.
+Menne.
+Is spoken.
+
+
+
+Aposiopesis is, when any thing lac­
+keth to the perfectnes of speache, ey­
+ther for some affection, or for passing to 
+an other thing, that standeth vs more vpon.
+For affeccion thus. Often haue I war­ 
+ned thee of this faulte, but except thou 
+beware. Here the sentence is cut of for 
+anger.
+I know whan, and in what place thou,
+here is a stoppe, through shame. And 
+thou also, if thou remember. But I say 
+no more. Here for passing to an other 
+matter, we breake of the tale.
+
+"Aposiopesis" antedates the earliest OED citation (1578).
+
+
+
+Zeugma is, when in like clauses, some 
+
+
+
+
+common woorde or thyng, putte in one 
+clawse, and not chaunged in the other, 
+is yet left out, and vnderstand, and that 
+many wayes.
+That that is taken away, eyther is the 
+verbe it selfe, or somewhat that goeth 
+before the verbe, or somewhat that fo­
+loweth. The verbe thus.
+Not the place honesteth the manne, 
+but the manne the place. In the seconde 
+clawse is left out (honesteth.) That go­
+eth before the verbe thus.
+A good man loueth not only his frendes 
+presente, but maketh muche also of hys 
+frendes absent. Here must be supplyed 
+this worde (good man.) That foloweth 
+the verbe thus,
+As a good man defendeth frendes ab­
+sent, so an euill man forsaketh: vnder­
+stande (frendes.)
+Zeugma is varyed also by the place, 
+where that common woorde is putte.
+For if it be set in the foreclawse, it is 
+called. Prozeugma. If in the myddle, 
+Mesozeugma. In the last. Hipozeugma 
+in this wyse.
+
+
+
+
+Lechery ouercame chastitie, boldnes, 
+feare, madnes, reason.
+Beauty, by age decayeth, & by sicknes
+Beautie by sickenes, by sorowe, or by 
+age decayeth.
+Diazeugma, when of those thinges of 
+which we speake, either both, or ech one 
+of them is concluded, with their certain 
+verbe, thus: The people of Rome de­ 
+stroyed Numance, ouerthrew Carthage 
+cast down Corinthe, and raced Fregels 
+Also, couetousnes hurteth the bodye, & 
+corrupteth the mind.
+
+"Zeugma" antedates the earliest OED citation (1589). "Prozeugma" and 
+"hipozeugma" are not found in the OED.
+
+
+
+Prolepsis, when the generall worde 
+going before, is diuided into partes 
+where must be vnderstande a coniunc­ 
+tion copulatiue, as.
+Aegles flee, one from the East, another 
+from the west: for, & the one flieth from 
+the East, and the other from the West
+Thei toke prisoners, partly hole, part­ 
+ly wounded: for, and partlye they took 
+hole, and partlye they tooke wounded..
+Merueylouslye serue these figures to 
+breuitie both in speakyng and writyng
+Contrary to these, is that kynd that
+
+
+
+
+standeth in excesse, called generallye, 
+
+Pleonasmos, That happeth, whan 
+one, or many wordes, not necessarye to 
+the iust and lawfull construccion, dooe 
+abounde thus.
+I saw it with myne eyes.
+He spake it with his mouth.
+I wote not in the world wher to fynd him.
+
+
+Epanalepsis, when after some thinges 
+put betwene, we repete agayne that we 
+set in the beginning, the construccion ne­
+uerthelesse beyng perfecte without it. 
+And we repete it again either with the 
+same wordes, or other that be of like value 
+or els more general. With the same thus
+Thinke not Brutus, how be it I haue 
+no nede to write these thinges vnto the, 
+that thou knowest wel ynough I think 
+not, I say, any man like vnto him, in ver­ 
+tue, constaunce and diligence. With o­
+ther wordes that be of like value thus.
+This thing confyrmed, of whiche if 
+the Philosophers saye true, we cannot 
+doubt, when in death there is no suche 
+vtter vndoing, that not the lest suspicion of 
+sense maye remayne: this then I saye 
+
+
+
+
+well assured, we must discusse this, what 
+it is to lack sorow. with more general thus
+
+But to ouercome thy mynde, to re­
+strayne thyne anger, to temper the vic­
+torie. Him that doth these thynges, I 
+doe not compare to the noblest menne, 
+but iudge most like vnto god.
+
+"Epanalepsis" antedates the earliest OED citation (1584).
+
+
+
+De Hyperbato.
+
+Nowe remayne those figures, which 
+trouble the Grammaticall order: & ther­ 
+fore as to the chiefe are vnder this Greke 
+worde, Hyperbaton, which is as muche 
+to saye, of woordes and construction a 
+troubled order. His kindes be these.
+
+"Hyperbaton" antedates the earliest OED citation (1579).
+
+
+
+Anastrophe, a preposterous orderyng 
+or setting of woordes, as: The sea flo­
+weth all Englande about. Long when 
+they had fought.
+
+"Anastrophe" antedates the earliest OED citation (1577).
+
+
+
+Hysterologia when the preposicion is 
+not put vnto the nowne whereunto it 
+serueth, but to the verbe, as though it 
+were compound with it, thus.
+He slyd by with his wheles the vp­
+permost of the water: wher by is ioined 
+to the verbe that properly belonges to 
+the nowne, thus: He slydde with hys 
+
+
+
+
+wheles by the ouer part of the water.
+
+Hysteron proteron differs from the 
+figure before, because there is but trans­ 
+posicion of the wordes: & here is a trans­
+posicion of thinges: that is, when that 
+in the order of speaking is set in the fyrst 
+place, that was not firste done, but se­
+cond. Virgil. Phebus lyghtned the 
+earth with his golden Lampe, and draue 
+away the moyst shadow from the Pole.
+Here is set in the seconde place, that 
+whiche was fyrste done. For night was 
+drieuen awaye before the Sunne gaue 
+lyght vpon the earth.
+
+The "figure before" refers to "Hysterologia". "Hysteron proteron" antedates the earliest OED citation (1565).
+
+
+
+Tmesis is, when a compound word be­
+ing diuided, some other word is put be­
+twene the partes, thus. What thinges soe­ 
+uer pleased him to do, he did. Here (thin­ 
+ges) diuideth this one word. whatsoeuer
+
+"Tmesis" antedates the earliest OED citation (1592).
+
+
+
+Interpositio, a sense cast betwixte 
+the speache, before the talke be al ended: 
+which though it geue some strength, yet 
+when it is taken away, it leaueth the sen­
+tence perfect inough. Other that be of 
+this sort (thei be so many) are able to 
+wery babling Fabius.
+
+
+
+
+
+
+
+	
+De Tropis.
+
+Antonomasia, quum pro nomine proprio cogno­
+men quoddam extraneum studij, artis, officij, aut 
+dignitatis ponitur. vt.
+
+Philosophus. pro Aristotele.
+Poeta. pro Virgilio.
+Seruator. pro Iesu.
+Apostolus. pro Paulo.
+
+Aut contra, nomina propria pro appellatiuis, vt
+Socrates pro sapiente.
+Thraso pro iactabundo.
+Item nomina  gentis, pro his quæ genti attribuuntur. vt,
+Cretensis, pro mendaci.
+Scytha, pro inhumano.
+
+Periphrasis est, cum quod vno vocabulo dici 
+potest, pluribus verbis explicatur, vel decoris, vel 
+necessitatis gratia, idque tripliciter, Nominis ex­
+plicatione. Vt cum pro philosopho studiosum sapi­
+entiæ dicimus.
+
+Rei definitione, cum pro dialectica, disserendi 
+rationem ponimus.
+
+Notatione, hoc est, cum notis ac signis quibus­
+dam rem aliquam describimus. vt, Bilis efferues­
+cit, pallet vultus: ardeni oculi: tremor membra 
+occupat, pro trato. liem cum pro nomine proprio 
+patriam, sectam, aut facinus ponimus, Vt pro vir­
+
+
+
+
+gilio, Mantuanum vatem, pro Aristotele peri­  
+pateticæ, scholæ principem, pro Scipione, Carthagi­ 
+nis & Numantiæ euerserem. Fit periphrasis 
+tegendi, quæ sordida sunt gratia, Sallustius, ad 
+requisita nature. Et ornandi quæ pulebra sunt 
+caussa, vt breuitatem splendide producat. Exem­ 
+plum habes. Erasmi periphrases in Euangelia, 
+Differt ab Antonomasia, quod in ea simplex ver­ 
+bum simplici proprie commutatur, hic vnum plu­
+ribus explicatur.
+
+De Tropis orationis.
+
+
+TRopus orationis est, quum non vnius tantum 
+verbi, sed omnium in constructione vocum 
+significatio mutatur, Eius species sunt.
+
+Allegoria, quæ est oratio aliud verbis, aliud 
+sensu demonstrans. Vt. Horat.
+O nauis referent in mare te noui
+Fluctus, í quid agis, fortiter occupa portum.
+Quo in loco (vt ait Fabius) nauim pro republicæ.
+Fluctum pro bellis ciuilibus, portum pro pace & 
+concordia voluit poeta intelligi subijciuntur al­
+ligoriæ.
+
+Aenigma, quæ est oratio é qua propter obscu­
+ritatem nihil certi colligitur: vt, Mater me genuit, 
+eadem mox gignitur ex me. De glacie ex aqua 
+concreta, & rursus in eandem resoluta.
+
+
+
+
+Parœmia celebre dictum scita quapiam noue­ 
+tate insigne. vt Auribus lupum teneo.
+
+Ironia que non è verbis æque ac pronuntiatio­ 
+ne, reiue natura intelligitur. Est autem quum 
+aliud verba, aliud sensus continent. Eius forma 
+sunt.
+
+Sarcasmus, hostilis irrisio, & amara insultatio 
+En agros, & quam bello Troiane petisti, Hesperi­ 
+am metire iacens.
+
+Astysmus, quum quid faceta vrbanitate ex­ 
+politur. Virg.
+
+Qui Bauium non odit, amet tua carmine Meuim
+
+Atque idem iungat vulpes, & mulgeat hircos
+Mictyrismus, Simulatus risus, non tamen la­ 
+tens. Persius.
+
+Non ego curo.
+
+Esse quod Arcesilas.
+
+Charientismus, quum duriora gratiosis verbis 
+molhuntur. Terent, Bona verba queso, quum 
+pistrinum deprecaretur Dauus.
+
+De Tropis.
+
+QVoniam Troporum cognitio pueris pernecessa­ 
+ria est, & cum his figuris de quibus hactenus
+disseruimus, coniunctam tractionem habet, ide­
+circo eos explanando, ac diuidando, paucis perse­
+
+
+
+
+quemur. Ab eis enim quasi ingressus ad ratio­
+nem dicendi patefit studiosis eloquentie. Vt Gram­
+maticus hic suam artem absoluere, Rhetor incho­
+ere, ac tanquam fundamenta sua ponere videa­
+tur. Est igitur Tropus verbi, aut sermonis a pro­
+pria significatione in aliam deflectio. Et est duplex dictionis, & orationis.
+
+De Tropo dictionis.
+
+TRopus dictionis, est figura transferens dicti­
+onem a propria & vulgata significatione e­
+ius, ad non propriam, decoris, aut necessitatis cau­
+sa. Huius species sunt.
+
+Metaphora, quum verbum ex eo loco in quo pro­ 
+prium est, in eum, in quo aut proprium deest, aut 
+translatum proprio melius est, ac significantius, (quiæ 
+propter similitudinem recte videtur posse fieri,) trans­ 
+fertur, Idque multis modis. Primum a sensibus 
+corporis ad animum. Vt.
+
+A visu. Terent. Respice etiam tuam. pro curam 
+age.
+
+Ab auditu. Idem. Herumne relinquam an  
+auscultem seni. pro obtemperem.
+
+Ab olfactu. Num quid patri subolet? pro. patri 
+aborta suspitio. 
+
+A gustu. Cicero, Paucorum dierum molestiam 
+
+
+
+
+deuorate. pro, citra sensum perferte.
+A bruto ad hominem. vt Cato Scipionem ab­ 
+trare solebat. pro, conuitiari.
+
+Ab animali ad non animal, nunc omnis agen 
+nunc omnis parturit arbos.
+
+Ab animali ad animal, vt si quis dicat simi­ 
+am equo inequitare.
+
+Ab inanimato ad animatum. Cicero floret elo­
+quentia.
+
+Aliquando in simplici nomine est Metaphore 
+vt, si quis hominem ventri deditum pecudem ap­
+pellet.
+
+Interdum in epitheto, Vt si quis dicat, vndax
+esse vitream.
+
+Interdum in verbo. vt, auolat ætas.
+
+Catachresis est necessaria nominis alieni vsurpa­
+tio pro proprio, vt quum paricidam appellamus, qua 
+vxorem occidit quum proprie sit qui occidit patrem. Ad 
+Metaphor a differt, quod abusio est vbi nomen des­ 
+fuit, translatio vbi aliud fuit.
+
+Metonomya est quum rerum valde cognatarum 
+nomina nominibus permutantur. sic.
+
+Inuentor pro re inuenta. Teren. Sine Cerere & 
+Baccho friget Venus. Cererem pro cibo, Bacchum 
+pro vino. Venerem pro libidine dixit.
+
+Possessor pro re possessa, Terent. Hunc tibi co­
+
+
+
+
+medendum propino pro huius bona.
+
+ator pro opere. Cicero semper in manibus habendus 
+
+lux pro exercitu. Hannibal ad Cannas sexagin  
+millia hominum occidit.
+
+Faciës pro facto. Hic melior remis. pro velocita­
+m quæ fit per remos.
+
+Continens pro contento. Armis Italia non po­
+s vinci, nec Grecia disciplinis.
+
+Signum pro signato. Cedant arma togæ, conce­
+it laurea linguæ.
+
+Differt a Metaphora quod ille proprium cum
+seno. hec ornandi caussa proprium proprio com­
+mutat nec tralatum verbum habens, nec factum, 
+vel sumptum ex vicino.
+Metalepsis, cum nomen quod caussæ debetur, 
+attribuitur effecto. Virg. Post aliquot mea regna 
+videns mirabor aristas. Vbi estates intelliguntur 
+quæ faciunt aristas.
+
+Synecdoche, cum aliud ex alio intelligimus. Vi.
+
+Ex vno plures. Penus fuit Hispanis auxilio, 
+ò. Peni.
+
+Ex parte totum. Ridiculum caput.
+
+Ex specie genus. Iracundior Adria.
+
+Ex materie res confecta. Ferro eum confecit. 
+Pro gladio, ex ferro facto.
+
+Ex antecedentibus consequentia, Virgineam soluit
+
+
+
+
+zonam pro, deuirginauit.
+
+Ex consequentibus antecedentia. Vt, in sudo 
+vultus tui vesceris pane, pro, in labore.
+
+
+
+	
+Of Tropes.
+
+Because the knowledge of Tropes 
+is very necessary for chyldren, and the 
+teachyng of them ioyned with those fi­ 
+gures, of whiche hytherto we haue tal­ 
+ked: therefore we wyll brieflye shewe, 
+expounde, and diuide them. For an 
+entraunce to Rhethorike, by them is 
+made open to such as be studious of E­ 
+loquence. So that the Grammarian 
+here semeth to end his art, and Rheto­ 
+rician to begin, and as it wer to lay his 
+foundacion. A trope then is a bowing of 
+a worde or speache from his owne sig­ 
+nification into another. And is in two 
+sortes, of a worde, and of oration.
+
+The Trope of a worde.
+
+The trope of a worde is a figure be­ 
+ryng the woorde from his proper and 
+vulgar signification, to an other that 
+is not proper, eyther for pleasantnes or 
+necessitie. Whose kyndes be these.
+
+Metaphora, when a word is translated  
+
+
+
+
+out of his proper place into another, wher­ 
+in either there lacketh a proper worde, 
+& the worde translated is better, and of 
+more signification, & may well be so done 
+or a similitude. And that many wayes.
+Fyrst from the senses of the bodye to
+the minde: as, from the sight. Terence.
+Loke vpon your old age, for haue regard 
+From the hearing. Terence. Whe­
+ther I should leaue my mayster, or her­
+ken to the olde man, for obey.
+From smelling, doth my father smel 
+but any thing? for suspect any thyng.
+From tasting. Cicero. Swallow vp 
+the payne of a fewe daies, for thinke ye 
+fele it not.
+From the reasonable to the vnreaso­
+nable, as. When we applye the dede, or 
+affeccion of man to any beast: and ma­
+ny suche be in virgil in Georgikes tou­
+ching Bees.
+From the vnreasonable to the reaso­
+nable, as. Cato, was wont to barke at 
+Scipio, for, to chide with him.
+From the liuyng, to the lyuing: as if 
+you wyll saie, that an Ape rydeth on 
+
+
+
+
+horsebacke.
+From the lyuyng to the not lyuyng
+as nowe all the fieldes laughe.
+From the not liuing to the liuyng.
+Sometime in a verbe there is trans­
+lacion. as, time flyeth away.
+
+Catachresis is a necessarye abuse of 
+like wordes, for the proper: as, when we 
+cal hym a manqueller, whiche hath kyl­ 
+led any person, man or woman, mother or 
+wife. This figure differeth from Metapho­ 
+ra, because abusion is wher ther lacked a 
+word: translation where an other was.
+
+"catachresis" antedates the earliest OED citation (1589).
+
+
+
+Metonymia, when in thynges that 
+be syb together, one name is chaunged 
+for an other, as.
+The finder for the thing that is found 
+Terence. Without Ceres and Bac­
+chus Venus is colde: where Ceres is 
+put for meate, Bacchus for wyne, and 
+Venus for Lechery.
+The possessor for the thing that is possessed: 
+as, haue here this man to bee eaten vp 
+for hys goodes.
+The authour for the worke: Cicero, 
+must alwaies be had in out handes: for, 
+
+
+
+
+the workes of Cicero.
+The captain for the host. Hannibal at 
+Cannas killed. lx. thousand men: for, the 
+hoost of Hanniball.
+The conteiner for that that is conteined, 
+Italie cannot be ouercome by warre, nor 
+Grece by learnyng: for, the menne that 
+dwell there.
+The signe for that that is signified. as 
+Let weapons geue place to the gowne, 
+and the Lawrel to the tongue.
+This trope differeth from Metaphora: 
+because Metaphora chaungeth a word of 
+her own with another, though the thinges 
+be very diuers: but here as the thinges must 
+be very nigh, so must the wordes also be
+
+Metalepsis, when a word that is dew 
+to the cause is ascribed to the effect.
+
+Synecdoche, when one thing is vnder­
+stande by an other, or we vnderstande 
+more then we speake, as.
+Of one many. The Carthaginian holp 
+the spanyardes. for, the Carthaginians.
+By the part the whole. O thou folish 
+head, for foolishe man.
+By the kinde the generall. as, If thou 
+
+
+
+
+see thine enemies Asse, fall vnder hyr 
+burthen, for cattell.
+By the mater, the thing that is made of it 
+as fleshe and bloude did not shewe thee 
+this. Fleshe and bloude, is put for man 
+made of fleshe and bloude.
+By that that goeth before, the thyng 
+that foloweth. As he vnlosed her vir­
+gins gyrdle. For he had her virginitie.
+By that that foloweth the thing that 
+goeth before: as, in the swet of thy face, 
+thou shalt eate thy bread. For with la­
+bour.
+
+Antonomasia, whan for the proper 
+name, some other external is put, either 
+of study, art, office, or dignitie, as.
+Phylosopher. for Aristotle.
+Poet. for Virgil.
+Sauiour. for Jesus.
+Apostle. for Paule.
+Or contrary, proper names, for appel­
+latiues, as.
+Socrates. for Wiseman.
+Thraso. for Boaster.
+Also the name of nacion for the pro­
+perties attributed to the nacion, as.
+
+
+
+
+A Cretian. for Lyer.
+A Scithian. for Cruel.
+A Sybaritie. for Riotous,
+A carthaginian. for League breaker.
+    
+Periphrasis is, when that, that may 
+be spoken with one woorde, is declared 
+in many, and that three maner wayes.
+By explicacion of the name: as when 
+for this word Philosopher, we saye: a 
+man studious of wisedom.
+By diffinicion of the thyng, as for 
+Logike, the art of reasoning.
+By notacion, that is, when by cer­
+tain markes, and signes we do describe 
+any thing: as, if a man vnderstandyng 
+anger, wil saye it is the boylyng of the 
+minde, which bringeth palenes vnto the 
+countenaunce, burning to the iyes, trem­
+bling to the partes of the body.
+Also, when for the proper name we 
+put the countrey, the sect, or some great 
+act: as.
+For Virgil, the Poet of Mantua.
+For Aristotle, the prince of peripateti­
+tall schole.
+For Scipio, the destroyer of Carthage 
+
+
+
+
+and Numance.
+
+Periphrasis is to hide thinges that 
+be foule: as when we saye, I wyl goe to 
+the priuie, for.
+I will make water, for
+And to garnish thinges that be goodly 
+and to make that that is shorte, goodly 
+and long, as dothe Erasmus vpon the 
+gospels and pistles.
+It differeth from Antonomasia, be­ 
+cause there, but one worde is chaunged 
+with another, here one worde is decla­ 
+red with many.
+
+
+Tropes of Oration.
+
+Trope of Oration is, when the syg­ 
+nification, not of one word only, but of 
+al that be in the construction be chaun­ 
+ged. The kyndes be these.
+
+Allegoria, which is an oration, shew­ 
+ing one thing in wordes, and another in 
+sense. Horace. O ship, shal new floude
+carye thee agayn into the sea?
+O what dost thou? take the hauen lustily
+Where ship is put for the common welth 
+floudes for ciuil battell: hauen for peace 
+and concorde. He hath these kindes.
+
+
+
+
+Enigma, whiche is an oracion, out of 
+whiche for the darkenes, there can be no 
+certaintie gathered: as. My mother be­
+gat me, & of me anon is begotten again: 
+ment of yce frozen of water, and resolued 
+agayne into the same. Also the halfe is 
+more then the whole. By which is com­
+mended mediocritie.
+
+Paroemia, a saying much vsed, & no­
+table for some noueltye: as. I holde 
+the woulfe by the eares. Also the woulf 
+is in our tale.
+
+Ironia, dissimulacion, not so muche 
+perceiued by the woordes, as either by 
+pronunciation, or by the behauior of the 
+person, or nature of the thing. His kinds 
+be these.
+
+Sarcasmus, a scorne of our enemye, 
+and a nipping taunt. As the Iewes said 
+to Christ: now let him come down from 
+the crosse, and saue hymselfe, that saued 
+other.
+
+"saracasmus" antedates the earliest OED citation (1579).
+
+
+
+Astysmus, whan a thyng is po­
+lished with some mery conceit, as Vir­
+gil speaking of twoo foolishe Poetes, 
+Mauius and Bauius sayde: He that 
+
+
+
+
+hateth not Bauius, lette hym loue thy 
+verses, O Meui, ioyne foxes, and mylke 
+he goates.
+
+Myctirismus, a counterfayted laugh­ 
+ter, but yet suche one as may be percey­
+ued. Persius. I care not, to be as Arce­
+silas is.
+
+Charientismus, when thinges that be 
+hardely spoken, be mollifyed with plea­
+saunte woordes. Terence. Sir I praye 
+you be good master to me, quod Dauus
+when yet he desired Simo, that he might 
+not bee thrust into the bakehouse.
+
+
+
+
+	
+De Schematibus sex Figuris.
+	
+
+FIguræ siue Schema, est arte aliqua nouata di­
+cendi forma, vt inquit Fabius. vel, con
+formatio qui­
+dam orationis, remota a communi, & primum 
+se offerente dicendi ratione.
+Figura duplex est, aut sententiarum, aut ver­
+borum. Sæpe coeunt hæ figuræ, velut in illo Cice­ 
+ronis: Iam iam Dolabella neque tui me, neque 
+tuorum liberum, & quæ sequuntur. Nam 
+oratio a iudice auersa in sententia, iam iam, & 
+liberum, in verbis sunt Schemata, hoc est, Apos­
+
+
+
+
+tropha, sententiæ figura. in, iam iam, Epizeuxis, 
+in liberum, Syncopa, verborum figuræ sunt. Est 
+autem hoc inter figuras discrimen, quod ver­
+borum Schema tollitur, si verba mutaris, senten­
+tiarum permanet, quibuscunque verbis vti ve­
+s.
+
+De figuris verborum.
+
+FIgura verborum est duplex, aut enim verbi 
+significatio mutatur, & dicitur Tropus, de 
+duo superius a nobis dictum. aut verbi signifi­
+catio manet, idque vel in singulis vocibus, de 
+duo ipso quoque dictum est: aut in coniunctis, 
+quam orationem dicimus, de hac figura iam age 
+nus. Est igitur hoc loco figura verborum, quum
+ordo situsque verborum, figuratur, & mutatur, ac 
+onnibil a vulgata constructione variat. Huius
+spspecies sunt.
+
+
+
+
+	
+Of Schemes or figures.
+
+
+Figure or Scheme, is a facion of in­
+dighting made newe, by some crafte, as 
+sayeth Fabius. Or a facioning of many 
+wordes remoued from the common ma­
+ner of speaking, as it commeth out at 
+the fyrst.
+Ther be two sortes of figures: of senten­
+ces, & wordes. These often cum together 
+
+
+
+
+As in this saying of Cicero, Now not 
+Dolebella, neyther doe I force of thee 
+nor thy children. For the oration turned 
+from the iudge, is in sentence, now now 
+and liberum, be Schemes in woordes: In 
+iam iam is Epizeuxis, in liberum, Syncopa. And 
+thei be figures of wordes. And this is the 
+difference betwene these figures, that 
+the Schemes of wordes be taken away 
+if thou chaunge the wordes: but thei of 
+sentences remain vse what wordes thou 
+wilte.
+.
+
+Of the figures of woordes.
+
+
+The figure of wordes is of. ii. sortes 
+For ether the significacion of the word is 
+chaunged, & is called a trope, of the which 
+we haue spoken afore: Or the signi­ 
+ficacion of the word remayneth, & that 
+in eche word alone, of the which also we 
+haue spoken: or in wordes ioygned to­ 
+gether, which we cal talke, or Oration
+Of this figure we wyll nowe speake 
+So in thys place the figure of woordes 
+is, when the order and settyng of
+woordes is chaunged, and varieth some­ 
+what from the common setting of them
+
+
+
+
+together. And hereof these bee the 
+kyndes.
+
+Repetitio est, cum continenter ab vno atque eo­
+dem verbo primcipia sumimus, hoc pacto. Tibi 
+istud attribuitur: Tibi habendæ gratiæ: I ibi ista 
+es erit honori. Venusta & acris figura.
+
+Repeticion is, when we take our be­
+ginnynges styll at one, and the selfe 
+same woorde, thus. To thee this thing 
+is ascribed: To thee thankes are to be 
+geuen: To thee it shall bee great ho­
+noure. This is a pleasaunt and sharpe 
+figure.
+
+Conuersio, quæ non ab vno atque eodem verbo 
+principia sumit, sed eodem modo continenter o­
+rationem claudit: estque superiori contraria: vt, 
+Ex quo tempore concordia de ciuitate sublata est, 
+ides sublata est, amicitia sublata est.
+
+Conuersion is, which taketh not his 
+beginning at one, & the selfsame word, 
+but with all one worde styll closeth vp 
+the sentence, and it is contrarye to that 
+other before: as. Since the time that con­
+corde was taken away from the cytye, 
+
+
+
+
+libertye was taken away, fidelitie was 
+taken away, frendship was taken away.
+
+Complexio vtramque complectitur exornatio 
+nem: & hanc, & quam ante exposuimus: vt & 
+repetatur idem verbum sæpius, & crebro ad idem 
+postremum reuertamur: vt, Qui sunt qui fæder
+sepe ruperunt? Carthaginenses. Qui sunt qui cru­ 
+dele bellum in Italia gesserunt? Carthaginenses 
+Qui sunt qui Italiam deformauerunt? Carthage­ 
+nenses.
+
+Complexion, compriseth both two exorna­
+cions, bothe this, and that we declared 
+before, that bothe one fyrste woorde
+shoulde bee often repeted, and that we 
+should turne often to al one last word: as 
+who were they that often brake theyr 
+Leagues? The Carthaginians. Who 
+made cruel warre in Italie? The Car­ 
+thaginians. Who defaced all Italie? 
+The Carthaginians.
+
+Anadiplosis, est finis versus, in principio alte­
+rius, repetitio, vel quum prioris sententiæ verbum  
+vltimum, ac insequentis primum est idem, vt, sequi­ 
+tur pulcherimus Astur, Astux equo fidens, Se
+
+
+
+
+& oratores quoque hac figura vtuntur, Cic. Hic ta­ 
+men viuit, viuit? imo etiam in senatum venit.
+
+Anadiplosis is, when the last woorde 
+of a verse is repeted in the begynnyng 
+of the next verse, as in this verse of Vir­ 
+gil. Then folowed fayre Astur, Astur 
+bolde on horsebacke. The oratours also 
+vse this figure. Cicero. And yet he li­
+ueth. Liueth? yea commeth into the coun­ 
+sell house.
+
+"Anadiplosis" antedates the earliest OED citation (1589).
+
+
+
+Conduplicatio est, cum ratione amplificatio­
+nis, aut commiserationis, vnius, aut plurium ver­
+borum iteratio, vt, Teren. Negat Phanium esse hanc 
+sibi cognatam Demipho? Hanc Demipho negat sibi 
+cognatam?
+
+Reduplicacion is a rehearsyng again 
+of one worde or moe, for the more vehe­
+mence or some pitie, as. Terence. Thys 
+Phanium to be his cowsin, dothe De­
+mipho denye? Doth Demipho deny this 
+Phanium to be his cowsin.
+
+Nec multum ab hac figura distat Interpreta­
+tio hoc tantum differens, quod in hac eadem ite­
+ratur sententia, verbis per figuram aliquam, aut 
+pariandi rationem commutatis. Cicero. Hic
+
+
+
+
+tu qua letitia perfruere? quibus gaudiis exultabis
+quanta in voluptate Bacchabere? Fit & singulis 
+verbis. Nobiscum iam versari diutius non potes, 
+non feram, non patiar, non sinam,
+
+Interpretacion differeth not muche 
+from this figure: herein onelye, that in 
+this al one thing & sent ence is rehersed, the 
+woorde by variacion beyng chaunged. 
+Cicero. What gladnes shalt thou fele? 
+with what ioyes shalt thou leape? in 
+how great rage of pleasure shalte thou 
+be? It is also in seueral woordes, thus: 
+Thou canst nowe be no longar in oure 
+company. I wyl not beare it, I wil not 
+abide it, I wil not suffer it.
+
+"This figure" refers to "Reduplicacion".
+
+
+
+Epanalepsis, quum eadem dictio & in princi­
+pio & in fine versus ponitur, vt. Multa super pri­ 
+amo, rogitans super Hectore multa. Sulpitius vi­
+ctor Epanalepsim esse ait, eorundem verborum, 
+& eiusdem sententiæ, post multa interiecta repe­
+titionem. Numeratur etiam inter figuras constructionis
+
+Epanalepsis, when al one word is put 
+in the beginning & in the end of a verse: 
+as. Many thinges thei axed of Priamus 
+and of Hector many thinges. This fy­
+gure is spoken of hereafter among the 
+
+
+
+
+figures of construction.
+
+"Epanalepsis" antedates the earliest OED citation (1584).
+
+
+
+Epizeuxis, eiusdem dictionis sine medio conge­
+minatio, cum impetu pronuntiationis Cicero. Tu, tu 
+Antoni, Cesari omnia permiscere cupienti, caussam 
+belli ciuilis dedisti.
+
+Epizeuxis. The doublyng of one worde nothing 
+being betwixt: with a swift pronuncia­
+cion. Cicero. Thou, thou Antony ga­
+ueste cause of ciuyle battaile to Cesar, 
+willyng to turne al vpside downe.
+
+"Epizeuxis" antedates the earliest OED citation (1589).
+
+
+
+Copulatio cognata repetitioni est, vbi idem ver­
+bum, aut nomen bis continuo positum diuersa sig­ 
+nificat. Vt est illud. Sed tamen ad illum diem Mem­
+mius erat Memmius. Posterius, notat eius iam 
+cognitos mores.
+
+Copulation cosin to repeticion is, when 
+all one woorde beyng put twise strayte 
+together, signifieth diuers thinges, as is 
+this. Yet at that daie Memmius was 
+Memmius. This later noteth his ma­
+ners that wer well knowen.
+
+Huc pertinet Refractio, quum idem verbum, 
+repetitur in contrario sensu sic. Scio totam hanc vi­ 
+tam nihil esse quam amaritudinem, verum mihi 
+quæso da huiusmodi amaritudinem.
+
+Refraction serueth to the like, when 
+
+
+
+
+all one worde is repeted in a contrarye 
+sense, as I know all this life to bee but 
+bitternes, but I pray you geue me such 
+bitternes.
+
+Traductio, quum eadem vox alio casu sepius 
+repetita, non modo tædium nullum affert, verum 
+concinniorem quoque orationem reddit, hoc pacto 
+Diuitas sine diuitum esse, tu vero virtutem præ­
+fer diuitijs. Nam si voles, virtutem cum diuiti­
+jis comparare, vix satis idoneæ tibi videbuntur di­
+uitiæ, que virtutis pedissequæ sint.
+
+Traduccion, when al one woorde re­
+peted in another case, not onely is not 
+tedious, but also maketh the oration more 
+trimme, thus. Suffer riches to belonge 
+to riche men, but preferre thou vertue 
+before riches. For if thou wilt compare 
+riches with vertue, thou shalte thinke 
+riches scarse mete to bee handmaydens 
+to vertue.
+
+Diaphora, quum vox iterata iam aliud significat ac 
+prius. Ouidus. Talis erat mater si modo mater erat 
+pro, si maternum erga filiam animum geret. Idem. Et multos 
+illic Hectoras esse puta. pro, multos viros fortes & 
+Hectoris similes.
+
+
+
+
+Diaphora, whan the woorde rehear­
+ed again signifieth another thing than 
+it did afore: as. Suche was his mother, 
+yf she were his mother, for, yf she bare 
+a motherly mynde towarde her sonne. 
+Also. Think many Hectors to be there, 
+that is, many valiaunt men, and like vn­ 
+to Hector.
+
+Annominatio, est declinatio, quædam in contra­
+rium ex similibus literis additis, demptis, aut mu­ 
+tatis, cum similia verba accommodantur. Ea multis & 
+variis rationibus conficitur: Et additis quidem 
+hoc pacto. Hic sibi posset temperare misi amori mal­
+let obtemperare. Demendis literis sic: Si lenones 
+tanquam leones vitasset, vitæ se tradidisset. Con­
+mutandis hoc modo. Deligere oportet, quem velis 
+diligere.
+
+Annominacion is a certain declining 
+into a contrarye, by a likelihoode of let­
+ters, added, chaunged, or taken awaye: 
+Added thus. If he had tempered himself 
+from pleasure, he had not been thus distem­ 
+pered out of measure: By takyng away 
+thus. If he had hated brokes, as wel as 
+bookes, he had been aliue at this houre. 
+
+
+
+
+by chaunging thus. Geue him a Bible 
+nay, geue hym a bable.
+
+"Annomination" antedates the earliest OED citation (1753).
+
+
+
+Asyndeton est, quæ coniunctionibus sublatis 
+continuat orationis partes. sic. Deum time: regem 
+venerare: parentibus obedito: bonos æmulare, im­ 
+becillos tolerato. Grauitatem addit præcipienti: & 
+præcipue locum habet in Articulis, & Membris.
+
+Asyndeton is, which kepeth the partes 
+of our speakyng together, without help 
+of any coniunctions: thus. Feare God, 
+reuerence the kyng, obey thy parentes, 
+folow good men, beare with the weake.
+
+"Asyndeton" antedates the earliest OED citation (1589).
+
+
+
+Articulus est, cum singula verba distinguntur 
+cesa oratione, hoc modo. Rem, famam parentes, a­
+micos, deum, amisisti.
+
+Article is, when eche woorde is sette 
+from other by cutting the oration thus. 
+Thou hast lost thy substance, thy name, 
+thy parentes, thy frendes, and god hym­
+selfe.
+
+Membrum orationis est, quod paucis verbis 
+constructionem quidem absoluit, at sententiam 
+non item, Vt, patrimonium prodegisti, parentes, in
+
+
+
+
+luctum coniecisti: amicos abalienasti, famam con­
+taminasti: deum ad iram prouocasti, Vtraque fi­
+gura facit ad acrimoniam orationis, quod veluti 
+crebris ictibus ferit animum: & in vtrisque 
+obseruandum, vt per gradus increscat oratio, ni­
+mirum, vt quod grauissimum est, sit postremo loco. 
+Quod si non fit, erit congeries, nam ea turba premit 
+magis quam incremento. Gratiam quoque in v­
+trisque addit Asyndeton.
+
+Member of an Oracion is, whiche 
+in fewe woordes maketh an ende in 
+deede of the Construccion, but not of 
+the sentence also, as. Thou haste wa­
+sted thy Patrimonie, cast thy parentes 
+into sorowe, turned awaye thy frendes, 
+defyled thy name: prouoked God to an­
+ger. Both these figures serue to sharp­
+nesse: because in maner they stryke 
+the mynde with often strokes. And this 
+muste be marked in both, that the spea­
+king grow by degrees, so that the grea­
+test bee set last. And if it so be not, then 
+is it the figure called Congeries, whiche 
+forceth more by heaping, then by encrease. 
+They bothe are well sette out by this 
+figure Asyndeton.
+
+"Congeries" antedates the first citation in OED (a1620).
+
+ 
+
+
+
+
+Membris gratiam addit partium æqualitas. Cre­
+ci ωαρισον, Latini compar appellant, quæ ta­
+men non digitis, sed aurium sensu quodam diiu­
+dicanda est, Puerile siquidem est numerare syl­
+labas, quum pauciores si productæ sunt, frequen­
+ter æquent numero plures. Sed tantum affert vsus 
+& exercitatio facultatis, vt animi quodam sensu 
+par membrum superieri referre possimus. Quale 
+est pro Lucio Valerio Flacco. Nominibusque reci­
+tatis homo audacissimus pertimuit, loquacissimus 
+obmutuit, Item, in prelio pater mortem oppetebat, 
+domi filius nuptias comparabat.
+
+The equalitie of partes muche com­
+mendeth this figure called Membrum:  
+whiche equalitie must yet be tryed by a 
+certain secrete sense of the eare, and not 
+by measuring vpon oure fyngers. For 
+that is childish to tel the syllables, when 
+oftentimes a few long syllables match 
+in measure many that be short. But vse 
+and exercise doth so muche, that we may 
+soone referre one member to another. 
+As, for L. Valerius Flaccus. When the 
+names were recited, the bold man was 
+aferde, & the great babler hild his tong. 
+Also, the father died in warre, the sonne
+
+
+
+
+was maryed at home.
+
+Continuatio est densa & continens frequenta­
+rio verborum, cum absolutione sententiarum. Ea 
+vtemur commodissime tripartito. In sententia, hoc 
+pacto. Ei non multum obesse potest fortuna, qui 
+sibi firmius in virtute, quam in casu præsidium 
+collocauit. In contrario hoc modo. Nam si quis spei 
+non multum collocarit in casu, quid est quod ei 
+casus magnopere obesse possit? In conclusione, hoc 
+pacto. Quod si in eos plurimum fortuna potest, qui 
+suas rationes omnes in casum contulerunt: non sunt
+omnia committenda fortunæ, ne magnam nimis 
+in nos habeat dominationem.
+
+Continuacion, is a continual heaping 
+of woordes, the sentences also perfigh­
+ted: and it may be vsed three wayes. In 
+sentence thus. Fortune cannot hurt him 
+muche, which more firmely trusteth in 
+vertue, then in chaunce. In contrary thus. 
+For if a man put not hope in chaunce, how 
+shall chaunce muche hurte him? In con­
+clusion thus. And if fortune maye dooe 
+muche agaynst them, which hath put al 
+their accomptes vpon chaunce: all are 
+not to be committed to fortune, lest for­
+tune haue to great a dominacion vpon them.
+
+
+
+
+Similiter cadens est, cum in eadem constructi­
+one verborum, duo aut plura sunt verba, quæsimiliter 
+cisdem casibus efferuntur, hoc modo. Hominem laudas 
+egentem virtutis, abundantem felicitatis. Cicero pro 
+Flacco. Nulla est in his varietas opinionis, nulla 
+voluntatis, nulla sermonis.
+
+Falling like is, when in the same con­
+struction of wordes, there be. ii. wordes 
+or moe, which be spoken alike in the self 
+same cases, as. Thou praisest a man nedy 
+of health, plentiful of wealth. Cicero for 
+Flaccus. There is in them no varietie of 
+opinion, none of affection, none of com­
+munication.
+
+Similiter desinens est, cum dictiones vel sententiæ 
+similes habent exitus, vt. Turpiter audes facere 
+nequiter studes dicere. Viuis inuidiose, delinquit 
+studiose, loqueris odiose. Hæc duo ornamenta inter 
+se vehementer conueniunt, quorum alterum in ex­
+itus, alterum in casus similitudine versatur.
+
+Ending alike, when wordes or sentences, 
+haue like endinges, thus. Thou darest do 
+filthily, and studiest to speake baudely. 
+Thou liuest disdainfully, thou sinnest pur­ 
+posely. Thou speakest hatefully. These 
+two kindes of ornamentes, agree greatly 
+
+
+
+
+together: of which the one is in lyke en­
+dinges: the other in like cases.
+
+
+
+
+	
+FIGVRAE RHETHORICAE 
+Secundi generis.
+
+INterrogatio, Interrogationum duæ sunt 
+formæ Simplex. vt. Sed qui vos tandem? 
+quibus aut venistis ab oris.
+Figurata multas habet species: Interrogamus 
+enim nonnunquam, non sciscitandi gratia, sed in­
+standi, Cicero. Quousque tandem abutere Catili­
+næ patientia nostra? Aut miserationis caussa, Vt 
+Sinon apud Virgilium. Nam quæ me tellus, quæ 
+me nunc æquora possunt accipere? Aut indigna­
+tionis. Et quisquam numen iunonis adoret Præte­
+rea? Aut admirationis. Dij boni, quid illic homi­
+num litigat. Aut acrius imperandi gratia. Non armæ 
+expedient, totaque ex vrbe sequentur? Seruit hæc 
+figuram multis & varus affectibus. Tum vero commo­
+dissime adhibebitur, cum quid argumentis est euictum
+
+
+Of demaundes there bee two sortes. 
+One plaine, as. I pray you tel me what 
+you be, or from what coastes you do come
+The figuratiue hath many kindes. For 
+somtime we are, not to haue an answer, 
+
+
+
+
+but to set our purpose more forwardes 
+thus. Cicero. Then Latiline, how long 
+wylt thou abuse our pacience? Or for pi­
+tie sake, as Sinon doth in Virgil. Alas 
+what grounde, what sea may nowe re­
+ceyue me? for anger also. And wyll anye 
+man hereafter worshippe the power of 
+Iuno? for meruaylyng. Terence. O 
+Lorde what a sort now goe to the law? 
+or more sharpelye to commaunde them. 
+Wyl they not nowe bring foorth theyr 
+harnes, and folowe me through all the 
+citie? This figure serueth to many af­
+fections, but speciallye whan we haue 
+wonne by reasonyng.
+
+Subiectio, quum ipsi respondemus nostræ inter­
+rogationi, vt, Ideone studia deseremus, quod mag­ 
+nus in his subeundus labor. Nequaquam, Item, 
+Quero vnde iste diuitias nactus est? An amplum 
+patrimonium relictum est? At patris bona renie­
+runt, Hereditas aliqua obuenit? non potest diei. I­
+mo a necessarijs omnibus, exhæredatus est.
+
+Subiection is, when we aunswer to 
+our owne demaunde thus. Shall we 
+therfore forsake studies, because greate 
+
+
+
+
+payne must be taken in them? No vere­
+lye. Also, I axe where this felowe gate 
+this riches. Had he any great patrimo­
+nie left him? Nay, al his fathers goodes 
+wer solde. Had he any thing by enheri­
+taunce? it cannot bee sayde, for he was 
+disherited from all thynges necessarye.
+
+Exclamatio est, quæ conficit significationem do­
+loris, aut indignationem alicuius, per hominis, aut 
+rei cuiuspiam compellationem. Cicero, O fallacem 
+hominum spem, fragilemque fortunam, & inanes 
+nostras contentiones quæ in medio spacio sæpe fran­
+guntur, & corruunt, & ante in ipso casu obruun­
+tur, quam portum conspicere potuerunt.
+
+Exclamation is, whiche sheweth the 
+signification of sorowe, or anger for 
+somewhat, by callyng vpon any manne 
+or thyng: thus. Cicero. O deceyuable 
+hope of men, and frayle fortune, & oure 
+payne contentions, whiche often tyme 
+are broken in the midde way, and rushe 
+downe, and in the verye fall are ouer­
+whelmed before they can see the hauen.
+
+Execratio est, cum aliquid detestamur propter
+
+
+
+
+ingentia quæsecum affert mala, sic. O detestandar
+idololatriam, quæ aco aignum honorem aufert 
+peccatoribus creaturis illam tribuens, & idoli 
+per hominum manus fabricatis.
+
+Execration is, when we deteste any 
+thing, for the great euils that it bring­ 
+eth with it, thus. O detestable Idola­ 
+trye, whiche taketh awaye the honour 
+dew to God, and geueth it to sinneful 
+creatures, and ymages made by mans 
+handes.
+
+Dubitatio, quum dubitare nos significamus 
+vel vnde sumamus exordium propter rerum mul­ 
+titudinem, vel quid potissimum agamus dolore a­ 
+liquo affecti. Cicero pro Roscio. Quid primum quæ­ 
+rar, aut vnde potissimum Iudices exordiar? aut 
+quod, aut a quibus auxilium petam? Tale est, E­ 
+loquar an sileam?
+
+Dubitation, when we signifie that we 
+doubt either where to take our begyn­ 
+nyng for the multytude of thynges 
+or for sorowe say, wherat shal we fyrst 
+begin. Cicero for Roscius. Of what shal 
+I first complaine? Or, O iudges, where 
+shal I first begin? What, or of whom shal 
+I cal for help?
+
+
+
+
+Communicatio, quum aut ipsos aduersarios consuli­
+nus, aut cum iudicibus deliberamus, quia faciendum
+Vt aut quid factum oportuerit. vt, Cedo si vos eo loco
+essetis, quid tandem faceretis aliud? Et, in hoc turbu
+entissimo rerum statu, date consilium quid mihi 
+censetis faciendum.
+
+Communication, when eyther we 
+axe our aduersaries counsaile, or delibe­ 
+rate with the iudges, what is to be done 
+or ought to haue been done. as. Tel me 
+if you were in the like state, what other 
+thing would you doe? And in this trou­
+blous worlde, geue me counsell, what 
+you thinke best to be done.
+
+Permissio, quoties aut dissimulationem, aut as­
+seuerationem habet, tum demum figura est. As­
+seuerationem sic. Perfrica frontem, & dicte dig­
+niorem qui pretor fieres quam Catonem. Dissimu­ 
+lationem. vt apud Terentium. Quid isthuc? Si ti­
+bi isthuc placet, profundat, perdat, pereat, nihil ad
+me attinet. Hæc enim artificiosa prohibitio est, per
+ironicam concessionem.
+
+Permission, when it hath a dissimulation 
+or an affirmation, than in dede is it a fy­
+gure: asseueration thus. Rub thy forehed 
+& say thou art more worthy to be consull 
+
+
+
+
+then Cato. Dissimulation thus. Te­
+rence. What meaneth this? If it so please 
+thee, let hym wast, let hym destroie, and 
+be destroyed, I haue nothing to do with 
+it. This is a crafty forbidding, by a moc­ 
+king graunt.
+
+Licentia est, quum mitigamus liberius dicta, non 
+auditorem offendant, hoc pacto. Si molesta est ora­ 
+tionis acerbitas, cogitate graues morbos, non sa­ 
+nari leuibus pharmacis.
+
+Licence, when we mitigate thinges 
+spoken freelye before, leste the hearer 
+should bee offended, thus. If my bytter 
+woordes greue you, remember, that sore 
+sickenes is not eased with lyght reme­
+dies.
+
+Diminutio, cum quod in nobis, aut in his quos 
+defendimus est egregium. ne qua significetur arro­
+gans ostentatio, diminuitut, & attenuatur orati­
+one, sic. Nam hoc pro meo iure Iudices dico, me la­ 
+bore & industria curasse, vt disciplinam milita­
+rem non in postremis tenerem. Hic si quis dixisset 
+vt optime tenerem, tametsi vere dixisset tamen ar­
+rogans visus esset. Nunc & ad inuidiam vitan­
+dam & ad laudem comparandam, satis dictum
+
+
+
+
+est Porro, vt licentia prestat, neoffendat libertas: ita
+Diminutio facit, ne quod necessario dicitur, arro­
+ganter, dictum videatur.
+
+Diminution, when any thyng that is 
+excellent in vs, or in those that we de­
+fende, is by woordes diminished, to a­
+uoyde boastyng, thus. For this dare I 
+boldely saye, you Iudges, that I haue 
+trauayled and laboured to vnderstande 
+the feates of warre, not with the worst. 
+Here if a manne shoulde haue sayde to 
+bee as good as the beste, althoughe he 
+shoulde haue sayde trewe: yet he should 
+haue been thought proude, and arrogant. 
+Now to auoide disdayn, and get praise, 
+ynoughe is spoken. Further, as this fi­
+gure Licentia, causeth that our free spe­
+kyng doth no displeasure: so doth dimi­
+nution make that whiche is necessarily 
+spoken, seme not spoken proudly.
+
+Reiectio est cum eludimus aliquid ab aduer­
+sario contra nos propositum: ad quod respondere 
+difficile fuerit, & significamus vel indignum esse 
+de quo dicatur, vel quod ad rem nihil pertineat, 
+aut seruaturos nos in alium opportuniorem locum,
+
+
+
+
+hoc modo. Hac de re quid attinet dicere, quando
+ad institutum non multum facit. Huiusmodi est 
+pro Milone. Quid enim odisset Clodium Mito, se­
+getem ac materiam gloriæ suæ? Nam vel princi­
+pale argumentum Clodianorum eludit tantum 
+Cicero, non diluit.
+
+Reiection is, when we trifle out a 
+thing brought against vs by our aduer­
+sarye, to the whiche it is harde to aun­
+swere, and then say either it is not wor­ 
+thy to be spoken of or that it pertaineth 
+not to the purpose, or that we wyll 
+kepe it till another meter time, thus. 
+What neede me speake of this matter, 
+seing it maketh not muche to the pur­
+pose. Like is in the oration for Milo. 
+For why shoulde Milo hate Clodius, 
+seing he is the ground and chief cause of 
+his glorie. Here did Cicero trifle out 
+euen the principal argument of the Clo­ 
+dians, and did not solue it.
+
+Gradatio est, quum consequentia membra ab 
+eisdem oriuntur verbis, quibus antecedentia 
+claudiuntur: atque ita velut gradibus quibusdam 
+connectitur oratio, vt, Africano virtutem indu­
+
+
+
+
+stria, virtus gloriam, gloria æmulos comparauit. 
+Grauior hic est, quia res ipsa gradus habet. Est 
+aliquando in verbis gradatio. Vt, Torua Leenæ 
+lupum sequitur lupus ipse capellam. Haud dissi­
+mile est Anadiplosi, de qua dictum est antea.
+
+Gradation is, when the wordes that 
+goe before, be forthwith repeted, and so 
+runneth as it wer from steppe to steppe, 
+thus. Industrie to Affrican gat vertue, 
+vertue glorye, glory disdayne. Here the 
+matter hath degrees, and therefore is 
+more graue. Sometime it standeth in 
+woordes, as. The Leenes foloweth the 
+woulf, the woulf the goate. It is much 
+like Anadiplosis, whereof we spake be­
+fore.
+
+Commutatio fit inuerso sententiæ ordine. 
+vt, Non est viuendum vt edas, sed edendum 
+vt viuas. Huius generis est illa non sine caussa 
+laudata sententia. Si quid turpe facias cum 
+voluptate: voluptas abit, turpitudo manet: si quid 
+honestum facias cum labore, labor abit, honestum manet.
+
+Commutation is, when the order of 
+the sentence is tourned, thus. We must 
+not liue to eate, but eate to liue. Of this 
+suit is this sentence most worthily praised
+
+
+
+
+If thou dooe any sinne with pleasure, 
+the pleasure goeth awaye: the synne re­
+maineth: if thou dooe vertuously with 
+labour, thy labour goeth away, the ver­ 
+tue remayneth.
+
+"Commutation" antedates the earliest OED citation (1823).
+
+
+
+Contentio est commoda contrariorum inter se 
+relatio. Fitque vel verbis inter se pugnantibus: 
+vel sententiis contrariis. Sic qui suis rationibus ini­
+micus semper fuerit, eum quomodo alienis rebus 
+amicum fore speres? Hic in sententiis est pugna. 
+Assentatio iucunda principia, eadem exitus a­
+marissimos habet. Hic in verbis.
+
+Contention is a proper settyng to­
+gether of contraries. And eyther it is 
+in woordes that be contrarye, or in con­
+trarye thinges, thus. He that alwaye 
+was enemye to his owne reckonynges, 
+how shoulde we hope hym to be a frend 
+to other mennes matters? Here is con­
+trariety in sentences. Flattery hath plea­
+saunt begynnynges, and thesame bitter 
+endynges. Here is the strife in wordes.
+
+Occupatio, tacitæ obiectionis refutatio est: vt cum 
+ipsi ammaduertentes quid obsit nobis, prius id di­
+
+
+
+
+luimus, quam obtici possit. Vt Cicero dicit scire se m­
+uri quosdam, quod is qui per tot annos defendere
+multos, leserit neminem, ad accusandum Verrem 
+descenderit. Dein ostendit hanc ipsam accusati­
+onem Verris, sociorum esse defensionem.
+
+When perceyuing aforehande an ob­
+iection that might be layde agaynste vs
+and hurte vs, we wipe it away or euer 
+it bee spoken, as. Cicero sayeth: that he 
+knoweth some men wil meruayle, syth so 
+many yeres he defended many and hurt 
+one, he doth now come to accuse verres 
+Then dothe he shewe that this accusa­
+tion of Verres. is a defence of theyr 
+felowes.
+
+Anthipophora, quum respondemus ad obiectio­
+nem quæ Hypophora dicitur. Cicero. In verrem: 
+Vt enim hæc ita commissa sunt ab isto, vt non cog­ 
+nita sint ab omnibus. Hominem esse arbitror ne­
+minem, qui nomen istius audierit, quin facta quo­
+que eius nefaria commemorare possit. Virg. Verum 
+anceps pugnæ fuerat fortuna: fuisset. Quem me­
+tui moritura?
+
+Anthypophora, when we make answer 
+to an obiection that is layde agaynste 
+
+
+
+
+vs, thus. Cicero agaynst Verres. Yea, 
+but you say he hath done these thinges 
+so, that all men knewe it not. I thinke 
+there bee no man whiche hath heard of 
+his name, but can also rehearse his mis­
+cheuous actes. Virgil. But the chaunce 
+of fyght woulde haue been doubtfull. 
+What then? Whom feared I whiche 
+was ready to dye.
+
+Confessio, cum quedam largimur aduersario, 
+vt reliqua magis exaggerari possint, vt. Esto sane 
+fueris aliquando amicus, vna militaueris, sint a­
+liqua tua in eum beneficia, quid tum? An non 
+potuit dissilire gratia?
+
+Confession, when we graunte some 
+thinges to our aduersarye, that the rest 
+may bee made the more greuous, thus. 
+Bee it that thou wast once his frende, 
+his felowe in warre, and that thou hast 
+done somewhat for hym. What than? 
+Myght ye not therfore falle out?
+
+Paradiastole, cum ita aliquid conceditur, vt, 
+vicinum quiddam detrahi possit. vt, Veritas la­
+borare potest, opprimi non potest.
+
+Paradiastole, whan we so graunte
+
+
+
+
+somewhat, that we take awaye some 
+thing that is nere vnto it, thus. Trouth 
+maye be in ieopardy, but neuer opprest.
+
+Aetiologia, cum propositi alicuius statim caus­
+sam subijcimus. Cicero pro Archia. Si quid est 
+in me ingenij, &c. Vendicabit iure Archia. Fuit 
+enim mihi princeps ad suscipiendam rationem 
+horum studiorum.
+
+Aetiologia, whan we shew by and by 
+the cause of oure purpose. Cicero for 
+Archia. This witte that I haue (you 
+Iudges,) Archias may iustly chalenge 
+it vnto hym. For he was the chiefe and 
+principal, that made me to set my self to 
+these maner of studies.
+
+Dicæologia, cum aliquam officij rationem expo­ 
+nimus, aut excusationem, quod videlicet iure id, 
+et honeste faciamus, aut alioqui caussamur equi­ 
+tatem: vt, Lapsus sum sed adolescens, & inter ta­
+les versatus, inter quos non potui non corrumpi.
+
+Dicaeologia, when we shewe some 
+cause of oure duetye, or some excuse 
+that it is honeste so to dooe, Or laye 
+some reason for oure selfe, thus. I dyd 
+
+
+
+
+amisse, but I was yonge, and in suche 
+coumpanye, where I must of force bee 
+naught.
+
+Anangeon, cum allegatur necessitæs, quæ 
+vim in deliberando summam habet, vt, Amicum 
+deserui, sed coactus a legibus. Conseruaui amicinæ 
+fidem dum per leges licuit, nunc ab illo ab alie­
+nauit me, non voluntas, sed legum vis.
+
+Anangeon when we aledge necessity, 
+which in deliberation is of great force, 
+as. I forsooke my frende, but the lawe 
+compelled me: I kept frendship as long 
+as the lawe suffred me, now I am tur­
+ned from hym: not by wyll, but by force 
+of lawe.
+
+
+De postremo figurarum 
+genere. 
+
+PArtitio est, quum id quod generatim dici po­
+terat, per partes latius explicatur. Vt si dica­
+mus, Cyclopediam absoluit. Hanc sententiam ex­
+plicare potes hoc modo: Mire poetarum omnium 
+fabulas tenet, Rhetorum flosculos, Grammatico­
+rum laboriosos canones, Dialecticorum argutias 
+Phisices arcana, vltramundanæ sapientiæ ardua
+
+
+
+
+Theologorum abdita, Mathematicas apodixes, a­ 
+strorum motus, numerorum rationes, verborum, mon­ 
+tium, fluminum, fontium, situs, nomina, interual­
+la, vocum concentus, antiquitates, nouitates, grece 
+atque latine: denique quicquid vnquam eruditi­
+onis ab egregiis autoribus repertum, ac traditum 
+fuit, id vniuersum vnus hic absolute perceptum 
+cognitumque habet, ac meminit.
+
+
+Partition is, when that that might 
+be spoken generally, is more largely de­
+clared by partes. As if we would say: 
+he is perfectly seen in al sciences. Thys 
+sentence thou mayest declare by partes 
+in this wise. He knoweth merueylous­
+ly well the fables of Poetes, the flow­
+ers of Rhetorique, the painefull rules 
+of Grammer, the subtilties of Logiti­
+ans, the secretes of natural philosophy, 
+the hardnes of wisedom supernatural, 
+the misteries of diuinitie, the mathema­
+ticall demonstrations, the mocions of 
+starres, the reasons of numbers, the mea­
+suring of the earth, the situations, names 
+and spaces of Cities, Mountaynes, 
+Floudes, and Fountaynes, the dyffe­
+rence, and harmonies of Tunes, histo­ 
+
+
+
+
+ries olde, and newe: antiquities, nouel­
+ties, Greke and Latine: finally whatso­
+euer good learnyng hath been founde 
+and taught of good authours, all that 
+wholy hath this one man perfitlye per­
+ceyued, knowen, and remembred.
+
+Enumeratio est, quando singulatim ea commemo­
+ramus, per quæ ad exitum rei peruentum est, vt 
+hanc sententiam, Cicero Catiline conatus oppressit 
+ita potes locupletare. Catilinæ nefarios conatus per 
+iuuenes perditissimos, totius ciuitatis Romanæ in 
+ternecionem molientes, Marcus Tullius Cicero 
+consul sua sagacitate statim odoratus est, singulæ­
+ri vigilantia peruestigauit, summa prudentia de­
+prehendit, miro in Remp. studio prodidit, incredi­
+bili eloquentia conuicit, grauissima autoritate, ar­ 
+mis, atque felicitate sustulit.
+
+Enumeration is, when we reherse those 
+thynges seuerallye, by which the matter 
+was brought to passe: as. That Cicero 
+oppressed the purposes of Catiline: 
+thus you maye sette it foorth. The 
+myschieuous enterprises of Catiline, 
+by moste vngracious younge menne, 
+whiche wente about the vtter destruc­ 
+
+
+
+
+tion of Roome, Marcus Tullius 
+the Consull, by hys foresyghte dyd 
+quickelye smell oute, by his singuler 
+vigilance soughte out, by his hyghe 
+prudence founde out, by hys meruay­
+lous loue to the common wealth shew­
+ed out, by his incredyble Eloquence 
+proued oute, by hys graue authory­
+tye, power, and happynesse, thruste 
+out.
+
+"Enumeration" antedates the earliest OED citation of this sense (1862).
+
+
+
+Distributio est, cum in plures res, aut personas certas 
+negotia quedam dispertiuntur, hoc modo. Senatus 
+officium est consilio ciuitatem inuare, Magistra­
+tus officium est, opera & diligentia; consequi vo­ 
+luntatem senatus: populi officium est, res opti­
+mas, & homines idoneos maxime suis sententijs, 
+eligere, & probare. Cicero pro L. Murena: Hic ve­
+ro iudices, & fuit in Asia, & viro fortissimo pa­
+renti suo, magno adiumento in periculis, solatio in 
+laboribus, gratulationi in victoria fuit.
+
+Distribution is, when businesse are 
+dyspersed into many thynges, or certain 
+persons, thus. It is the office of the senate 
+to help the citie with counsel: of the magistrate 
+
+
+
+
+with laboure and diligence to dooe the 
+wil of the Senate: of the people to chose 
+out the best thinges, and to chose and a­
+lowe men that be moste metest. Cicero 
+for Lucius Murena. And this man, you 
+iudges, bothe was in Asia, and greatlye 
+holpe that good man his father in pe­
+rils, dyd comfort him in sorowes, and re­
+ioysed in his victories.
+
+Descriptio nominatur, quæ rerum consequentiam 
+continet perspicuam & dilucidam cum gra­
+uitate expositionem, hoc modo. Nam neminem ve­ 
+strum fugit quirites, capta vrbe, quæ miseriæ con­ 
+sequi soleant: arma qui contra tulerunt, statim cru­ 
+delissime trucidantur: cæteri, qui possunt per æta­
+tem & vires laborem ferre, rapiuntur in seruitu­
+tem: qui non possunt, vita priuantur: vno denique 
+atque eodem tempore, domus hostili flagrat incen­
+dio, & quos natura, aut voluntas, necessitudine, 
+aut beneuolentia coniunxerit, distrahuntur, Libe­
+ri, partim é gremijs parentum diripiuntur, partim 
+in sinu iugulantur, partim ante pedes construpan­
+tur. Nemo iudices est, qui possit satis rem conse­
+qui verbis, nec referre oratione magnitudinem 
+calamitatis.
+
+
+
+
+It is called Description, which con­
+teyneth a playne and euidente settyng 
+out of thinges that folowe after, and 
+that with a certayne grauitie, thus: 
+You knowe ryght wel, you people, when 
+the citie is taken, what miseries be wont 
+to folow. Such as fought against them, 
+are by and by most cruelly kylled, other 
+whiche be so strong that they be hable 
+to laboure, are made bondeslaues: they 
+that cannot, are slayne: at one tyme bee 
+our houses burnt, our kynsmenne and 
+acquaintaunce pulled awaye from vs. 
+Younge chyldren, some are pulled 
+from their mothers lappes, and some 
+are threatled in their mothers armes, 
+and some defiled before their fete: you 
+iudges, there is no man hable to expresse 
+in woordes or writyng the great sorow 
+and calamitie.
+
+
+Demonstratio, quam Greci Hypotyposin vocant, 
+est oratio exprimens rem, personam, affectum, mo­
+res, sermonem, ac circunstantiam, ita clare, & 
+copiose, vt lectori ab oculos ea quasi presens verse­
+tur veluti viua pictura. Huius species sunt.
+
+Rei descriptio, cum non contenti summatim aue 
+
+
+
+
+tenuiter rem exposuisse. sic illam subijcimus oculis, vt 
+non narrari, sed geri, & lector eam non audiuisse, sed 
+oculis aspexisse videatur. Talis est aescriptio Dilu­ 
+uij in primo Metamorphosis, et: Tempestatis in secundo
+
+Prosopopœia, qua homo quispiam depingitur. Si 
+eut Plutarchus illustres Græcos, & Latinos, Sue­
+tonius item duodecim Cesares. Quanquam Rhe­
+tores fere latius vtuntur vocabulo prosopopœie, ni­
+mirum, vt has sex species sequentes complectatur
+
+Characterismus, effictio, vel pictura corporis, 
+aut animi, Sic Dauus effingit Critonem. Chœrea 
+senem illum importunum.
+
+Prosopographia, fictio personæ. Quæ duas ha­
+bet species. Prior est, personæ fictæ descriptio: poetis 
+propria, oratoribus rara. Vt, Virgilius fingit Sy­
+byllam furentem fingit personas apud inferos. Al­
+tera forma est, quum rei mutæ, aut incorporeæ af­
+fingimus personam, & sermonem, & affectum 
+hominis, aut animalis, quem admodum Harpyis, 
+fariis, demonibus, somno, fami, inuidiæ, famæ in­
+tuti, & similibus personam, vel sermonem affingo 
+re poeta solent. Item, cuum aut Remp. oratores loquen­
+tem inducunt, aut defunctos quasi ab inferis excitam
+
+Ethopœia proprietas, vol expressio morum, et affectuim 
+mitium. Huius tres sunt formæ. Prima expressio morum 
+prolixior, velut ingeniorum, artium, virtutum, vitiorum. Si­
+
+
+
+
+vanum ostentatorem exprimit, I brasonem Terentius, 
+militem Plautus. Atque hæc forma propria Comœ­
+dijs, atque dialogis est. Secunda forma est expressio 
+naturalium propensionum, ac natura insitarum affecti­
+onum. Vt est expressio amoris paterni erga liberos: con­ 
+iugum, & amicorum inter se: coniunctionis æqualium, ho­
+spitum, vicinorum: disiunctionis, hostium inter se. In 
+qualibus effigendis mirus est apud Latinos artifex 
+Liuius. Peculiariter enim historia animorum cupidita­
+tes, consilia, & res gestas, fere sine tragieis illis mo­
+tibus depingit. Tertia forma est, expressio affectionum 
+leniorum, quæ non ita perturbant animos, neque præ­ 
+cipitant. Vt siquando letiores affectus hominum 
+erga nos, aliosue captamus: & blandiendo elicimus 
+vt quum animus in spem, in lætitiam erigitur, 
+& in risum quoque.
+
+Pathopœia, id est, vehementiorum affectuum, & per­ 
+turbationum expressio. Huius duæ sunt formæ. Pri­ 
+or, quam Imaginationem vocant, qua metus, dolor, ira, 
+furor, odium, inuidia, effrenis cupiditas, libido im­
+modica, spes, immoderata letitia, perturbatioque ani­ 
+mi describitur, & excitatur. Huius exempla sunt 
+passinobuia in Tragœdiis. Altera forma est Commi­ 
+seratio: qua eliciuntur lachrimæ, vel mouetur mise­ 
+ricordia, vel captatur venia. Huius exempla sunt ob­ 
+uia in perorationibus Ciceronianis, in querelis 
+apud Poetas.
+
+
+
+
+Sermocinatio, quoties personæ affingitur ora­ 
+tio breuis, vel longa, pro decoro eius. Cuiusmo­
+di sunt conciones Liuianæ, & apud alios Histori­
+cos. Quum personæ quam fingimus sermonem per­ 
+petuum attribuimus. Conformatio est, Quum per 
+sonæ quam fingimus, propositis subinde respon­
+demus, Sermocinatio est.
+
+Mimisis, imitatio sermonis, vel morum, qua non 
+modo personæ orationem, sed etiam gestum effin­
+gimus. Has prædictas sex species, Fabius atque a­
+li, subiiciunt Prosopopœie.
+
+Topographia, loci descriptio, vt Carthaginis in 
+primo Aeneidos, Huc refer Cosmographiam.
+
+Topothesia, loci fictio, quum describitur locus, 
+qui fortasse non est vspiam in rerum natura. Huius 
+exemplum habes Thoma Mori Vtopiam, vel sal­
+tem non est talis qualis fingitur. Vt in sexto Aene­ 
+idos inferorum, & Elisii descriptio. Huc refer A­
+strothesiam, apud Aratum, Higinium, Mani­
+lium, Pontanum. 
+
+Chronographia, descriptio temporis, vt. Noctis 
+in quarto Aeneidos, Pacifici seculi in quarta Ae­ 
+gloga Virgilii. Quatuor etatum, in primo Meta­
+morphoseos.
+
+
+Demonstration is, when we so plainly 
+
+
+
+
+and copiously expresse a thing, a person, & 
+an affection, maners, speach, and circum­
+staunce, that the reader, semeth to see 
+it before his eies, as though it wer liue­
+lye paynted in a table. The kyndes bee 
+these.
+
+The description of a thyng, when 
+not content, lightly and briefly to haue 
+shewed it, we so set it before the Rea­
+ders eyes, that it semeth not to be told, 
+but to be done: & the reader not to here 
+it, but se it. Suche is the description of 
+the floude in the firste booke of Meta­
+morphosis, & of a tempest in the second
+
+Prosopopœia, when any man is de­
+scribed. As Plutarche dothe the noble 
+men, both Grecians and Latines. Sue­
+tonius also the twelue Emperours. 
+How be it, the Rhethoricians vse thys 
+woorde, Prosopopœia largely to com­
+prehende these syxe kyndes folowyng.
+
+Characterismus, the expression or 
+painting out, eyther of the body or mind 
+So Dauus setteth out Crito: & Che­
+rea the troublous olde man.
+
+Prosopographia, the fayning of a per­ 
+
+
+
+
+son. This hath two kindes. The fyrste
+is the description of a feined person pro­
+perlye belongyng to Poetes, syldome 
+vsed of Oratours. As Virgil fay­
+neth Sybbill to bee madde, and per­
+sones beneath in hell. Another fourme 
+is, when vnto a thyng that is dumme, 
+or without a bodye, we fayne a per­
+sone, speache, and affection of a 
+manne, or some lyuyng thyng, as to 
+the byrdes called Harpyans, Furyes, 
+Deuilles, Slepe, Hungar, Enuye, 
+Fame, Vertewe, and lyke, the Poets 
+bee woonte to fayne a persone, and 
+speache. Also when Oratours make 
+the common wealthe speake, or as it 
+were rayse vp agayne dead men.
+
+Ethopœia, propertye, or expres­
+syon of mylde maners and affections.
+Of thys there bee three kyndes. The 
+fyrste, a large settyng out of maners, 
+as of wyttes, artes, vertues, or vy­
+ces. So Terence setteth out boastyng. 
+Thraso, Plautus, a crakyng soul­
+dyoure. And thys facyon properlye 
+belongeth to Commœdies, and Dia­
+
+
+
+
+logues. The seconde fourme is an
+expressyon of naturall inclinations, 
+and affections naturall, as of the fa­
+thers loue towarde the chyldren, the 
+housebande and wyfe, of frendes a­
+mong them selues, of compaygnions, 
+geastes, neyghbours: of hatred also, 
+and of enemyes. In expressyng of these 
+among the Latines, Liuius is very cun­ 
+nyng. For an Hystorye chyeflye setteth 
+out the desyre of myndes, purposes, 
+and deedes, without anye greate out­
+cryes, and rages. The thyrde kynde 
+is a settyng oute of colde and mylde 
+affections, that dooe not so greatelye 
+trouble the mynde nor tosse it: as when 
+we goe aboute gentely to geat mennes 
+loue and fauoure, or that the mynde is 
+broughte into hope, myrthe, or laugh­
+ter.
+
+Pathopœia, that is an expression 
+of vehemente affections and pertur­
+bations. Of this there be two kyndes. 
+The fyrste is called Imagination,  
+whereby, teare, sorowe, anger, furye, 
+
+
+
+
+hatred, enuy, vnbrideled desyre, lust im­
+moderate, hope, or gladnesse, and the 
+passions of the mynde is described and 
+styrred vp. Exaumples of these bee e­
+uerye where in Tragedies. There is an 
+other facion called Commiseration,  
+whereby we make menne wepe, moue 
+menne to mercye, or to pardon an of­
+fence. Readye exaumples of these are 
+in the perorations of Cicero, & in Po­
+etes, in their complaintes.
+
+Sermocination, is when we fayne a 
+person, and make hym speake lytle or 
+muche according to comlines. Suche 
+be the Concions of Liuie, and sermones 
+or orations made in other Historiogra­
+phers. When the person that we feyn, 
+speaketh all hym selfe: the figure is cal­
+led Conformation. But when we now 
+and then aunswere to demaundes that 
+he putteth vnto vs, it is called, Sermo­ 
+cination.
+
+Mimisis, an imitation of speache or 
+manours, whereby we counterfayte, 
+not onelye what one sayde, but his ge­
+sture also. These foresayde sixe kyndes, 
+
+
+
+
+Quintilian and other put vnder Pro­
+sopopœia.
+
+Topographia, the discription of a 
+place, as of Carthago in the fyrste of 
+Eneidos. Hyther referre Cosmogra­
+phie.
+
+Topothesia, the faynyng of a place, 
+When a place is descrybed, as parad­
+uenture suche none is. Exaumple of 
+this is the Vtopia of Syr Thomas 
+Moore. Or elles is not suche a place 
+as it is, fayned to bee. As, is hell, and 
+heauen in the syxte of Eneidos. Hy­
+ther pertayneth the situacion of starres, 
+in Aratus, Higinius, Manilius and 
+Pontanus.
+
+Chronographia, the discription of 
+tyme, as of nyght in the fowerth of E­
+neidos. Of the peace worlde in the 
+fourth Egloge of Virgil. Of the foure 
+ages in the fyrste of Metamorphoseos.
+
+
+Magna pars Eloquentiæ sita est in augendo, ac 
+diminuendo. Omnis autem amplificatio ac dimi­
+nutio, petitur aut ex rebus, aut ex verbis. Ex 
+verbis sic.
+
+Quum commutamus vocabulum, pro vero po­
+
+
+
+
+nentesatrotius. Vt si occisum dicamus eum, qui cæ­ 
+sus tantummodo fuit.
+
+Augemus per incrementum, sic. Facinus est 
+vinciri ciuem Romanum, scœlus verberari, parici­ 
+dium necari, quid dicam in crucem tollere?
+
+Increscit oratio per Congeriem, In cetu vero po­
+puli Romani, negotium publicum gerens, magister 
+equitum, frustis esculentis vinum redolentibus, 
+gremium & totum tribunal implere, an non tur­
+pissimum? Differt a priore, impetu.
+
+Per comparationem quoque increscit oratio. Fi­
+ctione, et exempli collatione. Fictione sic. Si me fer­  
+ut isthoc pacto metuerent, vt te metuunt omnes 
+ciues tut: domum meam mihi relinquendam putarè. Ex­
+empli collatione sic. An vero vir amplissimus Sci­
+pio Tyberium Gracchum mediocriter labefactatem Renp­
+priuatus interfecit: Catilinam orbem terræ, cede, & 
+incendio vastare cupientem, nos consules preferemus?
+
+Amplificamus per coniecturas sic. Maro de 
+Polyphemo. Trunca manus pinum regit. Hinc e­
+nim coniicimus, quantæ fuerit totius corporis mag­ 
+nitudo, eum pro scipione haberet pinum arborem.
+
+Incrementum maius sumitur ex rebus, quas 
+semper comitantur circumstantiæ. Persona, has ha­ 
+bet. Nationem, patriam, sexum, ætatem, educatio­
+nem, habitum corporis, fortunam, conditionem, a­
+nimi naturam, anteacta, nomen. Exempla. Natio,
+
+
+
+
+Si quod eius nationis proprium est contennit, grauius est 
+vt Anglum sagittandi peritiam contennere, culpabilius 
+est quam Gallum. Patria, non simpliciter auget. Sed exem­
+pli gratia de Deo sic loqui licet, Voluit nasci in ciui­
+tate longe celeberrima; quo velut in excelso theatro 
+positus, latius sua virtute diluceret, Sexus. In mu­ 
+liere turpiloquium turpissima res est. Aetas. Libi­ 
+do senem maxime dedecet. Educatio, Bene a pri­
+mis annis institutus fuit Nero a Seneca, pinde post 
+degenerasse grauius fuit Habitus corporis Cum te 
+deus corpore pulchro crearit, cur tam turpia patras? 
+Fortuna, Ex obscuro factus es nobilis, & sic insoles­
+cis? Conditio, priuatus es, et tamen magistratui re­ 
+sistis, Animi natura. Cum te magnanimum crearet 
+deus, cur tam pusilla sectaris. Anteacta, Iam desidem 
+esse, cuius priora tam egregia fuerunt facinora, dede­
+cus est, Nomem. Vigilantium in re tanta dormire decebat 
+Rerum circumstantiæ hæ sunt. Caussa, Locus, Tem­ 
+pus, instrumentum. Caussa, ad paricidium primus 
+impul sti, grauior ergo est tua culpa Locus. In tem­ 
+plo virginem contaminauit. Tempus. Carnibus 
+tum vescebaris, quando publicum fuit indictum ieiu­
+nium. Instrumentum Gladio peiore, lingua serpens 
+Eu. in occidit Et hæc est per circumstantias amplificatio
+
+
+A great part of Eloquence standeth 
+by increasing and diminishing. And all 
+amplification is taken either of thinges 
+
+
+
+
+or woordes: by wordes thus.
+When we chaunge the very woorde, 
+and in stede thereof put a bygger, & say: 
+Thou hast killed him: where peraduen­
+ture he gaue hym but a fewe stripes.
+An other kynde of Amplification is, 
+when oure woordes increase one byg­
+ger then other, thus. It is offence to 
+bynde a Citezin of Rome, haynous to 
+beate hym, manslaughter to kyll hym. 
+What shall I cal it to hang hym?
+We amplify also by heapyng thinges 
+faste together. In the companye of the 
+people of Rome, hauyng a common of­
+fice, Mayster of the horse, there to caste 
+vp thy stynkyng gobbettes, and to fyll 
+thy lappe and the iudgemente seate, 
+is not this a shame? This differeth from 
+the other, because it goeth a pace: and 
+the other by steppes and distinctions.
+We amplifye by comparison: and set 
+one exaumple to an other: or fayne as 
+though such thyng had happened, thus: 
+If my seruauntes dyd feare me in suche 
+wyse as all thy Citezins feare thee, I 
+would think it good to leaue my house. 
+
+
+
+
+By comparyng one exaumple to an o­
+ther, thus. Cicero. Did I pray you that 
+noble man Scipio beyng a priuate per­
+son kyl Tiberius Gracchus, which sha­ 
+ked the common wealth but a litle: and 
+shal we being Consuls suffer Catiline, 
+that goeth about to wast the whole world 
+with murther and fyer?
+We amplify by coniecture thus Vir­
+gil speaking of Polyphemus. He helde 
+in his hande the bodye of a pyne tree. 
+By this we coniecture what a greate 
+body he had, when he had a pine tree for 
+his staffe.
+
+A greater amplification of thynges,  
+Which alwaies haue their circumstan­
+ces with them. A person hath these. Na­ 
+cion, countrey, kinde, age education, ha­
+uour of the body, fortune, condicion, na­
+ture of mind, forededes, and names. Ex­ 
+amples. If a man despise any thing that 
+properlye belongeth to his nation, it is 
+more greuous, as. For if an English man 
+doe despise the feate of shooting. The 
+countrey doth not alwayes cause am­
+plification: but we may say of God. He 
+
+
+
+
+would be borne in the goodliest part of 
+the world, that as it wer in an open playing 
+place, his might & power, myght shine 
+more abrode. Kind. As filthy talke is a 
+foule thing in a woman. Age. Lechery be­
+commeth not an old man, Education. Nero
+in his first yeres was wel brought vp, it 
+was therfore the more shame to degenerate 
+afterwardes. The hauior of the bodi. Sith 
+god hath made the a faire personage, why 
+dooest thou so filthily? Fortune. Thou 
+art of low degree becum a noble man, the 
+worse is now thy pride. Condicion. Thou 
+art a priuate man & darest thou resist the 
+magistrates? The nature of the mind. God 
+hath created the of an high & noble heart, 
+why then sekest thou for so small trifles. 
+Fordedes. Now to be a sluggard which be­ 
+fore hast done so goodly actes, is a stark 
+shame. Name. To slepe in so gret a mat­ 
+ter, & to be named waker, was this mete
+
+The circumstances of thinges be these.  
+Cause, place, time, instrument. Cause.  
+Thou wast the first that moued to this 
+murther, the fault therfore is the greter 
+Place. He defiled the virgin in the temple. 
+Time. Then eate he flesh, when ther was 
+
+
+
+
+proclaimed open fasting. Instrument. The 
+serpent killed Eue with his tong worse then 
+any sword. Thus now may you se what 
+Amplification riseth by the circumstan­
+ces belonging to persons, & thynges.
+
+
+Frequentatio est, cum res in tota caussa dispersa, co­ 
+guntur vnum in locum, quo grauior aut acrior, aut cri­
+minosior oratio sit, hoc pacto A quo tandem abest iste 
+vitio? quid est, Iudices, cur velitis eum liberare? suæ 
+pudicitiæ proditor est, insidiator alienæ, cupidus, in 
+temperans, petulans, superbus, impius in parentes, ingra­ 
+tius in amicos, infestus in cognatos, in supereores con­
+tumax, in æquos, & pares fastidiosus, in inferi­
+ores crudelis, denique in omnes intollerabilis.
+
+
+Frequentation is, when the thinges that 
+be dispersed through al the cause be ga­
+thered together into one place, that the 
+oration may be the more graue, sharper, or 
+rebukefuller, thus. What vice hath he 
+not? why should you deliuer him you iud­
+ges? His own chastity he setteth forth cum 
+whose wil, he lieth in wait for others, he 
+is intemperate, wanton, proud, vnnatural 
+to his parentes, vnkind to his frendes,
+troublesom to his kinsfolkes, stubberne to 
+his betters, disdainful to his felowes, 
+
+
+
+
+cruel to his inferiours, vntollerable to 
+all men.
+
+Congeries est multiplicatio verborum, aut sen­
+tentiarum rem eandem velut inculcantium. Hoc dis­ 
+fert ab Incremento, quod illic per gradus increscis 
+oratio, hic velut aceruo. Cic. Quid enim ille tuus 
+Tubero districtus in acie Pharsalica gladius a­
+gebat? cuius latus ille mucro petebat? Qui sensus 
+erat armorum tuorum? Quæ tua mens, oculi, mi­ 
+nus, ardor animi? Quid cupiebas? quid optabas 
+Quam multæ voces hic sunt idem fere significan­ 
+tes. Vt, gladius, mucro, arma, Sensus, mens, ani­ 
+mus, cupiebas, optabas. Tum quot sententiæ eodem 
+spectantes, distringere in acie gladium, latus pe­  
+tere, sensus armorum. Eiusdem generis est sed af­  
+fectum habens mitiorem, quod est apud Virgilis 
+3. Eneid, Quid puer Ascanius, superatne & ves­ 
+citur aura Aetherea? nec adhuc crudelibus occu­  
+bat vmbris? Nihil enim aliud querit nisi an ad­  
+huc supersit Ascanius, sed affectus est, quod ret 
+eandem ter expressie.
+
+Congeries, is a multiplication of
+wordes, or sentences, as it wer beatyn 
+in all one thing. It differeth from encrease 
+in this point, because the oration there 
+groweth as it wer by degrees, and hea­
+
+
+
+
+vy heapes. Cicero, Tubero, what dyd 
+thy drawen sweord in the battail of Phar­ 
+salia? whose side did the point strike at?
+What was the meanyng of thine ar­ 
+mour. What ment thy mind, eyes, handes 
+fury of mind? What diddest thou couet? 
+What diddest thou wish? Howe manye 
+wordes be there here signifying almost 
+all one thing? as: sweorde, pointe of the 
+sweord, weapons, sense, minde, entente, 
+diddest couet, diddest desire. Further, 
+how many sentences bee there tendyng 
+to one point, as: to drawe thy sweord in 
+the fielde, to runne at his side, meanyng 
+of weapons. Of the same sort is, but ha­ 
+uyng a more milde affection, that is in 
+Virgil in the. iii. of Eneid. Howe doeth 
+the childe Ascanius, is he on the earth; 
+doth he eate the breath Ethereal? doth 
+he not yet lye belowe in the cruel dark 
+places? He axeth nothing els, but whe­
+ther Ascanius be aliue, but it is the af­
+fection that expresseth one thing thrise.
+
+"Congeries" antedates the earliest OED citation (a1620).
+
+
+
+Diuisio est, quæ rem semouens a re, vtramque 
+absoluit ratione subiecta, hoc modo. Cur ego nunc 
+vbi quicquam obijciam? Si probus es non. meriuisti
+
+
+
+
+sin improbus non commoueris. Et illud. Quid 
+nunc ego de meis proprijs meritis preaicem? Si me 
+ministis, obiundam: sin obliti estis, cum re nihil e­
+gerim, quid est quod verbis proficere possim?
+
+Diuision is, whiche remouyng one 
+thing from another, endeth them both by 
+shewing a reason, thus. Why should I 
+nowe then lay any thyng to thy charge? 
+If thou be good thou hast not deserued 
+it: if thou be naught, thou carest not for 
+it. Also, what should I nowe speake of 
+myne owne proper merites. If you re­
+member them I shal but trouble you: 
+if you haue forgot them, when I haue 
+done nothing by dede, what may I pro­
+fite by wordes?
+
+Correctio est, quæ tollit quod dictum est, & ali­
+ud magis idoneum iu eius locum reponit, Sic 
+Quod si iste suos amicos rogasset, imo innuisset mo­ 
+do, hoc facile perfici possit,
+
+Correction is, whiche taketh away 
+that that is spoken, and putteth a more 
+meter thyng in his place, thus. That is 
+he had prayed his frendes, yea had no 
+more but beckte, this thyng myght easi­ 
+ly haue been done.
+
+
+
+
+Definitio est, qua rei alicuius propria vis explica­ 
+rur, breuiter et absolute hoc modo, Non est ista dili­ 
+gentia sed auaritia: eo quod diligentia est accurrata con­ 
+seruatio suorum, auaritia iniuriosa appetitio alienorum.
+
+Difinition is, wherby the proper pith 
+of any thyng is declared briefly & per­
+fectly, thus. This is not diligence, but 
+couetousnes: because diligence is an he­
+dy conseruation of that that is his own 
+couetousnes is an iniurious desyer of 
+other mennes goodes.
+
+Transitio est, qua monemus breuiter quid dictum 
+sit, & quid consequatur, vt, In patriam qualis fuerit 
+habetis: nunc in parentes qualis extiterit, accipite.
+
+Transition is, whereby we do brief­
+ly shew what is spoken, & what should 
+folowe, thus. You haue heard howe he 
+hath behaued hymselfe to hys countrey 
+now what he hath been to his parentes 
+I wyll tell you.
+
+Exemplum est rei gestæ est commemoratio, & ad nostram 
+caussam accommodatio. Huius ergo materia est factum 
+vel res gesta, ab aliquo homine: Sic, Quem admodum 
+Camillus rem Romanam in extremam pernitiem
+
+
+
+
+adductam, restituit: Sic Laurentius lationas lite­
+ras barbarorum inscitia fere extinctas, in pristi­
+num nitorem reuocauit. Porro comparatio ostendit 
+exemplum, quod adductum est, aut simile, aut 
+dissimile, aut contrarium. Rursum, aut par, aut 
+minus, aut maius. Quod in similibus quoque ef­
+ficitur.
+
+Exaumple is the rehearsal of a thing 
+that is doone, and applying of it to our 
+cause. So the grounde and matter of an 
+exaumple is an acte done of any manne, 
+thus. As Camillus restored the Romain 
+common wealth being brought into ex­
+treme ieopardye: So Laurence Valla 
+broughte agayne into the olde pure­
+nesse, the Latine toungue, whiche tho­
+rowe ignoraunce of the Barbarians, was 
+almoste quite loste. Further, Compa­
+ration sheweth the exaumple that is 
+brought, either to be like, vnlike, or con­ 
+trary. And agayne, equall, lesse, or big­
+ger. Which thing is also done in para­
+bles, or similitudes.
+
+Similitudo est collatio rei mutæ, vel inanimate 
+ad nostram caussa accommodata vt, Nauis pro ven­
+torum ratione velum tollens, aut contrahens, in hoc
+
+
+
+
+aut illud latus transferens: parabola est, quæ do­
+cet sapientem tempori cedere ae rebus presenti­
+bus sese accommodare. Sicut ergo exemplum a 
+facto hominis, & persona historiæ petitur, sic col­
+latio a qualibet re preter hominem, & preter homi­
+nis factum, sumitur.
+
+>Similitude is a mete conferring of a 
+dumme thyng or that hath no life, vnto 
+oure purpose, as. A shippe lyftyng vp, 
+taking downe, or turnyng his sayles on 
+this side or that side as the windes blo­
+weth, is a parable: which techeth a wise 
+manne to serue the tyme, and doe as the 
+worlde goeth. So than as an exaumple 
+is taken of the dede of a manne, and of 
+some person in an historie: So a simili­
+tude is taken of any thyng saue of man, 
+or mans acte.
+
+Imago minimum differt a similitudine. Vt si 
+dicas Achillem ignis aut solis instar armis re­
+lucentem venisse in prœlium. Aut aliquem
+more draconis aut leonis in hostes insilusse. 
+Imago est potius quam similitudo. Ducitur au­
+tem Imago ab ammantis forma: Vt si homi­
+nem rapacem ac virulentum depingas similem
+
+
+
+
+iubatæ draconi, qui oculis ardentibus, dentibus 
+acutis, vnguibus aduncis, biante rictu, per omnia 
+circumspiciens si quem reperiat, cui possit ali­
+quid mali faucibus afflare, quem ore attingere, 
+dentibus dissecare, lingua aspergere, vnguibus 
+dilacerere.
+
+Image very litle differeth from simili­
+tude. As if thou say that Achilles came 
+into the field in harneys glistryng like 
+fyer, or the sunne beames: Or that one 
+flew vpon his enemies, like a dragon or 
+lion, it is an image or resemblance rather 
+then similitude. And a resemblance is ta­
+ken of the fourme of a beaste, as yf you 
+wil paint out a rauening, or poysonous 
+man like to a crested dragon, which with 
+burning eies, sharp teeth, croked nailes 
+gapyng mouth, loking euery where, v­
+pon whom he may blowe out his poyson 
+whom he may gape at, bite with his teeth 
+poison with his tong, teare with his nayles.
+
+
+Ad exemplorum genus refertur Autoritas, Ea 
+est alieni dicti, aut sententiæ collatio ad nostram 
+caussam accommodata. Cuius species sunt.
+
+Sententia, dictio ad mores, vel res communes 
+pertinens, que commoda breuitate demonstrat,
+
+
+
+
+quid in vita sit agendum, aut quid fieri soleat, vt 
+Labor improbus omnia vincit, &, Heu nihil inui­ 
+tis fas quenquam fidere diuis. Tales sunt Solomo­ 
+nis, & Catonis sententiæ.
+
+Enthymema, sententia ex contrarijs. vt, Si bonis 
+placere magna laus est, certe malis hominibus pro 
+bari ignominia est. Item obsequium amicos, veritas 
+odium parit. Nam hic Enthymema non est species 
+argumentationis dialectice.
+
+Epiphonema, rei narratæ, vel probatæ, summa ac­ 
+clamatio, hoc, est, amplificatoi quedam honestatis, dig­ 
+nitatis, vtilitatis, difficultatis, aut similium fere re­
+rum in fine addita, ad augendum admirationem, vt 
+Tantæ molis erat erat Romanam condere gentem, quæ 
+est narratærei acclamatio e. A deo a teneris consu­ 
+esceremultum est. Probatærei acclamatio. Vt pro li­
+gario. Quorum igitur impunitas Cesar tua clementiæ 
+laus est, eorum te ipsorum ad crudelitatem acuet oratio?
+
+Noema, quum tecte significamus, quod auditor ex 
+se ipse diuinet, vel sententiosum scomma, detortum in personam 
+aliquam, cuius mores, & ineptiæ notentura?
+
+Exemplum Liuius habet. Athenienses quedem literis, ver­ 
+bisque bellum aduersus Philippum gerebant. Quo noema
+te Liuius salse notat inbellem loquacitatem Graeculorum
+
+Chria, breuissima expositio alicuius facti, vel 
+dicti, cum autoris nomine citato, Hác Cicero in pre­
+
+
+
+
+fatione tertij officiorum pertractat, Scipionem dice­ 
+re solitumse nunquam minus ociosum esse, quam 
+cum ociosus: nec minus solum, quam cum solus. 
+Aινοσ dictum vel sententia ex apologo sumpta­
+qualia sunt Epimithia, id est, apologationes, & 
+allegorie interpretantes apologos & eorum vsum 
+indicantes.
+
+Oraculum id est dictum ab ore dei exceptum, vel 
+ex mandato dei prolatum, qualia sunt omnia fere 
+quæ in Biblijs dicuntur, & præcipiuntur.
+
+
+Vnto exaumples is referred autho­
+ritie: that is a mete conferring of an o­
+ther mannes saying or sentence to oure 
+cause. The kindes be these.
+
+Sentence, is a saying pertayning to 
+maners, or to common practises of the 
+world which with proper briefnes, shew­ 
+eth what is to bee done, or wont to bee 
+done in this life, as. Continual labor o­
+uercommeth al thing. And no man may 
+hope for any thing against goddes wyl. 
+Such be the sentences of Salomon, & Cato.
+
+Enthymeme, a sentence made of con­
+traries: as if it bee a greate prayse to 
+please good menne: to be alowed of e­
+uil, is gret reproch. Also flattry getteth 
+
+
+
+
+frendes, trueth hatred. Neither is it 
+here a kind of argumentacion dialectical
+
+"Enthymeme" antedates the earliest OED usage (1588).
+
+
+
+Epiphonema, is an acclamacion of a­
+ny matter that is tolde, or alowed: that 
+is to say, an amplifying of honestie, dig­
+nitie, profite, difficultie, or suche other 
+like, put at the ende for the more meruel­ 
+ling, as. As so weightie a matter it was 
+to sette vp the Romaine nacion. Here 
+is an acclamacion of a matter told be­
+fore. And so great it is to accustome our 
+self from youth.
+An acclamation of a thing that is told 
+thus, as for Ligarius. Cesar, whose per­
+don is praise of thy mercye, shall there 
+woordes sharpen thee to crueltie?
+
+"Epiphonema" antedates the earliest OED citation (1579).
+
+
+
+Noema, when we signifye priuilye, 
+that which the hearer maye coniecture 
+by himselfe. Or it is a taunt, spoken a­
+gainst any person, whose folye, and ma­
+ners are reproued. Liuie hath suche an 
+exaumple. The Athenians by letters & 
+wordes fought agaynst Philip. Wher­
+by, Liuius dyd secretely reproue the vn­ 
+warlike babling of the Grecians.
+
+Chria, a very short exposicion of any 
+
+
+
+
+dede or saying, with the autours name 
+beyng recited. This is well handled of 
+Cicero in the preface of the third boke 
+of his Offices: that Scipio was wont to 
+saye, he was neuer lesse ydle then when
+he was voyde of the common wealthe 
+matters, and neuer lesse alone, then when 
+he was alone.
+
+"Chria" antedates the earliest OED citation (1612).
+
+
+
+AEnos, a sayng or a sentence taken 
+out of a tale, as are the Morals & Alli­
+gories interpretyng fables, & shewyng 
+there vse.
+
+Oraculum, any worde that is recey­
+ued at the mouth of God, or spoken by 
+his commaundement, as are common­
+ly all thynges that are spoken and com­
+maunded in the Bibles.
+
+Expolitio est, cum in eodem loco manemus, & ali­
+ud atque aliud dicere videmur. Ergo huiusmodi 
+vehementer ornata poterit esse expolitio, quæ con­
+stabit ex frequentibus verborum exornationibus, 
+& sententiarum hoc pacto, Itaque vti contennendus 
+est, qui in nauigando, se, quam nauim mauult incolu­
+mem: ita vituperandus, qui in Reip. discrimine, 
+suæ plusquam communi saluti, consulit. Naue enim 
+fracta multi incolumes euaserunt: exnaufragio
+
+
+
+
+patriæsaluus nemo potest enatare, Quod mihi bene 
+videtur. Decius intellexisse, qui se deuouisse dici­
+tur, & pro legionibus in hostes misisse medios, Vn­ 
+de amisit vitam, & non perdidit. Re enim vilissi­
+mam et parua, maximam redemit: dedit vitam, accepit 
+patriam, amisit animam, potitus est gloria, quæ cumsum­
+ma laude prodita, vetustate quotidie magis eni­
+tescit.
+
+Expolition is, when we tary still in 
+one place, and yet seme to speake diuers 
+thinges. So that it may be a very good­ 
+ly expolition, which shal stand of many 
+exornations of woordes, and sentences, 
+thus. Wherfore as he is to be despised 
+which beyng on the sea had rather haue 
+himself safe then the ship, so is he to be re­ 
+buked which in the ieopardy of the common
+wealthe, prouideth more for hym selfe, 
+then for the safety of the common wealth. 
+Whiche thyng me thynketh Decius did 
+wel perceiue, when he bente hymself to 
+die, and for the sauing of his souldiours 
+to haue runne into the middes of his e­
+nemis. Wherby he let his life go, but he 
+lost it not. For with a smal thing & of li­
+tle: price he redemed a thing of gret value
+
+
+
+
+he gaue his life, but he receiued his coun­
+trey: he lette passe his life, but enioyed 
+glory, which declared with great praise 
+the elder it shall waxe, dayly the more 
+and more it shall shine.
+
+"Expolition" antedates the earliest OED citation (1589).
+
+
+
+Breuitas est res ipsis tantummodo verbis ne­
+cessariis expedita, hoc modo. Lemnum praterien:
+cepit, inde Tharsi presidium reliquit, post, vrbem 
+in Bythinia sustulit, inde pulsus in Hellespontum 
+statim potitur Abido.
+
+Breuitie is, when the matter is quick­ 
+ly tolde, with no moe wordes but those 
+that be necessary, thus. As he passed by, 
+he toke Lemnum, then he left a garrison 
+at Tharsus: after he toke a city in By­
+thinia, drieuen from thence, forthwith 
+he wanne Abydus.
+
+
+Atque hæfere sunt sententiarum figuræ: queis 
+rerum, & orationis copia mirabiliter augetur 
+Ceterum a Rhetoribus appellantur varius nomi­
+nibus, vt a Fabio alicubi argumenta, quum sunt 
+partes caussarum, quæ omitti commode non pos­
+sunt alicubi ornamenta, & amplificationum for­
+mæ, & virtutes orationis, & lumina, & colores­
+tum videlicet, quum non sunt partes caussarum, &
+vel eximi, vel omitti possunt; hoc est, quando non
+
+
+
+
+probandi, sed ornandi gratia caussis inseruntur. 
+Cicero vocat exornationes sententiarum Alij no­
+minant argumenta rerum, quod his non solum o­
+rationis, sed & caussæ corpus augeatur, & incres­
+cat. Verum quoniam nomina declarandis rebus 
+seruiunt, expositis rebus, de vocibus non est cur 
+anxij magnopere simus. Haud ignoro esse & alia 
+pleraque ornamenta, & figuras orationis. Verum 
+nobis precipua sunt pro virili collecta, & quæ ma­ 
+xime digna annotatu visa.
+
+And these in maner be the figures of 
+sentences, whereby the copye, bothe of 
+wordes and matter, is wonderfully in­
+creased. Howbeit they bee called of the 
+Rhetoricians by diuers names, as some 
+where of Quintilian they be named ar­ 
+gumentes, and maners of amplification, 
+vertues also of an oration, and lightes, 
+and colours, euen then in dede when thei 
+be not partes of the matter, but eyther 
+may be taken out, or quite left of: that 
+is to say, when they be not put in mat­
+ters, to proue any thyng, but to garnish 
+it. Cicero calleth them exornations of 
+sentence. Other name them ornamentes 
+of matter, because by them, not only the 
+
+
+
+
+oration and wordes, but the body of the 
+matter groweth and is increased. But 
+because names dooe serue to declare 
+thinges, the matters declared, we nede 
+not to take much thought touchyng the 
+woordes. I know there be many other 
+ornamentes also, and figures of oracion 
+But to my power I haue gathered the 
+chief, and that wer thought most mete 
+to bee noted.
+
+
+
+	
+De Tribus Generibus 
+dicendi. 
+
+COmmonstratis de ornatu, & Eloquutione præ­
+ceptis, atque figuris, reliquæ muneris, ac insti­
+tuti nostri partes erunt, vt in quibus omnis ora­
+toria institutio, debeat esse generibus, dicamus. Es­
+se enim diuersa dicendi genera, quæ Graeci  χα­
+ρακτηρασ nos figuras appellamus, in quibus 
+omnis oratio non vitiosa consumitur, neminem 
+arbitror ne mediocriter quidem doctum, fugit, cum 
+tot artium scriptores, & Grecos, & Latinos, quos 
+priora secula tulerunt, stylum, dicendique genus 
+orationis plerunque dispar, atque dissimile se­
+quutos, videmus. Sunt autem dicendi genera­ 
+tria potissimum animaduersa, Grande, Tenue,
+
+
+
+
+Mediocre, Grande, illustre, vehemens, & ple­
+num dicendi genus, diuino quodam genere o­
+rationis, atque incredibili, caussis grauioribus ad 
+hibetur: Habet enim cum ampla maiestate, orna­
+tissima verba, propria; translata, extranea, ita ta­
+mem, vt ad vnamquanquam rem accommodata sint: 
+& graues sententias, quæ in amplificatione, & com­ 
+miseratione tractantur, & exornationes cum ver­
+borum, tum sententiarum, quibus maximam vim 
+in orationibus tribuunt, ac grauitatem. Sunt au­
+tem qui hoc genere vtuntur, vehementes, varij, co­
+piosi, graues, ad permouendos, & conuertendos a­
+nimos instructi, & parati. Vsus est Ciecro in ora­
+tione pro Aulo Cluentio, pro Sylla, pro Tito Annio 
+Milone, pro Caio Rabirio, in Catilinam, in Verrem, 
+in Pisonem, Sed huius imperiti sepe in vitia inci­
+dunt, cum grauis oratio illis videtur ca, que tur­
+get, & inflata est: quæ nouis, aut duriter aliunde 
+translatis, aut priscis, & ab vsu quotidiani sermo 
+nis iam diu intermissis, aut grauioribus quam 
+res postulat verbis, vtitur hoc modo. Nam qui 
+perduellionibus venditat patriam, non satis sup­
+plicij dederet si preceps in Neptunias depultus 
+erit Lacunas.
+
+Tenue genus dicendi, subtili quadam & pressa, 
+atque limata oratione fertur, caussis paulo
+
+
+
+
+acutioribus, quam in vsu, vulgari sermonis ver­
+santur, est accommodatum. Est enim gænus oratio­
+nis demissum, vsque ad vsitassimam puri, diluci­
+dique consuetudinem sermonis: habet sententias 
+tenues, subtiles, acutas, omnia docentes, & diluci­ 
+diora, non ampliora, facientes. In eodemque genere 
+(vt in oratore ait) alij callidi sunt, sed impoliti, et 
+consulto rudium similes, & imperitorum: alij in 
+eadem ieiunitate concinniores, id est, faceti, floren­ 
+tes etiam, & leniter ornati. Vsus est Cicero in phi­ 
+losophicis disputationibus, in oratione pro Quintio, 
+pro Rosco Comedo, & Terentius & Plautus in 
+suis Comœdus, Errant, qui non possunt in illa fa­
+cetissima verborum attenuatione commode versa­
+ri, & veniunt ad aridum, & exangue gænus ora­
+tionis, quod non alienum est exile nominari, cuius 
+modi est. Nam istic ad balneas accessit, ad hunc 
+postea dixit: Hic tuus seruus me pulsauit. Postea 
+dixit hic illi, Considerabo, Post ille conuicium fe­
+cit, & magis, magisque presentibus multis cla­
+mauit.
+
+Mediocre & temperatum dicendi gænus ex hu­
+miliore, neque tamen ex infima, & pervulgatis­
+sima verborum & sententiarum dignitate, constat. 
+Estque recte dictum genus sermonis temperatum 
+quod admodum vicinum sit tenui, & grandi: at­
+
+
+
+
+que ita vt in neutro excellat, sed vtriusque sit par­ 
+ticeps, vel potius expers, cum neque hoc, neque il­
+lud habeat, sed interiectam, moderationem perse­
+quatur, atque temperiem. Idque vno tenore, vt aiunt 
+in dicendo fluit, nihil preter facultatem afferens 
+& æqualitatem, omnemque orationem ornamentis 
+modicis cum verborum, tum sententiarum distin­ 
+guens. Vtitur eo Cicero in oratione pro lege Ma­
+nilia, pro Aulo Cecinna, pro Marco Marcello, ma­ 
+ximeque in Libris Officiorum. In hoc vitiosum est, 
+peruenire ad confine genus eius, quod fluctuans & 
+dissolutum appellant, eo quod sine neruis, & ar­
+ticulis, fluctuet huc & illuc, nec possit confirma­
+re, nec viriliter sese expedire, id est huiusmodi. So­
+cij nostri cum belligerare nobiscum vellent, profecto 
+ratiocinati essent etiam atque etiam quid possent 
+facere siquidem sua sponte facerent, & non habe­ 
+rent hic auditores multos, & malos homines & 
+audaces solent enim diu cogitare omnes, qui mag­ 
+na negotia volunt agere. Non potest huiusmodi ser­ 
+mo tenere attentum auditorem. Difluit enim to­ 
+tus, neque quiequam comprehendens perfectis 
+verbis amplectitur.
+
+
+Of the three kyndes of stile 
+or endighting.
+
+
+
+
+Now that we haue shewed the precepts 
+and figures of garnishing, & eloquntion, 
+it is our office & duety, to shew in what 
+kindes, al oratorie ought to be. For that 
+there be thre sundry kindes called of the 
+Grekes Characters, of vs, figures, in 
+which euery oration not fawtie, is occu­
+pied, I trowe there is no man meanely 
+learned, but he knoweth: namelye when 
+we se so many writers of sciences, both 
+Grecians, & Latines, which haue bene be­
+fore time, to haue folowed for the most 
+part sundry kindes of writing, one vnlike 
+the other. And there hath been marked 
+inespeciall three kindes of endighting.  
+The great, the smal, and the meane.
+
+The great kind. 
+
+The great, the noble, the mighty, & the 
+ful kind of endighting, with an incredi­
+ble, and a certein diuine power of oration
+is vsed in weightye causes: for it hath 
+with an ample maiestye, very garnyshed 
+wordes: proper, translated, and grave sen­ 
+tences, which are handled in amplifica­
+tion, & comiseration: and it hath exornati­
+ons both of woordes and sentences: wher­ 
+
+
+
+
+vnto in orations they ascribe very gret 
+strength and grauitie. And thei that vse 
+this kind be vehement, various, copious, 
+graue, wel and throughly appointed, to 
+moue and turne men to their purpose 
+This kinde dyd Cicero vse in the orati­ 
+on for Aulus Cluencius, for Sylla, for 
+Titus Annius Milo, for Caius Rabi­
+rius, agaynst Catiline, against Verres 
+against Piso, but they that cannot skyll 
+of this, oftentimes fal into fautes, when 
+vnto them that semeth a graue oration, which 
+swelleth and is puffed vp, which vseth 
+straunge words, hardly translated, or that 
+be to old, and that be now long sythens 
+lefte of from vse of daylye talke, or more 
+graue then the thyng requireth.
+
+The small kinde.
+
+The small kynde of endightyng is in 
+a subtile, pressed, and fyled oration, 
+mete for causes that bee a litle sharper 
+then are in the common vse of speaking. 
+For it is a kynde of oration that is 
+lette downe euen to the moste vsed 
+custome of pure, and cleare spea­
+kyng. It hath fyne sentences, subtile, 
+
+
+
+
+sharpe, teachyng all thynges, and ma­
+kyng them more playn, not more ample. 
+And in this same kind (as Cicero saieth 
+in his oratour) some be crafty, but vnpo­ 
+lished, and of purpose like the rude and 
+vnskilful. Other in that leaues are trim, 
+that is, mery conceited, florishing also, & 
+a litle garnished. Cicero vsed this kind 
+in his philosophical disputacions, in the 
+oration for Quintius, for Roscius the 
+comedie player: and Terence, and Plau­ 
+tus in their Comedies. Such as cannot 
+handsomly vse themselfes in that mery 
+conceited slendernes of wordes, fal in­
+to a drye, & feble kind of oration, which 
+may be called aweake, and feble writing, 
+thus. He came to the balenes: after he 
+said vnto him. This thy seruant strake 
+me. I will consider. After that he chode 
+and cryed more and more manye beyng 
+present.
+
+The meane kind. 
+
+The meane and temperate kind of in­
+dighting standeth of the lower, and yet 
+not of the lowest, and most common words 
+and sentences. And it is rightly called the
+
+
+
+
+temperate kind of speaking, because it is 
+very nigh vnto the smal, and to the gret 
+kynd, folowing a moderacion and tem­
+per betwixt them both. And it foloweth 
+(as you would say) in one tenor distin­
+guishing, all the oration with smal or­
+namentes both of wordes and sentences. 
+Cicero vseth this for the law of Mani­
+lius, for Aulus Cecinna, for Marcus 
+Marcellus, and most of al in his bokes 
+of Offices. In this is fawtye to come 
+to the kind that is nie vnto it, called dis­
+solute, because it waueth hyther & thy­
+ther, as it wer without synewes and 
+iointes, standing surely in no point. 
+And suche an Oration cannot 
+cause the hearer to take anye 
+hede, when it goeth in and 
+out, & comprehendeth not 
+any thyng with per­
+fecte woordes.
+
+FINIS.
+
+
+
+
+
+
+
+Imprinted at London in Flete­
+strete within Temple barre, 
+at the sygne of the hand and 
+starre by Richarde Tottill. 
+the. iiii. daye of Maye, the 
+yeare of oure Lorde. 
+MDLV.
+
+Cum priuilegio ad impri­
+mendum solum.
+
+
+
+

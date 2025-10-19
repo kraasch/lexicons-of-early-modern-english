@@ -1,0 +1,7944 @@
+
+
+
+
+
+
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 2 3 2 5 6
+
+v e r . 1 . 0  ( 2 0 1 9 )
+
+
+EL VOCABVLARIO
+
+Of heaven DEl cielo
+
+
+the heauen el cielo
+
+
+
+the firmament el firmament
+
+
+
+God Dios
+
+
+
+The holy Trinitie la sancta Trinidad
+
+
+
+God the father Dios el padre
+
+
+
+God the sonne Dios el hijo
+
+
+
+God the holy Ghost Dios el Espiritu sancto
+
+
+
+the Godhead la Diedad
+
+
+
+the Almightie Dios todo poderoso
+
+
+
+the Lord God el Señor Dios
+
+
+
+our Sauiour nuestro Saluador
+
+
+
+our Redeemer nuestro Redemtor
+
+
+
+our Ladie nuestra Señora
+
+
+
+a Goddesse vna Diosa
+
+
+
+the Goddesses los Dioses
+
+
+
+an Idoll vn Idol
+
+
+
+an Angell vn Angel
+
+
+
+the Angels los Angeles
+
+
+
+a cloud vna ñune
+
+
+
+the clouds las ñunes
+
+
+
+the Sunne el Sol
+
+
+
+the Moone la Luna
+
+
+
+the light la lumbre
+
+
+
+the brightnes la claridad
+
+
+
+
+
+
+
+a Starre vna estrella
+
+
+
+the Starres las estrellas
+
+
+
+a Comet vna Cometa
+
+
+
+a Planet vna Planeta
+
+
+
+a rainebow. el arco del cielo.
+
+
+
+
+Of the foure 
+Elements. De los quatro 
+Elementos.
+
+
+The earth La tierra
+
+
+
+the water el agua
+
+
+
+the ayre el ayre
+
+
+
+the fier el fuego.
+
+
+
+Of the windes. De los vientos.
+
+
+the east winde El viento del oriente
+
+
+
+the west winde El viento del ponente
+
+
+
+the north winde el viento del norte
+
+
+
+the south winde el viento del sur
+
+
+
+the winde bloweth. el haze viento.
+
+
+
+
+Of hell. Del infierno.
+
+
+Hell Infierno
+
+
+
+a deuill vn diablo
+
+
+
+the prince of the 
+deuils el principe de los
+diablos
+
+
+
+an euill spirite vn espiritu maligno
+
+
+
+the enemy of
+hell el enimigo del
+infierno
+
+
+
+the great Lucifer
+of hell el gran Lucifer
+del infierno
+
+
+
+
+
+
+
+the great belzebub El gran belzebub
+
+
+
+sathan of hell sathan del infierno
+
+
+
+to tempt tentar
+
+
+
+death la muerte
+
+
+
+euerlasting fier fuego perdurable
+
+
+
+darke darknesse escuras tinieblas
+
+
+
+fier that neuer can
+be put out fuego que nunca
+se apaga
+
+
+
+to racke and to torment arastrar y atormentar
+
+
+
+the paines of hell las penas del infierno
+
+
+
+accursed and damned
+soules almas malditas y condenadas.
+
+
+
+Of the 7. deadly 
+sinnes, De los siete pecca­
+dos mortales. 
+
+Pride Soberuia
+
+
+
+couetousnes codicia
+
+
+
+glotonie golozina, gula
+
+
+
+lecherie luxuria
+
+
+
+enuie embidia
+
+
+
+anger ira
+
+
+
+slothfulnes pereza
+
+
+
+
+Of the earth, moun­
+taines and valleys. De la tierra, mon­
+tañas y valles.
+
+An earthquake Vn terremoto
+
+
+
+the earth trembleth la tierra trembla
+
+
+
+the earth la tierra
+
+
+
+sandie earth tierra arenosa
+
+
+
+
+
+
+
+fat earth tierra gorda
+
+
+
+barren earth tierra sterile
+
+
+
+slipperie ground tierra resualiza
+
+
+
+to slide away resualer
+
+
+
+good ground and drie buena tierra y seca
+
+
+
+a waterish ground tierra aguosa
+
+
+
+a hill vna sierra
+
+
+
+a mountaine vna montañia
+
+
+
+a plaine vn llano
+
+
+
+a valley vn valle
+
+
+
+a little hill vna cuesta
+
+
+
+a rocke vna roca
+
+
+
+a great rocke vn peñasco
+
+
+
+a headlong rocke downe­
+ward despeñadero
+
+
+
+a steepe hill­
+ward derumbadero
+
+
+
+a stone vna piedra
+
+
+
+a flint stone vn pedernall
+
+
+
+a ditch vn hoyo
+
+
+
+a denne vna cauerna
+
+
+
+a ditcher vn cauador
+
+
+
+a heape vn monton
+
+
+
+a bottomles pit vn abismo
+
+
+
+a pond vn estanque
+
+
+
+a reed vna caña
+
+
+
+a rish vn junco
+
+
+
+durt lodo
+
+
+
+durtie lodoso
+
+
+
+foule suzio
+
+
+
+filthie suziedad
+
+
+
+
+
+
+
+
+Of landes. De tierras.
+
+
+England Inglatierra
+
+
+
+Ireland Irlanda
+
+
+
+Flanders Flandres
+
+
+
+Portugall Portugal
+
+
+
+Italie Italia
+
+
+
+Turkie Turquia
+
+
+
+Muscouie Muscouia
+
+
+
+Englishmen Ingleses
+
+
+
+Irishmen Irlandeses
+
+
+
+Flemings Flemingos
+
+
+
+Portingals Portuguises
+
+
+
+Italians Italianos
+
+
+
+Turkes Turcos
+
+
+
+Muscouians Muscouienses
+
+
+
+France Francia
+
+
+
+Scotland Scotia
+
+
+
+Almanie Germania
+
+
+
+Spaine España
+
+
+
+Iurie Iudea
+
+
+
+Barbarie Barbaria
+
+
+
+Tartarie Tartaria
+
+
+
+Frenchmen Franceses
+
+
+
+Scotishmen Scotos
+
+
+
+Germaines Alemanos
+
+
+
+Spaniardes Españoles
+
+
+
+Iewes Iudios
+
+
+
+Barbarians Moros
+
+
+
+
+
+
+
+Tartarians Tartares.
+
+
+
+
+Of townes and
+Cities. De villas y
+ciudades.
+
+
+a towne vna 
+villa
+
+
+
+a citie vna ciudad
+
+
+
+it is a strong towne. es vna fuerte villa
+
+
+
+it is a drawing bridge es vna puente leuadiza
+
+"drawing bridge" antedates earliest OED citation (1638).
+
+
+
+
+walles murallas
+
+
+
+gates puertas
+
+
+
+a chaine cadena
+
+
+
+a barre of yron maça barreada
+
+
+
+a locke cerrojo
+
+
+
+a key llaue
+
+
+
+a tower torre
+
+
+
+a castell castillo
+
+
+
+a bulwarke fortaleza
+
+
+
+a street vna calle
+
+
+
+a lane callexuela
+
+
+
+a corner canton
+
+
+
+a rampier vn amparo
+
+
+
+a trench vna trenchea
+
+
+
+
+Officers of a
+towne. Officiales de vna 
+villa.
+
+
+a Mayor vn Mayor
+
+
+
+an Alderman vna veynte-quatro
+
+
+
+a Sheriffe vn Senador
+
+
+
+
+
+
+
+a Iudge vn Iuez
+
+
+
+a Counsellour vn Consejero
+
+
+
+an Auditor vn Oydor
+
+
+
+an Attorney vn Procurador
+
+
+
+a Sergeant vn Alguazil
+
+
+
+a Gaolar vn Carcelero
+
+
+
+a Porter vn Guarda-puerta
+
+
+
+
+Of degrees of birth
+by descent and 
+first of nobi­
+litie. De genero de li­
+nage por descenden­
+cia, y primeramente
+de nobilidad.
+
+
+A Monarch Vna Monarchia
+
+
+
+an Emperour vn Emperador
+
+
+
+an Empresse vna Emperatriz
+
+
+
+a King vn Rey
+
+
+
+a Queene vna Reyna
+
+
+
+a Prince vn Principe
+
+
+
+a Princesse vna Princesa
+
+
+
+a Duke vn Duque
+
+
+
+a Dutchesse vna Duquesa
+
+
+
+an Earle vn Conde
+
+
+
+a Countesse vna Condessa
+
+
+
+a Lord vn Señor
+
+
+
+a Ladie vn eñora
+
+
+
+a Baron vn Baron
+
+
+
+a Knight vn Cauallero
+
+
+
+a Gentleman vn Hidalgo
+
+
+
+a Gentlewoman vna Dama
+
+
+
+
+
+
+
+a Marchant vn Mercader
+
+
+
+the common people el vulgo commun
+
+
+
+
+Ecclesiasticall
+men. Los Ecclesia­
+sticos.
+
+
+A Pope Vn Papa
+
+
+
+a Cardinall vn Cardinal
+
+
+
+an Archbishop vn Arçobispo
+
+
+
+a Bishop vn Obispo
+
+
+
+a Deacon vn Diacono
+
+
+
+a Prebendarie vn Racionero
+
+
+
+a Cannon vn Canonigo
+
+
+
+a Priest vn Clerigo
+
+
+
+a Prior vn Prior
+
+
+
+a Prioresse vna Prioressa
+
+
+
+a Moncke vn Monge
+
+
+
+a Frier vn Frayle
+
+
+
+a Nunne vna Monja
+
+
+
+the Nunnes las Monjas
+
+
+
+an Abbot vn Abad
+
+
+
+an Abbesse vna Abadessa
+
+
+
+
+Of the Villages,
+countreymen and
+fruits of the earth. De las villas, villa­
+nos y frutas de 
+la tierra.
+
+
+A citie Vna ciudad
+
+
+
+a citizen vn ciudadano
+
+
+
+a village vna aldea
+
+
+
+
+
+
+
+a market towne vna villa
+
+
+
+a countreyman vn aldeano
+
+
+
+a farmer vn villano
+
+
+
+a she farmer vna villana
+
+"she farmer" not found in OED.
+
+
+
+
+a farme vna choça
+
+
+
+barne vn alholi
+
+
+
+a stable vn establo, caballeriza
+
+
+
+a cribbe vn pesebre
+
+
+
+a manger vn pesebre
+
+
+
+a waggen vn coche
+
+
+
+a waggenman vn cochiero
+
+
+a cart vn carro, carreta
+
+
+
+a carter vn carretero
+
+
+
+a wheele vna rueda
+
+
+
+a whippe vn açote
+
+
+
+a plough vn arado
+
+
+
+a ploughman vn arador
+
+
+
+a culter el reja del arado
+
+
+
+to plough arar
+
+
+
+to digge cauar
+
+
+
+a spade vna pala de cauar
+
+
+
+a mattocke vn açadon
+
+
+
+a well vn pozo
+
+
+
+a hole in the ground vn hoyo, vna hoya
+
+
+
+a fountaine vn fontanal
+
+
+
+a spring vna fuente manantial
+
+
+
+a shepheard vn pastor
+
+
+
+an heard ganado, rebaño de ga­
+nado
+
+
+a she shepheard vna pastora 
+ 
+
+
+
+
+
+
+a rake vn rastro
+
+
+
+a forke vn arrexaque de 
+heirro
+
+
+to sow sembrar
+ 
+
+
+a sower vn sembrador
+
+
+
+to harrow the 
+ground peynar o quebran­
+tar la tierra, y sa­
+char o escardar la
+tierra.
+
+
+
+an harrowing sachadura o escarda­
+dura
+
+
+good seede buen simiente 
+
+
+
+naughtie seede mal simiente
+
+
+
+to reape segar
+
+
+
+a reaper vn segador
+
+
+
+a sickle vna hoce para segar
+
+
+
+a syeth vna hoce para heno
+
+
+
+to moe segar las miesses
+
+
+
+a moer vn segador de miesses
+
+
+
+the haruest. la miesse
+
+
+
+to gather acoger
+
+
+
+hempe seede lino
+
+
+
+a field vn campo
+
+
+
+corne grana
+
+
+
+barley ceuada
+
+
+
+wheat trigo
+
+
+
+oates auena
+
+
+
+rye centeno
+
+
+
+tares cizania
+
+
+
+peason arueja
+
+
+
+a sheffe vn manojo de trigo
+
+
+
+
+
+
+
+stubble la caña de trigo
+
+
+
+rye bread pan de centeno
+
+
+
+barly bread pan de ceuada
+
+
+
+beanes hauas
+
+
+
+hoppes ombrezillos
+
+
+
+an hedge vn soto o seto
+
+
+
+a thorne vna espina
+
+
+
+a bramble vna çarça
+
+
+
+gooseberies vuas de la olla
+
+
+
+a mulberie vna mora
+
+
+
+a mulberie tree vn moral
+
+
+
+a flayle vn trillo
+
+
+
+to thresh trillar
+
+
+
+a thresher vn trillador
+
+
+
+a fan vn vieldo, auandor
+
+
+
+straw paja
+
+
+
+a sacke vn costal
+
+
+
+a band vn atadura
+
+
+
+a garner vn granero
+
+
+
+a donghill vn muladar
+
+
+
+doung estiercol
+
+
+
+a medow vn prado
+
+
+
+a pasture vn pasto
+
+
+
+haye heno
+
+
+
+grasse yerua
+
+
+
+to dry secar
+
+
+
+thistles abrojos
+
+
+
+greene broome retama
+
+
+
+
+
+
+birche. acelga.
+
+
+
+Of the garden and
+his fruites. Del jardin, y de
+sus frutas.
+
+
+A garden Vn jardin
+
+
+
+a gardiner vn jardinero
+
+
+
+a salet vn ensalada
+
+
+
+an onion vn çebolla
+
+
+
+garlike ajos
+
+
+
+leekes puerros
+
+
+
+coleworts verças
+
+
+
+cabages berças
+
+
+
+a gourd vna calabaça
+
+
+
+persley perexil
+
+
+
+lettice lechugas
+
+
+
+sage saluia
+
+
+
+sorrell romaza
+
+
+
+fennell-seede simiente de hinojo
+
+
+
+fennell hinojo
+
+
+
+purslayne verdolaga
+
+
+
+spinache bledo
+
+
+
+rootes rayzes
+
+
+
+radishes rabanos
+
+
+
+turneps nabos
+
+
+
+carrets çanahorias
+
+
+
+parsnepes chiribias
+
+
+
+a marigold vna calthra
+
+
+
+hysope isopo
+
+
+
+marioram a moradux o axedrea
+
+
+
+
+
+
+
+a nettle hortiga
+
+
+
+cowcumber vn melon
+
+
+
+a pippin vna camuçca
+
+
+
+a melon berengena
+
+
+
+a pumpion calauaça
+
+
+
+a strawberie mora de la montaña
+
+
+
+a flower vna flor.
+
+
+
+a gilliflower vna clauellina
+
+
+
+a rose vna rosa
+
+
+
+a rose tree vn rosal
+
+
+
+a violet vna violeta
+
+
+
+a lilly vn lirio
+
+
+
+a white lily açuçena
+
+
+
+to plucke flowers coger flores
+
+
+
+rosemarie romero
+
+
+
+eglantine çarça perrúna
+
+
+
+a nosegay vn manojo de flores
+
+
+
+to smell oler
+
+
+
+a tree vn arbol
+
+
+
+a leafe vna hoja
+
+
+
+a blossome vna espiga
+
+
+
+to bud brotar y echar espigas
+
+
+
+an apple tree. vn mançano
+
+
+
+an apple vna mançana
+
+
+
+a peare tree vn peral
+
+
+
+a peare vna pera 
+ 
+
+
+this apple is rotten. esta mançana està 
+podrida
+
+
+pare me this apple múda me essa mançana
+
+
+
+parings cortezas
+
+
+
+
+
+
+
+a walnut vna nuez
+
+
+
+a walnut tree vn nogal
+
+
+
+hasell nuts auellanas
+
+
+
+the kernell el meollo de la nuez
+
+
+
+he that will eat the
+kernell let
+him breake
+the nut quien comiria el
+meollo de la nuez
+es menester que
+rompe el auellana
+
+
+
+a cherie vna cereza
+
+
+
+to be ripe ser madura
+
+
+
+a cob cherie vna guinda
+
+"cob cherie" (a type of cherry with a stone or cob) is not in OED. 
+
+
+
+
+a cherie tree vn cerezo
+
+
+
+a peach vn aluarcoque
+
+
+
+a peach tree el aluarcoque
+
+
+
+a figge vn higo
+
+
+
+a vine vna viña
+
+
+
+a figge tree vna higuera
+
+
+
+vine leaues hojas de vina
+
+
+
+a mulberie vna mora
+
+
+
+grapes vuas
+
+
+
+a mulberie tree el moral
+
+
+
+an almond vn almendra
+
+
+
+a vine branch vn pampano
+
+
+
+an almond tree el almendro
+
+
+
+a plumme vna ciruela
+
+
+
+a plum tree el ciruelo
+
+
+
+an oliue vn azeytuna
+
+
+
+an oliue tree el azeytuno
+
+
+
+a chestnut vna castaña
+
+
+
+
+
+
+
+a chestnut tree la castaña
+
+
+
+an orenge vna naranja
+
+
+
+an orenge tree el naranja
+
+
+
+a quince vn membrillo
+
+
+
+a quince tree el embrillo
+
+
+a pomegranate vna granada
+
+
+
+a medler vn niespero
+
+
+
+a medler tree el niespero
+
+
+
+to plant plantar
+
+
+
+to graffe enxerir
+
+
+
+to roote out desarraygar
+
+
+
+to roote in arraygar
+
+
+
+nut shels chonchas de nuezes
+
+
+
+a todestoole vn hongo
+
+
+
+
+Of the wood. Del bosque.
+
+
+A wood vn bosque
+
+
+
+a parke vna caça
+
+
+
+a warrener vn montañero
+
+
+
+a wildernes vn deserto
+
+
+
+a branch vn ramizillo
+
+
+
+a bough vn ramo
+
+
+
+a rod vna verga
+
+
+
+a broome vna escoba
+
+
+
+a broomeman vn escobero
+
+"broomeman" antedates earliest OED citation (1592).
+
+
+
+
+a chimney sweeper vn barredor de chime­
+neas
+
+
+a willow tree el sauze 
+
+
+
+to shake sacudir
+
+
+
+to moue menear
+
+
+
+
+
+
+
+a faggot vna fagota
+
+
+
+an oke vn roble
+
+
+
+an acorne vna bellota
+
+
+
+acornes bellotas
+
+
+
+to cogge hazer escarnio
+
+
+
+a cogger vn escarnecedor
+
+
+a cutpurse vn cortador de bolsas
+
+
+
+a theefe vpon the hie way vn salteador
+
+
+
+to spie espiar
+
+
+
+spies. los espias
+
+
+
+
+Of the wild beasts
+and of hunting. De las fieras, & de
+la monterea.
+
+
+A beast Vna bestia
+
+
+
+a wild beast vna fiera
+
+
+
+beastlinesse bestialidad
+
+
+
+tamed domada
+
+
+
+a wild man vn saluage
+
+
+
+a wild woman vna saluage
+
+"wild woman" not found in OED, unlike "wild man."
+
+
+
+
+a lion vn leon
+
+
+
+a lionesse vna leona
+
+
+
+a hart vna cieruo
+
+
+
+a hinde vna cierua
+
+
+
+a beare vna osso
+
+
+
+hairie peloso
+
+
+
+Iuorie el marfil
+
+
+
+a cammell vn camello
+
+
+
+a wilde boare vn jauali
+
+
+
+
+
+
+
+a wolfe vn lobo
+
+
+
+a she wolfe vna loba
+
+
+
+a fox raposa
+
+
+
+a hare vna liebre
+
+
+
+a cunnie vn conejo
+
+
+
+an ape vn mono
+
+
+
+a squerrell vna harda o vn esquilo
+
+
+
+to hunt montear. caçar
+
+
+
+a hunter montero, caçador
+
+
+
+wearie cansado
+
+
+
+wearines cansancio
+
+
+
+a hay vna red
+
+
+
+a dogge vn perro
+
+
+
+a bitch vna perra
+
+
+
+a greyhound vn galgo.
+
+
+
+a blood hound to smel out vn podenco
+
+
+
+a little rabbet vn gaçapo
+
+
+
+a blood hound vn perro de rastro
+
+
+
+a hound vn liebrel
+
+
+
+a mastife vn sabuesso
+
+
+
+a band dogge vn alano
+
+
+
+to barke ladrar
+
+
+
+the dogs barke los perros estan 
+ladrando
+
+
+to bay balar
+
+
+
+to bite morder
+
+
+
+to stray vagar
+
+
+
+to go about rodear
+
+
+
+a line. vna cuerda.
+
+
+
+
+
+
+
+
+Of wormes and
+other venimous 
+beastes. De los gusanos y
+cosas ponçoñosas que
+gatean por el suelo.
+
+
+A worme Vn gusano.
+
+
+
+an ante vna hormiga
+
+
+
+a flie vna mosca
+
+
+
+a gnat vn mosquito
+
+
+
+a grashopper vna cigarra
+
+
+
+a butterflie vna mariposa o pauelió
+
+
+
+a kind of worme vn genero de gusano
+
+
+
+a flea vna pulga
+
+
+
+a louce vn peojo
+
+
+
+a nitte vn liendre
+
+
+
+full of a lice lleno de peojos.
+
+
+
+a caterpiller el gusano rebolton
+
+
+
+a moule vn topo
+
+
+
+a bee vna abeja
+
+
+
+honnie miel.
+
+
+
+a honnie combe vn panal
+
+
+
+gall hiel
+
+
+
+as bitter as gall tan amargo como hiel
+
+
+
+wax cera
+
+
+
+a wax candle vna candela de cera
+
+
+
+sweete as honie dulce como miel
+
+
+
+sweetnes dulçura
+
+
+
+white wax cera blanca
+
+
+
+bitternes amargura
+
+
+
+bitter amargo
+
+
+
+
+
+
+
+bitterly amargamente
+
+
+
+softly poco a poco
+
+
+
+sweetely dulcemente
+
+
+
+finely lindamente
+
+
+
+a venimous beast vna bestia ponçonosa
+
+
+
+venim veneno
+
+
+
+to poison emponçoñar
+
+
+
+a serpent vna serpiente
+
+
+
+a snake vn culebra
+
+
+
+a dragon vn dragon
+
+
+
+an adder la culebrá
+
+
+
+a rat vn raton
+
+
+
+a mouse ratonzillo
+
+
+
+mice ratonzillos
+
+
+
+a cat vn gato
+
+
+
+cats los gatos
+
+
+
+a nut vna nuez
+
+
+
+a nuts nuezes
+
+
+
+a toad vn sapo
+
+
+
+a frogge vna rana
+
+
+
+frogges las ranas
+
+
+
+a cat of the mountaine vn gato montes
+
+
+
+a muske cat vn gato de mosco
+
+
+
+a wesell vn comadreja
+
+
+
+he swimmeth like
+a frogge sabe nadar como
+vna rana
+
+
+
+a snaile vn galapago
+
+
+
+a spider vna araña
+
+
+
+a spiders cobbe vna tela araña
+
+
+
+
+
+
+
+an oxe vn buey
+
+
+
+Oxen Los bueys
+
+
+
+a cow vna vaca
+
+
+
+a heardman vn baquero
+
+
+
+kine vacas
+
+
+
+beasts la vaca
+
+
+
+milke leche
+
+
+
+milke the cow tira la vaca
+
+
+
+a calfe vn bizerro
+
+
+
+calues los bizerros
+
+
+
+hornes cuernos
+
+
+
+cheese queso
+
+
+
+butter milke leche de manteca
+
+
+
+butter manteca
+
+
+
+creame nata
+
+
+
+mutton carnero para comer
+
+
+
+an ewe vna oueja
+
+
+
+a wedder carnero para casta
+
+
+
+a ramme carnero cojudo
+
+
+
+rennet leche azeda
+
+
+
+to bleate balar
+
+
+
+a he goate vn cabron
+
+
+
+a goate vna cabra
+
+
+
+goates cabras
+
+
+
+a flocke vna manada
+
+
+
+a kid vn cabrito
+
+
+
+a hogge vn puerco
+
+
+
+hogges. a sowe puercos. vna puerca
+
+
+
+a pigge vn lechon
+
+
+
+
+
+
+
+to pigge parir
+
+
+
+a pudding vna morçilla
+
+
+
+salsige vna longaniza
+
+
+
+a hog heard vn porquero
+
+
+
+a horse vn caballo
+
+
+
+a horseman vn hombre de caballo
+
+
+
+a colt vn potro
+
+
+
+a mare vna yegua
+
+
+
+curdes queso fresco
+
+
+
+a posset vna quajada
+
+
+
+my horse halteth mi cauallo coxquea
+
+
+
+a gelding vn cauallo castrado
+
+
+
+an asse vn asno
+
+
+
+the iaw of an asse el quixar de vn asno
+
+
+
+a mule vna mula
+
+
+
+a curtall cauallo sin cola
+
+
+
+a double curtall vn cauallo de alquiler
+
+
+an ambling horse vn cauallo amblador
+
+
+
+my horse ambleth well. mi cauallo bien ambla.
+
+
+
+
+Of the birds. De los paxaros.
+
+
+A bird Vn paxaro
+
+
+
+birds paxaros
+
+
+
+a hauke vn açor
+
+
+
+a fowler vn caçador de aues
+
+
+
+a feather vna pluma
+
+
+
+the feathers plumas
+
+
+
+a wing vna ala
+
+
+
+wings alas
+
+
+
+
+
+
+
+a naile vna vña
+
+
+
+nailes vñas
+
+
+
+a taile vna cola
+
+
+
+an eagle vna aguila
+
+
+
+a crane vna grulla
+
+
+
+a storke vna cigueña
+
+
+
+a rauen vn cueruo
+
+
+
+a pie vna pega, picaça
+
+
+
+a nightingale el ruyseñor
+
+
+
+a larke vna cogujada
+
+
+
+a woodcocke vna estraua
+
+
+
+a partrich vna perdiz
+
+
+
+a hearne vna garça
+
+
+
+a thrush vn zorzal
+
+
+
+a quaile vna codorniz
+
+
+
+a blackbird vna merla
+
+
+
+a howlet vna lechuza
+
+
+
+a sparrow vn gorion
+
+
+
+a swallow vna golondrina
+
+
+
+a cocke vn gallo
+
+
+
+a pecocke vn pauon
+
+
+
+a capon vn capon
+
+
+
+a hen vna gallina
+
+
+
+a chicken vn pollo
+
+
+
+to ley poner hueuos
+
+
+
+to sit or to brood yazer sobre los hueuos
+
+
+
+a swarme vn enxambre
+
+
+
+a goose vn ganso
+
+
+
+gueese ausares
+
+
+
+
+
+
+
+a gosselin vn ansarina
+
+
+
+a phesant vn faisan
+
+
+
+a pigeon vna paloma
+
+
+
+a turtle doue vna tortola
+
+
+
+a faulcon vn halcon//
+
+
+
+a parret vn papagayo
+
+
+
+a nest vn nido
+
+
+
+a bat vn morcielago
+
+
+
+to tame amansar
+
+
+
+a cage vna jaula
+
+
+
+a kite vn milano
+
+
+
+to take away birds from
+their nestes quitar los paxarillos
+de sus nidos
+
+
+
+the birds begin to make
+their nestes los paxaros comiencé
+hazer los nidos
+
+
+
+a comme vna crespa
+
+
+
+a becke el pico de aue
+
+
+
+a cockes combe la crespa del gallo
+
+
+
+a iay vn grajo
+
+
+
+a ducke vn pato
+
+
+
+an egge vn hueuo
+
+
+
+a hen roost el galliuero
+
+
+
+
+Of gold, siluer, and
+melting things: of
+merchants & all
+kind of mer­
+ceries. De oro, plata, y
+derritimiento: de
+ mercaderes y toda
+suerte de mer­
+cerias.
+
+
+Gold Oro
+
+
+
+
+
+
+
+fine gold oro puro
+
+
+
+siluer Plata
+
+
+
+iewels joyas
+
+
+
+it is a faire iewel este es vn lindo joyel
+
+
+
+it is good siluer esta plata es buena
+
+
+
+quicke siluer azogue
+
+
+
+brasse bronze
+
+
+
+pewter, copper estaño, cobre
+
+
+
+latten laton
+
+
+
+mettell metal
+
+
+
+a candlesticke vn candelero
+
+
+
+a candell vna candela o vela
+
+
+
+snuffers molletas
+
+
+
+tallow cebo
+
+
+
+snuffe the 
+candell despauila la vela 
+o candela
+
+
+
+a candle weeke el hongo de la candela
+
+
+
+iron hierro
+
+
+
+lead plomo
+
+
+
+steele azero
+
+
+
+a bell vna campana
+
+
+
+a rope vna zoga
+
+
+
+hang him like
+a bell colgad le como 
+vna campana
+
+
+
+to melt derritir
+
+
+
+molted derritido
+
+
+
+my heart melteth
+as the waxe 
+before 
+the fire mi coraçon se derrite
+assi como la cera
+delante 
+
+
+
+
+
+el fuego
+
+
+
+a kettle vn calderon
+
+
+
+a naile vn clauo
+
+
+
+a mercer vn regaton
+
+
+
+a needle vna aguja
+
+
+
+needles, threed agujas, hilo
+,
+
+
+a skeine vna madexa
+
+
+
+silke seda
+
+
+
+a pin vn alsiler
+
+
+
+a pincoushin almohadilla
+
+
+
+a thimble vn dedal
+
+
+
+a knife vn cuchillo
+
+
+
+all kind of trumperie bagaje.
+
+
+
+all his merchandize 
+is but trumperie toda su mercaduria es
+bagaje
+
+
+
+to grinde a knife a molar el cuchillo
+
+
+
+a sheath vayna
+
+
+
+an inkehorne vn tintero
+
+
+
+inke tinta
+
+
+
+a penknife vn trinchete, ganiuete
+
+
+
+bumbase algodon
+
+
+
+a pen vna pluma paraeseri­
+uir
+
+
+a penner vn estuche 
+
+
+
+a quill pluma
+
+
+
+a stoppell vna tapadura
+
+
+
+counters contantes
+
+
+
+a brush vna escoba
+
+
+
+a coyffe vna toca
+
+
+
+a rubber escoba para fregar
+
+
+
+
+
+
+
+spectacles antojos
+
+
+
+a claspe vna heuilla
+
+
+
+a pointe vna agujeta
+
+
+
+a locke vn cerrojo
+
+
+
+a keye vna llaue
+
+
+
+a latch of a doore vna aldaba de puerta
+
+"door-latch" antedates earliest OED citation (1678).
+
+
+
+
+lace parsemana
+
+
+
+fringing la bordadura
+
+
+
+hangers los tiros de espada
+
+
+
+to gyrde ceñir
+
+
+
+a curry combe vna almohaça
+
+
+
+a razor vna nauaja
+
+
+
+a bag vn saco 
+costal
+
+
+
+a looking glasse vn espejo
+
+
+
+to looke in the glasse mirarse en el espejo
+
+
+
+an apron toga del regaço
+
+
+
+to pin enclauar
+
+
+
+to vnpin desenclauar
+
+
+
+to tye atar
+
+
+
+to vntye desatacar
+
+
+
+binde my head well I 
+pray you atacad me bien la ca­
+beça os ruego
+
+
+
+vndo my points desatacad me las a­
+gujetas
+
+
+a bottell vna botilla 
+
+
+
+a lampe vna lampara
+
+
+
+oyle azeyte
+
+
+
+a cup tassa
+
+
+
+a violl vn vaso
+
+
+
+
+
+
+
+a paire of sheeres vnas tiferas
+
+
+
+a pot vn jarro
+
+
+
+a combe vn peyne
+
+
+
+a combebrush vna escobeta
+
+"comb-brush" antedates earliest OED citation (1611).
+
+
+
+
+to combe peynar
+
+
+
+to combe your head peynar la cabeça
+
+
+
+a cap vna gorra
+
+
+
+a hat vn sombrero
+
+
+
+a veluet cap vna gorra de terçio­
+pelo
+
+
+a night cap vn bonete 
+
+
+
+a bodkin vn punçon
+
+
+
+veluet terçiopelo
+
+
+
+damaske damasco
+
+
+
+purple el carmesi
+
+
+
+chamelet chamelote
+
+
+
+sattin raso
+
+
+
+crimson escarleta
+
+
+saye sayal
+
+
+
+fustian fustan
+
+
+
+sarcenet tafetan
+
+
+
+wosted ostada
+
+
+
+a marchant vn mercader
+
+
+
+a retailer of wares un regaton
+
+
+a she marchant vna mercadera
+
+"she marchant" not found in OED.
+
+
+
+
+to buy comprar
+
+
+
+to sell vender
+
+
+
+to offer offrecir
+
+
+
+to bargaine conciertar de preçio
+
+
+
+to sell cheape or deare vender arato o caro
+
+
+
+
+
+
+
+an ell vna braçada
+
+
+
+a yard vna vara
+
+
+
+the length la longura
+
+
+
+breadth anchura
+
+
+
+well wrought bien texido
+
+
+
+it is slender cloth es paño delgado
+
+
+
+to measure medir
+
+
+
+to trust fiar
+
+
+
+to pay pagar
+
+
+
+to satisfie satishazer
+
+
+
+to agree conciertar
+
+
+
+to be agreed estar conciertado
+
+
+
+we shall neuer agree nunca acuerdaremos
+
+
+
+to depart away despedirse
+
+
+
+he is now gone ya es ydo
+
+
+
+to deliuer entregar
+
+
+
+to set a price hazer el preçio
+
+
+
+a shop vna boutica
+
+
+
+to esteeme estimar
+
+
+
+to refuse rehusar
+
+
+
+to pay pagar
+
+
+
+to breake his promise no guardar la palabra
+
+
+
+a wollen draper vn trapero
+
+
+
+a cloth paño
+
+
+
+Flanders cloth paño de Flandres
+
+
+
+fine cloth paño fino
+
+
+
+thicke espeso
+
+
+
+thinne cloth paño delgado
+
+
+
+gloues guantes
+
+
+
+
+
+
+
+wooll lana
+
+
+
+a pound vna libra
+
+
+
+halfe a pound media libra
+
+
+
+a quarter pound la quarta parte de
+vna libra
+
+"quarter-pound" antedates earliest OED citation (1778).
+
+
+
+
+halfe a quarter pound la octaua parte de vna 
+libra
+
+
+
+a ballance vna balança
+
+
+
+a weight vn peso
+
+
+
+a packe of wooll vna carga de lana
+
+
+
+packes fardajes
+
+
+
+a tunne vn tonel
+
+
+
+a bushell. vna celemin.
+
+
+
+
+Of handy craftes
+men and their
+instruments. De los officiales
+y sus instru­
+mentos. 
+
+
+A handycrafts man Vn official
+
+
+
+a miller vn molinero
+
+
+
+a she miller vna molinera
+
+"she miller" not found in OED.
+
+
+
+
+a mill vn molino
+
+
+
+a water mill molino de agua
+
+
+
+a winde mill vn molino de viento
+
+
+
+to grinde moler
+
+
+
+a paper mill vn molino de papel
+
+
+
+a millstone vna muela
+
+
+
+the mill clapper  la citola del molino
+
+
+
+the hopper el embudo
+
+
+
+a malt mill el atahona
+
+
+
+a baker vn amassador
+
+
+
+
+
+
+
+an ouen vn horno
+
+
+
+to bake amassar
+
+
+
+meale harina
+
+
+
+a sacke vn costal
+
+
+
+white bread pan blanco
+
+
+
+browne bread pan baço
+
+
+
+a loafe vn pan
+
+
+
+a cake vna torta
+
+
+
+a toast vna tostada
+
+
+
+dough pasta
+
+
+
+leuen leuadura
+
+
+
+bran saluado
+
+
+
+new bread pan tierno
+
+
+
+stale bread pan duro
+
+
+
+a siue vn cedaço
+
+
+
+boulter vn cedaço de sirgo
+
+
+
+to knead souar la massa
+
+
+
+to boult the meale cernir la harina
+
+
+
+a bruer vn cozedor de cer­
+ueza
+
+
+to brue cozer
+
+
+
+the brue
+house la casa a do se coze
+la cerueza
+
+
+
+the lead el calderon de plomo
+
+
+
+a bunge vna tapadura
+
+
+
+a vessell vn odre
+
+
+
+a funnell vn embudo
+
+
+
+a pancake vn hojuela
+
+
+
+a cooke vn cozinero
+
+
+
+a pastie vn pastel
+
+
+
+
+
+
+
+an apple pie vn pastel de mança­
+nas
+
+
+a tarte vna tarta
+ 
+
+
+venezon carne de fiera
+
+
+
+a pastie of good
+venezon vn pastel de buena
+carne de fiera
+
+
+
+a custard vn hojalde
+
+
+
+a butcher vn carnicero
+
+
+
+his shoppe la carniceria
+
+
+
+flesh carne
+
+
+
+beefe carne de vaca
+
+
+
+mutton carnero
+
+
+
+lambe carne de cordero
+
+
+
+porke carne de puerco
+
+
+
+veale carne de bezerro
+
+
+
+the meat is leane la carne està flaca
+
+
+
+a bone vn huesso
+
+
+
+bones los huessos
+ 
+
+
+how sell you a pound
+of this meate? como se vende la libra
+de esta carne?
+
+
+
+a fishmonger vn pescadero
+
+
+
+fish pescado
+
+
+
+to fish pescar
+
+
+
+a fish pond vn estanque
+
+
+
+a net vna red
+
+
+
+a hooke vn anzuelo
+
+
+
+water agua
+
+
+
+the sea la mar
+
+
+
+a mairemaide la serena del mar
+
+
+
+a dolphin el delfin
+
+
+
+
+
+
+
+a whale la vallena
+
+
+
+a porpes lobo marino
+
+
+
+a playce vn rodauallo
+
+
+
+a soule vn lenguado
+
+
+
+a mackerell vn alache
+
+
+
+a sturgeon esturion
+
+
+
+a shad vna alosa
+
+
+
+an eele vna anguilla
+
+
+
+a hearring vna harenca
+
+
+
+the spawne los hueuos del 
+pescado
+
+
+the melt el baço  
+
+
+
+mustles almejas
+
+
+
+cockles caracol
+
+
+
+oysters. ostias.
+
+
+
+
+Pond-fish. Pescado de estanque 
+
+
+A carpe Vn carpio
+
+
+
+a tench vna tenca
+
+
+
+a breame vna doradilla
+
+
+
+a crabbe vn cangrejo
+
+
+
+a pike vn solo
+
+
+
+a barbell vn barbo
+
+
+
+a sammon vn salmon
+
+
+
+a gudgion vn gobi
+
+
+
+a trout vna trucha
+
+
+
+a creuish vn cameron
+
+
+
+a conger el congrio
+
+
+
+a shrimpe vna corcaba
+
+
+
+a cutle vna xibia
+
+
+
+an eell vna anguilla
+
+
+
+
+
+
+
+a vintener vna tauernero
+
+
+
+a tauerne vna tauerna
+
+
+
+wine vino
+
+
+
+draw some wine tirad del vino
+
+
+
+to spill derramar
+
+
+
+to stop. atapar
+
+
+
+full lleno
+
+
+
+emptie vazio
+
+
+
+to fill hinchir
+
+
+
+to mingle mezclar
+
+
+
+white wine vino blanco
+
+
+
+red wine vino vermejo
+
+
+
+bastard wine bastardo
+
+
+
+bollocke wine vino tinto
+
+The meaning of "bollocke" is unclear.
+
+
+
+
+allegant wine vino de Alicante
+
+
+
+canara wine vino de Canaria
+
+
+
+claret wine vino clareto
+
+
+
+Gascoigne wine vino de Gasconia
+
+
+
+french wine vino de françia
+
+
+
+Rochel wine vino de Rochela
+
+
+
+vinegar vinagre
+
+
+
+malmesey vino de Candia
+
+
+
+muscadel clarea
+
+
+
+aqua vite agua ardiente
+
+
+
+sweet wine mosto
+
+
+
+a quart vn açumbre
+
+
+
+a pinte medio açumbre
+
+
+
+
+a caudell caldo
+
+
+
+a drinke beuraje
+
+
+
+
+
+
+
+A goldsmith Vn platero
+
+
+
+a cup of gold vna taça de oro
+
+
+
+a siluer cup vna taça de plata
+
+
+
+a siluer goblet vna vaso de plata
+
+
+
+to gild dorar
+
+
+
+a gold ring vn anillo de oro
+
+
+
+a siluer spoone vna cucharra de plata
+
+
+
+a diamond vn diamante
+
+
+
+a rubie vn rubi
+
+
+
+a saphire el çafir
+
+
+
+a turquese vna turquesa
+
+
+
+a pearle vna perla
+
+
+
+corrall el coral
+
+
+
+amber el ambar
+
+
+
+cristall el cristal
+
+
+
+a iewel of great price vn joyel de gran precio
+
+
+
+an emerod stone vn esmalte
+
+
+
+a smith vn herrero
+
+
+
+to forge forjar
+
+
+
+iron hierro
+
+
+
+a horseshoe vn herradura
+
+
+
+a pair of tonges vnas tenazas
+
+
+
+a fire shouell vna pala de hierro
+
+
+
+a gridyron las parrillas
+
+
+
+a treuet vna triud
+
+
+
+a paire of bellowes vños fuelles
+
+
+
+an andyron hierro para sostener
+
+
+
+a pothooke vn garauato
+
+
+
+a pan to frie vn sarten
+
+
+
+
+
+
+
+a spit vn assadero
+
+
+
+a hammer vn martillo
+
+
+
+a nayle vn clauo
+
+
+
+a pewterer vn estañero
+
+
+
+tinne estaño
+
+
+
+a platter vn plato
+
+
+
+a sauser vn platillo
+
+
+
+a basin vn baçin
+
+
+
+vn ewer vn aguamanil
+
+
+
+a candelsticke vn candelero
+
+
+
+a mowld vna forma
+
+
+
+a pewter pot vn jarro de estaño
+
+
+
+quicke siluer azogue
+
+
+
+a shoomaker vn çapatero
+
+
+
+shoes çapatos
+
+
+
+leather cuero
+
+
+
+slippers pantofles
+
+
+
+pumpes escarpines
+
+
+
+a last vna forma
+
+
+
+bootes botas 
+
+
+
+buskins borzeguis
+
+
+
+pitch pez
+
+
+
+corkeshoes çapatos de corcha
+
+
+
+a shoe sole vna suela
+
+
+
+Spanish leather shoes çapatos de cordaua
+
+
+
+a cobler vn remendon 
+
+
+
+mend my shoes remendad me los çapa­
+tos
+
+
+set me on a good
+payre of soles on 
+my shoes echad me vnas suelas
+muy buenas a los
+çapatos.
+
+
+
+
+
+
+
+a tanner vn curtidor de cueros
+
+
+
+a skinne vn cuero
+
+
+
+lime cal
+
+
+
+a stincke vn hedor
+
+
+
+that stincketh aquello hede
+
+
+
+a tailor vn sastre
+
+
+
+a gowne vna ropa larga
+
+
+
+a doublet vn jubon
+
+
+
+a cloake vna capa
+
+
+
+a button vn button
+
+
+
+a coate vn sayo
+
+
+
+a sleeue vna manga
+
+
+
+a payre of hosen vnos calçones
+
+
+
+to take measure tomar la medida
+
+
+
+to line forrar
+
+
+
+a lynning vn forrado
+
+
+
+bumbase algodon
+
+
+
+bayes bayetas
+
+
+
+silke seda
+
+
+
+to put on vestirse
+
+
+
+to put of quitar el vestido
+
+
+
+a hosier vn calçetero
+
+
+
+stockings medias calças
+
+
+
+a paire of garters vnas ligas
+
+
+
+a codpeece vn braguete
+
+
+
+breeches bragas
+
+
+
+the soles of the hosen las suelas de las calças
+
+
+a seamster vna cosedura
+
+
+
+to sew coser
+
+
+
+
+
+
+
+linnen cloth lienço
+
+
+
+a seame vna costura
+
+
+
+to vnsew descoser
+
+
+
+to teare rasgar
+
+
+
+a table cloth manteles
+
+
+
+a napkin vna seruieta
+
+
+
+sheetes sabanas
+
+
+
+shirtes camisas
+
+
+
+a towell vna toualla
+
+
+
+a smocke camisa de muger
+
+
+
+an vpholster vn colchero
+
+
+
+a cushion vna almohada
+
+
+
+a pillow vn cabeçal
+
+
+
+a carpet vna alhombra
+
+
+
+a bed. vna cama
+
+
+
+a mattresse vn xergon
+
+
+
+a couerlet vn cobertor
+
+
+
+a curtaine vna curtina
+
+
+
+furniture for a bed jaezes de la cama
+
+
+
+a diar vn tintero
+
+
+
+to dye teñir
+
+
+
+to draw water facar agua
+
+
+
+to drop gotar
+
+
+
+a drop vna gota
+
+
+
+a gutter vn canal
+
+
+
+the dying la tintura
+
+
+
+a painter vn pintor
+
+
+
+to paint pintar
+
+
+
+a picture vna pintura
+
+
+
+
+
+
+
+an image vna imagen
+
+
+
+a pencill vna pendola
+
+
+
+coulors colores
+
+
+
+red vermejo
+
+
+
+white blanco
+
+
+
+blacke niegro
+
+
+
+yellow amarillo
+
+
+
+greene verde
+
+
+
+blew azul
+
+
+
+tawny naranjado
+
+
+
+gray pardo
+
+
+
+violet violet
+
+
+
+to spot manchar
+
+
+
+spotted manchado
+
+
+
+a staine vna mancha
+
+
+
+a spot vna manzilla
+
+
+
+a lockesmith vn cerrajero
+
+
+
+a locke vna cerraja
+
+
+
+a key vna llaue
+
+
+
+a file vna lima
+
+
+
+a hammer vn martillo
+
+
+
+pincers pinças
+
+
+
+a coyner vn monedero
+
+
+
+a mint la moneda
+
+
+
+the master of the mint el maestro de la mo­
+neda
+
+
+money dinero 
+
+
+
+to coyne forjar dinero
+
+
+
+a crowne vn escudo
+
+
+
+a French crowne vn escudo del sol
+
+
+
+
+
+
+
+an English crowne vn escudo de Ingla­
+tierra
+
+
+an old angell vn angelote
+
+
+
+a shilling vn sueldo
+
+
+
+a peny vn denario
+
+
+
+a groat vna drachma
+
+
+
+six pence seys denarios
+
+
+
+a halfe peny vn obulo
+
+
+
+a farding vn quadrin
+
+
+
+a Spanish reall vn real de España
+
+
+
+a carpenter vn carpintero
+
+
+
+to build edificar
+
+
+
+the instruments los instrumentos
+
+
+
+the tooles los intstrumentos de 
+arte
+
+
+an ads vna azuela 
+
+
+
+a hatchet vna segur
+
+
+
+an axe vn seguron
+
+
+
+a beame vna viga
+
+
+
+a board vna tabla
+
+
+
+a board vna mesa
+
+
+
+a staffe vn bordon
+
+
+
+a compasse vn compas
+
+
+
+a proppe vn rodrigon
+
+
+
+a percer vna barrena
+
+
+
+to proppe rodrigar
+
+
+
+to beare barrenar
+
+
+
+a house vna casa
+
+
+
+a chamber vna camara
+
+
+
+houshold stuffe axuar alhajas
+
+
+
+a dore vna puerta
+
+
+
+
+
+
+
+a gate vna puerta grande
+
+
+
+a window vna ventana
+
+
+
+a hall vna sala
+
+
+
+a kitchin vna cozina
+
+
+
+a buttrye la bottelleria
+
+
+
+a cellar vna cueua
+
+
+
+a gallery vn passeadizo corre­
+dor
+
+
+a pallace vn palaçio 
+
+
+
+a priuy vna priuada
+
+
+
+to go vp andar arriba
+
+
+
+to go downe andar abaxo
+
+
+
+to set vp endressar
+
+
+
+to fall caer
+
+
+
+a ladder vna escala
+
+
+
+to climbe vp subir
+
+
+
+to cleaue hender
+
+
+
+a creuise hendedura
+
+
+
+a wooden pin vn hito de madera
+
+
+
+chips ripias
+
+
+
+shauings rajas
+
+
+
+to shaue rajar
+
+
+
+a wedge to cleaue vna cuña para hende
+
+
+
+a ioyner vn caxero
+
+
+
+cupboord vn aparador
+
+
+
+a presse vna prensa
+
+
+
+a trestle tripies
+
+
+
+a stoole vn banco
+
+
+
+a footestoole vn banco de pica
+
+
+
+stooles bancos
+
+
+
+
+
+
+
+a chest vna caxa
+
+
+
+a beere andas
+
+
+
+a plainer vna readura
+
+
+
+to plaine raer
+
+
+
+glue cola
+
+
+
+to glue encolar
+
+
+
+to ioyne together ayuntar
+
+
+
+a sawyer vn sierro
+
+
+
+to saw asserrar
+
+
+
+a saw vna sierra
+
+
+
+a saw pit vn hoyuelo
+
+
+
+a tinker vn calderero
+
+
+
+a kettle vn caldero
+
+
+
+a bricklayer vn albeñi
+
+
+
+a mason vn architecto
+
+
+
+to daube limar
+
+
+
+sand arena
+
+
+
+grauell tierra arenosa
+
+
+
+lime cal
+
+
+
+chalk greda
+
+
+
+to white a wall emblanquescer la pa­
+red
+
+
+a wall vna pared
+
+
+
+walles muros
+
+
+
+a piller vna coluna
+
+
+
+a post vna poste
+
+
+
+morter barro
+
+
+
+a chimney vna chimenea
+
+
+
+a tyler vn tejero
+
+
+
+to tyle tejar
+
+
+
+
+
+
+
+a tyle vna teja
+
+
+
+the roofe of the
+house el tejado o techo de
+la casa
+
+
+
+the postes and beames las postes y vigas
+
+
+
+a cooper vn tonellero
+
+
+
+a tunne vn tonelado
+
+
+
+a barrel vn barril
+
+
+
+a tubbe vn odre
+
+
+
+a paile vna herrada
+
+
+
+a hoope vn cerco
+
+
+
+a sadler vn sillero
+
+
+
+a sadle vna silla
+
+
+
+a bridle vn freno
+
+
+
+a stirrup vn estribo
+
+
+
+a bit vn bocado
+
+
+
+the raine la rienda
+
+
+
+a girt vna çincha
+
+
+
+girts las çinchas
+
+
+
+a sadle bow el arçon de la silla
+
+
+
+a target vna rodela
+
+
+
+a buckler vn broquel
+
+
+
+a shield vn escudo
+
+
+
+a halter vn cabestro
+
+
+
+bridles frenos
+
+
+
+a crosbow maker vn ballestero
+
+
+
+a crosbow vna ballesta
+
+
+
+a quiuer vna aljaua
+
+
+
+a bow of steele vn arco de azero
+
+
+
+a bolt vna xara
+
+
+
+
+
+
+
+an arrow vna flecha
+
+
+
+a dart vna saeta
+
+
+
+an archer vn archero
+
+
+
+to shoote tirar
+
+
+
+a hand bow vn arco
+
+
+
+to draw tirar
+
+
+
+to shoote right at
+the white tirar derecho
+al blanco
+
+
+
+to bend a bow estendar el arco
+
+
+
+to vnbend the 
+bow will not heale 
+the wound afloxar el arco
+no curara la 
+llaga
+
+
+
+an harquebusier vn harcubuziero
+
+
+
+a dagge vn pistol
+
+
+
+a gunne vn arcubuz
+
+
+
+artillerie artilleria
+
+
+
+poudre poluora
+
+
+
+a flaske vn flasco
+
+
+
+a bullet vna bala
+
+
+
+a musket vn musquete
+
+
+
+a musketier vn musquetero
+
+
+
+a clocke maker vn reloxero
+
+
+
+a clocke el relox
+
+
+
+a sunne diall relox del sol
+
+"sunne diall" antedates the earliest OED citation (1599).
+
+
+
+
+the plummets los contrapesos
+
+
+
+a bell-maker vn campenero
+
+
+
+to ring a bell repicar la campana
+
+
+
+a chaine vna silla
+
+
+
+a cradle vna cuna
+
+
+
+
+
+
+
+to blow soplar
+
+
+
+a wheele vna rueda
+
+
+
+a distaffe vna rueca
+
+
+
+a spindell vn huso
+
+
+
+a bowle vna bola
+
+
+
+let vs go to bowles jueguemonos a las 
+bolas
+
+
+a wooden dish vna escudilla de palo
+
+
+
+a chandeller vn candelero
+
+
+
+tallow cebo
+
+
+
+an vrinall vn orinal
+
+
+
+butter manteca
+
+
+
+sweete butter is better 
+then salt butter mas vale manteca fres­
+ca que manteca sa­
+lada
+
+
+salt sal
+
+
+
+to salt salar con sal
+
+
+
+it is too much salted demasiado està salada
+
+
+
+vinegar vinagre
+
+
+
+sope xabon
+
+
+
+candles candelas velas
+
+
+
+oatemeale harina de auena
+
+
+
+a grocer vn especiero
+
+
+
+figges higos
+
+
+
+spices especias
+
+
+
+sugar açucar
+
+
+
+sinamom canela
+
+
+
+pepper pimenta
+
+
+
+licoris regaliza
+
+
+
+ginger gingebre
+
+
+
+saffron çafron
+
+
+
+
+
+
+
+a nutmegge vna nuez muscada
+
+
+
+cloues clauos
+
+
+
+comfets comfetes
+
+
+
+conserue of quinces carne de membrillo
+
+
+
+raisins passas
+
+
+
+almonds almendras
+
+
+
+almond
+milke leche de almendras 
+almendrada
+
+
+
+almond una almendra
+
+
+a bitter almond almendra amarga
+
+"bitter almond" antedates earliest OED citation (a1640).
+
+
+
+
+spice bread pan de especias
+
+
+
+rice arroz
+
+
+
+a morter vn mortero
+
+
+
+a pestell vn majadero
+
+
+
+to stampe majar
+1
+
+
+franckencense escienso
+
+
+
+incke tinta
+
+
+
+paper papel
+
+
+
+bumbast algodon
+
+
+
+an Apoticarie vn boticario
+
+
+
+a boxe vna bote
+
+
+
+a potion xaraue
+
+
+
+phisicke medicina
+
+
+
+a glister vn cristel
+
+
+
+a phisition vn medico
+
+
+
+a sicke person vn enfermo
+
+
+
+to sicken enfermar
+
+
+
+an ague vna calentura
+
+
+
+the French pockes las buuas
+
+
+
+
+
+
+
+the pestilence la pestilencia
+
+
+
+to be with child empreñarse
+
+
+
+the mesels las ronchas
+
+
+
+the squirt fluxo del vientro
+
+
+
+beshitten cagado
+
+
+
+a turde vna merda
+
+
+
+full of fleagme flegmatico
+
+
+
+a costerdmonger vn mançanero
+
+
+
+a basket vn canastillo
+
+
+
+a weauer vn texidor
+
+
+
+to weaue texer
+
+
+
+to spin hilar
+
+
+
+she hath spon a
+faire thread ella tiene hilado vn
+buen hilo
+
+
+
+he hath woue a
+faire webbe el ha texido buena
+tela
+
+
+
+a quill vna trama
+
+
+
+a shuttell naueta
+
+
+
+an apple vna mançana
+
+
+
+a peare vna pera
+
+
+
+a sheereman vn tondidor
+
+
+
+a pippin vn camueça
+
+
+
+a skinner vn pellejero
+
+
+
+a skinne vn pelleja
+
+
+
+to furre a gowne a forrar vna roba
+
+
+
+conny skinne vna pelleja de conejo
+
+
+
+a cat skinne vna pelleja de gato
+
+
+
+skinnes pellejas
+
+
+
+a dogge skinne vna pelleja de perro
+
+
+
+
+
+
+
+a barber vn barbero
+
+
+
+a rasor vna nauaja
+
+
+
+a basen vn baçin
+
+
+
+to trimme tresquilar
+
+
+
+to pole one quitar los cabellos
+
+
+
+pole my head quita me los cabellos
+
+
+
+to rubbe fregar
+
+
+
+oyntment vnguento
+
+
+
+to annoynt vngir
+
+
+
+a wound vna herida
+
+
+
+to wound herir
+
+
+
+a tent vna mecha, o torcida
+
+
+
+a plaister vn emplastro
+
+
+
+to heale sanar, curar
+
+
+
+my wound is whole tengola herida sana
+
+
+
+to dresse a wound curar la herida
+
+
+
+to lay a plaister poner vn emplastro
+
+
+
+to let bloud sangrar
+
+
+
+bloud sangre
+
+
+
+rose water agua de rosada
+
+
+
+a veyne vna vena
+
+
+
+flesh carne
+
+
+
+a surgeon vn çurujano
+
+
+
+a crutch vn çanco
+
+
+
+to breake romper 
+
+
+
+to go lamely çanquear andar en 
+çancos
+
+
+he hath broken
+my legge el me ha quebrado
+la pierna
+
+
+
+an Astronomer vn Astrologo
+
+
+
+
+
+
+
+Astronomy Astrologia
+
+
+
+a Printer vn Impressor
+
+
+
+to Print Imprimir
+
+
+
+the Print la Impression
+
+
+
+Printers Impressores
+
+
+
+a letter vna letra
+
+
+
+a booke vn libro
+
+
+
+a booke binder vn librero
+
+
+
+to binde a booke apretar vn libro
+
+
+
+the holy Bible la sagrada Biblia
+
+
+
+the Testament el Testamento
+
+
+
+the holy Scripture la sancta Escritura
+
+
+
+a Psalter vn Psalterio
+
+
+
+a storie vna historia
+
+
+
+stories historias
+
+
+
+Esopes Fables las Fabulas de Æsope
+
+
+
+a Chronicle vna Chronica
+
+
+
+an armorer vn armero
+
+
+
+armour armas
+
+
+
+a man armed vn hombre armado
+
+
+
+a man of armes vn hombre de armas
+
+
+
+an helmet vna celada
+
+
+
+a beuer la sobreuista
+
+
+
+a shield vn escudo
+
+
+
+a sword vna espada
+
+
+
+a dagger vna daga
+
+
+
+a scabberd vna vayna
+
+
+
+to draw a sword out of
+the sheath desembaynar
+la espada
+
+
+
+
+
+
+
+sharpe agudo
+
+
+
+cutting cortadera
+
+
+
+a blade vna hoja
+
+
+
+the edge el filo
+
+
+
+the gilt el doradera
+
+
+
+the handle la empuñadura
+
+
+
+the pummell el puño
+
+
+
+the point la punta
+
+
+
+to scoure a coate
+of maill limpiar vna cota
+de malla
+
+
+
+a mace vna maça
+
+
+
+a breast plate las coraças
+
+
+
+the gantlets guantes de hierro
+
+
+
+a speare vna lança
+
+
+
+an halbard vna hacha de armas
+
+
+
+a pike vna pica
+
+
+
+a halbard
+bearer el que trae aquellas
+hachas
+
+"halbard bearer" antedates the earliest OED citation (1775).
+
+
+
+
+to run at the tilt correr a la justa
+
+
+
+to win the ring ganar el cerco o anillo
+
+
+
+to breake a speare quebrar vna lança
+
+
+
+a master of fence vn esgrimidor
+
+
+
+to play at wasters esgrimir
+
+
+
+a cutler vn espadero
+
+
+
+to sharpen a sword amolar la espada
+
+
+
+a potter vn ollero
+
+
+
+a pot vna olla
+
+
+
+clay barro arzilla
+
+
+
+a forme vna forma
+
+
+
+
+
+
+
+a hote house la estufa
+
+
+
+to wash lauar
+
+
+
+a bath vn baño
+
+
+
+to bath or wash bañar en baño
+
+
+
+let vs go to wash vs vamenos a lauar nos
+
+
+
+to swimme nadar
+
+
+
+water agua
+
+
+
+a packbearer vn ganapan
+
+"packbearer" antedates earliest OED citation (1656).
+
+
+
+
+to beare lleuar
+
+
+
+a fardell vn fardaje
+
+
+
+a burthen vna carga
+
+
+
+a glouer vn guantero
+
+
+
+a gloue vn guante
+
+
+
+gloues guantes
+
+
+
+leather cuero
+
+
+
+a tailor vn sastre
+
+
+
+a butcher vn carnecero
+
+
+
+a purse maker vn bolsero
+
+
+
+a purse vna bolsa
+
+
+
+a hatmaker vn sombrerero
+
+
+
+a hat vn sombrero
+
+
+
+a felt vn feltre
+
+
+
+a Spanish felt vn feltre Despaña
+
+
+
+a capper vn bonetero
+
+
+
+a cap vn bonete
+
+
+
+caps bonetes
+
+
+
+a iugler vn chocarrero de 
+passa passa
+
+
+a ministrell vn tañedor
+
+
+
+a pipe vna çamponia
+
+
+
+
+
+
+
+a harpe vna harpa
+
+
+
+a flute vna fluta
+
+
+
+a guitterne vna guitarra
+
+
+
+a cithren vna citara
+
+
+
+a lute vn laud
+
+
+
+a timbrell vn pandero
+
+
+
+a violl vna vihuela
+
+
+
+virginals los clauicordios
+
+
+
+a dromme vn atambor
+
+
+
+a trumpet vna trompeta
+
+
+
+a drommer vn atabalero
+
+
+
+a trumpetter vn trompetero
+
+
+
+a fifer vn flautador
+
+
+
+a singingman vn cantador
+
+
+
+to sing cantar
+
+
+
+he hath a good breast a quel tiene linda boz
+
+
+
+a tune vn tono
+
+
+
+to keepe tune guardar el tono
+
+
+
+out of tune desentonado
+
+
+
+sing aloud canta mas alto
+
+
+
+sing softly and
+sweetly canta mas baxo y 
+dulcemente
+
+
+
+musicke maketh mirth
+where money is plentie musica haze alegria a
+do ay mucha requiza
+
+
+
+but small is the mirth
+where the purse is emptie mas la bolsa vazia trae
+siempre tristeza
+
+
+
+a cooke vn conizero
+
+
+
+a kitchin vna cozina
+
+
+
+to tast prouar
+
+
+
+
+
+
+
+to frye freir
+
+
+
+a gallimafrye vn almodrote
+
+
+
+potage caldo
+
+
+
+to season meat adobar manjares
+
+
+
+to scumme espumar
+
+
+
+a scummer espumero
+
+
+
+a ladell vna cucharra
+
+
+
+a breakefast al almuerzo
+
+
+
+a dinner el comer
+
+
+
+a supper el çenar
+
+
+
+a collation betwixt meals vna colaçion
+
+
+
+to go to bed acostarse en la cama
+
+
+
+to sleepe dormir
+
+
+
+to dreame soñar
+
+
+
+a dreame vn sueño
+
+
+
+to watch velar
+
+
+
+a watch vela de la noche
+
+
+
+to awake out of sleepe despiertar del sueño
+
+
+
+to snort roncar
+
+
+
+to spit escupir
+
+
+
+a vittaling house vn meson
+
+
+
+a dronckard vn boracho
+
+
+
+beere cerueza
+
+
+
+wine vino
+
+
+
+to vomit gomitar
+
+
+
+to drinke beuer
+
+
+
+to drinke to much beuer demasiado
+
+
+
+to drinke till one be
+dronke beuer hasta embora­
+charse
+
+
+
+
+
+
+
+a whore vna puta
+
+
+
+a whoremonger vn putañero
+
+
+
+a ruffian vn ruffiano
+
+
+
+an horlot vna ramera
+
+
+
+a stewe putaria
+
+
+
+there are many secret 
+whores where there is
+no common stewes. muchas putas ay en
+secreto, do no ay
+putaria en publico.
+
+
+
+faire maydens at the 
+stewes, and gallantes
+at the gallowes. lindas moças a la pu­
+taria, y galanos
+al rollo.
+
+
+
+a mariner vn marinero
+
+
+
+a pilote vn piloto
+
+
+
+a shippe vn nauio
+
+
+
+the mast vn mastel
+
+
+
+the sayles las velas
+
+
+
+the anker la ancla
+
+
+
+the cable la maroma
+
+
+
+the tackling la xarçia
+
+
+
+the boolin la bolina
+
+
+
+the fore yard la entena
+
+
+
+the maintacke tacke el chafaldete
+
+
+
+the top la gata
+
+
+
+the pullyes la racamenta
+
+
+
+to sayle nauigar
+
+
+
+a landerer vna lauandera
+
+
+
+to wash lauar
+
+
+
+to rubbe fregat
+
+
+
+to beat batanar paños
+
+
+
+
+
+
+
+a beetell vn batador
+
+
+
+to wring colar
+
+
+
+to fould plegar
+
+
+
+to vnfold desplegar
+
+
+
+to dry enxugar
+
+
+
+to stretch estender
+
+
+
+to presse a pretar
+
+
+
+to starch almidonar
+
+
+
+a combemaker vn peynero
+
+
+
+a combe vn peyne
+
+
+
+to comb ones head peynar la cabeça
+
+
+
+a roper vn soguero
+
+
+
+a rope vna sogua
+
+
+
+a cord vna cuerda
+
+
+
+towe estopa
+
+
+
+a poulter vn pollero
+
+
+
+the poultrie la polleria
+
+
+
+a hen vna gallina
+
+
+
+hennes gallinas
+
+
+
+chickins pollos
+
+
+
+a cock vn gallo
+
+
+
+a goose vn ansar
+
+
+
+a duck vn pato
+
+
+
+a workeman vn obrero
+
+
+
+to worke obrar
+
+
+
+an vsurer vn logrero
+
+
+
+vsurie logro
+
+
+
+a gage vna prenda
+
+
+
+to borrow emprestar
+
+
+
+
+
+
+
+borrowed emprestado
+
+
+
+to restore tornar lo emprestado
+
+
+
+a customer vn tributario
+
+
+
+the tole el tributo
+
+
+
+haue you paid the custome? aueys pagado el tri­
+buto?
+
+
+free libre
+
+
+
+freedome libremiento
+
+
+
+to make free hazer libre
+
+
+
+I am a freeman of 
+London. soy libre ciudadano
+de Londres.
+
+
+
+free will franco arbitrio
+
+
+
+freely francamente
+
+
+
+speake freely without
+feare habla libremente sin
+miedo
+
+
+
+a gayler vn carcelero
+
+
+
+a gayle la carcel
+
+
+
+a prisoner vn catiuo
+
+
+
+prisoners captiuos
+
+
+
+giue almes to the poore
+prisoners dad limosna a los po­
+bres captiuos
+
+
+
+for Gods sake we
+aske it por amor de Dios
+la pidimos
+
+
+
+a theefe vn ladron
+
+
+
+theeuerie ladronia
+
+
+
+a murderer vn omiziano
+
+
+
+a rauisher vn forçador
+
+
+
+to rauish a 
+mayden forçar y corromper
+vna donzella
+
+
+
+a cutpurse vn cortador de bolsas
+
+
+
+
+
+
+
+to escape escapar
+
+
+
+a hangman vn verdugo
+
+
+
+to hang ahorcar
+
+
+
+hang him ahorcalde
+
+
+
+a gallowes la horca rollo
+
+
+
+to shake sacudir
+
+
+
+to make a knot hazer vn ñudo
+
+
+
+to plucke of the garments quitar los vestidos
+
+
+
+to vndo deshazer
+
+
+
+to chop of ones head descabeçar
+
+
+
+to burne quemar
+
+
+
+to smoke hazer humo
+
+
+
+the smoke el humo
+
+
+
+coales carbones
+
+
+
+a fier brand vn tizon
+
+
+
+to binde apretar
+
+
+
+to vnbind desapretar
+
+
+
+to quench the fier apagar el fuego
+
+
+
+to put all to the fier
+and sword meter todo al cuchil­
+lo y fuego
+
+
+
+to draw in peeces despadaçar
+
+
+
+he hath his head
+vpon London
+bridge tiene la cabeça enar­
+bolada sobre la
+puente de Londres
+
+
+
+to cut of ones eares cortar las orejas.
+
+
+
+The seuen libe­
+rall sciences. Las siete artes
+liberales.
+
+
+Grammar Grammatica
+
+
+
+
+
+
+
+Rhetoricke Rhetorica
+
+
+
+Logicke Logica
+
+
+
+Philosophie Philosophia
+
+
+
+Musicke Musica
+
+
+
+Arithmeticke Arithmetica
+
+
+
+Geometrie Geometria
+
+
+
+Grammarian vn Grammatico
+
+
+
+a Rhetoritian vn Rhetorico
+
+
+
+a Logitian vn Logico
+
+
+
+a Philosopher vn Philosofo
+
+
+
+a Musition vn Musico
+
+
+
+an Arithmetitian vn Arithmetico
+
+
+
+a Geometrian vn Geometrico
+
+
+
+an Oratour vn Orador
+
+
+
+an Oration vna Oraçion
+
+
+
+a messenger vn mensagero
+
+
+
+letters cartas
+
+
+
+bring me an answere of
+the letter which
+I sent traed me la respuesta
+de la carta que
+embie
+
+
+
+a hyred horse vn cauallo alquilado
+
+
+
+Of the kindred. Del linage.
+
+A great grand father vn bisabuelo
+
+
+
+a grandfather vn abuelo
+
+
+
+a father vn padre
+
+
+
+a grandam vna abuela
+
+
+
+a mother vna madre
+
+
+
+an vncle vn tio
+
+
+
+an aunte vna tia
+
+
+
+
+
+
+
+my nephew mi nieto
+
+
+
+my niece mi nieta
+
+
+
+my coosin mi primo
+
+
+
+my she cosin mi prima
+
+
+
+my father in law mi padastro
+
+
+
+my mother in law mi madastra
+
+
+
+my sonne mi hijo
+
+
+
+my daughter mi hija
+
+
+
+my sonne in law mi yerno
+
+
+
+my daughter in law mi nuera
+
+
+
+my brother mi hermano
+
+
+
+my sister mi hermana
+
+
+
+my friend mi amigo
+
+
+
+friendship amistad
+
+
+
+to imbrace abraçar
+
+
+
+to kisse besar
+
+
+
+an orphelin vn huerfano
+
+
+
+an heire vn heredero
+
+
+
+a she heire vna heredera
+
+"she heire" not found in OED.
+
+
+
+
+to tickle hazer coxquillas
+
+
+
+do not touch her
+for she is verie
+ticklish no la tocays pues
+que ella esta muy
+coxquillosa
+
+
+
+a husband vn marido
+
+
+
+a wife vna muger
+
+
+
+a virgin or maid vna donzella
+
+
+
+the maidenhead la virginidad
+
+
+
+she hath lost her
+maidenhead ella ha pierdida la
+viginidad
+
+
+
+
+
+
+
+my brother in law mi cuñado
+
+
+
+my sister in law mi cuñada
+
+
+
+a marriage bodas
+
+
+
+a bridegrome vn esposo
+
+
+
+a bride vna esposa
+
+
+
+a gossip vn compadre
+
+
+
+a she gossip vna commadre
+
+"she gossip" not found in OED.
+
+
+
+
+
+a godfather vn padrino
+
+
+
+a godmother vna madrina
+
+
+
+a godsonne vn hijastro
+
+
+
+a goddaughter vna hijastra
+
+
+
+a midwife vna partera
+
+
+
+a nurse vna ama
+
+
+
+to giue sucke dar la mama
+
+
+
+to sucke mamar
+
+
+
+a swadling band vna faxa de niños
+
+
+
+to be borne nascer
+
+
+
+he hath gotten her with
+child at the first
+copulation with her tiene la empreñada
+a la primera
+coyuntura
+
+
+
+to nourish alimentar
+
+
+
+a still borne vn abortado
+
+"still borne" as a noun antedates the earliest OED citation (1977) and the first use there documented at all (1607).
+
+
+
+
+to beget engendrar
+
+
+
+to dance  baylar
+
+
+
+she will make her husband
+a cuckold ella harà su marido
+vn cornudo
+
+
+
+A citizen vn ciudadano
+
+
+
+a she citizen vna ciudadana
+
+"she citizen" not found in OED.
+
+
+
+
+he is a free man of London el es vizino da Londres
+
+
+
+
+
+
+
+a citizen of
+London vn ciudadano de
+Londres
+
+
+
+a faire vna feria
+
+
+
+a market vn mercado
+
+
+
+Bartholomew faire la feria de Bartholome
+
+"Bartholomew faire" antedates the earliest citation in the OED (1600).
+
+
+
+
+let vs go to the faire vamonos a la feria
+
+
+
+good lucke buena ventura
+
+
+
+ill lucke mala ventura
+
+
+
+a captaine vn capitan
+
+
+
+a lieutenant vn lúgar tenente
+
+
+
+an ensigne bearer vn alferez
+
+
+
+a sergeant vn alguazil
+
+
+
+a corporall vn corporal
+
+
+
+a souldier vn soldado
+
+
+
+a standart vn estandarte
+
+
+
+an ensigne la seña. vandera
+
+
+
+a coat of armour vna cota de malla
+
+
+
+a battell vna batalla
+
+
+
+a vantgard la vanguardia
+
+
+
+a rereward la retaguardia
+
+
+
+a wing vna hilera
+
+
+
+a square battell vna pauesada
+
+"square battle" antedates the earliest OED citation (1710).
+
+
+
+
+to assault dar el assalto
+
+
+
+to kill matar
+
+
+
+to take tomar
+
+
+
+to ransome a rescate
+
+
+
+to yeeld himselfe rendirso
+
+
+
+arme arma
+
+
+
+  
+
+Deleted duplicate entry.
+
+
+
+
+
+
+
+
+a spie vn espia
+
+
+
+a traitour vn traydor
+
+
+
+treason traiçion
+
+
+
+a scoutwatch vn espia
+
+
+
+to betray hazer traiçion
+
+
+
+you haue betraied 
+me vos me aueys hecho
+traiçion
+
+
+
+I am wounded yo soy herido
+
+
+
+I am dead yo soy muerto
+
+
+
+do not kill me no me matays
+
+
+
+saue my life and
+I will pay my
+ransome guarda me la vida y
+pagaros he mi
+rescate
+
+
+
+to strippe one despojar
+
+
+
+to leese the field perder la battalla
+
+
+
+to winne the field ganar la batalla
+
+
+
+to fight pelear
+
+
+
+to runne away tornar las espaldas
+
+
+
+to play at cardes jugar a los naypes
+
+
+
+to play at tick tack jugar a tictac
+
+
+
+I haue neither wonne
+nor lost no he ganado ni
+aun perdido
+
+
+
+to go backe voluer las espaldas
+
+
+
+to hide himselfe esconderse
+
+
+
+he is a great
+coward el es grandissimo 
+couarde
+
+
+
+to play at dice jugar a los dados
+
+
+
+to play at tables jugar a las tablas
+
+
+
+I haue lost yo he perdido
+
+
+
+
+
+
+
+a tenniscourt el juego de la palma
+
+
+
+to play at tennice jugar a la palma
+
+
+
+a ball vna pelota
+
+
+
+a racket vna redilla. raqueta
+
+
+
+a chase vna caça
+
+
+
+to marke the chase señalar la caça
+
+
+
+where is the chase? a do es la caça?
+
+
+
+I haue wonne the game yo he ganado el juego
+
+
+
+I haue wonne the
+sette yo he ganado el
+apuesta
+
+
+
+the first that commeth to
+two a dos de
+juego
+
+
+
+I haue the aduantage yo tengo la ventaja
+
+
+
+I sweat yo estoy sudando
+
+
+
+I am wearie yo estoy cansado
+
+
+
+my shirt is wringing 
+wet tengo la camisa muy
+mojada
+
+
+
+let vs go change
+our shirts. vamonos a poner 
+otras camisas
+
+
+
+Of al the parts of
+mans bodie De todas las partes
+del cuerpo humano.
+
+
+A man vn hombre
+
+
+
+a woman vna muger
+
+
+
+a tall man vn hombre grande
+
+
+
+a tall woman vn muger grande
+
+
+
+a person vna persona
+
+
+
+the people el pueblo
+
+
+
+
+
+
+
+folkes gente
+
+
+
+the soule el alma
+
+
+
+the bodie el cuerpo
+
+
+
+this is a bodie without a
+soule este es vn cuerpo sin
+alma
+
+
+
+a long man vn hombre luengo
+
+
+
+a long woman vna muger luenga
+
+
+
+a short man vn hombre corto
+
+
+
+a short woman vna muger corta
+
+
+
+a little man vn hombre pequeño
+
+
+
+a little woman vna muger pequeña
+
+
+
+a fat man vn hombre gordo
+
+
+
+a fat woman vna muger gorda
+
+
+
+a leane man vn hombre magro
+
+
+
+a leane woman vn muger magra
+
+
+
+a grosse man vn hombre gruesso
+
+
+
+a grosse woman vna muger grúessa
+
+
+
+a slender man vn hombre delgado
+
+
+
+a slender woman vna muger delgada
+
+
+
+a hard fauoured man vn hombre feo
+
+
+
+a hard fauoured 
+woman vna a muger 
+fea
+
+
+
+the crowne of the
+head el remolino de la
+cabeça
+
+
+
+the head la cabeça
+
+
+
+the forepart of the head el pestorejo
+
+
+
+the hinder part of the head el colodrillo
+
+
+
+the haires lo cabellos
+
+
+
+the skull la calauerna
+
+
+
+
+
+
+
+the braines los meollos
+
+
+
+the eares las orejas
+
+
+
+the forehead la frente
+
+
+
+the face el rostro
+
+
+
+the eyes los ojos
+
+
+
+the eye lids las cejas
+
+
+
+the browes las sobrecejas
+
+
+
+the cheekes las maxillas
+
+
+
+the nose el nariz
+
+
+
+the nosthrels narizes
+
+
+
+the mouth la boca
+
+
+
+the tongue la lengua
+
+
+
+the teeth los dientes
+
+
+
+the grinders las muelas
+
+
+
+spittell saluia
+
+
+
+snot moho o moco
+
+
+
+the roofe of the mouth el paladar
+
+
+
+the gummes las enzias
+
+
+
+the iawes las quixadas
+
+
+
+the throat la garganta
+
+
+
+the chinne la barúa
+
+
+
+the beard las baruas
+
+
+
+the necke el pescueço
+
+
+
+the breast el pecho
+
+
+
+the dugges las tetas
+
+
+
+the backe las cuestas o espaldas
+
+
+
+the shoulders los hombros
+
+
+
+the nauill el ombligo
+
+
+
+the belly el vientre
+
+
+
+
+
+
+
+a mans yard vna pixa
+
+
+
+the cods los cojones
+
+
+
+the matrice of a woman el coño
+
+
+
+an arme vn braço
+
+
+
+an elbowe vn codo
+
+
+
+the hands las manos
+
+
+
+the fingers los dedos
+
+
+
+a hand vna mano
+
+
+
+a finger vn dedo
+
+
+
+a knuckle vn nudo de la mano
+
+
+
+a ioynt vna coyuntura
+
+
+
+a naile vna vña
+
+
+
+nailes vñas
+
+
+
+a skinne vna pelleja
+
+
+
+flesh carne
+
+
+
+she hath a skinne as
+white as snow,
+and a breast as white
+as Iuorie: but
+she painteth her
+selfe a little
+that marreth all
+the rest. ella tiene la pelleja
+blanca como nieúe,
+y los pechos como
+de marsil: empero
+ella bien sabe
+afeytarse vn poco
+esso echa a perder
+todo lo demas.
+
+
+
+she is a proper woman
+but she hath great
+buttocks ella es muy linda
+muger mas tiene
+espaçiosas nalgas
+
+
+
+buttocks nalgas
+
+
+
+the arse el culo
+
+
+
+the arse hole el saluonor
+
+
+
+
+
+
+
+a toord vna merda
+
+
+
+the squirt el fluxo del vientre
+
+
+
+the hippe la anca o ciatica
+
+
+
+the thigh el muslo
+
+
+
+the thighes los muslos
+
+
+
+the knee la rodilla
+
+
+
+to bow the 
+knees echarse de rodillas
+hincar los enojos
+
+
+
+the hammes las rodillas
+
+
+
+the legges las piernas
+
+
+
+the calfe of the legge la pantorrilla de la pi­
+erna
+
+
+the instep el empeyne
+
+
+
+the foote el pie
+
+
+
+the heele el calcañar
+
+
+
+the toes los dedos de los pies
+
+
+
+a bone vn huesso
+
+
+
+bones huessos
+
+
+
+the marrow el tuetano
+
+
+
+the bosome el seno
+
+
+
+the lap el regaço
+
+
+
+a fist el puño de la mano
+
+
+
+the fistes los puños
+
+
+
+a ribbe vna costilla
+
+
+
+the ribbes las costillas
+
+
+
+a veyne vna vena
+
+
+
+a sinew vn neruio o nieruo
+
+
+
+the pulse el pulso
+
+
+
+the palme of the hand la palma de la mano
+
+
+
+the bloud la sangre
+
+
+
+
+
+
+
+the stomake el estomago
+
+
+
+the guts las tripas
+
+
+
+the heart el coraçon
+
+
+
+the liuer el higado
+
+
+
+the kidney el riñon
+
+
+
+the gall la hiel
+
+
+
+the panch la cruera o el papo
+
+
+
+to spue gomitar
+
+
+
+a fart vn pedo
+
+
+
+to fart peer
+
+
+
+to stincke heder
+
+
+
+to shite cagar
+
+
+
+the ancle bone el touillo del pie
+
+
+
+the sole of the foote la planta del pie
+
+
+
+to itch tener comezon
+
+
+
+an itch la comezon
+
+
+
+
+a scabbe sarna
+
+
+
+scabbed sarnosa
+
+
+
+a scabbed head vna cabeça sarnosa
+
+
+
+to scratch escaruar o rascar
+
+
+
+to pinch pecilgar
+
+
+
+to fillip dar papirotes
+
+
+
+a fillip vna floretada
+
+
+
+to cough tosser
+
+
+
+the cough la tosse
+
+
+
+I haue the cough yo tenga la tosse
+
+
+
+I am hoarse yo estoy ronco
+
+
+
+I haue the 
+hickes yo tengo el hipar, o el 
+solloço
+
+"hickes" in this sense antedates the earliest OED citation (1607).
+
+
+
+
+
+
+
+
+the thombe or great
+toe el pulgar de pie o de 
+mano
+
+
+
+to sit like a tailer sentarse en cuelillas
+
+
+
+she hath a stinking
+breath ella tiene hedor de la
+boca
+
+
+
+the stinking of the teeth la helgadura de dientes
+
+
+
+the lights los liuianos o bofes 
+o pulmones
+
+
+the milt el baço
+
+
+
+the bladder la bexiga
+
+
+
+the muscles los musculos
+
+
+
+the arteries las arterias
+
+
+
+the poares los poros
+
+
+
+the cheekes las sienes
+
+
+
+the panicles los paniculos
+
+"panicules" has no sense associated with the human body in OED.
+
+
+
+
+the backbone marow nuca o nucha
+
+
+
+the haire ouer the browes las pestañas
+
+
+
+the skinne ouer all the skul el pelicraneo
+
+
+
+the braine pan el craneo
+
+
+
+the braine el celebro
+
+
+
+the call wherein the
+bowels are lapt. el redaño
+
+
+
+the intersection of the 
+bowels el entresijo
+
+
+the backbone el espinaço
+
+
+
+a mans yard la verga
+
+
+
+a matrix of a woman la madre
+
+
+
+the tourning
+ioyntes of the
+backebone or
+chine los carrillos
+
+The next page is wrongly numbered "152". 
+
+
+
+
+
+
+
+
+the lippes los labios
+
+
+
+the throat garguero. o gargauero.
+
+
+
+the throat boole el tragadero
+
+
+
+the ligaments los ligamentes
+
+
+
+a gristell or tindrill la ternilla
+
+
+
+the fat la gordura
+
+
+
+the skinne el cuero
+
+
+
+the hearing el oydo
+
+
+
+the feeling el tocar
+
+
+
+the midrife la diafragma
+
+
+
+the inward guttes 
+and bowelles los intestinos
+
+
+
+the inward hart strings las entrañas
+
+
+
+the bottom of the belly. la yjada.
+
+
+
+
+FINIS.
+
+
+
+
+

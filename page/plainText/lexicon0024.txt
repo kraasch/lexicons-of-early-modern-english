@@ -1,0 +1,453 @@
+
+
+
+
+
+
+
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 2 4 8 6 6
+
+v e r . 1 . 0  ( 2 0 1 8 )
+
+
+
+Here begynneth a lytell treatyse for to lerne
+Englysshe and Frensshe
+
+
+
+
+
+
+
+
+One Vng
+
+Two Deux
+
+Thre Troys
+
+Foure Quatre
+
+Fyue Cinq
+
+Syxe Six
+
+Seuen Sept
+
+Eyght Huyct
+
+Nyne Neuf
+
+Ten Dix
+
+Enleuen Onze
+
+Twelue Douze
+
+Thyrtene Traize
+
+
+
+
+
+Fourtene Quatorze
+
+Fyftene Quinze
+
+Sixtene Saize
+
+Seuentene Dixsept
+
+Eyghtene Dixhuit
+
+Nyntene Dixneuf
+
+Twenty Vingt
+
+One and twenty Vingt et vng
+
+Two and twenty Vingt et deux
+
+Thre and twenty Vingt et troys
+
+Foure and twenty Vingt et quatre
+
+Fyue and twenty Vingt et cinq
+
+Syxe and twenty Vingt et six
+
+Seuen and twenty Vingt et sept
+
+Eyght and twenty Vingt et huict
+
+Nyne and twenty Vingt et neuf
+
+Thyrty Trente
+
+Fourty Quarante
+
+Fyfty Cincquante
+
+Sixty Saixanta
+
+Seuenty Septante
+
+Eyghty Huictante
+
+Nynty Nonante
+
+An hondred Cent
+
+A thousande Mille
+
+Ten thousande Dix mille
+
+An hondred thousande Cent mille
+
+
+
+
+
+Of golde and syluer Dor et dargent
+
+Of cloth of golde De drap dor
+
+Of satyn & worstede De satin et dostade
+
+Of tynne and coper Destain et cuyure
+
+Of wulle and sylke De laune et soye
+
+And of gynger Et de gingenbre
+
+Of cynamome De cynamome
+
+Of fygges and rasyns De figues et de raysins
+
+Of perles & precyous stones De ples & pieres preciousse
+
+Of veluet & damaskes De velours et damas
+
+Of fyn hollande cloth De fine toille de hollande
+
+Of yron and leed De fer et plomb
+
+Of peper and saffron De poiure et saffren
+
+Of clowes and maces De clous et de maces
+
+Of dates and almondes De dates et damandes
+
+Of apples of orranges De pommes de orenge
+
+Apples of garnattes Pommes de granades
+
+And of alle maner of wyne Raynysshe and byane Et de toutes manieres de vin De rin et de beaune
+
+Wyne of orsey and capryk wyne of gasgon Vin de osoye et capric vin de gascongne
+
+Wyne of rochell Vin de rochelle
+
+Maluesy and romanye Maruoysie et rommonye
+
+Wyne of orleaunce Vin dorleans
+
+Muscadell and bastarde Muscadel et bastarde
+
+Of all maner of corne De toutes magnieres de bles
+
+Of whete of normandye De ble de normandie
+
+
+
+
+
+De toutes magnieres de bles De bles de normandie
+
+Of rye barly and otes De soigle dorge et dauoyne
+
+Of pesyn and benes De pois et defeues
+
+And of al maner of fruyte Et de toutes magnie­
+res de fruitz
+
+
+
+
+
+My heres Mes cheueulx
+
+My browes Mez sourcieulx
+
+Myn eres Mez oreilles
+
+My teeth Mes dens
+
+My lyppes Mez leures
+
+My hede Ma teste
+
+My forhede Mon front
+
+Myn eyen Mez yeulx
+
+My nose Mon nez
+
+My tongue Ma langue
+
+My chynne Mon menton
+
+My necke Mon col
+
+My throte Ma gorge
+
+My face Mon visage
+
+My armes Mes bras
+
+My shulders Mes espaules
+
+My breste Ma poyterine
+
+
+
+
+
+Myn herte Mon cueur
+
+My brayne Ma ceruelle
+
+My lyuer Ma foy
+
+My lyghtes Mon pomon
+
+My mylte Ma rate
+
+My guttes Mes boiauz
+
+My backe Mon dos
+
+My buttockes Mez fesses
+
+My thyghes Me cuisses
+
+My legges Mez iambes
+
+My handes Mes mains
+
+My bonet Mon bonnet
+
+My hatte Mon chappeau
+
+My doublette Mon pourpoint
+
+My shone Mez soulliers
+
+My poyntes Mes esgulletes
+
+My gyrdelle Ma sainture
+
+My stomake Mon estomac
+
+My bledder Ma vecye
+
+My raynes Mez reins
+
+My hyppes Mez hanchez
+
+My knees Mez genoulx
+
+My fete Mez piez
+
+My toole Mes ortieulx
+
+My hode Mon chapperon
+
+My sherte Ma chemise
+
+My hosen Mez chausses
+
+My gowne Ma robe
+
+My purse Ma bourse
+
+
+
+
+
+My dager Ma dague
+
+My stafe Mon baton
+
+My bowe Mon arc
+
+Myn arowes Mez flesses
+
+My botes Mes houseaulx
+
+My spores Mes esperons
+
+My swerde Mon espee
+
+My hors Mon cheuaul
+
+My sadle Ma selle
+
+My brydell Ma bryde
+
+My spere Ma lance
+
+My herneys Mon harnoys
+
+Myn aglet Mon lacet
+
+Apoynt La ferrure dun lasset
+
+A kyrtell Vng corset
+
+An appron Vng deuenteau
+
+A toukynge gyrdell Vng couriette a trosser
+
+A keye Vng clef
+
+A keye wonge Vng pendure de clefz
+
+"wonge" not found in this sense, a pendant, in the OED.
+
+
+
+A shoo Vng soulier
+
+A kerchere Vng querechyief
+
+A neckerchere Vng collerette
+
+A pynkasse Vng espinceau
+
+A nedyll Vng esguille
+
+A thymble Vng noylot
+
+My gloues Mez gans
+
+A sleue Vng mance
+
+A hole Vng trou
+
+A gate Vng porte
+
+
+
+
+
+
+A glasse Vng miroeuer
+
+A wyndowe Vng fenestre
+
+A chayer Vng chaiere
+
+A breche  Vng ramon
+
+The sonne Le soleil
+
+The mone La lune
+
+The sterre Lestoille
+
+The erthe La terra
+
+The water Leaue
+
+The skye Le firmament
+
+The wynde Le vent
+
+The nyght La nuyt
+
+The houres Les heures
+
+The wayes Les chemins
+
+The stretys Lez rues
+
+The lanes Lez ruelles
+
+The townes Les vylles
+
+The chirches Les eglises
+
+The cornes Les bles
+
+Wete Fourment
+
+Barley Orge
+
+Otes Auoynes
+
+Rye Sesgle
+
+Benys Feues
+
+Brede Pain
+
+Pesyn Pois
+
+Buttre Beure
+
+Chese Fourmage
+
+Egges Oeus
+
+
+
+
+
+Apples Pommes
+
+Perys Poyres
+
+Plommes Prunes
+
+Cherys Cherises
+
+Nuttes Noys
+
+Mylke Let
+
+Creme Crayme
+
+Wrath Ire
+
+A daye Vng iour
+
+Iesterdaye Hyer
+
+A moneth Vng moys
+
+A yere Vng an
+
+Mondaye Lundy
+
+Tuesdaye Mardy
+
+Wednesdaye Mercredy
+
+Thursdaye Ieudy
+
+Frydaye Vendredy
+
+Satyrdaye Samedy
+
+Sondaye Dimenche
+
+
+
+
+
+
+

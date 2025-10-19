@@ -1,0 +1,5275 @@
+
+
+
+
+
+
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 5 6 1 4 . 2
+
+v e r . 1 . 0  ( 2 0 1 9 )
+
+
+
+
+A SHORTE
+INTRODVCTI­
+ON OF GRAMMAR
+generally to the vsed: com­
+piled and set forth, for the
+bringing vp of all those
+that intende to attaine
+the knowledge of 
+the Latine 
+tongue.
+
+
+
+
+
+
+
+
+Letters are diuided into Vowels and Consonants.
+
+
+
+A Vowel, is a letter whiche maketh a full and perfect
+sounde of himselfe: and there are fiue in number, namely, A,
+E, I, O, V: wherevnto is added the Greeke vowell, Y.
+
+A Consonant, is a letter which needes must be sounded
+with a vowell: as B with E. And all the letters, except the 
+vowels, are Consonantes.
+
+A Syllable is the pronouncing of one letter or mo, with
+one breathe: as, A_ue.
+
+A Diphthonge, is the sound of ij vowels in one Syllable,
+and of them there be foure in number: namely, æ, œ, au, eu.
+Whereunto is added, ei: as Aeneus, cœna, audio, euge, hei. 
+
+
+
+
+
+
+
+
+AN INTRODVCTION 
+OF THE EYGHT PARTES OF 
+Latine Speache.
+
+
+In Speache be these eight partes fo­
+llowinge:
+
+Noune, declined. Aduerb, vndeclined.
+Pronoune, declined. Coniunction vndeclined.
+Verbe, declined. Preposition, vndeclined.
+Participle, declined. Interiection vndeclined.
+
+Of the Noune.
+
+A Noune is the name of a thinge, that may be seene, 
+felte, hearde, or vnderstande: As the name of my 
+hande in Latine is Manus: the name of an house
+is Domus: the name of goodnes is Bonitas.
+
+Of Nounes, some be Substantiues, and some be Adiectiues.
+
+
+A Noune Substantiue 
+is that standeth by him selfe, & requireth 
+not another word to be ioyned with him: as Homo, a man. And it 
+is declined with one article: as Hic magister, a maister. Or else 
+with two at the moste: as Hic & Hæc Parens, a father or mother.
+
+A noune Adiectiue 
+is that can not stand by himselfe, but requi­
+reth to be ioyned with an other word: as Bonus, Good. Pulcher, 
+Faire. And it is declined either with three Terminations: as Bo­
+nus, Bona, Bonum: or else with three Articles: as Hic, Hæc, & 
+Hoc fœlix, Happy. Hic & hæc leuis, & hoc leue, Light.
+
+A Noune Substantiue 
+either is propre to the thinge that it be­
+tokeneth: as Eduardus, is my proper name, or else is common to 
+mo: as Homo, is a common name to all men.
+
+
+Numbres of Nounes.
+
+
+IN Nounes be two numbres, the Singular, & the Plurall. The 
+Singular numbre speaketh of one: as Lapis, a stone. The plu­
+
+
+
+
+rall numbre speaketh of mo then one: as Lapides, Stones.
+
+Cases of Nounes. 
+NOunes be declined with sixe cases, Singularly and Plurally: 
+the Nominatiue, the Genitiue, the Datiue, the Accusatiue, the 
+Vocatiue, and the Ablatiue.
+
+The Nominatiue case commeth before the verbe, and aunswe­
+reth to this question, Who or what: as Magister docet, The mai­
+ster teacheth.
+
+The Genitiue case is knowen by this token Of, and aunswereth 
+to this question, Whose or whereof: as Doctrina magistri, 
+The learning of the maister.
+
+The Datiue case is knowen by this token To, and aunswereth 
+to this question, To whome or to what: as Do librum magistro, 
+I giue a booke to the maister.
+
+The Accusatiue case foloweth the verbe, & aunswereth to this 
+question, whome, or what: as Amo magistrum, I loue the maister.
+
+The Vocatiue case is knowen by callinge or speakinge To: as 
+O Magister, O maister.
+
+The Ablatiue case is commonly ioyned with Prepositions ser­
+uing to the ablatiue case: as De magistro, Of the maister. Coram 
+magistro, Before the maister.
+
+Also In, with, through, for, from, by, & then, after the compa­
+ratiue degree, be signes of ye ablatiue case.
+
+Articles. 
+
+ARticles are borowed of the Pronoune ...
+
+Genders of Nounes.
+
+GEnders of Nounes be seuen: the Masculine, the Feminine, 
+the Neuter, the Commune of two, the Commune of three, the 
+
+
+
+
+Doubtful, & the Epicene.
+
+The Masculine Gendre is declined with this Article Hic: as 
+Hic vir, a man.
+
+The Feminine Gendre is declined with this article Hæc: as 
+Hæc mulier, a woman.
+
+The Neuter gendre is declined with this article Hoc: as Hoc 
+Saxum, a stone.
+
+The Commune of two is declined with Hic and Hæc: as Hic 
+& Hæc Parens, a father or mother.
+
+The Commune of three, is declined with Hic, Hæc, and Hoc: 
+as Hic, hæc & hoc fœlix, Happy.
+
+The Doubtfull gendre is declined with Hic or Hæc: as Hic 
+vel hæc Dies, a Daye.
+
+The Epicene gendre is declined with one article, and vnder 
+that one article: bothe kinds be signified: as Hic passer, a Sparrow. 
+Hæc aquila, an Aegle, bothe hee and shee.
+
+
+
+
+Comparisons of Nounes. 
+
+ADiectiues whose signification may encrease or be diminished, 
+may fourme comparison.
+
+There be three degrees of comparison: The Positiue, the Com­
+paratiue, and the Superlatiue.
+
+The Positiue  betokeneth the thing absolutely without excesse: 
+as, Durus, Hard.
+
+The Comparatiue  somwhat excedeth his Positiue in significa­
+tion: as, Durior, Harder. And it is formed of the firste case of his 
+Positiue that endeth in i, by putting therto, or, & us: as of Duri, 
+hic & hæc durior, & hoc durius: of Tristi. hic & hæc tristior, 
+& hoc tristius. of Dulci, hic & hæc dulcior, & hoc dulcius.
+
+The Superlatiue  excedeth his Positiue in the highest degree: 
+as, Durissimus, Hardest. And it is fourmed of the firste case of his 
+Positiue that endeth in i, by putting therto s & simus: as of Duri, 
+durissimus. of Tristi, tristissimus. of Dulci, dulcissimus. 
+
+
+
+
+
+Of the Pronoune.
+A PRONOVNE, 
+is a parte of speache, muche like 
+to a Noune, which is vsed in shewinge or rehear­
+sing. There be fiftene Pronounes: Ego, tu, sui, 
+ille, ipse, iste, hic, is, meus, tuus, suus, noster, ve­
+ster, nostras, vestras, whereof foure haue the vo­
+catiue case: as, Tu, meus, noster, and nostras, and all the other lacke 
+the vocatiue case.
+
+To these may be added their compounds, Egomer, tute, idem: 
+and also Qui, quæ, quod.
+
+These eight Pronounes, Ego, tu, sui, ille, ipse, iste, hic, & is, 
+be Primitiues, 
+so called, for bicause they be not deriued of others. 
+And they be also called Demonstratiues, bicause they shew a thing 
+not spoken of before.
+
+And these six: Hic, ille, iste, is, idem, and qui, be Relatiues, 
+bi­
+cause they rehearse a thing that was spoken of before.
+
+These seauen, Meus, tuus, suus, noster, vester, nostras, vestras, 
+be Deriuatiues, 
+for they be deriued of their primitiues, Mei, tui, 
+sui, nostri, and vestri.
+
+There belongeth to a Pronoune these fiue thinges: Numbre, 
+
+
+
+
+Case, and Gendre, as are in a Noune: declension and Person, as 
+here followeth.
+
+
+
+
+
+Of a Verbe.
+A Verbe is a parte of speache declined with Mode 
+and tense, & betokeneth doinge: as, Amo, I loue, 
+or suffering: as, Amor, I am loued: or beinge: as 
+Sum, I am.
+
+Of verbs, suche as haue persons, be called Per­
+sonals: as, Ego amo, Tu amas. And suche as haue no persons, be 
+called Impersonals: as, Tedet, It yrketh. Oportet, It behoueth.
+
+Of Verbes Personalles there be fiue kindes: Actiue, Passiue, 
+Neuter, Deponent, and Commune.
+
+A Verbe Actiue endeth in o, and betokeneth to doe: as Amo, I 
+loue: and by putting to r, it may be a passiue: as Amor.
+
+A Verb Passiue endeth in or, & betokeneth to suffer: as Amor, 
+I am loued: and by putting away r, it may be an actiue: as Amo.
+
+A Verbe Neuter 
+endeth in o, or m, and can not take, r, to make 
+
+
+
+
+him a passiue: as, Curro, I runne. Sum, I am. And it is englished 
+somtime actiuely: as, Curro, I runne: And somtime passiuely: as, Aegroto, I am sicke.
+
+A Verbe Deponent 
+endeth in r, like a passiue, and yet in signifi­
+cation is but either actiue: as Loquor verbum, I speake a worde.
+or Neuter: as Glorior, I boaste.
+
+A Verb Commune 
+endeth in r, and in signification is bothe A­
+ctiue and Passiue: as Osculor te, I kisse thee: Osculor à te. I 
+am kissed of thee.
+
+MODES. 
+
+THere be six Modes: the Indicatiue, the Imperatiue, the Opta­
+tiue, the Potentiall, the Subiunctiue, and the Infinitiue.
+
+The Indicatiue mode 
+sheweth a reason true or false: as, Ego a­
+mo, I loue. or else asketh a question: as, Amas tu? Doest thou loue?
+
+The Imperatiue 
+biddeth or commandeth: as, Ama, Loue thou.
+
+The Optatiue 
+wissheth or desireth, with these signes, would God, 
+I pray God, or God graunt: as, Vtinam amem, I pray God I loue. and 
+hath euermore an Aduerbe of wisshing ioyned with him.
+
+The Potentiall mode 
+is knownen bi these signes, may, can, might, 
+would, should, or ought: as, Amem, I may or can loue: without an ad­
+uerbe ioyned with him.
+
+The Subiunctiue mode 
+hath euermore some Coniunction ioy­
+ned with him: as Cum amarem, When I loued. and it is called the 
+Subiunctiue mode, bicause it dependeth of an other verbe in the 
+same sentence, either going afore, or comming after: as Cum ama­
+rem eram miser: when I loued, I was a wreatche.
+
+The Infinitiue 
+signifieth to do, to suffer or to be, and hath nei­
+ther numbre nor person: nor nominatiue case before him, & is kno­
+wen commonly by this signe, To: as, Amare, To loue. Also when 
+two verbes come together, without any nominatiue case betweene 
+them, then the latter shalbe the Infinitiue mode: as Cupio di­
+scere, I desire to learne.
+
+GERVNDES. 
+
+THere be moreouer belonging to the Infinitiue mode of verbs, 
+certaine voyces called Gerunds, ending in Di, do, and dum: 
+which haue bothe the actiue and passiue signification: as Amandi,
+Of louing, or of being loued. Amando, In louinge, or In being loued. A­
+mandum, To loue, or to be loued.
+
+
+
+
+SVPINES. 
+
+¶ There be also pertaining vnto verbs two Supines, the one en­
+ding in um, which is called the firste Supine, bicause it hath the 
+signification of the verbe actiue: as Eo amatum, I goe to loue. And the 
+other in u, which is called the Letter Supine, bicause it hath for 
+the moste part the signification Passiue: as Difficilis amatu, hard 
+to be loued.
+
+TENSES. 
+
+THere be fiue Tenses or Times: the Present tense, the Preter
+imperfect tense, the Preterperfect, the Preterpluperfect, and 
+the Future tense.
+
+¶ The Present tense 
+speaketh of the time that nowe is: as Amo, 
+I loue.
+
+The Preterimperfect tense 
+speaketh of the time not perfectly 
+past: Amabam, I loued, or did loue.
+
+¶ The Preterperfect tense 
+speaketh of the time perfectly past, with
+this signe Haue: as Amaui, I haue loued.
+
+¶ The Preterpluperfect tense 
+speaketh of the time more then perfectly past, with 
+this signe Had: as Amaueram, I had loued.
+
+¶ The Future tense 
+speaketh of the time to come, with this signe 
+Shal or will: as Amabo, I shall or will loue.
+
+PERSONS. 
+
+THere be also in verbs three Persons in bothe numbres: as, Sin. 
+Ego amo, I loue: Tu amas, Thou louest: Ille amat, He loueth. P. 
+Nos amamus, We loue. Vos amatis, Ye loue. Illi amant, They loue.
+
+
+
+
+
+Of the Participle.
+
+A Participle 
+is a part of speache deriued of a verbe, 
+and taketh part of a Noune, as gendre, case, and de­
+clension: and part of a Verbe, as tense, and signifi­
+cation: and part of bothe, as numbre and figure.
+
+
+
+
+
+Of an Aduerbe.
+AN ADVERBE is a part of speache ioyned to 
+the Verbes, to declare theyr signification.
+
+
+
+
+
+Of a Coniunction.
+A Coniunction is a parte of speache, that ioyneth 
+wordes and sentences togither.
+
+Of Coniunctions, some be Copulatiues: as Et, 
+que, quoque, ac, atque, nec, neque.
+
+Some be Disiunctiues: as Aut, ve, vel, seu, siue.
+
+Discretiues: as Sed, quidem, autem, verò, at, ast.
+
+Causals: as Nam, nsmque, enim, etenim, quia, vt,
+quod, quum, quoniam, and quando set for quoniam.
+
+Conditionals: as Si, sin, modo, dum, dummodo.
+
+Exceptiues: as Ni, nisi, quin, alioquin, praeterquam.
+
+Interrogatiues: as Ne, an, vtrum, necne, anne, nnne.
+
+Illatiues: as Ergo, ideo, igitur, quare, itaque, proin.
+
+Aduersatiues: as Etsi, quanquam, quamvis, licet, esto.
+
+Redditiues to the same: as Tamen, attamen.
+
+Electiues: as Quàm, ac, atque.
+
+Diminutiues: as Saltem, vel.
+
+
+Of a Præposition
+A Preposition 
+is a parte of speache moste commonly 
+set before other parts, either in Apposition, as Ad 
+patrem: or els in Composition: as Indoctus.
+
+
+
+
+
+Of an INTERIECTION.
+AN Interiection is a part of speache which betoke­
+neth a sodaine passion of the minde, vnder an vnper­
+fect voice.
+
+Some are of Myrth:  as Euax, vah.
+
+Some are of Sorow: as Heu, her.
+
+Some are of 
+Dreade: as At at.
+
+Some are of Maruailling: as Papè.
+
+Some are of Disdaining: as Hem vah.
+
+Some are of Shunning: as Apage. Praising: as Euge.
+
+Some are of Skorning: as Hui.
+
+Some are of Exclamation:  as Proh Deum atque hominum fidem.
+
+Some are of Cursing: as Væ, malum.
+
+Some are of Laughing: as Ha ha he.
+
+Some are of Calling: as Ehò, oh, io.Z
+
+Some are of Silence: as Au. And suche others.
+
+
+
+
+
+
+
+
+OMNIVM
+NOMINVM IN REGVLIS
+Generum contentorum, tum Heteroclito­
+rum, ac verborum, interpretatio aliqua.
+
+
+A.
+
+ABdo, 
+Abscondo, occulto. To hyde.
+
+
+
+Abyssus, immensa quædam profunditas
+impeneterabilis.. A depth that by soun­
+dinge can not be founde.
+
+
+
+Acarnan, gens ex quadam regione Græciæ. The people
+of Acarnania in Greece.
+
+
+
+Acer, arbor. A Maple tree.
+
+
+ 
+Accerso, eo ad vocandum, vel voco. To go to call.
+
+
+
+Acies, acumen rerum secantium, exercitus instructio, 
+oculi lumen. An edge. The araye of an armye.
+The sight of the eye.
+
+
+
+Acus, instrumentum sartoris, ac mulieris ornamen­
+tum. A nedell, or an instrument wherwith women
+did set their heare.
+
+
+
+Adeps, omnis pingue do siue carnis, siue alterius rei. Fatte.
+
+
+
+Adipiscor, assequntus sum. To obtaine.
+
+
+
+Adolescens, iuuenis adultus. A stripling from twelue
+yeares to xxj.
+
+
+
+Ador, frumenti genus vel farris. Wheate.
+
+
+
+Aduena, qui non est ciuis, sed externus. A stranger.
+
+
+
+Aether, tota c&ecedil;li syderumque substantia ac com­
+pago. The whole substance of the Spheres, from the
+fyre vnto the extremest circuite of heauen.
+
+
+
+Aequor, mare, pelagus. The sea, bicause nothinge ys
+more playne than it. for Aequor dothe generally sig­
+nifie a playne in any parcell of the worlde, It is taken
+for the ayre also as, Aspice bis senos volitantes &ecedil;­
+quore cygnos.
+
+
+
+Aes, species metallí rubro colore, Copper, and by­
+cause that in olde tyme monye was made of yt, Aes 
+some tyme doth signifie monye.
+
+
+
+Affinis, cognatus. A kinseman by mariage.
+
+
+
+Agnosco, est noscere id, quod nobis olim aut vi­
+sum fuit, aut alia qua piam ratione cognitum, To 
+recognise, to know a new, or to cum to remembrance of.
+
+
+
+Ago, facio. To Doe.
+
+
+
+Agragas, vrbs Siciliæ. A towne in the Isle of Sicile,
+called now Gergenti.
+
+
+
+Agricola, qui exercirat rem rusticam. An husbandman.
+
+
+
+Alcyon, anis maritima, hyeme pullos educans. A
+certaine Sea byrde that leyeth in the sandes, and
+hatcheth in winter.
+
+"Sea byrde" antedates the earliest OED citation (1589).
+
+
+
+
+Ales, quælibet auis, aut velox. A byrde, or swifte.
+
+
+
+Alnus, genus arboris. An alder tree.
+
+
+
+Alo, nutrio. To nourishe.
+
+
+
+Alter. The other of the twoo.
+
+
+
+Aluus, qua sordes defluunt, aut eluuntur, The panche,
+and some tyme the bealye without.
+
+
+
+Amazones, Scythicæ fœminæ, eo quod mammis
+careant. Certaine women of Scythia, so named
+for lackinge a dugge.
+
+
+
+Ambigo, circumago, circundo. To compasse, to doubt.
+
+
+
+Amicio, vestio. To clothe.
+
+
+
+Amnis, fluuius. A Riuer.
+
+
+
+Anas, auis in aquis degens. A ducke, or a drake.
+
+
+
+Ango, crucio, premo, vexo. To trouble and vexe.
+
+
+
+Anguis, serpens in aquis degens. A drye or a water 
+snake.
+
+
+
+Animus, consilii principium. The mynde.
+
+
+
+Anna, nomen mulieris. Anne.
+
+
+
+Annuo, assentior. To assent and agree vnto.
+
+
+
+Annus, tempus, 365. dierum, et 6 horarum. A yeare
+
+
+
+Anus, vetula. An olde wyfe.
+
+
+
+Antes, ab ante, eminentes lapides, siue ultimæ co­
+lumnæ quibus sustinetur fabrica. The Pillers or 
+sayling stones that sayleth ouer the wales to beare the
+frame, or the drye stone walle that incloseth a vine­
+yarde, or the first sette or frontier of vines
+
+
+
+Antidotus, medicamentum contra uenena datum. A 
+preseruatiue against poyson.
+
+
+
+Antiæ, muliebres capilli in fronte demissi. A wo­
+mans forelockes.
+
+
+
+Antistes, in aliqua resummus. A president or chefe
+ruler, man or woman.
+
+
+
+Anxur, nomen vrbis Itali&ecedil;, qu&ecedil; nunc Tarentina
+dicitur. Tarentine.
+
+
+
+Aperio, indico, refero. To open, to shew, or to declare.
+
+
+
+Apes & apis, animal mellificum. A bee.
+
+
+
+Apiscor, assequor, acquiro. To obtaine.
+
+
+
+Apollo, deus quem Gr&ecedil;cisolem appellant. The
+God of wisedome and Phisice, and of Prophesye, 
+and the God that caryeth the Sunne about.
+
+
+
+Appendix, quod aliis adiunctum, quasi ex alio pen­
+deat. An appentise or a boote to encrease a thing.
+
+
+
+Applico, & iungo, & aduenio. To apply vnto, or to
+ariue
+
+
+
+Aptoton, nomen inuariabile, sed nullo defectum
+casu. A nowne vndeclined, hauinge one termina­
+tion in all the cases.
+
+
+
+Aqualis, vasis genus quo aqua tenetur ad pr&ecedil;ben­
+dam eam manibus, A Lauer or an Eawer.
+
+
+
+Arbor, vel arbos, not&ecedil; significationis. A tree.
+
+
+
+Arceo, pello, & aduenire non sino. To keepe awaye.
+
+
+
+Arcesso, voco & accuso. To call, or to accuse, or to 
+goe to accuse.
+
+
+
+Archas, ex Archadia populus. The people of Archadí.
+
+
+
+
+
+
+Arctus, vrsa, quam nostri septemtrionem dixerunt
+signum cœleste. A signe called the Beare, or the
+wagon.
+
+
+Ardeo, vror, inflammor. To be hote. 
+
+
+
+Argos, oppidi nomen A towne of the halfe Isle in 
+Greece called Peloponnesus. 
+
+
+
+Arma, munimenta, scutum, gladius, telum, & ea qui­
+bus pr&ecedil;liamur. Armour, or any kinde of weapon. 
+
+
+
+Aruspex, qui uictimas incipit. He or she that see­
+keth destinies by the bowels of beastes. 
+
+
+
+As, est libra, id est duodecim vnciæ. A pounde of
+xij. vnces, or the whole summe of any thinge. 
+
+
+
+Assecla, qui continue & semper aliquid sequitur. 
+A Page or lackey, or continuall wayter. 
+
+
+
+Athamas, nomen uiri. A mans name which should be
+sacrifised for his sonne Phryxus. 
+
+
+
+Astu, dolo, fallaciis. By deceyt or guile. 
+
+
+
+Athen&ecedil;, ciuitas Græci&ecedil;, inter Achaiam & Mace­
+doniam. The citie of Athens. 
+
+
+
+Athletes, pugil & luctator. A champion, or he that
+striueth for a game. 
+
+
+
+Atomus, corpus insecabile. A mote, so small that it
+cannot be parted. 
+
+
+
+Auceps, qui uel qu&ecedil; aues capit. A fouler, man or woman 
+
+
+
+Audeo, sum ausus. To be bold, to enterprise. 
+
+
+
+Aueo, cupio. To desire, or to couette. 
+
+
+Augeo, mains facio, amplifico. To encrease. 
+
+
+
+Augur, qui futura pronunciat. A southsayer, man or
+woman. 
+
+
+
+Auernus, lacus Campani&ecedil; prope Baias, quem Plu­
+toni dicatum opinabantur veteres. A lake in Ita­
+ly, where hence they thought was descent into hell 
+
+
+
+Auriga, qui uel quæ currum ducit. A waggoner, a 
+carman, or a carter. 
+
+
+
+Auster, ventus flans a meridie. The south winde. 
+
+
+
+Autor, qui vel quæ aliquod opus facit. The worker  
+or doer of any thinge, man or woman. 
+
+
+
+Axis, diametros mundi, & dicitur lignum teres, cir­
+ca quod rota currus vertitur. An axeltree. And
+by translation, the strayght lyne that maye be ima­
+gined from the one pole to the other pole. 
+
+
+
+B.
+
+Bacchanalia, Dionysia, i. Bacchi festa. The feaste of 
+Bacchus. 
+
+
+
+Bacchar, herba radicis odoratæ. An herbe that
+the Frenche men cal, our Ladies gloues. 
+
+
+
+Bacchus, deus vini. The dronken God, the God of wine. 
+
+
+
+Baculus, bacillus & bacultum, & hinc bacillum, sci­
+pio. A staffe. 
+
+
+
+Balneum, locus publicus vel priuatus, in quo aut 
+sanitatis aut abster gendarum sordium causa laua­
+mur. A bathe. 
+
+
+
+Barathrum, erat locus profundior Athenis putei mo­
+do. A certaine pitt by Athenes. Now it is taken for
+hell. It is also the hole were anye water entreth 
+and falleth into the earth. 
+
+
+
+Barbiton, instrumentum musicum, quod pulsatur plectro vel calamo. The lute, or any like that is 
+plaied on a quille. It is also Barbitos, bothe
+masculine and feminine. 
+
+
+
+Bellaria, cibi secund&ecedil; mensæ. Iuncats. 
+
+
+
+Bes, vnciæ octo. Eight vnces. 
+
+
+
+Bibo, potum haurio, humorem attraho, To drink. 
+
+
+
+Bidens, instrumentum duorum dentium, vel ouis Any 
+instrument with two teeth, or a sheepe of twoo teeth,
+in the feminine gendre. 
+
+
+Bifrons, habens duas frontes. He or she that hath a
+face before, another behinde. 
+
+
+
+Bilis, humoris genus. It is with this word atra, melan­
+choly, and with flaua, Cholere, and being vsed a­
+lone, is the same disease that Cholera is after Cor..
+Celsus. See Cholera. 
+
+
+
+Bombix, vermis, & pro materia sumitur. A silke
+worme, or silke. 
+
+
+
+Bos, nota est significatio. An Oxe, Cow, or Bull. 
+
+
+
+Britannia, Insula quam nunc Angli & Scoti inco­
+lunt. The Isle which is inhabited of Englishemen
+and Scotishmen, and is called Brittania maior. 
+
+
+
+Britannia minor, is Britaine in Fraunce. 
+
+
+
+Bubo, auis nomen, a bouis mugitu. An Owle. 
+
+
+
+Bucephalus, nomen equi Alexandri magni. Alex­
+ander the Greate his horse. 
+
+
+
+Byssus, tenuissimi lini genus, A most fine sorte
+of fine flax, wherof a preciouse kynde of linen cloth ys
+made. yt may be taken for a silke clothe. 
+
+
+
+C.
+
+Cacoæthes, malus mos. An euill custome, or a bile
+harde to be cured. 
+
+
+
+Cadauer, corpus mortuum. A carcasse. 
+
+
+
+Cado, corruo, pr&ecedil;cipitor, Or labor, To fall, and 
+some tyme to happen, to chaunce. 
+
+
+
+C&ecedil;do, percutio, ferio, verbero, To strike or to beat,
+and somtime to cut or to loppe, or to prime trees, some 
+tyme to kill, some time to sacrifice, and some time to
+breake, as, ædere ianuam saxis, iustare ferro. 
+
+
+
+Cællo, percutio, aut frango, To smyte or to breake
+antiquum verbum, The compoundes whereof bee in vse
+onely. Cello ys readen also with out a diphthong. 
+
+
+
+Cælum vel cœlum, extrema mundi determinatio
+cum sph&ecedil;ris quas ambit ad elementum ignis. Hea­
+uen, or with a difference anye of the spheres. It sig­
+nifieth whether also. 
+
+
+
+Calco, pede comprimo, To treade vppon, and by a
+translation vnto the minde, to despice and set naught by
+
+
+
+Calend&ecedil;, dies primus cuiusque mensis, The verye
+firste day of euery moneth. 
+
+
+
+Caleo, ferueo, calidus sum, To be hot or to glowe 
+
+
+
+Callis, via perdurata, id est via trita. A path way. 
+
+
+
+Caluo, decipio, frustror, To deceaue and to beguile
+
+
+
+
+to trompe. 
+
+
+
+Calx, pes imus, & pro cuiusuis rei fine ponitur.
+vel pro materia qua lapides in muro congluti­
+nantur. An heele, or laste ende of a race, or lime. 
+
+
+
+Cambio, commuto, To exchaunge. and of the old
+wryters it is taken for to fight. 
+
+
+
+Canalis, per quod aqua confluit in vijs lapide stra­
+tis. A chanell. 
+
+
+
+Cancelli, ligna inter se modicis interuallis in trans­
+uersum instar retis inuicem annexa. A lattise. 
+or the listes of a gameplace or of a spectacle. 
+
+
+
+Canis, animal latratile, & piscis marinus, & signum
+cœleste. A dogge, or a dogge fishe, and a starre or
+signe in the firmament, called Canus. 
+
+
+
+Cano, To singe, to endicte poetically, to play vppon in­
+strumentes. Somtime it is to praise or to prophecie. 
+
+
+
+Capesso, capio, siue ad capiendum eo, To take or to
+go to take, and somtime recipio me to go: as, Nunc
+pergam her æ imperium exequi, & me domum
+capessam. 
+
+
+
+Capio, To take, to delite, to deceaue, to chuse, to 
+abide and suffre: as Capio dolores. To holde or con­
+taine, To inuade and catche. as. Nauem cepimus 
+To inflame with loue. And is lightlie of such signifi­
+cation as the ablatiue is that commeth with it. 
+
+
+
+Capistrum, capitis vinculum, adhibitum ne anima­
+lia aufugiant. An halter. 
+
+
+
+Capital, quod olim sacerdotes gestabant in capi­
+te. An ornament that the Nunnes were wonte to
+beare vpon their heades. 
+
+
+
+Capra, animal a carpendis virgultis dictum. A Goate. 
+
+
+
+Car, aliquis ex Caria. A man of Caria. 
+
+
+
+Cardo, quo ianua mouetur. An hooke or hinge. 
+
+
+
+Careo, est rem desideratam non habere. To lacke, 
+or to be with out, and specially such a thinge as ones
+wee had. 
+
+
+
+Carex, herba acuta durissima. Sedge. 
+
+
+
+Caro, quod anima careat, non solum de animalibus,
+sed etiam de piscibus & fructibus. The meate of
+any thing, but most commonly fleshe. 
+
+
+
+Carpo, decerpo. To croppe, to bite of nottelie, or 
+to gather. It is also to lease, or to chouse out, and som­
+time to taunt or rebuke. Carpere viam, Is to be­
+gene to iourney, Carpere vitales auras, carpere
+lanam, to teyse wull. Carpere linum, To hacchel
+flaxe, Carpere cibum, to eate.
+
+
+
+Castra, locus in quo milites tentoria fixerunt. The 
+campe, the Pauilions, or the army. 
+
+
+
+Cassis, reticulum, & pro galea fœminini est cassis, dis,
+& hæc cæssida. A net, Or an helmet, in the femi­
+nine gendre. 
+
+
+
+Cato, nomen viri. A certaine Romaines name. 
+
+
+
+Caueo, diligentiam adhibeo, prouideo, consulo,
+prospicio ne aliquid pr&ecedil;ter spem eueniat, To
+beware, or to be warie and hedefull. Cauere is also
+to put in assurance and to saue harmlesse by cauti­
+on or sureties.
+
+
+
+Caulis, in herbis dicitur ipsum robur, siue stipes. A
+stalke. 
+
+
+
+Cedo, To giue place, to depart and go away. 
+
+
+
+Cedrus, arbor ingens & procera. A Cedre tree. 
+
+
+
+Cello See Cællo. 
+
+
+
+Censeo, existimo, puto, arbitror, To deme, to iudge,
+to suppose, to thinke, to tell ones minde. Some take it 
+for to be angrie. Censeri, is also to be in bokes of subsidi­­
+es, and to be tasked, or valued. 
+
+
+
+Centum, An hundred. 
+
+
+
+Centussis, centum librarum. An hundred pounde. 
+
+
+
+Cera, illud quod melle, ex fauis expresso, remanet. 
+Waxe. 
+
+
+
+Cerno, video, To see. and by translation, to perceaue 
+and vnderstande. Somtime to decree and appointe. 
+To sifte, renge or bolte, to seuer and parte, to fighte, to
+go vnto. as, Cernere h&ecedil;reditatem. 
+
+
+
+Cetus, piscis maximus. A Whale. 
+
+
+
+Cholera, est ventriculi immodica perturbatio, supra
+& infra per uomitum facta. The Cholike. It is also
+cholere, the whote and dry humour. 
+
+
+
+Cicer, genus leguminis. A certaine Italian pese. 
+
+
+
+Cico, turbo, commoueo, To trouble, to shake and 
+styrre, and some time for Cio, it is to call.
+
+
+Cinis, vel ciner, puluis Ashes. 
+
+
+
+Cinis, est auis, quam alio nomine a laudam dici­
+mus, A larke. 
+
+
+
+Claudo, obstruo, obfero, To shut or to close, to make
+faste, to stoppe or to staie, not to suffre to passe further.
+as, Ecce maris magna claudie nos obice pontus. 
+
+
+
+Cliuus, locus molliter arduus, & pro colle ponitur: A Banke, a risinge, and it is vsed for a little hill. 
+
+
+
+Clunis, natium tumor. The buttoke. 
+
+
+
+Cluo, splendeo, To shine, to glister. some time to fight. 
+
+
+
+Clypeus & Clypeum, scuta maiora, & proprie pe­
+ditara. A buckler. 
+
+
+
+Cœlum, A grauinge toole, the skie, that is, as muche
+of the worlde as is aboue the element of fyre, whiche is 
+called Aether, or Quintum elementum. Cœlum al­
+so somtime is taken for the ayre, as, In hoc c&ecedil;lo, qui
+dicitur aér.
+
+
+
+Cœno, cœnam sumo To suppe, or to take supper. 
+
+
+
+Cœpio, pro incipio, antiquum est, To beginne. 
+
+
+
+Cognosco, nosco eos qui prius incogniti erant, To 
+know that which we knew not before, somtime diligent­
+lie and attentiuelie to considre, or to vnderstande, to 
+searche by an inquirie, and to sitte in iudgement. 
+
+
+
+Collis, monticulus An hillocke. 
+
+
+
+Colo, adoro, veneror, To honor or worshippe with
+praier, sometime to make much of, to exercise, to inha­
+bite, to loue, & Vitam colere is to leade a life, som­
+time to plowe or toyle the grounde, somtime to decke 
+and to trimme. 
+
+
+
+
+
+
+Colus, instrumentum quod pensa continet. A dis­
+taffe or spindle. 
+
+
+
+Comes, comitans aut sequens. A companion by the
+way, either man or woman. 
+
+
+
+Comminiscor, fingo, excogito To immagine, to 
+faine, to inuent, deuise, to assaie, to bringe a man 
+to the beleefe of that that is not. 
+
+
+
+Como, comam compono, To keame, to dresse the
+busch with a combe, or to decke and adourne. 
+
+
+
+Compago, compactio, & coniunctio. A ioynt. 
+
+
+
+Compedes, vinculi genus A paier of Fetters or giues.
+
+
+
+Congrus, conger, genus piscis. A congre. 
+
+
+
+Coniunx, maritus vel vxor. An husband or wyfe. 
+
+
+
+Coquo, cibum vsui aptum reddo, To dresse meate, 
+to play the cooke, to prepare and go about: as, Bellum
+coquere. To vexe and trouble, as Coquit me cura. 
+To concocte, to bring our nutrument vnto a natural
+foment or iuse. 
+
+
+
+Consulo, to aske counsel, with an accusatiue, to giue 
+counsell, or to prouide for, with a datiue: to take in
+goodworth, with a genitiue. Sometime it is to sitte in
+counsell and to deliberate, but vsed plurallie. as con­
+sulunt Senatores. 
+
+
+
+Cor, pr&ecedil;cipuum inter viscera, & vit&ecedil; sedes & arte­
+riarum, ac caloris natiut, quo animal regitur, qua­
+si fons quidam & domicilium, The harte, and some
+time it is vsed for the minde. 
+
+
+
+Cornus, vel Cornum, aut Cœnu, munimentum ca­
+pitis quorundam animalium. An horne. By transla­
+tion the tourninges of riuers be called Cornua. It 
+signifieth also the winge of an armie, and the end of
+a thinge. 
+
+
+
+Cornus, arbor ramos habens duritia & rigiditate
+cornibus similes fructum circa solstitium ferens,
+pruno candidum, postea sanguineum, A certaine
+tree vnknowen amonge vs. 
+
+
+
+Costus, radix magni odoris. A shrubbe growing in
+Arabia, Iury, and Syria, hauinge a roote of verye
+fragrante sauoure, the whiche antiquitie burned to
+their Gods, as they did frankincense. 
+
+
+
+Coxendix, coxatum vertex, quo fœmora vertun­
+tur. The Hippe. 
+
+
+
+Crater, vel cratera, vas amplum, cui vinum aut ole­
+um imponimus. A Goblet or standing piece.
+
+
+
+Crepo, sono, to cracke. Somtime to complaine, lamente 
+and accuse, as, Quis post vina, grauem pauperiem
+crepat. 
+
+
+
+Crepundia, prima munuscuia quæ pueris dantur. Al
+manner of thinges that are geuen children in their 
+infancie, as corales, swathelingbandes, daggers, 
+timbriles, and suche like. 
+
+
+
+Creta, insula est. The Isle called Candie. 
+
+
+
+Cres, Cretensis. A man of Candie. 
+
+
+
+Crinis, capillus Heare. 
+
+
+
+Crystallus, glacies ex gelu vehementer concreta. 
+Christall. 
+
+
+
+Crus, pars a genibus vsque ad inferiorem pedem. A legge. 
+
+
+
+Conditor, qui aliquid facit A maker or builder.
+
+
+
+Corbis, vas ex viminibus factum. A basket. 
+
+
+
+Cubo, taceo, To lie, and somtime to be sicke in bedde. 
+
+
+Cucumis A Cucumer, the which is called also in La­
+tine Cucumer. 
+
+
+
+Cumbo, The same that Cubo is. 
+
+
+
+Culex, vermiculus alatus. A Gnatte. 
+
+
+
+Cunabula, cunæ. A cradell. 
+
+
+
+Cunæ, cunabula. Idem. 
+
+
+
+Cupio, opto, desidero, To couet, to desire, to lust for,
+and sometime with a datiue to fauoure.
+
+
+Cupressus, arboris nomen. A Cypresse tree. 
+
+
+
+Cures, oppidi nomen. A tounes name 
+
+
+
+Curculio, animal paruum, fræmentum corrodens. 
+A Wesle. 
+
+
+
+Curro, celeriter eo, gradum pr&ecedil;cipito, intenta cele­
+ritate viam quasi voro, To runne, and sometime to
+flowe, that is to runne as riueres doe.
+
+
+
+Cuspis, acutior pars hastæ. The poynt of a speare, pike
+partizane, or any other like. 
+
+
+
+Custos, qui uel quæ rem aliquam tuetur & curat. A keeper, man or woman. 
+
+
+
+Cyprus, insula diuis. Cypres the Isle. 
+
+
+
+D.
+
+Dama, animal timidum. A Bucke, or a do. 
+
+
+
+Damno, damno afficio, vel condemno. To dammage. 
+or to condemne. 
+
+
+
+Dedo. in perpetuum do, vel totum subdo, siue in
+manus & arbitrium do. To yelde. 
+
+
+
+Defrutum, a deferendo, vinum decoctum ad medi­
+am partem. Wine sodden to the halfe. 
+
+
+
+Dego, ago. To liue. 
+
+
+
+Deleo, expungo, proprie lineas aut regulas. To put
+out and to canceil.
+
+
+
+Delicium, oblectamentum quod nobis voluptati est. 
+The thinge wherin we take pleasure in. 
+
+
+
+Delphin, uel delphinus, uel delphis, piscis maris, &
+signum cœleste, A Dolphine. 
+
+
+
+Demo, aufero. To pull away and to exempt. 
+
+
+
+Dens, notum est: per similitudinem capitur pro om­
+ni, quo aliquid teri potest. A toothe. 
+
+
+
+Depango, defigo. To fasten downe and to plante. 
+
+
+
+Desidia, ignauiæ vitium. Slothfulnesse. 
+
+
+
+Dico, loquor, nomino. To speake or to call.
+
+
+
+Dies, tempus viginti quatuor horarum. A daye. 
+
+
+
+Diffiteor, inficias eo, nego To deny. 
+
+
+
+Digredior, discedo. To go from. 
+
+
+
+Diligo, amo. To loue. 
+
+
+
+Diluo, aqua uel quouis humore aliquid purgo. To
+purge with washing. 
+
+
+
+Diphthongus, vnus duarum vocalium sonus. A 
+double sounde. A diphthonge. 
+
+
+Diptoton, nomen flexum duobus in casibus quibus
+conque. A nowne declined with two cases whatso­
+euer. 
+
+
+
+
+
+
+Dindimus, iugum montis Phrigi&ecedil;, Idæ matri deum
+dicatum. The toppe of Ida, the hill by Troy. 
+
+
+
+Dir&ecedil;, imprecationes, execrationes, & inferorum
+furiæ. Curses banninges, and the Furies of hell. 
+
+
+
+Disco, capio doctrinam. To learne. 
+
+
+
+Dispesco, separo, dirimo. To seuer. 
+
+
+
+Displiceo, To displease. 
+
+
+
+Ditionis imperii, dominii, Of my right and title. 
+We neede not scrupulously to refuse ditio, the no­
+minatiue.
+
+
+
+Diuido, partior. To diuide. 
+
+
+
+Diuitiæ, opes ampl&ecedil; fortunæ. Riches. 
+
+
+
+Do, dono. To giue. 
+
+
+
+Doceo, alicuius rei cognitionem alteri trado. to teach, and somtime to shewe and to declare, to warne 
+and to ascertaine. 
+
+
+
+Dodrans, vnciæ nouem. Nine ounces. 
+
+
+
+Doleo, tristis sum. To be sorowfull. 
+
+
+
+Domo, mansuetum facio. To tame. 
+
+
+
+Domus, ædificium ad habitandum factum. An house. 
+
+
+
+Duco, notum est. To leade, to mary, to accounte.
+
+
+
+Dulcedo, suauitas. Swetenes. 
+
+
+
+Dux, qui vel quæ ducit aliquem. A guide, Man or
+Woman. 
+
+
+
+E.
+
+Ecquis, Whether any. 
+
+
+
+Edo, comedo. To eate. 
+
+
+
+Edo. i. emitto, & quasi extra do. To set out, and to 
+euulgate, and sometime to exhibite and shewe: as 
+Edere spectacula. Edere animam. Is to dye, the
+signification of it in all other phrases may be reduced 
+to the first signification.
+
+
+
+Edoceo, diligenter doceo. Throughlie or perfectlie to
+teache.
+
+
+
+Effata, sunt vltimæ precationes augurum, post fi­
+nem auspiciorum extra vrbem dictæ. The pray­
+ers that Southsaiers saide, after notes taken of birds
+flienge, before they entred the Citie. 
+
+
+
+Egeo, careo To neede. 
+
+
+
+Elephas, elephantus, animal fama notum. An Elephante. 
+
+
+
+Elis, ciuitas Archadiæ A citie in Arcadia, or a coun­
+trey in Peloponnesus.
+
+
+
+Emineo, præ aliis appareo, vel excello. To appeare
+before others, and to passe them. 
+
+
+
+Emo, comparo, mercor. To buie. 
+
+
+
+Ensis, gladius. A sworde. 
+
+
+
+Epasco. To eate vppe, to consume with feedinge, and 
+to leaue nothinge.
+
+
+
+Epulum, quasi edipulum, ast celebre conuiuium. A 
+banket or feaste
+
+
+
+Eques, homo equo insidens. An horseman, or hee or
+shee that rideth.
+
+
+
+Eremus, locus desertus. A desert or Wildernes.
+
+
+
+Eripio, extra rapio. To pull out. 
+
+
+
+Esurio, famem patior. To hunger. 
+
+
+
+Euentus, euentum, quod casu aut fortuna nobis euenit. Happe, or that that commeth to passe. 
+
+
+
+Excludo, extra claudo. To shutt out. 
+
+
+
+Excubiæ, vigiliæ diurnæ & nocturnæ Watchinges  
+and Wardinges. 
+
+
+
+Exculpo, perfectè scalpo, vel scalpendo conficio. 
+To carue, to graue, to cut out, to scratche out, as Ocu­
+lum exculpe. to wreste or wringe out, as, Verum ex­
+culpere. 
+
+
+
+Excurro, extra curro, vel pre&ecedil;curro. To runne out, 
+or to out runne before, to amount to a greate deale, 
+to make an outerode, or an excursion. 
+
+
+
+Excequiæ, funebre officium The ceremonies of the bu­
+riall. 
+
+
+
+Excuso, extra culpam reddo. To excuse. 
+
+
+
+Excutio, eiicio, emitto. To smite out. 
+
+
+
+Exlex, sine lege viucus. A lawlesse man, or woman. 
+
+
+
+Expergiscor, euigilo. To awake. 
+
+
+
+Experior, tento, vel tentor. To proue, or be proued.
+
+
+
+Explico, extendo, & declaro. To streatche out and
+to declare.
+
+
+
+Exta, proprie cor, iecur, & pulmo dicuntur. The in­
+traiels. 
+
+
+
+Extorris, exul. A banished Man or Woman.
+
+
+
+Exul, qui vel quæ exulat. A banished man or wo­
+man.
+
+
+
+Exuo, exoluo, denudo. To put of, to vnclothe. 
+
+
+
+Exuuiæ, ab exuendo. The thinges that we put of. 
+
+
+
+F.
+
+Facies, A face. 
+
+
+
+Facio, aliquid ago. To make. 
+
+
+
+Facesso, facio, vel eo ad faciendum. To make or to go
+to make.
+
+
+
+Fallo, decipio. To deceaue. 
+
+
+
+Fames, edendi cupiditas. Hunger. 
+
+
+
+Far, Once a generall worde for anye kinde of graine or 
+corne, as triticeum far, hordeaceum, siligineum, &c., 
+But nowe it signifieth one certaine kinde called Ador,
+which is breade corne.
+
+
+
+Farcio, saturo, impleo, pinguefacio, sagino. To stuffe,
+to fill, to satisfie, make fatte.
+
+
+
+Fas, pium, relligiosum, & dignum fatu. Lawefull, right, godlie, and worthy the telling.
+
+
+
+Fascis, lignorum aut alicuius rei congeries. A fagot. 
+
+
+
+Fasti, libri in quibus totius annires populi Roma­
+ni scriptæ continebantur, & caus&ecedil; festiuitatum 
+explicabantur. A Register for the order of thinges
+for the whole yeare, Fasti dies, were daies wherein
+the iudges mighte giue sentence without offence of the
+Gods, with these three solemne wordes of the lawe,
+Do, dico, addico. Nefasti dies, were three con­
+trarie daies. 
+
+
+
+Fateor, annuo, concedo. To graunt and assent vnto.
+
+
+
+Fatisco, deficio, aut defatigor. Abundantly to gape 
+
+
+
+Fatiscor, fessus sum to be wearye. 
+
+
+
+
+to faint and to be weake.
+
+
+
+Faueo, recte alicui opto. To fauour. 
+
+
+
+Fel, purgamentum sanguinis. The galle. 
+
+
+
+Feri&ecedil;, dies cessationum ab opere. Holy daies, or time
+of pastime vsed. 
+
+
+
+Ferio, percutio. To strike. 
+
+
+
+Fero, To beare, or to suffer, to leade, or tell, to giue, 
+to couet, to aduaunce, to bring forthe, to haue, to
+take awaie, to obtaine, to aske aduise, as Pompeius
+tulit ad populum.
+
+
+
+Ferueo, valde caleo. To be hote. 
+
+
+
+Feruesco, calesco. To wexe hote. 
+
+
+
+Ficus, arbor vel morbus. A figge tree, or a certaine
+bile rising in the fundament.
+
+
+
+Fides, constantia in omnibus rebus. Faith and truth.
+
+
+
+Fido, fiduciam & spem habeo. To haue trust.
+
+
+
+Figo, To fasten, to plant, to smite with arrow or suche
+like.
+
+
+
+Filum, illud subtile quod ex lino lanaue trahendo
+ducitur. A thredde. 
+
+
+
+Filix, herba sine caule, sine flore, sine femine, Ferne
+wherof there bee two kindes, as in Herbaries
+you shall see. 
+
+
+
+Fimus, letamen & excrementa animalium, quibus 
+agri stercorantur, Dunge. It is also Fimum in
+the neutre gendre. 
+
+
+
+Findo, disseco, dissindo. To cleaue. 
+
+
+
+Fingo, formo. To fashion. 
+
+
+
+Finis, extremitas, siue terminus in vnaquaque re. 
+An ende. 
+
+
+
+Fio, efficior. To be made 
+
+
+
+Flaueo, flauus sum. To be yellowe. 
+
+
+
+Flecto, inclino, volno, duco, moueo. To bow, to moue, 
+and to cause to folowe.
+
+
+
+Fleo, lachrymor. To weepe. 
+
+
+
+Flo, spiro. To blowe. 
+
+
+
+Flos, dictus qui ex arboribus vel herbis colligitur. 
+A flower. 
+
+
+
+Fluo, decurro, proprie vt liquores. To flowe. 
+
+
+
+Fodio, terram eruo. To digge. 
+
+
+
+Follis, instrumentum quo attrahitur atque emittitur
+ventus. A paier of bellouse. 
+
+
+
+Fons, scatebra. A welle. 
+
+
+
+Forceps, instrumentum quo tenetur aliquid. A paier 
+of tongues. 
+
+
+
+Forfex, instrumentum sartorium, quo aliquid scin­
+ditur. A paire of Scissers. 
+
+
+
+Fors, fortuna, casus. Happe. 
+
+
+
+Forum, à ferendo, quia lites & venalia illuc feran­
+tur. The iudiciall place, and then it is named Fo­
+rum iudiciale:: or the market place, and is called
+Forum venale. 
+
+
+
+Frango, rumpo, destruo. To breake. 
+
+
+
+Frenum, vel frœnum, instrumentum quo equum in­
+sessor coercet. A bridel. 
+
+
+
+Frico, scalpo. To rubbe. 
+
+
+
+Frigeo, frigidus sum. To be bolde. 
+
+
+
+Frugi, indeclinable omnis generis, vtilis, necessa­
+rius, frugalis. Good, profitable and thriftie.
+
+
+
+Frugis, eius quod ex terr&ecedil; fructu in alimoniam
+vertimus. Of corne or puls. Some make the nomina­
+tiue hereof Fruges and some Frux, the foremoste
+is not to be misliked.
+
+
+Fruor, delectationem, & fructum capio, & alor. To 
+take pleasure, fruite, and profitte of, and to be feadde.
+
+
+
+Fundo, liquefacio vel liquidum spargo. To melte, or 
+to powre.
+
+
+Fugio, vito, currendo relinquor. To flee from, to auoide.
+
+
+Fulcio, sustineo, munio. To vnderproppe, and to shore.
+
+
+
+Fuga, fugiendi actus. Fleing, or runninge away.
+
+
+
+Funis, restis. A rope. 
+
+
+
+Fur, qui vel quæ alteri subtrahit. A Man or Wo­
+man theefe. 
+
+
+
+Furfur, purgamentum farinæ. Branne, or scurfe. 
+
+
+
+Furo, insanio. To be madde. 
+
+
+
+Fustis, baculus. A clubbe. 
+
+
+
+G.
+
+Gabii, Volstorum vrbs. A towne in Italie. 70. miles
+from Rome. 
+
+
+
+Gallia, Europæ pars, sita intra Pirenæos montes, in­
+ter Hispaniam Germaniamque & duo Maria,
+Oceanum Britannicum & mare nostrum. Fraunce. 
+
+
+
+Garamas, Libyæ incola. A certaine inhabitaunte of
+Afrike. 
+
+An alternate spelling for "Africa," not independently bearing the sense of the country itself, according to the OED.
+
+
+
+
+Gargarus, vnus ex collibus montis Idæ A very high
+toppe of the hill Ida. There is also a towne of that
+name at the foote of the same hille. 
+
+
+
+Gaudeo, l&ecedil;tor To reioice. 
+
+
+
+Gelu, proprie glacies. Frost or Ise.
+
+
+
+Genu, curuatur a qua crus & femur committuntus. 
+A knee. 
+
+
+
+Gero, porto. To beare. 
+
+
+
+Gibbus, & gibber, solidus in dorso tumer. A iubbe 
+or a bunche. 
+
+"iubbe" takes the expected sense of the OED "jibbe" or "gibbe."
+
+
+
+
+Gigas, vir altissimæ statur&ecedil;. a Giant. 
+
+
+
+Gigno genero. To begett. 
+
+
+
+Gingiber, herba in Arabia nascens. Ginger. 
+
+
+
+Glisco, Cresco, augeor, inualesco. To increase, and 
+growe, to wexe stronge, to wexe fatte, or much to de­
+sire, and sore to couet. 
+
+
+
+Glis, animal muri simile. A dormouse. 
+
+
+
+Gluten, glutinum, aut colla. Glue. 
+
+
+
+Gorgon, nomen mulieris. A certaine terrible woman
+ 
+
+
+
+Gradior, eo, incedo, progredior. To go. 
+
+
+
+Græcia, the countrie of Grece, a greate peece of Eu­
+rope, which is now vnder the Turke, 
+
+
+
+Graiugena, Græcus. A Gretiane borne. 
+
+
+
+Grando, gutta aquæ in aere congelata. Haile. 
+
+
+
+Grates, gratiæ relat&ecedil; pro accepto beneficio. Thanks. 
+
+
+
+
+
+
+Grex, pecudum multitudo. A flocke. 
+
+
+
+Gryps, animal pennatuum, omni ex parte leoni simile.
+A Griffyon. 
+
+
+
+Grossus, ficus abortiua qu&ecedil; non maturescit. A rathe
+ripe figge. 
+
+
+
+Gruo, vt grues, gruere dicuntur. To cry like a crane. 
+
+
+
+Grus, auis nota. A Crane. 
+
+
+
+Gummi, liquor glutinosus ex arboribus resudans. Gumme. 
+
+
+
+Gurgulio, pars gutturis a naribus ad pulmonem, vel
+animal. The Wesande, or a Wesle.
+
+
+H.
+
+Habeo, possideo, teneo. To haue. 
+
+
+
+H&ecedil;reo, arcte alicui rei infigor. To cleaue vnto. 
+
+
+
+Hæres, qui succedit in hæreditatem alterius. An Heire. 
+
+
+
+Halec, piscis qui sola aqua nutritur. A herring. 
+
+
+
+Heros, vir illustris, & nobilis, A noble man, a man
+of greate excellencie in worthie factes, and therein 
+more like a god then a man.
+
+
+
+Hesperus, serotina stella. The euening Starre. 
+
+
+
+Heteroclitum, nomen secus quàm declinationum
+canones poscunt flexum. A word declined otherwise
+then the bare rules of the declensons doe require. 
+
+
+
+Haurio, extraho humorem, & educo ex profundo
+aliquo loco. To drawe. 
+
+
+
+Hilaris, vel hilarus, iucundus, l&ecedil;tus. Mery. 
+
+
+
+Hippomanes, uirus ab equa collectum, vel carun­
+cula in fronte pulli equini, nominem ad insani­
+am redigens. Poison to procure loue withal, or a little
+piece of fleshe growing in the coltes forehead when it
+is first foled. 
+
+
+
+Hirundo, auis notissima. A swallow. 
+
+
+
+Histrix, animal exherinaceorum genere. A porcupike. 
+
+
+
+Homo, notæ significationis. A Man or Woman. 
+
+
+
+Honor, vel honos, est reuerentia quam alicui ex
+uibemus in virtutis testimonium. Honour, Worship 
+
+
+
+Hordeum, ab horrore, quoniam hordeo quam frumen
+to arista est mordacior. Barlye. 
+
+
+
+Hospes, qui vel quæ ad hospitium recipit, aut reci­
+pitur, & capitur pro peregrino. An hoste or an 
+hostes, or a gest, man or woman. 
+
+
+
+Hostis, inimicus, vel peregrinus. An enemye. 
+
+
+
+Huber, fertilis, abundans, & mamma pecoris & ho­
+minis. Pleentiful, or a dugg, or the vdder of any beast. 
+
+
+
+Humus, tetra humefacta. The grounde. 
+
+
+
+Hydrops, aqua intercus. The dropsie. 
+
+
+
+Hyems, bruma. Winter. 
+
+
+
+I.
+
+Iaceo, decumbo. To lye. 
+
+
+
+Iacio, Emitro, ac vi impello, To caste, to whurle,
+to leye, as iacere fundamentum, or by translation it is to make a beginninge. Iacio, is somtime to 
+spredde abroade by rumore, and sometime to ob­
+iect againste one with an accusatiue, with this præ­
+position in. 
+ 
+
+
+Iaspis, lapis preciosus. A greene preciose stone, wher
+of there be diuers kindes & degrees of colours di­
+uers. 
+
+
+
+Ico, ferio, percutio. To strike, to smite, as Icere
+colaphum. Icere fœdus. Is to strike vppe a bargain. 
+
+
+
+Icon, imago. An Image 
+
+
+
+Ida, mons altissimus Troicisoli. An hill in the coun­
+trey of Troye. 
+
+
+
+Idus, dies qui diuidant mensem. In March, May, Iune,
+and October, it is the .15. day, in the rest the .13. 
+
+
+
+Iecur, hepar. The liuer. 
+
+
+
+Ignis, vnum ex quatuor elementis. Fyre. 
+
+
+
+Illex, qui sine lege viuit. A lawles body, man or wo­
+man 
+
+
+
+Imber, agmen aquarum largius ex nubibus effusum. 
+A shooure. 
+
+
+
+Imbrex, canalis, vel regula curua & obtorta, pe­
+quam imber defluit, a gutter tile. 
+
+
+
+Immineo, insto. To hange ouer. 
+
+
+
+Impetis, violentiæ, inuasionis. Of violence, and boy­
+steousnes. 
+
+
+Incesso, accuso, impero. To accuse, to prouoke, to re­
+uile, to inuade, and enter into. 
+
+
+
+Incido, ferio, seco. To cut, to graue in. 
+
+
+
+Incido, in aliquid, vel super aliquid cado, To fall 
+into, by happe, to runne into, as Incidi in errorem., 
+and sometime to happen or to chaunce. 
+
+
+
+Incipio, inchoo, To begin, to take in hande, to en­
+terprise. 
+
+
+
+Inculco, eadem sæpius iterando ingero. Often to repeate 
+
+
+
+Indo, impono. To put in. 
+
+
+
+Indoles, facilis significatio futur&ecedil; probitatis. To­
+wardenes, or likely disposition. 
+
+
+
+Indulgeo, obsequor. To set much by, and to giue to. 
+
+
+
+Induciæ, pax in paucos dies. A truce. 
+
+
+
+Inermus, vel Inermis, qui armatus non est. Vnar­
+med. 
+
+
+
+Infans, homo per &ecedil;tatem nondum sciens fari. A babe. 
+
+
+
+Inferiæ, sacrificia quæ inferis soluuntur, sacrifise
+done vnto spirites in hell, where of Inferiae facere, 
+is Manes sacrificiis placare, that is, to celebrate
+Obites, & Obsequies. 
+
+
+
+Inficias, negationem se vel debere quod actor pos­
+cit, vel commisisse quod accusator obijcit. A de­
+niall, and it foloweth onely the verbe Eo. 
+
+
+
+Inficio, intingo, vitio ceu maculo. To dye, or to in­
+fecte. 
+
+
+
+Ingruo, inuado, impetum facio. To giue an onset, and 
+to inuade. 
+
+
+
+Iniussu, absque autoritate, & temere sine iussione. 
+Without bidding. 
+
+
+
+Irascor, ira stimulor. To be angry. 
+
+
+
+Ismarus, mons Thraci&ecedil;, asper & incultus ex vna par­
+te, ex alia fertilis vinetis & oliuetis A certain
+
+
+
+
+hill in Thracia so named. 
+
+
+
+Insidiæ, dolosa expectatio a hominem aggredien­
+dum, fallacia. A lieng in waite for, or a deceiet. 
+
+
+
+Instar, significat vel similitudinem vel æquipara­
+tionem & mensuram. Like, or as bigge, or the I­
+mage. 
+
+
+
+Intelligo, capio. To vnderstande. 
+
+
+
+Interpres, qui authores declarat, aut aliquid ex
+lingua in linguam transfert.  An interpreter, man
+or woman, or a translatour. 
+
+
+
+Inuidia, Mœror ex aliena prosperitate, Enuie,
+sorowe for another mans welfare, or els the euill
+will and spite of a man. 
+
+
+
+Iocus, est quidam lepor & festiuitas in verbis. A 
+mery scoffe. 
+
+
+
+Iter, itio, actus eundi. A iourney. 
+
+
+
+Iubar, sol, vel ipsius splendor. The Sunne beame. 
+
+
+
+Iubeo, impero. To commande. 
+
+
+
+Iudex, qui vel quæ iudicat. A iudge, hee or shee. 
+
+
+
+Iugeris, agri tantum quantum ab vno pari aut iugo
+boum vno die arari potest. Plinius. Wee call it
+an acre. The authors doe vary in the measure of it.
+For commoditye of the nominatiue and other cases
+wee may vse Iugerum. 
+
+
+
+Iungo, cumulo, & quasi in vnum ago. To
+ioine. 
+
+
+
+Iugum, vertex, siue cacumen montis, The toppe of
+an hille. It is also a yoke, or a yoke of oxen, that 
+is a couple. By metaphore it is a seruitude or a bon­
+dage. It is also a weauers beame, or a paire of gallowes
+such as for ignomini the Romaines went vnder. Tribus
+hastis iugum fit, humi fixis duabus, superque as
+transuersa vna deligata. 
+
+
+
+Iuno, dea, Iouis vxor. The Goddesse, Iupiters wife. 
+
+
+
+Iuro, iuramentum facio. To sweare. 
+
+
+
+Ius, quod natura, aut ciuitas, aut gens iubet, & li­
+quor eorum quæ coquuntur. The law and right, 
+and the brothe of any thinge sodden. 
+
+
+
+Iussu, imperio, iussione. by commaundement. 
+
+
+
+Iusta, idem quod exequiæ  
+
+
+
+Iustitium, iuris dicendi intermissio. No terme. 
+
+
+
+Iuuenis, qui adolescentium excessit ætatem One com­
+men to mans age. 
+
+
+Iuuentus, ætas iuuenilis. Man state. 
+
+
+
+Iuuo, auxilium do. To helpe. 
+
+
+
+L.
+
+Labes, hiatus, macula, dedecus. A great shape, a
+spotte, a dishonour or reproche. 
+
+
+
+Labor, vel labos, opera, defatigatio. Laboure and
+toile, painstaking, some time it is miserie, calamitie,
+perill, daunger, trauaile. 
+
+
+
+Lac, succus maternus, quo animalia nutriuntur. Mylke. 
+
+
+
+Lacesso, vexo, incito, prouoco. To trouble, to pro­
+uoke. 
+
+
+
+Lacio, in fraudem duco. To allure, or to entise. 
+
+
+
+Lactes, graciliora intestina. The smal guttes. 
+
+
+
+Lacto, lac emitto, vel per blanditias decipio. To
+giue milke, or to deceaue. 
+
+
+
+Lacus, locus profundus cum aquis perpetuis ibidem
+natis, qui efficit riuos. A Lake, a weare, or a
+meyre. 
+
+
+
+Lædo, verbo factone aliquem offendo, To hurte. 
+
+
+
+Lelaps, nomen cuiusdam e canibus Actæonis. One of
+Acteons dogges called Lelaps, for spedy furiousenes
+For Lælaps signifieth a whourlwinde, a tempest and a
+storme. 
+
+
+
+Lambo, lingua lingo. To licke. 
+
+
+
+Lampas, ignis aut solis splendor. A fire, or bright­
+nes of the Sunne, or a lampe. 
+
+
+
+Lanista, qui domi gladiatores docet, & populo ven­
+dit. A Maiester of defence 
+
+
+
+Laquear, pars superior cubiculi parum conuexa. 
+A vauted roofe of a parlare 
+
+
+
+Laser, herba quædam, & succus qui ex culmo laser
+pitij exudat. The Herbe out of the which commeth
+the iusse that the Apothecaries do call Asa dulcis
+& Belzoe, or Belzoin, The common people called it
+Beniamin. 
+
+
+
+Lauo, aqua purgo. To wasche. 
+
+
+
+Lateo, abscondor, non compareo. To lurke, or to bee
+hidden. 
+
+
+
+Laurus, genus arboris. A baye tree. 
+
+
+
+Lebes, vas æneum. A calderone, or a panne. 
+
+
+
+Lecythus, ampulla oleara. A box for oile and oint­
+ment. It is taken also for eloquence in writing. 
+
+
+
+Lego, notum est. To reade. 
+
+
+
+Lemures, laruæ nocturnæ, & terrificationes ima­
+ginum. Hobgoblines, or night spirites. 
+
+
+Leo, animal ferox. A Lyon. 
+
+
+
+Leo, imprimo, formo. To imprint, to forme Abusiuum. 
+
+
+
+Lethum, mors, interitus. Death. 
+
+
+
+Liberi, pignora, Children. One Sonne or one Daugh­
+ter may be called Liberi, and so maye Neuewes
+and their successours. 
+
+
+
+Libet, placet. It pleaseth. 
+
+
+
+Libs, ventus Aphricus. The southwest winde by west. 
+
+
+
+Licet, fas est. It is lawfull. 
+
+
+
+Lichen, herba, vel grauissimum morbi genus. Liuer­
+wort, the Apothecaries calle it hepatica. It is also 
+the kinde of leprie, called a saucefleame, in latine 
+Impetigo. 
+
+
+
+Lien, splen. The mealte. Dicitur & lienis in nomi­
+natiuo. 
+
+
+
+Ligur, incola Liguriæ. An Italian of the countrey
+of Liguria. 
+
+
+
+Limax, testudo & coclea terrestris. The shelled
+snaile, and the dewe snaile. 
+
+
+Limus, vestis genus ab vmbilico ad pedes, ceu lu­
+tum, aut cœnum mollius. 
+A kinde of garment, or 
+els slime or
+mudde. 
+
+
+
+
+
+
+Lingo, limbo, id est aliquid lingua molliter tango. To licke. 
+
+
+
+Lino, aliquid alicui rei superinduco. To dawbe. 
+
+
+
+Linquo, committo, pecco To leaue. To trespasse. 
+
+
+Linter, nanicula è cauata arbore facta. A cockboate. 
+
+
+
+Linx, animal maculosum, acutissime videns. Our
+men call this beast an Ounce. 
+
+
+ 
+Liquefio, liquesco. To be molten. 
+
+
+
+Liquor, liqueo. Idem. 
+
+
+
+Liueo, liuidus sum, id est sordidus. To be wanne, or
+filthye. 
+
+
+
+Lixa, coquus in exercitu, vel qui sequitur quæ­
+stus gratia. The scolion that waiteth on an army. 
+
+
+Locri, vrbe in Brutijs. A towne in Italye. 
+
+
+
+Locus, proprie illud quod aliquid continet. A place. 
+
+
+
+Logos, sermo, ratio, verbum. Speache, reason, a worde. 
+
+
+
+Loquor, verba qualiacunque profero, To speake 
+
+
+
+Luceo, lucem emitto. To be light. 
+
+
+
+Ludo, ludum exerceo, iocor. To play, or to sporte. 
+
+
+
+Lues, cum in vrbe aut in agro febris, aliudue mor­
+bi genus, homines aut pecora, aut vtrosque corrum­
+pit. A commune disease or moriene. 
+
+
+
+Lugeo, To bewaile, or lament a thinge, or els absolut­
+lie to mourne, and somtime to be a mourner in ap­
+arrell. 
+
+
+
+Luo, soluo, pœnas do. To redeme, to clense, to pay for. 
+
+
+
+Lustra, habitacula ferarum. Dennes of wilde beastes. 
+or bordell howses, and petie typplinge houses of
+baudrye. 
+
+
+
+M.
+
+Menalus, mons quidam Arcadiæ. An hille of that
+name in Arcadia. 
+
+
+
+Magnes, lapis ferrum attrahens. A stone that draw­
+eth yron vnto it. It is called also Heraclius lapis,, or 
+Sideritis. 
+
+
+
+Maiores, aui, abaui, proaui, attaui, tritaui, & qui­
+cunque ante hos in infinitum. Our Auncesters. 
+
+
+
+Malo, magis, velim. To will rather. 
+
+
+
+Mando, comedo, vel committo. To eate, or to commit. 
+
+
+
+Maneo, fisto, & expecto. To tarry, or to tary for. 
+
+
+
+Manes, dij inferi inter numina læua. Sprites or 
+Deuils. 
+
+
+Manubiæ, qu&ecedil; manu capiuntur ab hostibus. Spoiles
+taken in warres. 
+
+
+
+Manus, membrum notum. An hand. 
+
+
+
+Mapalia agrestes cas&ecedil; Sheepecotes, or smal cotages. 
+
+
+
+Mare, pelagus. The Sea. 
+
+
+
+Margo, cuiusque rei extremitas. The brinke or skirt
+of any thing, or the banke of a riuer or Sea. 
+
+
+Marmor, lapidis genus. Marble. 
+
+
+
+Mars,deus belli. The name of the God of warre. 
+
+
+
+Martyr, testis. A witnesse, man or woman. 
+
+
+
+Mas, vir. A man. 
+
+
+
+Massicus, mons Campaniæ, optimi vini ferax. An 
+hill in that parte of Italye that is called Campa­
+nia, fruitefull of pleasant wines. 
+
+
+
+Mater, nota est significatio. A Mother. 
+
+
+
+Medeor, do medelam. To cure. 
+
+
+
+Medicor, medeor, remedium adfero. Idem 
+
+
+
+Meio, mingo. To pisse. 
+
+
+
+Mel, liquamen dulce. Honye. 
+
+
+
+Meleager, vel meleagrus, Oenei Atoli&ecedil; regis fi­
+lius. A mans name. 
+
+
+
+Menda, & mendum, error, erratum, A faulte. 
+
+
+
+Menses, mulierum profluuium. Womens flowers. 
+
+
+
+Mensis, tempus lunæ curriculo confectum. A moneth. 
+
+
+
+Mereor, aliquid facio, quamobrem dignus sum ob­
+tinere pr&ecedil;mium, vel pœnam pati. To deserue. 
+
+
+
+Meridies, dies medius. Noone, or the noone steede. 
+
+
+
+Metior, pondero, mensuro, considero. To measure. 
+
+
+
+Meto, seco, amputo, herbam, vel segetem. To mowe 
+
+
+
+Metuo, timeo. To feare. 
+
+
+
+Metuor, timeor. To be feared. 
+
+
+
+Meus. Myne. 
+
+
+
+Mico, fulgeo cum motu vel tremore. Often with
+certaine intermissions to shine, and likewise to bee
+moued, to put forth fingers to him with whom we
+play wil put forth, which is called Micare digitis. 
+
+
+
+Miles, qui vel qu&ecedil; militiam exercet, A Warrier,
+a souldior. 
+
+
+
+Mingo, vrinam facio. To pisse, to make water. 
+
+
+Min&ecedil; metus uncussiones per verba aut signa. 
+Threateninges. 
+
+
+
+Minores, posteri, etiam post trinepotes futuri. Our 
+successours. 
+
+
+
+Misceo, To mingle, to serue drincke, somtime to tro­
+bil. 
+
+
+
+Misereor, misericordia assicior. To take pitie on. 
+
+
+
+Miteo, ad aliqueum do. To sende. 
+
+
+
+Mœnia murus vrbis. The walles of a towne, and fi­
+gurately the towne it selfe. 
+
+
+
+Mœreo tristor, dolore afficior, To be heauie, sad, 
+in a dumpe or a mourninge. 
+
+
+
+Monoptoton, nomen non flexum, sed carens omni
+casu preterquam vno, & eo obliquo. A noune ha­
+uing one termination, and that in one oblique case. 
+
+
+
+Mons, terræ tumor altissimus. An hille. 
+
+
+
+Mordeo, dentibus l&ecedil;do. To bite. 
+
+
+
+Morior, è. vita discedo. To die. 
+
+
+
+Mos, vit&ecedil; institutum consuetudine firmatum. A 
+custome. 
+
+
+
+Mulceo, lenio. To asswage. 
+
+
+
+Mulgeo, lac e mammis exprimo. To milke. 
+
+
+
+Mulier, qu&ecedil; non est virgo. A Woman. 
+
+
+
+Mulsum, potus ex vino & melle, A certaine wine
+confect with honie. 
+
+
+
+Multiplico, adaugeo. To multiplie, to encrease. 
+
+
+
+Munia, onera legi debita, & officia qu&ecedil; publice
+pr&ecedil;stantur. A dutie or office. 
+
+
+
+Mus, exiguum animal. A Mowse. 
+
+
+
+
+
+
+N.
+
+Nanciscor, acquiro. To get, and to obtaine. 
+
+
+
+Nascor, orior, in mundum venio, To be borne. 
+
+
+
+Natales, conditio sanguinis & famili&ecedil;. The degree
+of bloud and gentree, as generosi natales, natales 
+obscuri. It is also taken for yeares. Sex mihi na­
+tales ierant, There were passed vi. yeares. It is 
+also vsed for the origine or first springe of thinges. 
+
+
+
+Natalis, dies alicui natalis. A birthe date. 
+
+
+
+Natrix, serpens aquaticus. A water serpent that 
+with poison infecteth the water. 
+
+
+
+Natu, &ecedil;tate, partu. By age, or by birth. 
+
+
+
+Neco, quacunque re te occido. To kill. 
+
+
+
+Necto, ligo, coniungo, To knitt. 
+
+
+
+Negligo, contemno, non curo. Not to passe on. 
+
+
+
+Nefrens, porculus per &ecedil;tatem fabam frangere non­
+dum potens. A yonge pigge. 
+
+
+
+Nigreo, niger fio. To becum blacke. 
+
+
+
+Nemo, nullus homo. No body, man or woman. 
+
+
+
+Neo filum torqueo, To spinne 
+
+
+
+Neuter, Neither of bothe. 
+
+
+
+Neruus, motus sensusque instrumentum. A sinowe. 
+
+
+
+Nexo, ligo vel necto. To bynde. 
+
+
+
+Nicticorax, coruus nocturnus. A night Rauen. 
+
+
+
+Nideo, splendeo. To shine. 
+
+
+
+Nihil, rei cuiusuis priuatio. Nothinge. 
+
+
+
+Nihilum, rei cuiusuis priuatio. 
+
+
+
+Nil, vide nihil. 
+
+
+
+Nitor, conor, ago sedulo. To go about, to endevour. 
+
+
+
+Niueo, est oculorum & aliorum membrorum nisu
+aliquid conari. To giue a token with the eyes, to 
+winke, to endeuour. 
+
+
+
+No, nato. To swimme. 
+
+
+
+Noceo, malum infero. To hurt or to harme. 
+
+
+
+Noctu, nocte. By night. 
+
+
+
+Nolo, renuo, non volo. To nill. 
+
+
+
+Non&ecedil;, quæsi nou&ecedil;, propter initium obseruationis.
+Erant autem in Martio, Maio, Iunio, & Octobri,
+sex illi dies qui calendas sequebantur, in reli­
+quis quatuor. The names of a moneth. 
+
+
+
+Nosco, rem certam habeo. To knowe. 
+
+
+
+Noster. Oures. 
+
+
+
+Nostras, Of our country, secte, or fashion. 
+
+
+
+Notus, ventus meridionalis, quem nos austrum
+appellamus, The south winde. 
+
+
+
+Nubes, vapor humidus sublime egressus. A cloude. 
+
+
+
+Nubo, viro trador. To be maried to a man, For it is
+in the Womans partes onely. 
+
+
+
+Nugæ, cum nihil agimus. Trifles. 
+
+
+
+Nullus, Noone. 
+
+
+
+Nundinium, dies & conuentus status rerum mer­
+catui. A faire. 
+
+
+
+Nuo, A verbe not much in vse, the compoundes there
+of be commonly receaued, and it signifieth to nodde. 
+
+
+
+Nupti&ecedil;, legitima coniunctio maris & fœminæ in 
+vit&ecedil; societatem. Mariage. 
+
+
+
+Nurus, filij vxor. A daughter in lawe. 
+
+
+
+O.
+
+Obdo, oppono, siue appono. To sett against. 
+
+
+
+Obex, obiectum aliquod, vel obstaculum, vt pessu­
+lum, sera. A barre or stoppe. 
+
+
+
+Obliuiscor, e memoria aliquid excidere sino. To 
+forgette. 
+
+
+
+Obes, qui vel qu&ecedil; traditur in fidem alteri. An 
+hostage or pledge, man or woman. 
+
+
+
+Occido, To fall, or perishe, and to bee slaine. 
+
+
+
+Occiput, posterior pars capitis. The hinder parte of 
+the Heade. 
+
+
+
+Occludo, claudo. To shutte. 
+
+
+
+Occulo, abscondo, abdo To hide. 
+
+
+
+Odor, vel odos, quasi olor ab oleo, est autem infe­
+ctus aer. A sauour. 
+
+
+
+October, mensis octauus a martio, The tenth moneth
+in our year called Octobre. 
+
+
+
+Oleaster, olea siluestris. A certaine shrubbe like the
+Oliue tree. the Greekes call it the wilde Oliue, or
+the grounde oliue, for the lownesse. 
+
+
+
+Oleo, odorem spiro, & emitto, To giue a smell, &
+that indifferentlie so that the differences bee made
+with bene or male. 
+
+
+
+Olfacio, odoror, To smell, or to sauour a thinge, 
+by translation it is to perceaue, and finde, to foresee. 
+
+
+
+Omen, augurium quod fit ore. Halsoninge and fore­
+speaking.
+
+"Halsoninge" antedates the earliest OED citation (1587).
+
+
+
+
+Omnis, Euery one. 
+
+
+
+Onus, pondus alicui iniunctum. A burden. 
+
+
+
+Onyx, vnguis, & gemma. The naile of a mans honde, 
+a preciouse stone white lyke a naile, the hawe in a 
+mans eye. 
+
+
+
+Operio, tego. To couer. 
+
+
+
+Opis, adminiculi, pr&ecedil;sidij. Of ayde and helpe. 
+
+
+
+Opifex, qui opus facit. A workeman. 
+
+
+
+Oppango, circumfigo, circumplanto. To fasten or to
+ioine vnto, or to plante aboute. 
+
+
+
+Opus opuntis, nomen ciuitatis in Locris. A townes
+name in the countrie of Locris. 
+
+
+
+Orbis, circulus mundi, res rotunda. A Globe or a
+bowle, and therof the world is called orbis, because
+it is euery way rounde like a bowle. 
+
+
+
+Ordior, incipio. To beginne or to commence 
+
+
+
+Ordior, id est texo, To weaue. 
+
+
+
+Oriens, regio orientalis. The Easte. 
+
+
+
+Orior, nascor, surgo, incipio. To springe, to rise, to beginne. 
+
+
+
+Orontes, nomen viri, & fluuij. A mans name, or a
+certaine riuer in Syria, now called Tarfaro. 
+
+
+
+Os oris, concauum illud intra quod sunt dentes &
+linguia. A mouth. 
+
+
+
+Os ossis, solidamentum corporis durum. A bone. 
+
+
+
+Ostreum, conch&ecedil; species. An Oister. 
+
+
+
+
+
+
+Ouum, An egge. 
+
+
+
+P.
+
+Paciscor, pactum facio, conuenio. To make a bar­
+gaine, to fall to an accorde, sometime to promise. 
+
+
+
+Palleo, parum albeo. To be pale. 
+
+
+
+Pampinus, vitis ramus. A Vine branche. 
+
+
+
+Pando, aperio, patefacio. To open. 
+
+
+
+Pango, paciscor, cano, iungo, plango, figo. To bar­
+gaine, to singe, to ioine, to waile, to fasten. 
+
+
+Panis, quo pascimur. Breade. 
+
+
+
+Panther, & panthera, animal quoddam pardo simi­
+le. A certaine beast. 
+
+
+
+Papauer, genus herbæ soporiferum. Popie. 
+
+
+
+Papyrus, charta qua vtimur in literis scribendis 
+A certaine sorte of rushe growing in the marisshe
+of Egipte somwhat hyghe, whereof they made a
+kinde of papire and called it Papyrus, whereof our 
+papire now is called likewise. 
+
+
+
+Paradisus, locus amœnissimus. A place of pleasure. 
+
+
+
+Partio, diuido, & quasi partes facio, To parte or 
+diuide.
+
+
+
+Pareo, abstineo ab vltione. To spare. 
+
+
+
+Pareo, obedio To obey. 
+
+
+
+Pario, prolem produco. To bring forth. 
+
+
+
+Parens, pater aut mater, auus, auia. A Father or 
+Mother, A Graundefather, or Graunde mother. 
+
+
+
+Pernassus, mons in Phocide, duos vertices habens. 
+An hill in Phocis a countrey of Greece. 
+
+
+
+Parturio, cupio aut conor parere. To be towarde la­
+bour. 
+
+
+
+Pasco, nutrio. To feede, to nourrishe. 
+
+
+
+Pascor, nutrior, alor, To be fedde. 
+
+
+
+Passer, auis salacissima. A Sparrowe. 
+
+
+
+Pateo,apertus sum. To be open. 
+
+
+
+Patior, sustineo, tolero. To suffer or to abide. 
+
+
+
+Patro, aliquid mali committo. To commit some euill. 
+
+
+
+Patrucles, patruorum filij. Brothers children. 
+
+
+
+Paueo, timeo. To feare. 
+
+
+
+Pecten, instrumentum textorum, & dentatum. A 
+combe, or a weauers sleye. 
+
+
+
+Pecto, orno capillos To coame the heare. 
+
+
+
+Pecus, cudis, oris, omne animal quod sub hominis
+imperijs pabulo terræ pascitur. All cattell. 
+
+
+
+Pedes, qui pedibus incedit, A footeman. 
+
+
+
+Pedo, ventris crepitum facio. 
+
+
+
+Pelagus, mare. The Sea(n) 
+
+
+
+Pellex, mulier impudica. An Harlott. 
+
+
+
+Pello, eijcio, remoueo. To driue or put away.
+
+
+
+Penates, dij domestici, quod penes nos nati sunt. 
+Householde Goddes. 
+
+
+
+Pendeo, suspensus sum. To be hanged. 
+
+
+
+Pendo, suspendo, vel pondero, æstimo, To hange, to
+waye, to price. 
+
+
+
+Penis, cauda, A taile, and at the laste is not taken
+for a mans yarde. 
+
+
+Penus, vel penum, omne esculentum, poculentum
+quo homines vescuntur. All maner of victuall. 
+
+
+
+Perago, perficio. To finishe and to perfect businesse. 
+
+
+
+Perlego, totum lego. Wholy and thoroughly to reade. 
+
+
+
+Percutio, ferio. To smite. 
+
+
+
+Perdix, auis nota. A Partridche. 
+
+
+
+Perdo, amitto. To leese. 
+
+
+
+Perduellis hostis, An Enimie in the warres. 
+
+
+
+Pergamus, ciuitas insignis Asiæ, in ditione Tro­
+ianorum. The citie of the Troianes, otherwise cal­
+led Ilium, or Ilion. 
+
+
+
+Pergo, in re procedo, abeo. To go forewarde. 
+
+
+
+Permissu, permissione, cum nemo aduersatur. By suf­
+feraunce, with leaue and licence. 
+
+
+
+Perpetior, multum cum labore ac dolore patior. 
+Thoroughly to beare or suffer. 
+
+
+
+Perplaceo, valde placeo, To please verie muche,  
+or thorowlie to please. 
+
+
+Persis, orientalis regio. The countrey of Persia. 
+
+
+
+Pes, ima pars corporis qua gradimur. A foote. 
+
+
+
+Peto, oro, obsecro, volo. To aske. 
+
+
+
+Phaleræ, ornamenta equorum. Horse trappinges. 
+
+
+
+Pharus, curris altissima in portu, quæ lucet naui­
+gantibus. A watchetower. 
+
+
+
+Phaselus, nauicula velox & oblonga. A Brigan­
+dine. 
+
+
+
+Philotis, nomen mulieris. A womans name. 
+
+
+
+Phœnix, auis in oriente, a Phœnice o pennarum
+colore dicta, toto orbe celeberrima, in Arabia
+nascens, aquilæ magnitudine, Phœnix the birde. 
+
+
+
+Phrix, vir Phrigiæ. A Troiane. 
+
+
+
+Pietas, pius cultus. Godlines. 
+
+
+
+Piget, dolet, seu molestum est. It yrketh. 
+
+
+
+Pingo, formam alicuius rei ductis lineis repræsen­
+to. To painte. 
+
+
+
+Pinso, tundo, panem conficio. To smite with the beake
+to beate in a mortar, as once thei did theyr graine, 
+& thereof to bake. 
+
+
+
+Pinus, arbor est picei generis, nucesferens omni­
+um maximas, quas latini ineas uocant, A pine 
+tree. 
+
+
+
+Pier, herba. Pepper. 
+
+
+
+Piscis, animal quod continue sub aquis degit. A 
+Fishe. 
+
+
+
+Pix, resina ex arboribus fluens. Pytche. 
+
+
+
+Python, serpens e putredinenatus. A Serpent. 
+
+
+
+Placeo, gratus sum. To please. 
+
+
+
+Plagæ, retia rarior ad capiendas feras. Hunting nettes  
+or wide meashed nettes to take beastes. 
+
+
+
+Plaudo, manibus percutio, ac gestu l&ecedil;ticiam indi­
+co. To clappe handes for ioye. 
+
+
+
+Plebes, vel plebis, idem quod vulgus. The com­
+mune people. 
+
+
+
+Plecto, supplicio afficio, punio, ferio, To punnish 
+
+
+
+
+to beate. 
+
+
+
+Pleo, plenum facio. To fill. 
+
+
+
+Plico, contraho, & rugas facio. To foulde or to pleite. 
+
+
+
+Pluo, aquam dimitto. To raine. 
+
+
+
+Plus, vox incrementi. More. 
+
+
+
+Polleo, possum, valeo, To be able, to bee of powre, 
+and somtime it is taken for to passe, or to bee better, or 
+more profitable. 
+
+
+
+Pons, asser vel quoduis aliud per quod super aquas
+transimus. A bridge. 
+
+
+
+Pono, colloco, constituo. To sett or to put. 
+
+
+
+Pontus, mare. The Sea. 
+
+
+
+Porticus, ampla domus propter repentinos imbres
+deambulationis gratia ædificata. A galery, or an ambulatorie. 
+
+
+Posco, peto. To aske and to require. 
+
+
+
+Postis, latus portæ siue ianuæ. A post. 
+
+
+
+Poto, bibo. To drinke. 
+
+
+
+Præcordia, quæ exta separant ab inferiore visce­
+rum parte. The Midderiffe. 
+
+
+
+Præcurro, antecurro, siue cito anteco. To runne 
+before. 
+
+
+
+Pr&ecedil;lego, ante lego, vt solent præceptores suis
+discipulis, To bee an Interpreter or a reader, and
+somtime to cut or to saile by. 
+
+
+
+Præmineo, præcello To excell other. 
+
+
+
+Præsul, qui vel qu&ecedil; præest. Hee or shee that super­
+intendeth. 
+
+
+
+Præses, qui vel qu&ecedil; præsidet. Idem. 
+
+
+
+Prandeo, prandium sumo, vel ante prandium cibum
+sumo. To dyne. 
+
+
+
+Precis, precationis, obsecrationis. Of praier, of peti­
+cion. 
+
+
+
+Premo, To presse, to be againste, and to vexe, to pur­
+sue to be harde at hande with, to driue, to hide, 
+to expell, to shutte, to deflowre, to kil, &c. 
+
+
+Preneste, nomen vrbis. A towne in Italie. 
+
+
+
+Pres, sponsor qui se obligat, id est fidei iustor in lite
+nummaria. A suertie. 
+
+
+
+Princeps, qui vel quæ principatum obtinet. The Prince or Princes. 
+
+
+
+Primiti&ecedil; primi fructus ex agro percepti, qui deo
+offeruntur, First frutes, of a mans groundes, or the 
+firstlinges of anie other thinge. 
+
+
+
+Problema, propositio interrogationem annexam
+habeus. A demaunde 
+
+
+
+Prodo, manifesto. To betraie, to make manifest. 
+
+
+
+Proficiscor, eo alio. To go forthe. 
+
+
+
+Proluo, multum siue multo temporelano. to al to wash. 
+
+
+
+Promineo, procul appareo. To hange out in sight. 
+
+
+
+Promo, profero, eloquor. To set abroach, or to vtter. 
+
+
+Promptu, parare, sine mora. With readines or speede. 
+
+
+
+Psallo, cano instrumento musico. To sing or to plaie
+on an instrument. 
+
+
+
+Puber, vel Pubes, proprie lanugo quæ maribus
+decimoquarto anno, fæminis duodecimo circa
+pudenda oriri incipit. Ripenes of age. 
+
+
+
+Pudet, pudore afficior. It shineth. 
+
+
+
+Puerasco, exacta infantia pueritiam inchoo. To wax
+a childe. 
+
+
+
+Pugil, qui vel qu&ecedil; pugnandi artem nouit. A cham­
+pian, man or woman. 
+
+
+
+Puluis & puluer, notum est. Duste. 
+
+
+
+Punctus & punctum, minima indiuiduaque lineæ
+pars. A pricke, or a point, a little centre 
+
+
+Pungo, stimulo, morsum ac aculeum infigo. To prick 
+or to stinge. 
+
+
+
+Pumex, lapis cauernosus. A pummis stone. 
+
+
+
+Pus, sanies, & quicunque humor in putredinem ver­
+sus. Matter or core. 
+
+
+
+Q.
+
+Quæro, innestigo, interrogo. To seeke for, to search.
+ 
+
+
+Quario, moueo, concutio. To shake. 
+
+
+
+Quercus, An oke. 
+
+
+
+Queror, lamentor. To complaine and lament. 
+
+
+
+Qui, The which. 
+
+
+
+Quies, vacatio a labore, aut cessatio a quouis ope­
+re. Reast, it pertaineth to the body. Tranquillitas 
+vnto the minde.
+
+
+
+Quilibet, Eueryone, or whosoeuer ye will. 
+
+
+Quinisco, caput inclino, moueo. To hange the head. 
+
+
+
+Quisquili&ecedil;, purgamenta & quicquid ex arboribus surculorum foliorum aut florum minitim deci­
+dit. Thinges of no waight. Thinges not worth, re­
+garde, or chippinges. 
+
+
+
+Quot. How many. 
+
+
+
+R.
+
+Rabula, homo futilis. A brawler, or 
+a smaterer in the
+lawe. 
+
+
+
+Rado, cultro vel quauis re acuta decerpo. To shaue 
+
+
+
+Ramex, ruptura, & distentio interstinorum. Burstnes. 
+
+
+
+Rapio, per vim traho, aufero. To snatche awaie, 
+
+
+
+Rastrum, instrumentum dentatum, quo vtimur in
+fœnificio ad corradendum fœnum. A rake. 
+
+
+
+Raucio, raucus sum, To be hoarse. 
+
+
+
+Recido, retro siue iterum in eadem cado. To fal back­
+warde, or to fall into the same againe. 
+
+
+
+Recordor, rursus in mentem reuoco. To call to minde
+againe. 
+
+
+
+Reddo, acceptum vel ablatum restituo. To render or
+to restore. 
+
+
+
+Redoleo, odorem alicuius rei refero, vel multum
+oleo. To beare the sauer of a thing, or to sauour strong­
+lie, and by metaphore to resemble and to taste of. 
+
+
+
+Refringo, iterum frango. To breake open. 
+
+
+
+Rego, guberno. To rule or gouerne. 
+
+
+Relego, rursus lego. To reade againe. 
+
+
+
+Reminiscor, recordor, memini. To remember. 
+
+
+
+Ren, viscus quoddam. The kidney. 
+
+
+
+Renuo, refuto, reijcio. To refuse. 
+
+
+
+
+
+
+Reor, arbitror, puto. To suppose. 
+
+
+
+Repango, dissoluo, reiungo. To vnloose, to disiointe. 
+
+
+
+Reperio, inuenio. To finde. 
+
+
+
+Replico, dissoluo. To vnfoulde. 
+
+
+
+Repetundarum, alienarum pecuniarum, de quibus
+pr&ecedil;ses prouinciæ a prouincialibus accusatur,
+si quas vi aut dolo expilauit. Of bribery and pil­
+lage, or of extorsion. 
+
+
+
+Repungo, iterum stimulo, vicem reddo. To pricke
+againe. 
+
+
+
+Res, omnia siue corporalia siue incorporalia com­
+prehendit. A thinge. 
+
+
+
+Rescio, rursum percipio. To knowe againe. 
+
+
+
+Respuo, repudio, sperno. To refuse. 
+
+
+
+Restis, funis vel lorum. A rope or a with. 
+
+
+Resulto, resilio, reuertor, in contrarium salio, To 
+rebounde. 
+
+
+
+Rete, iustrumentum quo pisces capiuntur. A nette. 
+
+
+
+Rex, nota est significatio. A kinge. 
+
+
+
+Rideo, cachinno. To laughe. 
+
+
+
+Ringo, os troqueo vt canes. To make an euill fauo­
+red face like a narring dogge, and to vexe. 
+
+
+Robur, species quercus durissim&ecedil;. An oke. 
+
+
+
+Rodo, mordeo, comedo. To gnawe. 
+
+
+
+Roma, vrbs Italiæ quondam a pastoribus condi­
+ta, olim gentium domina cum floreret, quarta
+& postrema Monarchia. Rome. 
+
+
+
+Ros, humor qui sereno tempore è cœlo fluit. A dewe. 
+
+
+
+Rostra, templum seu forum iudiciale, ante curiam
+Hostiliam, in quo erat pulpitum ex quo concionari
+solebant. The place where matters be declamed. 
+
+
+
+Rudens, funis nauticus. A Cable. 
+
+
+
+Rudo, grauiter sono vt afini. To cry like an asse. 
+
+
+
+Rumpo, frango. To breake. 
+
+
+
+Ruo, cado. To fall. 
+
+
+
+Rus, locus extra vrbem, vbi agrisunt & vell&ecedil;. The countrey. 
+
+
+
+S.
+
+Sacer, quod venerabile. Holy. 
+
+
+
+Sacerdos, deo dicatus ad sacrificia facienda. A 
+priest or a Nunne. 
+
+
+
+Sacro, deo dedico, sacrum facio. To dedicate. 
+
+
+
+Sal, quo vtimur in cibis condiendis. Salte. 
+
+
+
+Salio, salto, To leape, or to leape as brute beastes do
+when the male couereth the female. 
+
+
+Sallo, sale condio, ac conspergo. To salte, to powder, 
+or to season with salte. 
+
+
+
+Salto, To leape, or to daunce. 
+
+
+
+Salum, mare, a sapore salis, The Sea. 
+
+
+
+Salus, incolumitas. Health. 
+
+
+
+Samnis, nomen gentis. A Samnite. 
+
+
+
+Sancio, firmo, & proprie effuso sanguine per hostiæ
+immolationem. To make sure, and to establishe. 
+
+
+
+Sanguis, cruor qui ex vulnere spargitur. Bloode. 
+
+
+
+Saphyrus, preciosus lapis. A Saphire. 
+
+
+
+Sapientia, rerum diuinorum atque humanarum sci­
+entia Wisedome. 
+
+
+
+Sapio, saporem habeo. To haue a taste. 
+
+
+
+Sarcio, purgo, reficio, integrum facio. To patche and 
+amende. 
+
+
+
+Sardonyx, A certaine preciouse stone. 
+
+
+
+Satago, satis ago, laboro, solicitus sum. To do endeuour. 
+
+
+
+Satrapas, princeps. A prince. 
+
+
+
+Scabo, frico. To scratch, or to rubbe. 
+
+
+Scalpo, sculpo & fodio vnguibus ac manibus. To 
+claw, or to scratche. 
+
+
+
+Scando, in altum tendo. To clime. 
+
+
+
+Scindo, seco, findo. To cutt, or to diuide 
+
+
+
+Scio, To knowe. 
+
+
+
+Scobis & scobs, est id quod ab aliqua materia deci­
+dit per serram, terebram, aut limam. Duste. 
+
+
+
+Scriba, qui literas vel gesta, vel tabellas, & simi­
+lia scribit alterius nomine. A Scribe or 
+Notarie. 
+
+
+
+Scribo, literas formo. To write. 
+
+
+
+Scrobs, fossa aut puteus.  A ditche, or a pitte. 
+
+
+
+Scurra, qui risum ab auditoribus captat, non ha­
+bita ratione verecundiæ, aut dignitatis, A scoffer, 
+a gesture, a parasite. 
+
+
+
+Secerno, abiungo, separo. To diuide, to seperate. 
+
+
+
+Seco, diuido. To cut. 
+
+
+
+Sedeo, quiesco. To sitt. 
+
+
+
+Seges, frumentum in spicis. Corne yet standing. 
+
+
+
+Selego, seorsum colligo. To gather a part. 
+
+
+
+Senecta vel senectus, senium, ætas. Olde age. 
+
+
+
+Senex, senio confectus. An olde man. 
+
+
+
+Senio, quod sex puncta continet. The sise, 
+
+
+
+Senium, idem quod senecta.  
+
+
+
+Semis, id est, semias, sex vnciæ dimidium assis. Halfe
+a pounde, or the halfe of any whole summe. 
+
+
+Sentio, aliquo sensu percipio, pro intelligo poni­
+tur. To perceaue by some sence, or to vnderstande. 
+
+
+
+Sentis, spina. A thorne. 
+
+
+
+Sepelio, defunctum terra condo. To burie. 
+
+
+
+Sepio, obstruo, circundo, munio. To compasse, to hedge.
+
+
+
+Seps, serpens paruus. A little Serpent, after whose
+stroke the membres doe rott. 
+
+
+
+Sequor, abeuntem subsequor. To folow. 
+
+
+
+Sermo, loquela. Speache. 
+
+
+
+Ser, populus Asi&ecedil;. One of a certaine people in Asia
+called Seres. 
+
+
+
+Sero, semino, planto. To sow or plante, or to grafft, 
+and somtime by translation to begette, by translation 
+also we say serere bella, serere certamina. id est
+mouere lites & puguas. 
+
+
+
+Serpens, anguis. A dragon or a serpent, or a snake. 
+
+
+
+Sensus & sensum, organum sentiendi, & quod mente
+concipitur. Any of the fiue wittes, called the sen­
+ses, or that the minde conceaueth, called a
+meaning. 
+
+
+
+Sibilus, est quidam stridor oris per angustam spi­
+
+
+
+
+ritus emissionem, inter dentes fere. An hissing. 
+
+
+
+Sido, descendo ad sedendum To pitche or to lie down. 
+
+
+
+Siler, arbor quam vulgo salicem vocant. An osier,
+with this difference Montanum, it signifieth a sim­
+ple that the Apothecaries doe vse, in Latine called
+Seceli Massiliense. 
+
+
+
+Silex, lapis durissimus, vnde ignis excutitur. A flinte stone. 
+
+
+
+Sinapis, & sinapi, herba est semen ferens, tanta a­
+crimonia, vt lachrymas cieat comedenti. Sinute, 
+
+"sinute" is unidentified, possibly Dutch.
+
+
+
+
+Singultio grauiter tussio, & singultum emitto. To
+sobbe. 
+
+
+
+Sino, permitto. To suffer. 
+
+
+
+Sinus & sinum, genus vasis sinuosi. A boul or a ship 
+for milke or wine to drinke of. 
+
+
+
+Siren, monstrum maris. A Mearemaide. 
+
+
+
+Siser, herba cuius radix præcipue est in vsu. A per­
+sneppe. 
+
+
+
+Sifto, stare facio, To bring before. 
+
+
+
+Stirps, truncus vel progenies. The stocke of a tree, 
+or kindrede. 
+
+
+
+Sitis, desiderium potionis. A thirst. 
+
+
+
+Syndon, velum subtilissimum. Sendall. 
+
+
+
+Synodus, conuentus. A councell congregate. 
+
+
+
+Soboles, successio. An ofspringe. 
+
+
+
+Socrus, vxoris vel mariti mater. A mother in lawe. 
+
+
+
+Sodalis, eiusdem sortis socius. A felowe. 
+
+
+
+Sol, qui Phœbus dicitur. The Sunne. 
+
+
+
+Soleo, suctus sum. To be wount. 
+
+
+
+Solium, sella regia, in qua reges ius dicentes sede­
+bant. A throne or chaier of state. 
+
+
+Soluo, quod ligatum erat dissoluo, ac enodo. To loose. 
+
+
+
+Somnus, sopor quies. Sleepe. 
+
+
+
+Sono, sonum facio. To sownde. 
+
+
+
+Sorbeo, delutio quicquam molle. To suppe. 
+
+
+
+Soror, notum est. A Syster. 
+
+
+
+Spargo, late proijcio, ac passim iacto. To sparkle or 
+sprinkle. 
+
+
+Species, effigies, aromata, genus, visio. A forme, spice, 
+the kinde of a thing, or an apparaunte. 
+
+"apparaunte" bears a sense that is not obvious in the OED. 
+
+
+
+
+Specio, video. To see. 
+
+
+
+Specus, spelunca, vnde spectare licet. A denne to a­
+waite a praie. 
+
+
+
+Splen, lien, viscus quoddam. The mealte. 
+
+
+
+Sperno, despicio, contemno. To despise. 
+
+
+
+Spinus, agrestium prunorum arbor, A Sloe tree. 
+
+
+
+Spondeo, sponte promitto. To promise, and some­
+time to betroth. 
+
+
+
+Sponsalia, promissio siue stipulatio futurarum nup­
+tiarum. Betrothing with conditions taken. 
+
+
+
+Spontis, natruæ & ingenij proprij. Of nature and owne disposition. 
+
+
+
+Statuo, pono, colloco, erigo, To place, to sette vp, 
+somtime to decree and appointe, somtime to dedicate 
+and set before. 
+
+
+
+Sterno, proijcio in terram To throw down or to spreade. 
+
+
+
+Sterto, dormio, & somnum altum dormiendo capio 
+To sleepe till we snorte. 
+
+
+
+Stipis, & stipes, pecuniæ genus quod per capita col­
+ligere solent. A money gathered by the polle for
+the vse of the Gods, or for the poore, and therefore it
+signifieth also a rewarde or a profite. 
+
+
+Stirps, origo, progenies, soboles, A stock, a tribe, 
+a descent, and somtime it is the bodie of a tree, idem
+quod truncus. 
+
+
+Sto, erectus sum, vel manco. To stande. 
+
+
+
+Strepo, sonum facio. To make a noise. 
+
+
+
+Strido, strepitum edo, To make a noise, a wissinge or
+a crekinge. 
+
+
+
+Strideo, facio stridorem, sonum violentum. To make
+a great noise, or to gnashe with teeth. It is applied
+also to wheeles, to dore hookes, to serpentes, to the 
+Sea, and such other thinges.
+
+
+Stringo, premo, arcto. To make straite, to pul, som­
+time to strike. 
+
+
+
+Struo, To builde, to pile vppe, and somtime to ende­
+uoure, and to go about, or to sette in aray. 
+
+
+
+Stultitia, imprudentia, stoliditas. Foolishenesse. 
+
+
+
+Suadeo, hortor ad id quod intendo. To counsell. 
+
+
+
+Suber, genus ligni quod nautis vtile est vt super
+natent retia. A corke tree. 
+
+
+
+Sublego, furto aliquid surripio. Privily to lese away. 
+
+
+
+Suboleo, leuiter oleo, siue adoratus sensu leui­
+ter percipio, To sauer or to smell a thinge a little, 
+and by translation to be espied, and to be smelled out. 
+
+
+
+Suffero, sustineo, patior. To susteine, or abide. 
+
+
+
+Suesco, soleo. to be accustomed 
+
+
+
+Sugo, spiritu attraho succum. To sucke. 
+
+
+
+Sulmo, oppidum in Brutijs. A towne. 
+
+
+
+Sum, To be. 
+
+
+
+Sumo, multum, & pœne nimium mihi. To take. 
+
+
+
+Supellex, res domestica. Householde stuffe. 
+
+
+
+Supplico, humiliter & cum reuerentia precor. To 
+entreate. 
+
+
+
+Suppetiæ, auxilium, subsidium. Aide, helpe, succour 
+
+
+
+Surgo, erigo me, To arise, somtime to springe or to
+growe, or increase. It is also to arise by little and
+little, as thinges do in buildinge. 
+
+
+Sus, animal sordidum. A Boare, Sowe, or Hogge. 
+
+
+T.
+
+Taceo, sileo, non loquor. To keepe silence. 
+
+
+
+Tædet, pertæsum est, displicet. It yrketh or warieth 
+
+
+Tænarus, locus vmbrosus in radice Malex, pro­
+montorij Laconi iuxta Spartam ciuitatem, in
+quo quia hiatus magnus est, & strepitus quasi
+progredientum sentitur, dixerunt veteres per
+hunc esse descensum ad inferos. A promontorie
+in Laconia, wherein is an entraunce to go downe
+to Helle. 
+
+
+
+Tagus, fluuius Lusitani&ecedil;, habens arenas aurear. A
+
+
+
+
+certaine riuer in Portingale. 
+
+
+
+Talio, vindicta, hostimentum Auengement, or like
+for like. 
+
+
+
+Talpa, animal captum oculis, muri simile. A Moule or Want. 
+
+
+Tango, percutio. To tutche 
+
+
+
+Tartarus, demissior inferni locus. Helle. 
+
+
+
+Tantundem, &ecedil;que tantum. As muche. 
+
+
+
+Tapes vel tapetum vel tapete, id est panni depicti
+regimen, mire pictum varijs coloribus. A carpet 
+or cloth of Arase. 
+
+
+
+Taygetus, mons in Laconide, Baccho sacer, sub quo
+Sparta & Amiclæ An hille in Laced&ecedil;monia,
+where Sparta and Amiclæ the cities doe stande. 
+
+
+
+Teges, vile stragulum, matta scirpea. A matte. 
+
+
+
+Thebæ, nomen quarundam vrbium. the name of a 
+citie in Egypte, and of an other in Boætia. you 
+shall finde also in Authors Thebe and Theba. 
+
+
+
+Thermæ, loca aquas habentia, aut natur&ecedil; sponte
+calentes, aut fornace calefactas fundendi lauan­
+diue vsibus seruata. Whoate bathes. 
+
+
+
+Temno, sperno. To dispise 
+
+
+
+Tempe, pulcherrimus ager in Thessalia, quem Peneus
+alluit. A very faire fielde in Thessalia most plea­
+saunt to beholde, and therfore appellatiuely it maye
+be vsed for a place of delite, as Paradise and Eli­
+sium is. There is also Tempe in Bœotia, called
+Temnesia Tempe, another in Sicile named for
+difference Helorix. The firste be called Thessala
+Tempe. 
+
+"appellatively" antedates the earliest OED citation (1613).
+
+
+
+
+Tendo, expando. To stretche and to bende. 
+
+
+
+Teneo, apprehendo. To holde. 
+
+
+
+Tepeo in medio inter tepidum & frigidum sum, To be, warme. 
+
+
+
+Tepesco, tepidus flo. To wexe hoate. 
+
+
+
+Ternio, numerus ternarius. . The three. 
+
+
+
+Tero, comminuo, consumo, tundo. To weare by dimi­
+nishinge. 
+
+
+
+Tesqua, loca ædita, aspera.  
+
+
+
+Teucrus, Teucer, nomen proprium Troianorum re­
+gis. A name of a certaine kinge of Troie. 
+
+
+
+Trado, in potestatem alterius transfero. To deliuer
+vnto a mother. 
+
+
+
+Tros, nomen viri. A Troiane. 
+
+
+
+Testis, qui vel qu&ecedil; testimonium profert. A witnes,
+man or woman. 
+
+
+
+Texo, telam struo ac paro. To weaue. 
+
+
+
+Tignus, tignum, trabs qua varie disposita domus
+extruitur. A rafter
+
+
+
+Tonitrus & tonitru, nubis ict&ecedil; ceu potius dirup­
+t&ecedil; sonus. Thunder. 
+
+
+
+Torqueo, To writh, to wreaste, to winde or turne a­
+bout, to gouerne, to torment, to spinne, to vexe and tro­
+ble, to whurle, &c. 
+
+
+
+Tot, So many, or many. 
+
+
+Thorax, pectus, & pectoris munimentum. The breast 
+and breastplate. 
+
+
+
+Thrax, vir Thraci&ecedil;. A Thraciane. 
+
+
+
+Thus, incensum, libamen quo deum veneremur, a­
+liquando ipsa arbor. Frankencense, and the tree. 
+
+
+
+Tibris, fluuius Itali&ecedil;  
+
+
+
+Tibur, oppidum Italiæ.  
+
+
+
+Tigris, animal velocissimum & truculentum. A
+Tigre. 
+
+
+
+Timeo, metuo. To feare. 
+
+
+
+Timeor, metuor. To be feared 
+
+
+
+Titubo, lingua vel pedibus vacillo. To stumble or 
+stammer. 
+
+
+
+Tollo, eleuo, subleuo. To lift vp, to bring vp as chil­
+dren are by nursing, or else to sley and take away. 
+
+
+
+Tondeo, crines vel lanam seco forcipe. To clippe 
+or sheare. 
+
+
+
+Tono, valde sono ac facio tonitrum. To thunder. 
+
+
+
+Torpeo, languidus sum & remissus. To be sluggishe 
+and weake. 
+
+
+
+Torquis, circulus aureus, collique ornamentum. 
+A chaine to adourne the necke. 
+
+
+
+Torreo, vro, asso. To roste. 
+
+
+
+Torrens, fluuius per pluuiam collectus A lake with
+out springe, begunne by raine. 
+
+
+
+Torres, lignum ardens vel adustum. A firebrande 
+
+
+
+Tracto, traho vel sursum traho. To pull to draw
+vp, or to handle by faire or foule meanes. 
+
+
+
+Traho, vi ad me rapio ac duco. To drawe. 
+
+
+
+Translego, legendo transcurro ac perlego. To reade
+ouer. 
+
+
+
+Tremo, commoueor, agitor. To tremble. 
+
+
+
+Tres, Three. 
+
+
+
+Tribus, progenies. A kinreade. 
+
+
+
+Tric&ecedil;, capilli pedibus pullorum Gallinaceorum
+inuoluti. Lettes or stoppes or hinderances of that,
+that chicken so vsed, could but euill go. 
+
+
+
+Triptoton, nomen quod tribus quibuscunque ca­
+sibus inflectitur. A Noune declined with three ca­
+ses. 
+
+
+
+Trudo, manibus pedibusue impello. To thrust. 
+
+
+
+Tu, Thou. 
+
+
+
+Tuber, ditum a tumendo, & priore longa, terræ callus. A swellinge in any thinge, a musshrim, or 
+that whereof the puffe is. 
+
+
+
+Tucor, defendo. To defende. 
+
+
+
+Tuor, video. To see. 
+
+
+
+Tundo, decutio, pulso. To beate, or to knocke. 
+
+
+
+Tussis, vehemens spiritus eruptio, ea quæ meatum suum obstruunt excutere conantis. The coughe. 
+
+
+
+V.
+
+Vado, eo. To go. 
+
+
+
+Valeo, possum, validus ac sanus sum. To be in helth,
+or to be able. 
+
+
+
+
+
+
+Valuæ, sunt fores geminas habentes partes in se
+coeuntes. A two leafed dore. 
+
+
+
+Vannus, A vanne to wenowe corne with.
+ 
+
+
+
+Vas vadis, vadimonium. A suretie in a matter of
+death. 
+
+
+
+Vas vasis, instrumentum ad aliquid capiendum ido­
+neum. A vessell. 
+
+
+
+Vates, poeta, & qui futura prædicit. A Prophet or 
+Prophetesse. 
+
+
+
+Vber, The adiectiue signifieth plentifull, abundant, 
+copiouse. The substanctiue signifieth a pappe or a
+dugge, or an vdder, 
+and somtime it is founde for
+plentifullnesse, as Vber agri, for fertilitas agri. 
+
+
+
+Verberis, hoc non videtur defici vllo casu. vide
+verber. 
+
+
+
+Vectis, instrumentum quo clauditur ostium. A dore
+barre. 
+
+
+
+Veho, naui, plaustro, quadrupede porto. To carie. 
+
+
+
+Vello, traho, extirpo. To pull or to plucke vp. 
+
+
+
+Vendo, venundo, alieno. To sell. 
+
+
+
+Væneo, vendor. To be solde. 
+
+
+
+Venio, ad aliquem accedo. To cum. 
+
+
+
+Venter, qui a pectore ad pubem terminatur. A belly. 
+
+
+
+Venus, dea amoris, & venustatis. The Goddesse of
+loue and beautie. 
+
+
+
+Ver, anni pars temperatior. The spring time. 
+
+
+
+Verber, instrumentum longum verberandi. Anye
+thing that we beate withal as rodde, whippe, wande, 
+or other, it signifieth also the stripe. 
+
+
+Vergo, tendo, declino. To bende, to go, or to encline
+some waie. 
+
+
+
+Vermis, a vertendo, quia sese torquendo repit. A Worme. 
+
+
+
+Verna, ex ancilla domi natus seruus. A bonde man
+borne of a bonde woman at home. it is vsed adie­
+ctiuely for that that is domesticall or not straunge,
+as. vinum verna. 
+
+
+
+Verres, porcus non castratus. An Hogge. 
+
+
+
+Verro, purgo, traho. To swepe. 
+
+
+
+Verto, muto, voluo. To tourne or to chaunge. 
+
+
+
+Veruex, mas inter oues, cui adempti sunt testiculi. A Weather. 
+
+
+
+Vescor, vtor cibo, & pasco. To eate. 
+
+
+
+Vesper, idem quod Hesperus. It is called also ves­
+perugo, and it is taken for the euening tide. 
+
+
+
+Veto, prohibeo. To forbidde. 
+
+
+
+Vicem, vicissitudinem. An interchaunge when turnes be. 
+
+
+
+Video, oculis, intueor. To see. 
+
+
+
+Vieo, ligo seu inflecto, To binde, or to bowe, Ther
+of Vietores be called cuppers, qui vasa vinaria
+religant 
+
+
+
+Vigil, qui vel quæ vigilat. A watcher, man or woman 
+
+
+
+Vincio, ligo. To binde. 
+
+
+
+Vinco, supero. To ouercome. 
+
+
+
+Vindex, qui vel qu&ecedil; vindicat. An auenger Man or
+Woman. 
+
+
+
+Vir notum est. A Man. 
+
+
+
+Virgilius, poeta. A Poets name. 
+
+
+
+Virgo, quæ non est passa virum. A Virgine. 
+
+
+
+Vitrum, materia translucida, quæ ex arena & cinere 
+fit Glasse. 
+
+
+
+Virtus, ars recte beneque viuendi. Vertue or great
+power. 
+
+
+
+Virus, venenum, & grauis odor. Poison, or stenche. 
+
+
+
+Vis, virtus, robur, fortitudo, natura, violentia. 
+Strength, power, nature, violence. 
+
+
+
+Viso, eo ad videndum. To go to see. 
+
+
+
+Viscum, vel viscus. i. glutinum ad auecupium. Birde
+lime. 
+
+
+
+Viuo, vitam ago. To liue. 
+
+
+
+Vlciscor, vindico. To auenge. 
+
+
+
+Vnguis, duricies digitorum, tam in auibus cæteris­
+que bestijs, quam in homine, A naile, an houe, and
+a talaunt. 
+
+
+
+Vocito, frequenter voco. Often to call. 
+
+
+
+Volo, as, To flee, or to go a pase, as Nauis volati
+Fama volat. But volo, vis, is to will or to bee
+willinge. 
+
+
+
+Voluo, verto. To roulle. 
+
+
+
+Vomis vel vomer, nomen habet quod terram vo­
+mat. The plowe teathe. 
+
+
+
+Vomo, per os eijcio. To vomite or to parbrake. 
+
+
+
+Vrgeo, premo, compello. To thrust. 
+
+
+
+Vro, ardore aut frigore nonnunquam alia vilædo 
+and by translation to hurte or to greue not. 
+
+
+
+Vtor, vsum rei habeo. To vse. 
+
+
+
+Vulgus, multitudo ignobilis. The base and
+common
+people. 
+
+
+
+Vulpes, animal astutum. A Foxe or a Fixen. 
+
+
+
+Vxor, viri coniunx. A Wife. 
+
+
+
+FINIS INTERPRETATIONIS
+omnium Nominum & Verborum
+Grammatices Regiæ.
+
+
+
+
+
+

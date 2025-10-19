@@ -1,0 +1,1419 @@
+
+
+
+
+A DICTIONARY,
+
+Alphabetically explaining the abstruse 
+Words and Phrases that are used in 
+Typography. Which also may serve as 
+an Index to direct to the most material 
+Concerns contained in this Volumn.
+
+Though I give you a Dictionary of so many 
+Words and Phrases as are mentioned in these 
+Exercises, yet I do not exhibit this as a Di­
+ctionary so perfect, that all the obstruce 
+Words and Phrases used among Printers, Letter­
+cutters and Founders are here exposed; for Words 
+and Phrases many times offer themselves either as 
+Discourse or Contemplation occurs: Therefore such 
+Words and Phrases as have escaped my Considerati­
+on, will, I hope, be discovered by some Printer, or 
+others, that may have a kindness for Posterity; not 
+only in this Trade, but in all Trades and Faculties 
+whatsoever: That so a Dictionary may in time be 
+compleated, that may render so great a number of 
+Words used in England by English-men intelligible; 
+which now for want of a proper Repository to store 
+them in, seem not only Aliens to our Nation, but 
+barbarous to our understandings.
+
+
+
+
+
+A
+
+Abreviations  are Characters, or else marks on Let­
+ters, to signifie either a Word or Syllable. & is the 
+Character for And, ye is The abreviated, yt is That
+abreviated; and several other such. Straight stroaks 
+over any of the Vowels abreviates m or n. They 
+have been much used by Printers in Old Times, to 
+Shorten or Get in Matter; but now are wholly left 
+off as obsolete.I've removed  lexeme="and(d)" lexeme="that(r)" from the closing form tag and placed them in the xpln tag. MP
+
+Accented Letters  are much used in Latin Authors, 
+and more in Greek. The Vowels are only accented, 
+and are called Grave, thus accented à; Acute, thus 
+accented á; Circumflex, thus accented â; and Deere­
+cis, thus accented ä.
+
+Accents  are Dashes or Marks over the Vowels.
+
+Air-hole.  See § 18. ¶ 1. Vol. 2.
+
+Ascending Gage.  See § 12. ¶ 5. Vol. 2.
+
+Ashes.  Letter-Founders call the Skimmings of their 
+Mettle, and the Sweepings of their House Ashes; 
+and save both, to send to the Refiners; who with 
+their fierce Fire draw all the Mettle out of the Ashes. 
+See Fat Ashes. See Lean Ashes.
+
+Ash-hole.  See § 18. ¶ 1. Vol. 2.
+
+Assidue  is Thin Brass Plate, such as adorns Bar­
+tholomew-Fair Hobby Horses: Founders use it to 
+Underlay the Body, or the Mouth-piece, &c. of their 
+Mold, if it be too Thin. See § 16.
+
+
+B
+
+Back of a Composing-stick.  See § 9. ¶ 4. Vol. 2.
+
+Backside of the Form  is the underside that touches 
+upon the Correcting-stone or Press-stone.
+
+Bad Copy.  See § 24. ¶ 4.  Vol. 2.
+
+
+
+Bad work.  Any Fault at the Case, or Press, or at 
+the Furnace, or at the Dressing-block, &c. is in Work­
+mens Language called Bad Work.
+
+Bake.  See § 22. ¶ 10. Vol. 2.
+
+Balls.  See § 24. ¶ 10. Vol. 2.
+
+Ball-knife.  An old blunt-edg'd Knife, that Press­
+men lay by, to scrape their Balls with.
+
+Ball-leathers.  See § 24. ¶ 10. Vol. 2.
+
+Ball-Nails.  The Nails that Ball-leathers are Tackt 
+to the Ball-stocks with.
+
+Ball-stocks.  See § 11. ¶ 21. Vol. 2.
+
+Balls Take.  See § 11. ¶ 21. Vol. 2.
+
+Beak.  See § 12. ¶ 2. Vol. 2.
+
+Beam.  See § 12. ¶ 4. Vol. 2.
+
+Beard of a Letter,  is the outer angle of the Square 
+Shoulder of the Shank, which reaches almost up to 
+the Face of the Letter; and is commonly scraped 
+off by the Founder: As in § 2. ¶ 2. Vol. 2.
+
+Beard-Gage.  See § 13. ¶ 4. Vol. 2.
+
+Bearer.  See § 4. & § 24 ¶ 7. Vol. 2.
+
+Beat.  See § 24. ¶ 13. Vol. 2.
+
+Beat Fat.  If a Press-man Takes too much Inck 
+with his Balls, he Beats Fat. The Black English Faced 
+Letter is generally Beaten Fat.
+
+Beat Lean,  is to Take but little Inck, and often: 
+All Small Letter must be Beaten Lean.
+
+Bed.  See § 24. ¶ 2. Vol. 2.
+
+Benvenue.  See Ancient Customs. Vol. 2.
+
+Bite.  See § 24. ¶ 7.  Vol. 2.
+
+Blankets.  Woollen Cloath, or White Bays, to lay 
+between the Tympans.
+
+Blocks.  See § 20. ¶ 3. Vol. 2.
+
+Block-Groove.  ibid.
+
+
+
+Body.  See § 1. ¶ 2. & § 15. ¶ 1. Vol. 2.
+
+Botching Matrices.  See § 17. ¶ 3. Vol. 2.
+
+Bottom line.  See § 14. ¶ 2. Vol. 2.
+
+Bottom of the Matrice.  See § 17. ¶ 1. Vol. 2.
+
+Bottom Plate.  See § 15. ¶ 1. Vol. 2.
+
+Bow.  See § 15. ¶ 1. Vol. 2.
+
+Brace,  is a Character Cast in Mettle thus marked 
+{brace} The Compositer is to have these Cast of several 
+Breadths, viz. to several numbers of Lines of a de­
+signed Body (most commonly of Pica Body) that they 
+may hook in or Brace so many Lines as his Copy 
+may shew him; as at Charge is a Brace of four 
+Lines. See also § 24. ¶ 1. Vol. 2.
+
+Brass-Rules.  See § 2. ¶ 2. Vol. 2.
+
+Brayer  is a round Wooden Rubber, almost of the 
+fashion of a Ball-stock, but flat at the bottom, and not 
+above three Inches Diameter: It is used in the Inck­
+Block to Bray or Rub Inck.
+
+Break,  a piece of a Line. Also the Mettle that is 
+contiguous to the Shank of a New Cast Letter: This 
+Break is formed in the Mouth-piece of the Letter-mould, 
+and is called a Break, because it is always broke 
+from the Shank of a Letter.
+
+Breaking off  is breaking the Break from the Shank 
+of the Letter. See § 19. ¶ 3. Vol. 2.
+
+Brevier.  See § 2. ¶ 2. Vol. 2.
+
+Broad-side,  a Form of one full Page, Printed on one 
+side of a whole Sheet of Paper.
+
+Broken Letter.  By broken Letter is not meant the 
+breaking of the Shanks of any of the Letters, but the 
+breaking the orderly Succession the Letters stood in 
+in a Line, Page, or Form, &c. and mingling the Let­
+
+
+
+ters together, which mingled Letters is called Py.
+
+Bur.  See Rag.
+
+
+C
+
+Cannon.  See § 2. ¶ 2. Vol. 2.
+
+Card.  When several Bodies of Letter are Set in a 
+Page, Compositers to Justifie that Page to an exact 
+Length, put a Card to some White-line, or other 
+Break and Lengthen out the Page the thickness of a 
+Card. And Press-men also use a Card for an un­
+derlay. See § 22. ¶ 4. &c. § 24. ¶ 7.
+
+Cards.  About a Quire of Paper, which Press-men 
+use to Pull down the Spring or rising of a Form, 
+which it is many times subject to by hard Locking-up. 
+See § 24. ¶ 4.
+
+Carriage,  is a part of the Press. For which See § 10. 
+¶ 9. Vol. 2. It is also a part of the Letter-Mold: For 
+which See § 15. ¶ 3. Vol. 2.
+
+Case.  See § 3.  Vol. 2.
+
+Case lies.  See § 22. ¶ 1.
+
+Case is full,  viz. a Case full of Letter, wanting no 
+Sorts.
+
+Case is Low.  When a Case grows empty, Compo­
+siters say the Case is Low.
+
+Case Stands still.  When the Compositer is not at 
+Work at his Case, it is said, The Case stands still.
+
+Cassie Paper.  See § 25. ¶ 5. Vol. 2.
+
+Cast,  is to Cast Letter. See § 19. ¶ 1. Vol. 2.
+
+Cast off Copy.  See § 22. ¶ 9.  Vol. 2.
+
+Catch of the Bar.  See § 11. ¶ 11. Vol. 2.
+
+Chappel.  See Customs. 
+
+
+
+Charge,  is to fill 	
+Paper with great Pages. 
+a Page with long and many Lines.
+a Line with many Letters.
+a Pot with Stubs and Antimony.
+
+Chase.  See § 9. ¶ 6. Vol. 2.
+
+Cheeks.  is a part of the Press; for which See § 10. 
+¶ 2.  Vol. 2. and part of the Dressing-block-groove. For 
+which See § 20. ¶ 3. Vol. 2.
+
+Choak.  If a Form be not Washt in due time, the 
+Inck will get into the Hollows of the Face of the 
+Letter: And that getting in of the Inck is called 
+Choaking of the Letter, or Choaking of the Form.
+
+Claw of the Sheeps-foot.  See § 11. ¶ 20. Vol. 2.
+
+Clean Proof:  When a Proof has but few Faults in it, 
+it is called a clean Proof.
+
+Close Matter.  Matter with few Breaks or Whites.
+
+Close Work.  ibid.
+
+Colation Books.  See § 25. ¶ 4. Vol. 2.
+
+Come.  When the Face and Shank of a Letter is 
+Cast perfect, Founders say, It Comes well; if unper­
+fect they say, It does not come, or It comes not well.
+
+Come Down.  the Toe of the Spindle is said to Come 
+down by Pulling the Bar: So is the Bar when it is 
+Pull'd near the hither Cheek: Also, the Press-man is 
+said to Come down the Form with his Balls: For which 
+See § 24. ¶ 13. Vol. 2.
+
+Companion.  See § 24. ¶ 15. Vol. 2.
+
+Comes off:  A Form that receives a good Impression, 
+Comes off well, if a bad Impression, it Comes off ill, or 
+it Comes not well off: Also a phrase used in Gathering 
+of Books; for a Heap that is Gathered off is said to 
+Come off. See § 25. ¶ 3. Vol. 2.
+
+
+
+Composing Rule.  See § 24. ¶ 4. Vol. 2.
+
+Compositer.  He that Composes or Sets the Letters.
+
+Composing-stick.  See § 9. ¶ 4. Vol. 2.
+
+Copy-money.  See Customs.
+
+Cording-quire.  See § 25. ¶ 5. Vol. 2.
+
+Correct.  When the Corrector reads the Proof, or the 
+Compositer mends the Faults he markt in the Proof, 
+they are both said to Correct; the Correcter the 
+Proof, the Compositer the Form.
+
+Correcting-stone.  See § 6. Vol. 2.
+
+Corrections,  the Letters markt in a Proof are call'd 
+Corrections. See § 22. ¶ 8. Vol. 2.
+
+Counter Punch.  See § 13. ¶ 2. Vol. 2.
+
+Counting off Copy.  See § 22. ¶ 9. Vol. 2.
+
+Coyns.  See § 8. Vol. 2.
+
+Cramp Irons.  See § 11. ¶ 15. Vol. 2.
+
+Cross Long, Short.  See Chase.
+
+Cull Paper.  See § 25. ¶ 5. Vol. 2.
+
+Cut the Frisket.  See § 24. ¶ 7. Vol. 2.
+
+
+D
+
+Dance.   See § 22. ¶ 7. Vol. 2.
+
+Dele.   See § 23. Vol. 2.
+
+Destribute.   See § 22. ¶ 3. Vol. 2.
+
+Destributing-stick.  See ibid.
+
+Devil.  The Press-man sometimes has a Week-Boy 
+to Take Sheets, as they are Printed off the Tympan: 
+These Boys do in a Printing-House, commonly black 
+and Dawb themselves; whence the Workmen do Jo­
+cosely call them Devils; and sometimes Spirits, 
+and sometimes Flies.
+
+Direction,  the word that stands alone on the 
+Right Hand in the bottom Line of a Page.
+
+
+
+Direction-line.  The Line the Direction stands in.
+
+Double Letter.  æ œ &stlig; &shlig;, and several others Cast 
+on one Shank are called Double Letters: &longs; and f have 
+several Ascending Letters joyned to them, because 
+their Beaks hanging over their Stems would (were 
+they not Cast on one Shank) ride upon the tops of the 
+Stems of the adjoyning ascending Letter.
+
+Double.  A Sheet that is twice Pulled and lifted 
+never so little off the Form after it was first Pulled, 
+does most commonly (through the Play of the Joynts 
+of the Tympan) take a double Impression: This Sheet 
+is said to Double. Or if the Press-man Run in so, as 
+the Fore-side of the Plattin Print with the First Pull 
+into part of the Second Pull, or the hind edge of the 
+Plattin Print with his Second Pull into part of his 
+First Pull; either of these twice Printing is called 
+Doubling. Doubling also happens through the loose 
+Hanging of the Plattin, and through too much play 
+the Tennants of the Head may have in the Mortesses 
+of the Cheeks, and indeed through many Wearings 
+and crasienesses that often happens in several parts 
+of the Press. See § 24.¶ 18. Vol. 2.
+
+Dress a Chase, or Dress a Form,  is all one. It is 
+to fit the Pages and the Chase with Furniture and 
+Quoins. See § 22. ¶ 7.  Vol. 2.
+
+Dress Letter.   See § 21. ¶ 1. Vol. 2.
+
+Dressing Block.   See § 20. ¶ 3.  Vol. 2.
+
+Dressing Block-groove.  ibid.
+
+Dressing Hook.   See § 20. ¶ 1. Vol. 2.
+
+Dressing Knife.   See § 20. ¶ 4. Vol. 2.
+
+Dressing Sticks.   See § 19. ¶ 6. Vol. 2.
+
+Drive out.  When a Compositer Sets Wide, he is said 
+
+
+
+to Drive out or Run out. In Founding, If Letter be 
+Cast too Thick in the Shank it Drives out, or if it be 
+Cast too Thick in any part of the Shank, as the Head, 
+the Foot, the sides at Head or Foot, or Body at Head 
+or Foot: They say, It Drives out at Head, It Drives 
+out at Foot, &c.
+
+
+E
+
+Empty Case.   See § 22. ¶ 3. & See Case is Low.
+
+Easie Pull.   See § 24. ¶ 5. Vol. 2.
+
+Easie Work.   See § 22. ¶ 4. And Great Letter and 
+a Small Form the Press-man calls Easie Work.
+
+Empty Press.  A Press that Stands by, which no 
+Workman Works at: Most commonly every Print­
+ing House has one of them for a Proof-Press: viz. to 
+make Proves on.
+
+English Body.   See § 1. ¶ 2. Vol. 2.
+
+English Face.  Plate 26. 27. are English Face Letters.
+
+Even Page.  The First Page of a Sheet or Form is 
+called an Odd Page, but the Second, Fourth, Sixth, 
+or any other even numbred Page is called an Even 
+Page. See § 22. ¶ 7. Vol. 2.
+
+
+F
+
+Face of a Letter,   See § 13. ¶ 13. Vol. 2.
+
+Face of a Page, or Form.  The Superficies of a Page 
+or Form, where the Faces of every Letter lies in the 
+same Plain.
+
+Face-Gage.   See § 12. ¶ 5. Vol. 2.
+
+Face of a Matrice.   See § 17. ¶ 1. Vol. 2.
+
+Fat ashes.  Founders call their Ashes Fat, if they 
+are considerably Heavy, because then they have 
+much Mettle in them.
+
+Fat.  See Beat Fat.
+
+
+
+Fat Face, or Fat Letter,  is a broad Stemmed 
+Letter.
+
+Female Gage, Screws, &c.  The Hollow Gage, or 
+Hollow Screw that receives its Match Gage or Screw, 
+&c.
+
+First.   See § 24. ¶ 15. Vol. 2.
+
+First Form.  The Form the White Paper is Printed 
+on, which generally by Rule ought to have the First 
+Page of the Sheet in it.
+
+First Page.   See § 22. ¶ 7. Vol. 2.
+
+First Pull.   See § 11. ¶ 16. & § 24. ¶ 7. 
+Conside­
+rations 8 & § 24. ¶ 15. Vol. 2.
+
+Flat-Gage.   See § 12. ¶ 3. Vol. 2.
+
+Flat Table.   See § 12. ¶ 8. Vol. 2.
+
+Fly.  See Devil.
+
+Follow.  viz. See if it follows, is a Term used as well 
+by the Corrector as by the Compositer and Press-man. 
+It is used by the Corrector and Compositer when they 
+examine how the beginning Matter of a succeeding 
+Page agrees with the ending Matter of the precedent 
+Page: And how the Folio's of those Pages properly 
+and numerically follow and succeed one another, 
+Lest the Pages should be Transposed. But the Press­
+man only examines that the Folio and beginning word 
+of the Second Page, and Signature of the First and 
+Third Page (when the Reteration is on the Press) fol­
+lows the Folio and Direction of the First Page, and 
+the Signature of the Third Page follows the Signature 
+of the First Page, orderly according to the Volumne, 
+lest the Form should be laid wrong on the Press.
+
+Foot of the Letter.  The Break-end of the Shanck of 
+a Letter.
+
+
+
+Foot-line.   See § 14. ¶ 12. Vol. 2.
+
+Foot of a Page.  The bottom or end of a Page. See 
+§ 22. ¶ 7.
+
+Foot-Step.   See § 11. ¶ 21 & § 24. ¶ 7. Con­
+siderations 11. Vol. 2.
+
+Foot-stick.   See § 8. Vol. 2.
+
+Form.  The Pages when they are fitted into a Chase.
+
+Foul Proof:  When a Proof has many Faults markt 
+in it.
+
+Fount.  Is the whole number of Letters that are Cast 
+of the same Body and Face at one time. See § 2. ¶ 2.
+Vol. 2.
+
+Frisket.   See § 10.
+
+Froze out.  In Winter when the Paper is Froze, and 
+the Letter Froze, so as the Workmen cannot Work. 
+They say, They are Froze out.
+
+Fryer.  When the Balls do not Take, the Un-taking 
+part of the Balls that touches the Form will be left 
+White, or if the Press-men Skip over any part of the 
+Form, and touch it not with the Balls, though they 
+do Take, yet in both these cases the White places 
+is call'd a Fryer.
+
+Full Form or Page.  A Form or Page with few or 
+no Breaks or White-lines.
+
+Full Press.  When two Men Work at the Press. It 
+is called a Full Press.
+
+Furnace.   See § 18. Vol. 2.
+
+Furnace open, or Wind Furnace.   See § 18. ¶ 2.
+Vol. 2.
+
+Funnel.   See § 18. Vol. 2.
+
+Furniture.   See § 8. Vol. 2.
+
+
+
+
+G
+
+Gage.  Gages mentioned in this Volumne have an 
+adjunct Name, as Flat Gage, Joynt Gage, Italick 
+Gage, Long Gage, Male Gage, Short Gage, Standing 
+Gage, Steel Gage, which See respectively.
+
+Galley.   See § 5. Vol. 2.
+
+Galley-Slave.  See the Customs. 
+
+Gallows.   See § 10. Vol. 2.
+
+Garter.   See § 11. ¶ 14. Vol. 2.
+
+Gather Books.   See § 25. ¶ 3. Vol. 2.
+
+Geat,  is the little Spout or Gutter made in the Brim 
+of Casting Ladles.
+
+Get in.  Matter is Got in in a Line, Page, Sheet or 
+Book, if Letter be Thinner Cast than the Printed 
+Copy the Compositer Sets by. Or Matter is Got in if 
+the Compositer Sets Closer: Or if he Widens his Mea­
+sure; or puts more Lines in a Page. See a Line.
+
+Girts.   See § 11. ¶ 21. Vol. 2.
+
+Good Colour.  Sheets Printed neither to Black or 
+too White.
+
+Good of the Chappel.  Forfeitures and other Chappel 
+Dues are Collected for the Good of the Chappel, viz. 
+to be spent as the Chappel approves.
+
+Good Work,  is called so in a twofold sense: The 
+Master-Printer calls it Good Work when the Composi­
+ters and Press-men have done their duty; and the 
+Work-men call it Good Work, if it be Light Easie 
+Work, and they have a good price for it.
+
+Go up the Form.   See § 24. ¶ 13. Vol. 2.
+
+Great Cannon.   See § 2. ¶ 2. Vol. 2.
+
+Great Numbers.  See Lay on. Above 2000 Prin­
+ted on one Sheet are accounted Great Numbers.
+
+
+
+Great Primmer.   See § 2. ¶ 2. Vol. 2.
+
+Gutter-stick.   See § 8. Vol. 2.
+
+
+H
+
+Hag.   See § 15. ¶ 1. Vol. 2.
+
+Half a Line.  When Letter Drives out or Gets in in 
+the Body, in a number of Lines, Founders say, It 
+Drives out or Gets in Half a Line, a whole Line, a quarter 
+of a Line, &c. viz. Half a Body, a whole Body, a quar­
+ter, &c. of a Body.
+
+Half a Press.  When but one Man Works at the 
+Press, It is called Half a Press.
+
+Half Work.  He that Works but three days in the
+Week, does but Half Work.
+
+Hammer end of a Punch.   See § 13. ¶ 13. Vol. 2.
+
+Hangs.  See Letter Hangs. & § 22. ¶ 4. Vol. 2.
+
+Hang the Plattin.   See § 24. ¶ 4. Vol. 2.
+
+Hang up Paper.   See § 25. ¶ 1. Vol. 2.
+
+Hard Inck.  Inch very well Boyled. See § 11. ¶ 23.
+Vol. 2.
+
+Hard Justifying.   See § 22. ¶ 4. Vol. 2.
+
+Hard Pull.   See § 24. ¶ 5. Vol. 2.
+
+Hard Work.   See § 22. ¶ 4 And small Letter and 
+a Large Form, Press-men call Hard Work.
+
+Head.   See § 10. ¶ 5. Vol. 2.
+
+Head Line.  See § 14. ¶ 2. Vol. 2.
+
+Head of a Page.  The top or beginning of a Page. 
+See § 22. ¶ 7. Vol. 2.
+
+Head-stick.   See § 8. Vol. 2.
+
+Heap.  So many Reams or Quires as is Set out by 
+the Warehouse-keeper- for the Press-man to Wet, is 
+call'd a Heap: But then it is call'd a Dry Heap, till 
+the Press-man have Wet it, and then it is indeed called 
+a Heap. See also § 25.
+
+
+
+Heap holds out.  When it hath its full intended 
+Number of Sheets.
+
+Heavy Work.  See Hard Work.
+
+Heighth.  See High against Paper.
+
+High against Paper.  If a Punch be not Sunk deep 
+enough into the Matrice, the Letter Cast will not 
+stand high enough against Paper. And if it be Sunk 
+too deep into the Matrice, the Letter Cast will be 
+too High against Paper. See § 17. ¶ 2. Vol. 2.
+
+Holds out, or Holds not out.  These Terms are 
+applicable to the Quires of White-paper, to Wrought­
+off Heaps, to Gathered Books, and to sorts of Letter 
+&c. If Quires of White Paper have twenty five 
+Sheets a piece in them, they say, The Paper holds 
+out five and twenties. Of Wrought off Heaps, the 
+Heap that Comes off first in Gathering is said, Not to 
+Hold out. Of Gathered Books, if the intended num­
+ber of perfect Books are Gathered, they say the Im­
+pression Holds out: But if the intended number of 
+Perfect Books cannot be Gathered off the Heaps, they 
+say the Impression Holds not out. And so for Sorts of 
+Letter, either when it is in the Founding House, or 
+in the Printing House.
+
+Hole.  By a Hole, in Printers dialect, is meant and 
+understood a place where private Printing is used, 
+viz. the Printing of Unlicensed Books, or Printing 
+of other mens Copies. Many Printers for Lucre of 
+Gain have gone into Holes, and then their chief 
+care is to get a Hole Private, and Workmen Trusty 
+and Cunning to conceal the Hole, and themselves.
+Holy-days. See Customs.
+
+Hollows of a Letter.  The Sinking in of the Coun­
+
+
+
+ter-Punch into the Punch makes these Hollows, so does 
+Sculping into the Face of the Punch. See § 9. ¶ 4.
+Vol. 2.
+
+Hooks.  See Hags.
+
+Horse.  The Form or Bench Press-men set the Heaps 
+of Paper on. See also Customs.
+
+Horse-flesh.  If any Journeyman set down in his 
+Bill on Saturday Night more Work than he has done, 
+that Surplusage is called Horse-flesh: And he abates 
+it in his next Bill.
+
+Hose.   See § II. ¶ 14. Vol. 2.
+
+Hours.  Press-men reckon their Work by Hours, 
+accounting every Token to an Hours Work: And 
+though it be the same effectually with Tokens, yet 
+they make their prizes of different Work by the 
+Hour; and it passes current for a Token. If two Men 
+Work at the Press ten Quires is an Hour; if one 
+Man, five Quires is an Hour.
+
+
+I
+
+Jaws.   See § 15. ¶ 6. Vol. 2.
+
+Imperfections of Books.   See § 25. ¶ 3. Vol. 2.
+
+Imperfections of Letters.  When the Founder has not 
+Cast a proportionable number of each sort of Letter, 
+the wanting Letters are called Imperfections, as making 
+the rest of the Fount unperfect. See Sorts.
+
+Impose.   See § 22. ¶ 7. Vol. 2.
+
+Impression holds out.  See Holds out.
+
+In-Page.  See Out-Page.
+
+Insertion.  If the Compositer have left out Words or 
+Lines, the Corrector inserts it, and makes this mark 
+&highcaret; where it is Left out , which is called the mark for 
+Insertion. See § 23. Vol. 2.
+
+
+
+Joynt flat Gage.   See § 14. ¶ 4. Vol. 2.
+
+Joynts.   See § 10. ¶ 9. Vol. 2.
+
+Inner Tympan.   See § 11. ¶ 10. Vol. 2.
+
+Italick Gage.   See § 12. ¶ 6. Vol. 2.
+
+Justifie a Matrice.   See § 17. ¶ 2. Vol. 2.
+
+Justifie a Mold.   See § 16 (p. 146). Vol. 2.
+
+Justifie a Stick.  viz. a Composing-stick. See § 22. ¶ 4.
+Vol. 2.
+
+
+K
+
+Keep in,  is a caution either given to, or resolved on, 
+by the Compositer, when there may be doubt of 
+Driving out his Matter beyond his Counting off; where­
+fore he Sets close, to Keep in.
+
+Keep out,  is a caution either given to or resolved 
+on, by the Compositer, when there may be doubt of 
+Getting in his Matter too fast for his Counting off: 
+Wherefore he Sets Wide, to Drive or Keep out.
+
+Kern.   See § 19. ¶ 5. Vol. 2.
+
+Kerning-Knife.   See § 19. ¶ 5. Vol. 2.
+
+Kerning-stick.   See § 19. ¶ 5. Vol. 2.
+
+Knife backt Sculptor,  is a Sculptor with a thin edge 
+on its back.
+
+Knife-file.  A file with a thin edge.
+
+Knock up Balls.   See § 24. ¶ 10. Vol. 2.
+
+Knock up Books.   See § 25. ¶ 3. Vol. 2.
+
+Knock up a Letter.  It sometimes happens with 
+old Letter, that a Letter may be worn so low that 
+it will not Print well in a Page: The Workman 
+then takes that Letter out of the Form, and holds 
+the Shank of it upon the side of the Chase, and with 
+the Head of the Shooting-stick beats lightly upon 
+the Foot of the Shank, till he have battered Mettle 
+
+
+
+enough out of the Shank, to raise it higher against 
+Paper: If it prove too high against Paper, he Rubs 
+the bottom of the Shank upon the side of the Chase 
+to rub it down: This Operation seldom happens, 
+unless another of the same sort of Letter is wanting, 
+and hard to come by: For else the Compositer will 
+bow the Letter, and pop it into a Waste Box in his 
+Case, where he puts all naughty Letters, that he 
+may not be troubled with them another time.
+
+Knot.   See § 20. ¶ 3. Vol. 2.
+
+
+L
+
+Ladles.   See § 18. ¶ 3. Vol. 2.
+
+Lay in Sheets.  When the Press-man lays Sheets 
+on the Tympan, it is stiled Laying in Sheets.
+
+Lay out Sheets.  When the Press-man takes Sheets 
+off the Tympan, and lays them on the Heap, it is 
+stiled Laying out Sheets.
+
+Lay on.  A phrase used for the Number of Books 
+to be Printed. Thus they say, There is 1000, 
+2000, 3000, &c. Laid on. See Great Numbers. See 
+Small Numbers.
+
+Lean ashes.  Founders call their Ashes Lean, if they 
+are Light; because then they have little Mettle in 
+them. See Fat Ashes.
+
+Lean.  See Beat Lean.
+
+Lean Face.  A Letter whose Stems and other 
+Stroaks have not their full width.
+
+Lean Stroaks.  The fine Stroaks in a Letter.
+
+Leather Groove.   See § 17. ¶ 2. Vol. 2.
+
+Letter-Board.   See § 7. Vol. 2.
+
+Letter Hangs.  If the Compositer has been careless 
+in Emptying his Composing-stick, so as to set the Letter 
+
+
+
+loosely down in the Galley, and they stand not per­
+fectly Square and Upright, the Letter Hangs: Or 
+if after Overrunning on the Correcting-stone he has 
+not Set his Letter in a Square position again, before 
+he Locks up, (for we may suppose when the Pages 
+are Open'd the Letter stands Loose, and more or 
+less out of Square) So then, the Matter standing 
+thus out of Square, is said to Hang. See § 22. ¶ 4, 7.
+Vol. 2.
+
+Light Work.  See Easie Work.
+
+Liner.   See § 12. ¶ 7. Vol. 2.
+
+Lining-Stick.   See § 16. ¶ 2. Vol. 2.
+
+Lock up.   See § 22. § 7. and § 21. ¶ 1. Vol. 2.
+
+Long Cross.  See Chase.
+
+Long Gage.   See § 12. ¶ 5. Vol. 2.
+
+Long Primmer.  See § 2. ¶ 2. Vol. 2.
+
+Long Pull.   See § 24 ¶ 5. Vol. 2.
+
+Loose Justifying.   See § 22. ¶ 4. Vol. 2.
+
+Low against Paper.  See Heighth against Paper.
+
+Low Case.  When the Compositer has Compos'd al­
+most all his Letters out of his Case, he says his Case 
+is Low. 
+
+Lower Case.   See § 3. Vol. 2.
+
+
+M
+
+m Thick.   See § 13. ¶ 1.  Vol. 2.
+
+Make a Measure.   See § 22. ¶ 4.  Vol. 2.
+
+Make ready the Form.   See § 24. ¶ 7.  Vol. 2.
+
+Male Gage.  The outer Gage, or outer Screw, that 
+enters or fits into its Match Gage or Screw, &c.
+
+Mallet.   See § 9. Vol. 2.
+
+Matrice.   See § 17. ¶ 1. Vol. 2.
+
+Matter.  The series of the discourse of the Com­
+positers Copy.
+
+
+
+Measure.  The width of a Page. See Composing­
+Stick.
+
+Mettle.   See § 18. ¶ 2. Vol. 2.
+
+Mold.   See § 15. ¶ 1. Vol. 2.
+
+Monk.  When the Press-man has not Destributed 
+his Balls, some splotches of Inck may lye on one or 
+more of them, which in Beating he delivers upon 
+the Form; so that the Sheet Printed on has a 
+black blotch on it: Which Blotch is ca11ed a 
+Monk. 
+
+Mouth-piece.   See § 15. ¶ 1. Vol. 2.
+
+
+N
+
+n Thick.   See § 13. ¶ 1. Vol. 2.
+
+Naked Form, or Page,  is when the Furniture is 
+taken from about all sides of the Form or Page. See 
+§ 22. ¶ 7. Vol. 2.
+
+Neck of a Letter.  So much of the Punch as is Sunk 
+into the Matrice is called the Neck; and when that 
+Letter is Cast of Mettle, it is so much as comes above 
+the Square of the Shank, viz. above the Beard.
+
+Nick.   See § 15. ¶ 1. Vol. 2.
+
+Nomparel.   See § 2. ¶ 2. Vol. 2.
+
+Notch of the Matrice.   See § 17. ¶ 2. Vol. 2.
+
+Notes.  Quotations down the side of a Page are cal­
+led Notes.
+
+Number Laid on.  See Lay on.
+
+Nut of the Spindle.  The Female Screw that receives 
+the Worms of the Spindle.
+
+
+O
+
+Odd Page.  The First, Third, Fifth, Seventh, and 
+all un-even numbred Pages are Odd Pages. 
+
+Off:  A Press-man usually says, I am off, meaning he 
+
+
+
+has Wrought off his Token, his Heap, his Form. 
+
+Open Matter.  Full of Breaks and Whites. 
+
+Open Furnance.   See § 18. ¶ 2.  Vol. 2.
+
+Open the Form.   See § 22. ¶ 2. Vol. 2.
+
+Open Work.  See Open Matter.
+
+Over-run.   See § 22. ¶ 8. Vol. 2.
+
+Out.  A Compositer usually says, I am Out, meaning 
+he has Set out his Page, Form, or Copy. See also § 23.
+Vol. 2.
+
+Out-Page.  In Octavo's, Twelves, Sixteens, every 
+Out-side Page in the Sheet is called an Out-Page, the 
+rest are called In-pages.
+
+Out of Register. Bad Register.   See § 24. ¶ 7. Vol. 2.
+
+
+P
+
+Pale Colour.  If there be not Blacking enough in the 
+Inck, or the Form be Beaten with too Lean Balls, the 
+Work will be said to have a Pale Colour.
+
+Pallat.   See § 15. ¶ 1. Vol. 2.
+
+Pan.  The great Ladle that Founders melt their 
+Mettle in, when they are Casting Letters, is called the 
+Pan. See also § 9. Vol. 2.
+
+Paper-bench.  See Horse.
+
+Paper-board.   See § 7. Vol. 2.
+
+Paper the Case.   See § 22. ¶ 1. Vol. 2.
+
+Paper Windows.  See Customs.
+
+Paper up Letter.  Pages. See § 22. ¶ 10. Vol. 2.
+
+Pearl.   See § 2. ¶ 2. Vol. 2.
+
+Peel.   See § 11. ¶ 22. Vol. 2.
+
+Pelts.  Sheep Skins untan'd, used for Ball Leathers.
+
+Pica.   See §2. ¶ 2. Vol. 2.
+
+Picks.  When either pieces of the Skin or Film that 
+grows on Inck with standing by, or any dirt get into 
+
+
+
+the Hollows of the Face of the Letter, that Film or 
+Dirt will fill or choak up the Face of the Letter, and 
+Print Black; and is called a Pick; because the Press­
+man with the point of a Needle, picks it out.
+
+Pidgeon-holes.   See § 22. ¶ 24. Vol. 2.
+
+Plattin.
+Plattin-books.
+Plattin-pan.   
+Plattin-plate. See § 9. ¶ 18. Vol. 2.
+
+Play with Quadrats.  See Customs.
+
+Plow.   See §20 ¶ 5. Vol. 2.
+
+Points.   See § 11. ¶ 19. Also , ; : . - ? ! (') 
+[ * § †, and other marks, are all by Printers and 
+Founders called Points. 
+
+Point-holes.  The two Holes the Points prick in a 
+Sheet of Paper. See § 22. ¶ 7. Vol. 2.
+
+Point-Screws.   See § 11. ¶ 9. Vol. 2.
+
+Press.   See § 10. Vol. 2.
+
+Press-man.   See § 24. ¶ 1. Vol. 2.
+
+Press goes.  When the Press-men are at Work, the 
+Press is said to Go.
+
+
+Press goes Hard, Heavy.   See § 24. ¶ 5. and Press 
+goes Easie, Light.
+
+Press stands still.  When the Press-men are not at 
+Work, the Press is said to stand still.
+
+Press-stone.   See § 11. ¶ 17. Vol. 2.
+
+Proof:   See § 24. ¶ 18. Vol. 2.
+
+Proof Letters.   See § 16. ¶ 2. Vol. 2.
+
+Proof Press.  See Empty Press.
+
+Print Hand.  See Plate 11, 12, 13, 14, 15, 16, 17.
+
+Pull ----- Easie, Long, Short, Soft.   See § 24. ¶ 5.
+Vol. 2.
+
+
+
+Punch.   See § 13. ¶ 1. Vol. 2.
+
+Py.  when a Page is broken, those broken Letters 
+are called Py. See Broken Letter.
+
+
+Q
+
+Quadrats.   See § 19. ¶ 1. Vol. 2.
+
+Quarters.  Quarto's, Octavo's and Twelves Forms are 
+Imposed in Quarters. They are called Quarters, not 
+from their equal divisions; but because they are Im­
+posed and Lockt up apart. Thus half the Short-Cross 
+in a Twelves Form is called a Quarter, though it be 
+indeed but one Sixth part of the Form.
+
+Quoins.   See § 8. Vol. 2.
+
+Quotation Quadrats,  Are Cast the heighth of the 
+Quotation. They are Cast of different Bodies, that the 
+Compositer may have choice of them to Justifie his 
+Notes or Quotations exactly against the designed Line 
+of the Page.
+
+
+R
+
+Racks.   See § 11. ¶ 22. & § 12. ¶ 19. Vol. 2.
+
+
+Rag.  When Letter Cast has a Bur on any of its 
+edges, that Bur is called a Rag.
+
+Register.   See § 15. ¶ 1. & § 24. ¶ 7. Vol. 2.
+
+Register-sheet.  The Sheet or Sheets Printed to 
+make Register with.
+
+Reteration.  The Second Form, or the Form Printed 
+on the backside of the White Paper.
+
+Revise.   See § 23. Vol. 2.
+
+Ribs.   See § 10. ¶ 8. & § 11. ¶ 15. Vol. 2.
+
+Riglet.  Is a sort of Furniture of an equal Thickness 
+al1 its Length. It is Quadrat high, of several Thick­
+nesses, viz. a Nomparel, Brevier, Long-primmer, Pica, 
+&c. Thick.
+
+
+
+Rince the Form.   See § 22. ¶ 2. Vol. 2.
+
+Rincing Trough.  The Trough Forms are Rinced in.
+
+Rise.  A Form is said to Rise, when in Rearing it off 
+the Correcting-stone no Letter or Furniture, &c. stay 
+behind. See § 22. ¶ 7. Vol. 2.
+
+Rounce.   See § 11. ¶ 16. Vol. 2.
+
+Rowl up the Ball Leathers.   See § 24. ¶ 18. Vol. 2.
+
+Rub Letter.   See § 19. ¶ 4. Vol. 2.
+
+Rubs not.  When the Shank is Cast too Thin, that in 
+Rubbing part of the Face or the Topping or Footing 
+Rubs away: Founders say, It does not Rub.
+
+Rubs well.  When the Shank of a Letter has a pro­
+per Thickness, Founders say, It Rubs well.
+
+Rub out Inck.   See § 24. ¶ 11. Vol. 2.
+
+Rules.  viz. Brass Rules. See § 2. ¶ 2. Vol. 2.
+
+Run in the Carriage.   See § 24. ¶ 15. Vol. 2.
+
+Runs on Sorts,  when Matter runs much on some 
+few Sorts of Letters, they say, it Runs on Sorts, See 
+Sorts.
+
+Run out from Copy.  See Drive out.
+
+
+S
+
+Scaboard.   See § 8. Vol. 2.
+
+Second at the Press.   See § 24. ¶ 15. Vol. 2.
+
+Second Pull.   See § 11. ¶ 16. Considerations 8. & 
+§ 24 ¶ 15. Vol. 2.
+
+Sets Foul.  See foul Proof.
+
+Sets Clean.  See Clean Proof.
+
+Sets Close.  See Get in.
+
+Sets Wide.  See Drive out.
+
+Set out Paper.   See § 25. ¶ 5. Vol. 2.
+
+Set the Rounce.   See § 24. ¶ 3. Vol. 2.
+
+Sets off.  Work that is newly Wrought off at the Press 
+
+
+
+often Sets off especially if it be Fat Beaten with Soft 
+Inck: For when it comes to be Beaten, or sometimes 
+only hard prest by the Book-binder, the moist Inck 
+spreads and delates it self round about the Face of 
+every Letter, and sullies and stains the whole White 
+Paper.
+
+Shake.   See § 19. ¶ 1. Vol. 2.
+
+Shank,  the square Mettle the Face of a Letter stands 
+on, is called the Shank of a Letter.
+
+Sheeps-foot.   See § 11. ¶ 20. Vol. 2.
+
+Shooting-stick.   See § 9. ¶ 2. Vol. 2.
+
+Short-cross.  See Chase.
+
+Short-Page.   See § 12. ¶ 5. Vol. 2.
+
+Side-stick.   See § 8. Vol. 2.
+
+Signature.   See § 22. ¶ 4. Vol. 2.
+
+Sinck Matrices.  See Sinck Punches.
+
+Sinck Punches.   See § 17. ¶ 1. Vol. 2.
+
+Slice.   See § 11. ¶ 11. Vol. 2.
+
+Sliding-Gage.   See § 12. ¶ 4. Vol. 2.
+
+Sliding-Socket.   See § 12. ¶ 4. Vol. 2.
+
+Small Numbers.  Under 1500 Laid on is accounted 
+a Small Number. See Great Numbers; and See Lay on.
+
+Smoak Vent.   See § 18. ¶ 1. Vol. 2.
+
+Smout.  Workmen when they are out of constant 
+Work, do sometimes accept of a Day or twos Work, 
+or a Weeks Work at another Printing-house: this 
+By-work they call Smouting.
+
+Soaking Pull.   See § 24. ¶ 5. Vol. 2.
+
+Soft Pull.  ibid.
+
+Soft Inck.  Inck or Varnish moderately boiled. See § 
+11. ¶ 23. Vol. 2.
+
+Solace.  See Customs.
+
+
+
+Sop the Balls.  When a Press-man has taken too much 
+Inck, he is said to Sop the Balls.
+
+Sorts.  The Letters that lye in every Box of the 
+Case are separately called Sorts in Printers and Foun­
+ders Language; Thus a is a Sort, b is a Sort, c is a 
+Sort, &c.
+
+Space Thick, Space Thin.   See § 12. ¶ 1. Vol. 2.
+
+Spindle.   See § 1. ¶ 12. 16. Vol. 2.
+
+Spirit.  See Devil.
+
+Spring.   See § 15. ¶ 1. Vol. 2.
+
+Squabble.  A Page or Form is Squabbled when the 
+Letter of one or more Lines are got into any of the 
+adjacent Lines; or that the Letter or Letters are 
+twisted about out of their square Position.
+
+Stem.  The strait Flat stroaks of a straight Letter is 
+called Stem. See § 14. ¶ 1. Vol. 2.
+
+Stick.  The Composing-stick commonly so called.
+
+Stickfull.   See § 22. ¶ 4. Vol. 2.
+
+Stiff Justifying.   See § 22. ¶ 4. Vol. 2.
+
+Stirring-Pote.   See § 18. ¶ 2. Vol. 2.
+
+Stoak-hole.   See § 18. ¶ 1. Vol. 2.
+
+Stoaking-Rod.  A Rod of thick Wyer put into such 
+an Handle as is the Handle of a Letter-Ladle. Foun­
+ders use it to stir up the Fire in the Furnace.
+
+Stone.   See § 19. ¶ 1. Vol. 2.
+
+Stool.   See § 15. ¶ 1. Vol. 2.
+
+Stop.   See § 19. ¶ 1. Vol. 2.
+
+Strip a Form.   See § 22. ¶ 2. Vol. 2.
+
+Stroaks,  are fat, lean, fine, hair. See § 14. ¶ 2. Vol. 2.
+
+Superiour Letters,  are often set to Marginal Notes: 
+They are Letters of a Small Face, high Justifyed by 
+
+
+
+the Founder in the Mold near the Top-Line.
+
+Swash-Letters.  See Plate 15.
+
+
+T
+
+Tache.  A small Board with Notches in its Fore-edge; 
+either nailed upon the Fore-edge of the Work-Bench, 
+or screwed into the Vice; so as the Notches may stand 
+forwards to rest the Shank of a Punch in. See § 12 ¶ 
+9. Vol. 2.
+
+Tail of Letters.   See § 14. ¶ 2. Vol. 2.
+
+Take off:  See Customs.
+
+Taking off:   See § 22. ¶ 3. Vol. 2.
+
+Take up.   See § 22. ¶ 3. Vol. 2.
+
+Take up a Sheet.  See Customs.
+
+Take Inck.   See § 24. ¶ 10. Vol. 2.
+
+Teze Wooll, or Hair.   See § 24. ¶ 18. Vol. 2.
+
+Thick Letter.  A Fount of Letter that Rubs not high 
+enough into the Neck is called Thick Letter; and con­
+sequently will Drive out Matter. See § 17. ¶ 2. Vol. 2.
+
+Thick Space.   See § 13. ¶ 1. Vol. 2.
+
+Thin Space,  ought by a strict orderly and metho­
+dical measure to be made of the Thickness of the 
+seventh part of the Body; though Founders make 
+them indifferently Thicker or Thinner.
+
+Throat.   See § 15. ¶ 1. & 6. Vol. 2.
+
+Till.   See § 10. ¶ 6. Vol. 2.
+
+Toe of the Spindle.   See § 11. ¶ 12. Vol. 2.
+
+Token.   See § 25. ¶ 5. Vol. 2.
+
+Token Sheet.   See § 24. ¶ 9. 15. Vol. 2.
+
+Tongue.   See § 20. ¶ 3. Vol. 2.
+
+Tooth of the Plow.  The pointed edge that Cuts the 
+Groove in the bottom of the Shanks in the Blocks. 
+See § 21. ¶ 5. Vol. 2.
+
+
+
+Transpose.   See § 22. ¶ 7. & § 23. Vol. 2.
+
+Turn for a Letter.  It often happens when Matter 
+Runs upon Sorts, especially in Capitals, or some 
+other Sorts seldom used, that the Compositer wants 
+that Sort the Matter Runs on; wherefore he is loath 
+to Destribute Letter for that Sort; or perhaps his Case 
+is otherwise Full. Wherefore instead of that Letter 
+or Sort, he Turns a Letter of the same Thickness, 
+with the Foot of the Shank upwards, and the Face 
+downwards; which Turned Letter being easie to 
+be seen, he afterwards when he can accommodate 
+himself with the right Sort, takes out, and puts 
+the right Letter in its room. It is also a word used 
+jocosely in the Chappel, when any of the Workmen 
+complain of want of Money, or any thing else, he 
+shall by another Workman be answered, Turn for it, 
+viz. Make shift for it.
+
+Tympan.   See § 10. ¶ 10. Vol. 2.
+
+Tympan-Cloath.   See § 24. ¶ 18. Vol. 2.
+
+Tympan-sheet.   See § 24. ¶ 7. Vol. 2.
+
+
+V
+
+Vantage.  When a White-page or more happens in 
+a Sheet, the Compositer calls that Vantage: So does 
+the Press-man, when a Form of one Pull comes to 
+the Press.
+
+Varnish.   See § 11. ¶ 23. Vol. 2.
+
+Visorum.   See § 22. ¶ 4. Vol. 2.
+
+Un-lock the Form.   See § 22. ¶ 2. Vol. 2.
+
+Underhand..  A Phrase used by Press-men for the 
+Light and Easie, or Heavy and Hard Running in of 
+the Carriage. Thus they say, The Press goes light and 
+
+
+
+easie under Hand, or it goes heavy or hard under 
+Hand.
+
+Upper Hand,  when the Spindle goes soft and easie, 
+the Press-men say, It goes well under Hand, or 
+Above Hand. But the contrary if it goes Hard and 
+Heavy.
+
+
+W
+
+Wash the Form.   See §24. ¶ 18. Vol. 2.
+
+Way-goose.  See Customs.
+
+Weak-Inck.  See Soft-Inck.
+
+Wedge.  See § 20. ¶ 3. Vol. 2.
+
+White-line.  A Line of Quadrats.
+
+White-Page.  A Page that no Matter comes in.
+
+White-Paper.  Although the first Form be Printed 
+off, yet Press-men erronically call that Heap White­
+Paper, till the Reteration be Printed.
+
+Whole-press.  See Full-Press.
+
+Wind-furnace.  See Open-furnace.
+
+Wind-hole.   See § 18. ¶ 1. Vol. 2.
+
+Wood.   See § 15. ¶ 11. Vol. 2.
+
+Wyer.   See § 15. ¶ 9. Vol. 2.
+
+
+FINIS
+
+

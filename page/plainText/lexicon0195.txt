@@ -1,0 +1,373 @@
+
+
+
+
+
+
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 6 8 5 9 
+
+v e r . 1 . 0  ( 2 0 1 9 )
+
+
+
+
+To the fauourable Studious Ingenious Reader
+touching these Diffinitions and Theoremes, concerning the newe
+Science of great Artillerie.
+
+THe Auncient Philosophers and Mathematicians that were either
+the first Founders or amplifiers of any Science with newe and
+rare Inuentions, were euer enforced at the first to vse manye 
+newe and vnaccustomed names to distinguish and breefely to
+expresse such seuerall subiects as the Methodes of their dis­
+courses did occasion them to handell. Let no man therefore 
+marueil, if my selfe being now to Intreate of so newe and rare
+a Science as this of great Artillerie bee also enforced to vse
+sundrie strange tearmes, not vnderstande perhaps of the verye Artificers themselues
+that most Manedge that kinde of Engine. For albeit in all such vsual actions as Can­
+noniers commonly practize, they haue wordes good inough to expresse their owne
+meanings. (And therein I vse also the same, except I finde them verye improper or
+misaplied) yet in the remote and hidden mysteries of Randonnes and of the seuerall
+Proportions of the mettaline Bodies and Soules or Cylinders of all seueral Peeces
+and of the strange varietie of the Circuites of all Bullets in the Ayre, by reason of the
+repugnance or variance of the violent and natural motions: In these Mysteries I say
+scarsly thought on, and farre beyond the compasse of ordinary Cannoniers without
+exquisite knowledge in the Mathematicall Sciences to intermeddle withall. I finde
+not anye wordes in vse that can serue my purpose, and haue therefore chosen such as
+in my iudgement are most proper and effectual, and to take awaye all obscuritye, 
+haue set downe euery of their Diffinitions that are not in my Pantometria, alreadye
+sufficiently explaned: which Booke together with my Stratioticos, amplyfied with
+new Additions, I haue new published as Pathes to leade y ingenious Countrimen
+to the vnderstanding also of this newe Science, when I shall publish the same in her
+best perfection. And in the meane time as many yeares sithence I propounded pub­
+likely sundry Questions concerning this facultie, to stirre vp bothe Theorical and
+Practical spirites of all sortes more profoundly to searche the hidden secrets of this
+Arte. So haue I nowe thougtht good to Imprint also these halfe hundered Theoremes,
+resoluing the most part of all those my former Propositions, wherein I must neuer­
+thelesse admonish the reader that I haue enterlaced a verie fewe that are not in the
+seuere examination of Geometrical Demonstration perfectly exact, albeit they ap­
+proche so nighe as ordinarie experiments will hardly discouer the difference, which
+I haue of purpose doone, the rather to animate Mathematical Practisioners by tri­
+all to finde them out, and thereby perhaps also to discouer other more rare Secrets
+then I haue hitherto thought vpon. For by experience my selfe haue founde manye
+rare Mysteries in that Science, which I should neuer once haue amused on, if suche
+Scales and Theorikes (as my Father by his long painefull chargeable experiences in
+great Ordinance ioyned with his Mathematicall Science first inuented) had beene
+reduced to their accomplished perfection. And yet without those first principles
+left mee I must truely confesse I might haue spent the greatest part of my life in
+meere obscuritie, albeit I had by Office or otherwise enioyed the Manedging
+
+
+
+
+
+
+of all sorts of great Artillerie at my owne pleasure charge free. The burden where
+no doubte hath beene the cheefest cause that so many rare Mathematicians as Tarta­
+lea the Italian and diuers others of these late ages in Europe haue mistaken so much,
+and performed so little toward the accomplishment of that Science. And although
+by publishing the same my Treatize of Martiall Pyrotechnie and great Artillery in
+the Latin toong, I should I knowe greatlye amplifie myne owne Fame, and the admi­
+ration of such rare Mathematicians as at this daye liue in seuerall Nations of Chri­
+stendome, from whome I haue for farre inferior Inuentions Imprinted in my Trea­
+tize, Intituled Ala seu scala Mathematica, already receiued no small applause. Yet if
+I publish the same at all, I doe constantly resolue to doe it onely in my Natiue Lan­
+guage: Aswell to make the benefite thereof the more priuate to my Countreymen,
+as also to make thereby other Nations to affect as much our Language as my selfe
+haue desired to learne the Highe Dutche: for the workes onely of two Famous men
+that wrote their Bookes in that toong, which cannot possiblye by anye other that
+haue not the same Spirites and perfection that was in the verie Authors be Transla­
+ted: as appeareth euidently by diuerse Treatizes vtterlye peruerted by the mista­
+kings and misconceauings of the Translators.
+These Praeludia therefore of a matter more serious and Important, good Rea­
+der accept in goode parte, so shall I bee animated the more
+speedelye to imparte the rest, which some con­
+trarye effect hath hitherto
+detayned from
+thee.
+
+
+Certaine Diffinitions, taken out of my thirde
+Booke of Pyrotechnie Militarie and great Artillerie, for
+explanation of the these Theoremes
+ensuing.
+
+
+
+The first Diffinition.
+ FOrasmuch as by the direction of the hollowe Cylinder or Truncke of the
+Peece, the violence of all shot of great Artillerye is not onely directed but
+also increased I call that hollowe Cylinder of the Peece her Soule.
+
+The 2 Diffinition.
+ The Metalline substance of the Peece of what kinde, shape or proportion soeuer I call the
+Body of the Peece.
+
+The 3 Diffinition.
+ This Soule in all principall Peeces of Batterye, is euer a perfect uniforme Cylinder, com­
+prehended with a Circuler columne, and two equall Circles, whereof the one I call the Head,
+the other the Base.
+
+
+
+
+
+
+The fourth Diffinition.
+That direct line which by Mathematicall Imagination dooth conioyne the Centers of the
+two circles and is the perfect and true direction of all Shot made out of great Ordinance, I 
+terme the Axis of that peeces Soule.
+
+The fift Diffinition.
+Of this soule or hollowe Cylinder one parte is proportionally euer to be limitted for the Poul­
+der and Bullet and that parte I call for distinction sake the charged Cylinder.
+
+The 6 Diffinition.
+The other emptie parte which is more properly called the Soule, because it bothe directeth and
+according to the difference of her proportion encreaseth or deminisheth the violence and force
+of the shotte I call also the vacant Cylinder.
+
+The 7 Diffinition.
+But in all such peeces as haue the Chamber for their Poulder either a lesse Cylinder or in
+forme Conicall or Campanall I terme the vacant Cylinder, onely the Soule of the peece, and
+the other her chamber be it Conicall or Campanall or Cylinder.
+
+The 8 Diffinition.
+Of the peeces body there is one parte of Counterpeyze called of Mathematitians Centrum
+Grauitatis whereabout there are to all peeces bodyes in their foundings adioyned two stayes
+which I call the Peeces Eares.
+
+"Eares" in this sense not found in OED.
+
+
+
+The 9 Diffinition.
+That parte of the Peeces body where the touchehole is or ought to be made to geue fire in the
+discharging of all Ordenance, I call the Coyle of the peece.
+
+"Coyle" appears to antedate earliest OED quotation for this sense ("coil," n.4, 1706).
+
+
+
+The 10 Diffinition.
+That parte where the body of the Peece is least neere the Head or Mouth. I call the Necke
+of the peece, and at these three points the Coyle the Eares and Necke, the Bodyes mettalline of
+all peeces are to be measured to knowe whether they holde their proportion of perfection for that
+kinde and purpose they are destinate.
+
+The 11 Diffinition.
+Anye peece is saide to lye Pointe blancke with any marke, when the Axis of her Soule
+directeth perfectly to the very middell or Center of that marke.
+
+The 12 Diffinition.
+And a marke is sayde to lye within Pointe Blancke when the Peece beeing directed with
+her conuenient Bullet and charge is able to reache and strike that marke.
+
+The 13 Diffinition.
+A marke is said to lye within the mettall of the Peece, when the Peece beeing directed not by
+the Axis of the Soule, but by the Cornice or upmost ring of her head and Coyle is able to
+reache the marke.
+
+The 14 Diffinition.
+The difference of these two ranges, I call the difference of the leuell ranges of the Soule and
+Body of any peece.
+
+
+
+
+
+
+The 15 Diffinition.
+The difference of these two measured in the body of the Peece I meane the excesse wherby the
+Semidiameter of the Ringe or Cornice of the Head dooth exceed the Cornice of the Coyle I call
+the Anomalye or Difference of the Soule and Bodye of all Peeces truly founded, and of com­
+mon Cannoniers is called the Peeces Disparte.
+
+The 16 Diffinition.
+The Axis of the Bodye of any peece, I terme that straight line which passeth betweene the
+Centers of the two vtmost Circular Cornices at the coyle and Head of the Peece, the which in
+all Peeces truely founded is also the verie same Axis of the Soule.
+
+The 17 Diffinition.
+If the two Axes differ the Peece is false founded, and then they are either Parallele or
+make an Angle, if they be Parallele their difference I terme the Distance of the Axes of that
+Peeces Bodye and Soule.
+
+The 18 Diffinition.
+If they bee not Parallele, their Angles of variation are considered two wayes, that is to say
+in Altitude and Latitude, and those Angles accordinglye named the Anomalie Angles of
+Altitude or Latitude of those Peeces.
+
+The 19 Diffinition.
+There is in the Axis of euery Peece one onely pointe, wherevpon if the Bodye of the Peece
+should be suspended, she shall hang in a perfect Counterpoyse, and that pointe I call the Center
+of her Grauity or pointe of Counterpoyse.
+
+The 20 Diffinition.
+If the Peece should be deuided into two partes by a plaine Perpendiculare, cutting the Axis
+in that pointe of Counterpeyze, the section will be circular, and for Distinction shalbe called
+the Counterpeyze Section of that Peece.
+
+
+
+
+
+Diffinitions taken out of my fyrst Booke
+of Martiall Pyrotechnye and great
+Artillerie.
+
+
+Firste.
+
+FOr asmuch as euery Bullet violently throwne out of any peece
+of Ordinance at any Angle of Randon passeth a good distance
+directlye without anye great variation from the right line
+pointed out by the Axis, and then falleth into a Curue Arke,
+and last of all finisheth either in a right line or in a Curue, a­
+proching nighe a right againe.
+
+For Distinction sake.
+
+
+
+
+
+
+
+The first Diffinition.
+THe first parte of the violent course of Gunners, commonly termed the peeces pointe blanke
+reache, I call the Direct Line of the Bullets circuite.
+
+The 2 Diffinition.
+The second parte beeing a Curue Circuite, beginning at the foresaide declination from the
+Axis, ascending to the highest altitude aboue the Horizon, and ending at a like Altitude to his
+beginning I terme for Distinction sake his middell Helicall or Conicall Arke.
+
+"Helicall" antedates earliest OED quotation (1613).
+
+
+
+The 3 Diffinition.
+The rest euen to the Horizontall plaine againe I call his Declining Line
+
+The 4 Diffinition.
+The Altitude of any Bullets circuite I call that line Perpendicular, which by Immaginati­
+on Mathematicall, falleth from the Bullet at his verie highest of his Mount Perpendicularly
+downe to the plaine Horizontall: which line of Altitude coupled together, with the right lines
+from the top and foote, concurring at the center of the peeces circular Base, dooth make a right
+Angled Triangle.
+
+The 5 Diffinition.
+The Horizontall line of that Triangle I call the Base.
+
+The 6 Diffinition.
+The other sloope line is the line Hypothenusall.
+
+The 7 Diffinition.
+The peeces direct line of that circuite which is alwayes aboue the Hypothenusall for di­
+stinction sake, I call the line Diagonall, for that there are seuerall of these Diagonall lines to all
+Angles of Random, and together with the line Horizontall, doe comprehende the Angle of
+Mounte.
+
+The 8 Diffinition.
+The peeces leuell Horizontall range, I terme the distance betweene the Peece and the first
+graze or bounde of the Bullet, when the peece at her discharge lyeth leuell vpon her cariadge not
+mounted vpon anye loftie Platforme, but such as lyeth euen with the true Horizontall plaine
+whereon the Bullet must playe.
+
+The 9 Diffinition.
+All other Ranges made by the Bullet on any Horizontall plaine, when the Peece is mounted
+at any seuerall Randones, I terme the Ranges Horizontall.
+
+
+
+
+
+
+The 10 Diffinition.
+And because euery Peece hath some Grade certaine of the Quadrant wherevnto mounted
+she maketh her vtmost Horizontall Range in such sorte as if yee mounte the Peece higher the
+Bullet shall flye a shorter Distance, and the Horizontall Ranges returne lesse and lesse againe.
+That pointe of vtmost randone Horizontall, I terme the Tropike point or grade,
+
+The 11 Diffinition.
+And because in Mounting the Peece Higher and Higher aboue the Tropike grade, the
+Ranges growe still shorter and shorter, so that at length yee shall come to that grade which
+shall cause the Bullet to range exactly his first leuell Horizontall Range, that Grade or pointe
+for Distinction sake I call the Grace Æquorizontall.
+
+"Æquorizontall" not found in OED.
+
+
+
+The 12 Diffinition.
+A declining plaine I terme any plaine grounde that lyeth not Leuell with the Horizontal
+plaine but descendeth downeward, making an Acute Angle with the plaine Horizontall and
+that Angle I call the Angle of Declination.
+
+The 13 Diffinition.
+An Enclining plaine I call that which from the Peece ascendeth vp, making likewise an
+Acute Angle with the plaine Horizontall, which Angle I call for Distinction sake the Angle
+of Inclination,
+
+The 14 Diffinition.
+And because the Bullet violently throwne out of the Peece by the furie of the Poulder
+hath two motions, the one violent, which endeuoreth to carry the Bullet right out in his Line
+Diagonall, according to the direction of the Peeces Axis from whence the violent motion
+proceedeth, the other Naturall in the Bullet it selfe, which endeuoureth still to carrye the same
+directly downeward by a right line Perpendiculare to the Horizon. For Distinction sake I call
+the first his Diagonall motion Violent, and the second his Perpendicular motion Na­
+turall, and the compounded motion of these two his Mixte helicall Circuite.
+
+The 15 Diffinition.
+And as for the discouerye of the strange varietie of the Planets courses in the Heauens,
+Astronomers are enforced to vse sundrie kindes of supposed Circles Excentricall and Concen­
+tricall, with their Epicicles moouing regularly sometimes on their owne Centers, and sometimes
+on Centers of Æquation, which they terme that Planets Theorike. So likewise in the discoue­
+ring of the Reciprocall most strange varietie of these Bullets Helicall Circuites in the Ayre,
+making continuall alteration according to the Quantitie and Qualitie of the Angles of Ran­
+don or Angles of Inclination or Declination of the Plaines whereon the Bullets playe, or An­
+gles comprehended betweene the Diagonall violent and Perpendicular naturall motions: Be­
+ing I say likewise enforced to vse portions of Circles, some Concentricall, and some Excentrical,
+some uniformelie deuided on their owne Centers, and some from Centers Equant in more
+strange manner to discouer and finde out these Helicall motions, I doe likewise terme the same
+Theorikes or Scales.
+
+The 16 Diffinition.
+And that which serues to discouer the different violence of all Peeces at Pointe blanke,
+
+
+
+
+
+
+
+howsoeuer Mounted (by me termed the lines direct of the Bullets Circuites, and lines Diago­
+nall) I call for Distinction sake the Theorike of lines Diagonall.
+
+The 17 Diffinition.
+The other that discouered how high Bullets at all Randons can Mounte possiblye aboue the
+Horizon, I terme the Scale or Theorike of Altitudes.
+
+The 18 Diffinition.
+The thirde which discouereth the varietie of Ranges, of all Peeces at all degrees of Ran­
+dome, I call the Theorike or Scale of Randons.
+
+The 19 Diffinition.
+The fourth and fift which discouereth the varietie and alteration of all ranges, by reason of
+the Inclination or Declination of any markes from the plaine Horizontall of that Platforme 
+where the Peeces playe, I call the Theorike of Inclining Plains.
+
+The 20 Diffinition,
+The sixth composed of all these, and by conference of all their partes together framing a
+Theorike of perfection, discouering in all plaines Horizontall or varrying for all kinde of Pee­
+ces and Bullets, whatsoeuer their Ranges at all Randones, the Altitude of their Circuites,
+together with their lines Diagonall and Hypothenusall shall bee named the Theorike of Ar­
+tillery generall.
+
+
+
+
+

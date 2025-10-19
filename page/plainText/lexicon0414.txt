@@ -1,0 +1,1262 @@
+
+
+
+
+
+DEFINITIONS
+
+
+
+A Cord,  or Subtense, is a right line, drawn from the one extre­
+mity to the other of an Arch. 
+
+2. A right Sine  is the half Cord of the double Arch proposed,
+and from one extremity of the Arch falleth perpendicularly on the 
+Radius, passing by the other end thereof.
+
+3. A Tangent  is a right line, drawn from the Secant by one end of
+the Arch, perpendicularly on the extremity of the Diameter, passing
+by the other end of the said Arch.
+
+4. A Secant  is the prolonged Radius, which passeth by the upper
+extremity of the Arch, till it meet with the sine Tangent of the 
+said Arch.
+
+5. Complement  is the difference betwixt the lesser Arch, and a 
+Quadrant, or betwixt a right Angle and an Acute.
+
+6. The complement to a semi-Circle,  is the difference betwixt the
+half-Circumference and any Arch lesser, or betwixt two right An­
+gles, and an Oblique Angle, whither blunt or sharp.
+
+7. The versed sine  is the remainder of the Radius, the sine
+
+
+
+Complement being subtracted from it, and though great use may be
+made of the versed sines, for finding out of the Angles by the sides,
+and sides by the Angles: yet in Logarirhmicall calculations they 
+are altogether useless, and therefore in my Trissotetras there is no
+mention made of them.
+
+8. In Amblygone sphericalls,  which admit both of an Extrinsecall,
+and Intrinsecall demission of the perpendicular, ninteen severall
+parts are to be considered: viz. The Perpendicular, the Subten­
+dentall, the Subtendentine, two Cosubtendents, the Basall, the Basi­
+dion, the chief Segment of the Base, two Cobases, the double Ver­
+ticall, the Verticall, the Vertical line, two Coverticalls, the next Ca­
+thetopposite, the prime Cathe opposite, and the two Cocathetoppo­
+sites: fourteen whereof, (to wit) the Subtendentall, the Subtenden­
+tine, the Cosubtendents, the Basall, the Basidion, the Cobases, the
+Verticall, the Verticaline, the Coverticalle, and Cocathetopposites,
+are called the first, either Subtendent, Base, Topangle, or Cocathe­
+topposite, whither in the great Triangle or the little, or in the Cor­
+rectangle, if they be ingredients of that Rectanglar, whereof most
+parts are known, which parts are alwayes a Subtendent and a Ca­
+thetopposite: but if they be in the other Triangle, they are called 
+the second Subtendents, Bases, and so forth.
+
+9. The externall double Verticall  is included by the Perpendicu­
+lar, and Subtendentall, and divided by the Subtendentine,: the inter­
+nall is included by cosubtendents, and divided by the Perpendicular.
+
+
+
+
+
+
+
+A Lexicidion of some of the hardest
+words, that occurre in the discourse of this
+institution Trigonometricall.
+
+
+BEing certainly perswaded, that a great many
+good spirits ply Trigonometry, that are not ver­
+sed in the learned Tongues, I thought fit, for
+their encouragement, to subjoyne here the ex­
+plication of the most important of those Greek, and Latin
+termes, which, for the more efficacy of expression, I have
+made use of in this Treatise: in doing whereof, that I
+might both instruct the Reader, and not weary him, I have
+endeavoured perspicuity with shortnesse: though (I speak it
+ingenuously) to have been more prolixe therin, could have
+cost but very little labor to me, who have already bin pret­
+ty well versed in the like, as may appear by my Etymolo­
+gicall dictionary of above twenty seven thousand proper
+names, mentioned in the Lemmas of my serveall Volums of 
+Epigrams, the words whereof are for the most part abstru­
+ser, derived from moe Languages, and more liable to
+large, and ample interpretations. However (cæteris paribus)
+brevity is to be preferred; therefore let us proceed to the 
+Vocabulary in hand.
+
+
+
+
+
+
+THE LEXICIDION.
+
+
+A.
+
+ACute,  comes from Acuo, acuere, to sharpen, and is said
+of an Angle, whose including sides, the more that its mea­
+sure is lesse then a Quadrant, have their concursive, and
+angulary point the more penetrative, sharp, keen and pierce­
+ing: Whence an acutangled triangle.
+
+
+Adæquat,  is that, which comprehendeth to the full, whatever is in the
+thing to the which it is compared, and for the most part in my Tris­
+soretras is said of the generall finall Resolvers, in relation to the 
+Moods resolved by them. It is compounded of Ad, and æquo, æ­
+quare, parem facere, to make one thing altogether like, or equall to
+another.
+
+
+Adjacent,  signifieth to lie neare, and close, and is applyed both to sides,
+and Angles, in which sense likewise I make use of the words adjoyn­
+ing the, conterminat, or conterminall with, annexed to, intercepted in,
+and other such like, for the more variety, as adherent, bounding,
+bordering, and so forth: It comes from Adjaceo, Adjacere, to lie
+neere unto, as the words Ad and jaceo, which are the parts whereof
+it is compounded, most perspicuously declare.
+
+
+Additionall,  is said of the Line, which, in my comment, is indiffer­
+rently called the Line of Addition, the Line of continuation, the ex­
+trinsecall Line, the excesse of the Secant above the Radius, the Re­
+siduum, or the new Secant: it comes from Addo, Addere, which is
+compounded of Ad, and do, to put to and augment.
+
+
+Affection,  is the nature, passion, and quality of an Angle, and consist­
+eth either in the obtusity, acutenesse, or rectitude thereof: It is
+a verball from Afficio, affeci, affectum, compounded of ad, and facio.
+
+
+
+
+Aggregat,  is the summe, totall, or result of an Addition, and is com­
+pounded of Ad, and grex; for, as the Shepheard gathers his Sheep
+into a flock, so doth the Arithmetician compact his numbers to be
+added into a summe.
+
+
+Alternat,  is said of Angles, made by a Line cutting two or more pa­
+rallels, which Angles may be properly called so; because they differ in
+nothing else but their situation; for of the sectionary Line, to the which
+I suppose the parallels to be fixed, have the highest and lowest points
+thereof to interchange their sites, by a motion progressive towards the 
+roome of the under Alternat, and terminating in that of the
+upper one, we will find, that both the inclination of the Lines towards
+one another, and the quality of the Angles, will, notwithstanding that
+alteration, be the same as before; hence it is that they are called al­
+ternat, because there is no other difference betwixt them: or, if al­
+ternat be taken ( as arithmetically it is ) for that proportion, wherein
+the Antecedent is compared to the Antecedent, and the Consequent to
+the Consequent, the sense will likewise hold in the foresaid Angles; for if
+by the parallelisme of two right Lines, cut with a third, two blunt, and 
+two keen Angles be produced ( as must needs, unlesse the Secant line
+be to the parallels a perpendicular) the keen or acute Angle will be
+to its complement, or successively following obtuse Angle, as the o­
+ther acute unto its following obtuse; therefore alternly, as the An­
+tecedents are to one another, viz. the Acute to the Acute: so the Con­
+sequents, the obtuse to the obtuse. And if the Angles be right, the di­
+rect and alternat proportion is one and the same; the third, and
+fourth terms of the Analogy being in nothing different from the first,
+and second.
+
+
+Ambient,  is taken for any of the legs of a rectangle, or the including,
+containing, or comprehending sides of the right Angle: it comes from
+Ambio, Ambite, which is compounded of Am and eo, i.e. circu­
+meo, and more properly applied to both, then to any one of them, though
+usually it be usurped for one alone, vide Leg.
+
+
+Amblygonian,  is said of obtuse angled Triangles, and Amblygonosphe­
+ricall of obtuse sphericals: It is composed of [GREEK], and [GREEK] an­
+gulus.
+
+
+Amfractuosities,  are taken here for the cranklings, windings, turnings,
+and involutions belonging to the equisoleary Scheme; of am and fran­
+go, quod sit quasi via crebris mæandris undequaque interrupta.
+
+
+
+
+Analogy,  signifieth an equality of proportion, a likenesse of reasons, a 
+conveniencie, or habitude betwixt termes: It is compounded of [GREEK] , æ­
+qualiter, and [GREEK] , ratio.
+
+
+Analytick,  resolutory, and is said of those things, that are resolved into
+their first principles, of [GREEK] , re, and [GREEK] solvo.
+
+
+Antilogarithm,  is the Logarithm of the complement: as for example,
+the Anti-logarithm of a Sine is the Logarithm of the Sine complement,
+vide Logarithm.
+
+
+Anti-secant, Anti-sine, and Anti-tangent,  are the complements of the 
+Secant, Sine and Tangent, and are called sometime Co-secant, Co-sine,
+and Co-tangent: they have anti prefixed, because they are not in the
+same colume, and co, because they are in the next to it.
+
+
+Apodictick,  is that, which is demonstrative, and giveth evident proofs
+of the truth of a conclusion; of [GREEK] and [GREEK], monstro, osten­
+do, unde [GREEK], demonstratio.
+
+
+Area,  is the capacity of a Figure, and whole content thereof.
+
+
+Arch, or Ark,  is the segment of a circumference lesse then a semicircle: ma­
+jor Arch is above 45. degrees, a minor Arch, lesse then 45. vide Circle.
+
+
+Arithmeticall complement,  is the difference between the Logarithm to
+be substracted, and that of the double, or single Radius.
+
+
+Artificiall numbers,  are the Logarithms, and artificiall Sine the Loga­
+rithm of the Sine.
+
+
+Axiome,  is a maxim, tenet, or necessary principle, whereupon the Sci­
+ence of a thing is grounded: it cometh from [GREEK], dignus; because
+such things are worthy our knowledge.
+
+
+B.
+
+BAsall,  adjectively is that, which belongeth to the Base, or the sub­
+jacent side, but substantively the great Base.
+
+
+Basangulary,  is said of the Angles at the Base. 
+
+
+Basidion, or baset,  is the little Base, all which come from the Greek word
+[GREEK],[GREEK]
+
+
+Basiradius,  is the totall Sine of that Arch, a Segment whereof is the Base
+of the proposed sphericall Triangle.
+
+
+Bisected, and Bisegment,  are said of lines cut into two equall parts; it 
+comes from biseco, bisecare, bisectum, bisegmen.
+
+
+Bluntnesse, or flatnesse,  is the obtuse affection of Angles.
+
+
+
+
+Bucarnon,  by this name is entitled the seven and fortieth proposition of
+the first of the elements of Euclid; because of the oxe, or, ( as some
+say) the hecatomb which Pythagoras, for gladnesse of the invention,
+sacrificed unto the gods: of [GREEK], bos, and [GREEK], vicissim aliquid
+capio; they being ( as it is supposed ) well pleased with that acknow­
+ledgement of his thankfulnesse for so great a favour, as that was,
+which he received from them: you may see the proposition in the se­
+venteenth of my Apodicticke.
+
+
+C.
+
+CAnon,  is taken here for the Table of Sines and Tangents, or of
+their Logarithms: it properly signifieth the needle or tongue of a 
+balance, and metaphorically a rule, whereby things are examined.
+
+
+Cases,  are the parts wherein a Mood is divided from cado.
+
+
+Cathetos,  is a Perpendicular line, from [GREEK], demitto, of [GREEK], and [GREEK]
+
+
+Catheteuretick,  is concerning the finding out of the Perpendicular
+of [GREEK], and [GREEK], [GREEK], invenio.
+
+
+Cathetobasall,  is said of the Concordances of Loxogenoshericall Moods,
+in the Datas of the Perpendicular, and the Base, for finding out of the
+maine quæsitum.
+
+
+Cathet opposite,  is the Angle opposite to the Perpendicular; it is a 
+hybrid or mungrell word, composed of the Greek [GREEK], and Latin
+oppositus.
+
+
+Cathet orabdos, or Cathetoradius,  is the totall Sine of that Arch, a
+Segment whereof is the Cathetos, or Perpendicular of the proposed
+Orthogonosphericall.
+
+
+Cathetothesis, and cathetothetick  are said of the determinat position of
+the Perendicular, which is sometimes expressed by cathetology, in­
+structing us how it should be demitted, of [GREEK], and [GREEK], from 
+[GREEK], pono, colloco.
+
+
+Cathetoverticall,  is said of the Concordances of Loxogonosphericall
+Moods in the Datas of the perpendicular, and the verticall Angle in 
+the last operation.
+
+
+Catoptrick,  the Science of perspective, from [GREEK], perspicio,
+cerno.
+
+
+Characteristick,  is said of the letters, which are the notes and marks
+of distinction, called sometimes figuratives, or determinators, from
+[GREEK], sculpo, imprimo.
+
+
+
+
+Circles, great circles  are those which bisect the Sphere, lesser Circles those
+which not.
+
+
+Circular parts,  are in opposition to the reall and naturall parts of a Tri­
+angle.
+
+
+Circumjacent,  things which lie about, of circum, and jaceo.
+
+
+Coalescencie,  a growing together, a compacting of two things in one; it
+is said of the last two operations of the Loxogonosphericals conflated
+into one, from coalesco or coaleo, of con and alo.
+
+
+Cobase,  a fellow Base, or that which with another Base hath a common
+Perpendicular, of con and basis.
+
+
+Cocathetopposite,  is said of two, Angles at the Base, opposite to one
+and the same Cathetos.
+
+
+Coincidence,  a falling together upon the same thing, from coincido, of
+con, and incido, ex in & cado.
+
+
+Comment,  is an interpretation, or exposition of a thing, and comes from
+comminiscor, comminisci, mentionem facere.
+
+
+Compacted,  joyned, and knit together, put in one; from compingo,
+compegi, compactum, vide Coalescencie.
+
+
+Complement,  signifieth the perfecting that which a thing wanteth,
+and usually is that, which an Angle or a Side wanteth of a Quadrant,
+or 90. degrees: and of a Semicircle, or 180. from compleo, complere,
+to fill up.
+
+
+Concurse,  is the meeting of lines, or of the sides of a Triangle, from con­
+curro, concursum.
+
+
+Conflated,  compacted, joyned together, from conflo, conflatum , con­
+flare, to blow together, vide Inchased.
+
+
+Confectary,  is taken here for a Corollary, or rather a secondary Axiome,
+which dependeth on a prime one, & being deduced from it, doth necessari­
+ly follow, From consector, consectaris, the frequentative of consequor.
+
+
+Consound,  to sound with another thing; it is said of consonants, which
+have no vocality without the help of the vowell.
+
+
+Constitutive,  is said of those things, which help to frame, make, and 
+build up: from constituo, of con and statuo.
+
+
+Constitutive sides,  the ingredient sides of a Triangle.
+
+
+Constructive parts,  are those, whereof a thing is built, and framed: From
+construo, constructum, to heap together, and build up, of con and
+strues.
+
+
+Conterminall,  is that which bordereth with, and joyneth to a thing, of
+
+
+
+con and terminus, vide Adjacent, or Insident.
+
+
+Cordes, and cordall,  are said of subtenses metaphorically; because the
+Arches and subtenses are as the bow and string; chorda, comes of
+the Greek word [GREEK], intestinum, illa, quia ex illis chordæ con­
+ficiuntur.
+
+
+Correctangle,  that is on which, with another rectangle, hath a common
+Perpendicular.
+
+
+Correspondent,  that which answereth with, and hath a reference to a­
+nother thing, of con and respondeo.
+
+
+Consinocosinall,  is said of the Concordances of Loxogonosphericall
+Moods, agreeing, in that the termes of their finall Resolvers run upon
+Consines.
+
+
+Cosmography,  is taken here for the Science whereby is described the 
+celestiall Globe, of [GREEK] and [GREEK].
+
+
+Consubtendent,  is the subtendent of a correctangle, or that which with
+another is substerned to two right Angles, made by the demission of
+one and the same Perpendicular.
+
+
+Coverticall,  is the fellow top Angle, from whence the Perpendicualar
+falleth.
+
+
+D.
+
+DAta,  is said of the parts of a Triangle, which are given us, whe­
+ther they be sides or Angles, or both, of do, datum, dare.
+
+
+Datimista,  are those Datas, which are neither Angles onely, nor sides
+onely, but Angles, and sides intermixedly: of data, and mista, from
+misceo.
+
+
+Datangulary,  is said of the Concordances of those Moods, for the ob­
+taining of whose Prænoscendas, we have no other Datas, but An­
+gles, unto the foresaid Moods common.
+
+
+Datapurall,  comes from datapura, which be those Datas, that are
+either meerly Angles, or meerly sides.
+
+
+Datolaterall,  is said of the Concordances of those Moods, for the obtai­
+ning of whose Prænoscendas, the same sides serve for Datas.
+
+
+Datoquære,  is the very Problem it selfe, wherein two or three things are
+given, and a third or forth required, as by the composition of the word
+appears.
+
+
+Datisterurgetick,  is said of those Moods which agree in the Datas of 
+the last work: of data [GREEK], -postremum, and [GREEK], opus.
+
+
+
+
+Demission,  is the letting fall of the Perpendicular: from demitto; de­
+missum.
+
+
+Determinater,  is the characteristick or figurative letter of a directory:
+from determinare, to prescribe and limit.
+
+
+Diagonall, taken substantively, or diagonie,  is a line drawn from one 
+Angle to another, of [GREEK] and [GREEK] what the diagonie is in surfaces,
+the axle is in solids.
+
+
+Diagrammatise,  to make a Scheme or Diagram, from [GREEK], de­
+lineo.
+
+
+Diatyposis,  is a briefe summary desciption, and delineation of a
+thing: or the couching of a great deale of matter, for the in­
+struction of the Reader, in very little bounds, and in a most neat and
+convenient order: from [GREEK], instituo, item melius dispono,
+vide [GREEK].
+
+
+Diodot,  is Pythagorases Bucarnon, or the gift bestowed on him by
+the gods: of [GREEK], the genitive of [GREEK], and [GREEK], datus, from [GREEK],
+do, vide Bucarnon.
+
+
+Dioptrick,  the art of taking heights and distances, from [GREEK]
+pervidendo, altitudinem dimensionemque turrium & murorum
+exploro.
+
+
+Directly,  is said of two rowes of proportionals, where the first terms
+of the first row, is to the first of the second, as the last of the first,
+is to the last of the second.
+
+
+Directory,  is that which pointeth out the Moods dependent on an
+Axiome.
+
+
+Discrepant,  different, dissonant, id est, diverso modo crepare.
+
+
+Disergeticks,  of two operations, of [GREEK], and [GREEK].
+
+
+Document,  instruction, from doceo.
+
+
+E.
+
+ELucidation,  a clearing, explaining, resolving of a doubt, and com­
+menting on some obscure passage, from elucido, elucidare.
+
+
+Energie,  efficacie, power, force; from [GREEK], qui in opere est, of [GREEK] and
+[GREEK], opus.
+
+
+Enodandum,  that which is to be resolved and explicated, declared, and
+made manifest, from enodo, enodare, to unknit, or cur away the
+knot.
+
+
+
+
+Equation, or rather æquation,  a making equall, from æquo, æquare.
+
+
+Equiangularity,  is that affection of Triangles, whereby their Angles are
+equall.
+
+
+Equicrurall,  is said of Triangles, whose legs or shanks are equall; of
+æquale, and crus, cruris; leg being taken here for the thigh and leg.
+
+
+Equilaterall,  is said of Triangles, which have all their sides, shanks,
+or legs equall, of æquus and polleo.
+
+
+Equisolea, and Equisolearie,  are said of the grand Orthogono sphericall
+Scheme; because of the resemblance it hath with a horse-shooe, and 
+may in that sense be to this purpose applied with the same metaphori­
+call congruencie, whereby it is said, that the royall army at Edge-hill
+was imbatteled in a half-moon.
+
+
+Equivalent,  of as much worth and vertue, of æquus and valeo.
+
+
+Erected,  is said of Perpendicular, which are set or raised upright upon
+a Base, from erigere, to raise up, or set aloft.
+
+
+Externall,  extrinsecall,  exteriour, outward, or outer, are said oftest of
+Angles, which being without the Area of a Triangle, are comprehen­
+ded by two of its shanks meeting or cutting one another, accordingly as
+one or both of them are protracted beyond the extent of the figure.
+
+
+F.
+
+FAciendas,  are the things which are to be done: faciendum is the ge­
+rund of facio.
+
+
+Figurative,  is the same thing as Characteristick, and is applied to those
+letters which doe figure and point us out a resemblance and distinction
+in the Moods.
+
+
+Figures,  are taken here for those partitions of Trigonometry, which are
+divided into Moods.
+
+Flat,  is said of obtuse, or blunt Angles.
+
+
+Forwardly,  is said of Analogies, progressive from the first terme to the
+last.
+
+
+Fundamentall,  is said of reasons, taken from the first grounds and prin­
+ciples of a Science.
+
+
+
+
+G.
+
+Geodesie,  the Art of Surveying, of [GREEK], or [GREEK], terra, and [GREEK], divi­
+do, partior.
+
+
+Geography,  the Science of the Terrestriall Globe, of [GREEK] terra, and [GREEK],
+describo.
+
+
+Glosse,  signifieth a Commentary, or explication, it cometh from [GREEK]
+
+
+Gnomon,  is a Figure lesse then the totall square, by the square of a Seg­
+ment: or, according to Ramus, a Figure composed of the two supple­
+ments, and one of the Diagonall squares of a Quadrat.
+
+
+Gnomonick,  the Art of Dyalling, from [GREEK], the cock of a Dyall.
+
+
+Great Circles,  vide Circles.
+
+
+H.
+
+HOmogeneall, and Homogeneity,  are said of Angles of the same
+kind, nature, quality, or affection: from [GREEK], communio
+generis.
+
+
+Homologall,  is said of sides congruall , correspondent, and agreeable,
+viz. such as have the same reason or proportion from [GREEK], si­
+milis ratio.
+
+
+Hypobasall,  is said of the Concordances of those Loxogonosphericall
+Moods, which, when the Perpendicular is demitted, have for the Da­
+tas of their second operation the same Subtendent and Base.
+
+
+Hypocathetall,  is said of those which for the Datas of their third ope­
+ration have the same Subtendent sides, from [GREEK] and [GREEK].
+
+
+Hypotenusall,  is said of Subtendent and Perpendicular.
+
+
+Hypotyposis,  a laying downe of severall things before our eyes at one
+time, from [GREEK], oculis subjicio, delineo, & repræsento, vide
+[GREEK].
+
+
+Hypoverticall,  is said of Moods, agreeing in the same Catheteuretick
+Datas of subtendent and verticall, as the Analysis of the word doth
+shew.
+ 
+
+I.
+
+IDentity,  a samenesse, from idem, the same.
+
+
+Illatitious, or illative,  is said of the terme which bringeth in the quæ­
+situm, from infero, illatum.
+
+
+
+
+Inchased, coagulated, fixed in, compacted, or conflated,  is said of the last
+two Loxogonosphericall operations put into one, vide Compacted,
+Conflated, and Coalescencie.
+
+
+Including sides,  are the containing sides of an Angle of what affection
+soever it be, vide, Ambients, Legs, &.
+
+
+Individuated,  brought to the lowest division, vide, Specialised, and Spe­
+cification.
+
+
+Indowed,  is said of the termes of an Analogie, whether sides, or An­
+gles, as they stand affected with Sines, Tangents, Secants, or their com­
+plements, vide Invested.
+
+
+Ingredient,  is that which entreth into the composition of a Triangle, or
+the progresse of an operation, from ingredior, of in and gradior.
+
+
+Initiall,  that which belongeth to the beginning, from initium, ab ineo,
+significante incipio.
+
+
+Insident,  is said of Angles, from insideo, vide Adjacent, or Conter­
+minall.
+
+
+Interjacent,  lying betwixt, of inter and jaceo; it is said of the Side or An­
+gle betweene.
+
+
+Intermediat,  is said of the middle termes of a proportion.
+
+
+Inversionall,  is said of the Concordances of those Moods which agree in 
+the manner of their inversion; that is in placing the second and fourth
+termes of the Analogy, together with their indowments, in the roomes
+of the first and third, and contrariwise.
+
+
+Invested,  is the same as indowed, from investio, investire.
+
+
+Irrationall,  are those which are commonly called sard numbers, and are
+inexplicable by any number whatsoever, whether whole, or broken.
+
+
+Isosceles,  is the Greek word of equicturall, of [GREEK], [GREEK], and [GREEK], cros.
+
+
+L.
+
+LAterall,  belonging to the sides of a Triangle, from latus, lateris.
+
+
+Leg,  is one of the including sides of an Angle, two sides of every
+Triangle being called the Legs, and the third, the Base; the Legs
+therefore or shankes of an Angle are the bounds insisting or standing
+upon the base of the Angle.
+
+
+Line of interception,  is the difference betwixt the Secant, and the Radi­
+us, and is commonly called the residuum.
+
+
+Logarithms,  are those artificiall numbers, by which, with addition and
+
+
+
+subtraction onely, we work the same effects, as by other numbers, with
+multiplication and division: of [GREEK], ratio, proportio, and [GREEK], nu­
+merus.
+
+
+Logarithmication,  is the working of an Analogy by Logarithms, with­
+out having regard to the old laborious way of the naturall Sines, and
+Tangents; we say likewise Logarithmicall and Logarithmically, for
+Logarithmeticall and Logarithmetically; for by the syncopising of et;
+the pronunciation of those words is made to the eare more pleasant: a
+priviledge warranted by all the dialects of the Greek, and other the
+most refined Languages in the world.
+
+
+Loxogonosphericall,  is said of oblique sphericals, or [GREEK], obliquus,
+and [GREEK], ad sphæram pertinens, from [GREEK], globus.
+
+
+M.
+
+MAjor and Minor Arches,  vide Arch.
+
+
+Maxim, an axiome, or principle,  called so ( from maximus ) be­
+cause it is of greatest account in an Art of Science, and the principall
+thing we ought to know.
+
+
+Meane, or middle proportion,  is that, the square whereof is equall to the
+plane of the extremes: and called so because of its situation in the 
+Analogy.
+
+
+Mensurator,  is that, whereby the illatitious terme is compared, or mea­
+sured with the maine quæsitum.
+
+
+Monotropall,  is said of figures, which have one onely Mood, of [GREEK],
+and [GREEK], from [GREEK].
+
+
+Monurgeticks,  are said of those Moods, the maine Quæsitas whereof
+are obtained by one operation, of [GREEK], and [GREEK].
+
+
+Moods,  determine unto us the severall manners of Triangles, from mo­
+dus, a way, or manner.
+
+
+N.
+
+NAturall,  the naturall parts of a Triangle, are those of which it is
+compounded, and the circular, those whereby the maine quæsi­
+tum is found out.
+
+
+Nearest, or next,  is said of that Cathetopposite Angle, which is imme­
+diatly opposite to the pendendicular.
+
+
+
+
+Notandum,  is set downe for an admonition to the Reader, of some re­
+markable thing to follow, and is the gerund of Noto, notare.
+
+
+O.
+
+OBlique, and obliquangulary,  are said of all Angles that are not
+right.
+
+
+Oblong,  is a parallelogram, of square more long then large: from ob­
+longus, very long.
+
+
+Obtuse, and obtuse angled,  are said of flat, and blunt Angles.
+
+
+Occurse,  is a meeting together, from occurio, occurium.
+
+
+Oppobasall,  is said of those Moods, which have a Cathereuretick Con­
+cordance in their Datas of the same Cathetopposite Angles, and the 
+same Bases.
+
+
+Oppocatherall,  is said of those Loxogonosphericals which have a Da­
+tisterurgetick Concordance in their Datas of the same Angles at
+the Base, and the Perpendicular.
+
+
+Oppoverticall,  is said of those Moods which have a Catheteuretick
+Concordance in their Datas of the same Cathetopposites, and verticall
+Angles.
+
+
+Orthogonosphericall,  is said of right angled Sphericals, of [GREEK],
+[GREEK], [GREEK], angulus, and [GREEK], globus.
+
+
+Oxygonosphericall,  is said of acute-angled sphericals, of [GREEK], [GREEK],
+and [GREEK].
+
+
+P.
+
+Parallelisme,  is a Parallel, equality of right lines, cut with a right
+line, or of Sphericals with a Sphericall, from [GREEK], equidi­
+stans of [GREEK], and [GREEK].
+
+
+Parallelogram,  is an oblong, long square, rectangle, or figure made of
+parallel lines: of [GREEK], and [GREEK], linea.
+
+
+Partiall,  is said of enodandas depending on severall Axioms.
+
+
+Particularise,  specialise, by some especiall difference to contract the gene­
+rality of a thing.
+
+
+Partition,  is said of the severall operations of every Loxogonosphericall
+Mood, and is divided in prænoscendall, catheteuretick and hysterur­
+getick.
+
+
+Permutat proportion, or proportion by permutation, or alternat proporti­
+
+
+
+on,  is when the Antecedent is compared to the Antecedent, and the Con­
+sequent to the Consequent, vide, Perturbat.
+
+
+Perpendicularity,  is the affection of the Perpendicular, or plumb-line;
+which comes from perpendendo, id est, explorando altitudinem.
+
+
+Perturbat,  is the same as permutat, and called so because the order of
+the Analogie is perturbed.
+
+
+Planobiquangular,  is said of plaine Triangles, where in there is no right
+Angle at all.
+
+
+Planorectangular,  is said of plaine right-angled Triangles.
+
+
+Planotriangular,  is said of plaine Triangles, that is, such as are not
+Sphericall.
+
+
+Pleuseotechnie,  the Art of Navigation, of [GREEK], [GREEK], naviga­
+tio, and [GREEK] ars.
+
+
+Plusminused,  is said of Moods which admit of Mensurators or whose
+illatitious termes are never the same, but either more or lesse then the
+maine quæntas.
+
+
+Poltechyrologie,  the Art of fortifying Townes and Cities, of [GREEK],
+urbs, civitas [GREEK], munio firmo, and [GREEK], ratio.
+
+
+Possubservient,  is that which after another serveth for the resolving of
+a question; of posi and subserviens; of sub and servio.
+
+
+Potentia,  is that wherein the force and whole result of another thing lies.
+
+
+Power,  is the square, quadrant , or product of a line extended upon it selfe,
+or of a number in it selfe multiplied.
+
+
+Powered,  squared quadrified.
+
+
+Precept,  document, from præcipio, præceptum.
+
+
+Prænoscenda,  are the termes, which must be knowne before we can at­
+taine to the knowledge of the maine quasitas: of præ and nosco.
+
+
+Prænoscendall,  is said of the Concordances of those Moods, which a­
+gree in the same prænoscendas.
+
+
+Præfection, præfectionall,  is concerning the digit towards the left, whose 
+cutting off saveth the labour of subtracting the double or single Ra­
+dius.
+
+
+Præscinded problems,  are those speculative Datoquæres, which are not
+applied to any matter by way of practice.
+
+
+Præsubservient,  is said of those Moods which in the first place we must
+make use of for the explanation of others; of præ, and subiervio.
+
+
+Prime,  is said of the furthest Cathetopposite, or Angle at the Base, con­
+tained within the Triangle to be resolved.
+
+
+
+
+Primifie the Radius,  is to put the Radius in the first place, primum­
+que inter terminus collocare proportionales.
+
+
+Problem, problemet,  a question or datoquære, from [GREEK], unde
+[GREEK], propositum, objectaculum.
+
+
+Product,  is the result, factus, or operatum of a multiplication, from
+produco, productum.
+
+
+Proportion, proportionality,  are the same as Analogy, and Analogisme;
+the first being a likenesse of termes, the other of proportions.
+
+
+Proposition,  a proposed sentence, whether theorem or problem.
+
+
+Prosiliencie,  is a demission, or falling of the Perpendicular, from pro­
+silio, ex pro & salio.
+
+
+Proturgetick,  is said of the first operation of every Disergetick Mood,
+of [GREEK], and [GREEK], the [GREEK] being Attically contracted into [GREEK].
+
+
+Q.
+
+QUadrant,  the fourth part of a Circle.
+
+
+Quadranting,  the protracting of a Sphericall side unto a Qua­
+drant.
+
+
+Quadrat,  a Square, a forma quadræ, the power or possibility of a line,
+vide, Power.
+
+
+Quadrobiquadræquation,  concerneth the Square of the subtendent
+side, which is equall to the Biquadrat, or two Squares of the Am­
+bients.
+
+
+Quadrosubduction,  is concerning the subtracting of the Square of 
+one of the Ambients from the Square of the Subtendent.
+
+
+Quæsitas,  the things demanded from quæro, quæsitum.
+
+
+Quotient,  is the result of a division, from quoties, how many times.
+
+
+R.
+
+RAdicaly meeting,  is said of those Oblongs, or Squares, whose
+sides doe meet together.
+
+
+Radius, ray or beame  is the Semidiameter, called so metaphorically, from
+the spoake of a wheele which is to the limb thereof, as the Semidiame­
+ter, to the circumference of a circle.
+
+
+Reciprocall,  is said of the proportionalities, or two rowes of proportionals,
+wherein the first of the first is to the first of the second, as the last of
+
+
+
+the second is to the last of the first, and contrarily.
+
+
+Rectangular,  is said of those figures, which have right Angles.
+
+
+Refinedly,  is said when we go the shortest way to work by primifying the 
+Radius.
+
+
+Renvoy,  a remitting from one place to another, it comes from the French
+word Renvoyer.
+
+
+Representative,  is said of the letters, which stand for whole words; as
+E. for side, L. for secant, U. for subtendent.
+
+
+Residuat,  is to leave a remainder, nempe id quod resider & superest.
+
+
+Resolver,  is that which looseth and untieth the knot of a difficulty, of re
+and solvo.
+
+
+Resolutory,  is said of the last partition of the Loxogonosphericall opera­
+tions.
+
+
+Result,  is the last effect of a work.
+
+
+Root,  is the side of a Square, Cube, or any cossick figure.
+
+
+S.
+
+SCheme,  signifieth here the delineation of a Geometricall figure, with
+all parts necessary for the illustrating of a demonstration, from [GREEK],
+habeo.
+
+
+Sciography,  the Art of shadowing, of [GREEK], umbra, and [GREEK], scribo.
+
+
+Segment,  the portion of a thing cut off, quasi secamentum, quod a re
+aliqua secatur.
+
+
+Sexagesimat, subsexagesimat, resubsexagesimat, and biresubsexagesi­
+mat,  are said of the division, subdivision, resubdivision, and reer-resub­
+division of a degrees into minuts, seconds, thirds, and fourths in 60.
+of each other: the devisor of the fore goer being successively the fol­
+lowing dividend, and the quotient always sixty.
+
+Sharp,  is said of acute Angles.
+
+
+Sindiforall,  is said of those Moods, the fourth terme of whose Analogie
+is onely illatitious to the maine quæsitum.
+
+
+Sindiforation,  is the affection of those foresaid Moods, whereby the va­
+lue of the mensurator is knowne.
+
+
+ Sindiforatall,  is concerning those Moods, whose illatitious terme is an
+Angle.
+
+
+Sindiforiutall,  is of those Moods, whose illatitious terme is a side: all
+these foure words are composed of representatives, and ( if I remember
+well) mentioned in my explanation.
+
+
+
+
+Sinocosinall,  is said of the Concordances of those Moods, which agree in 
+this, that their Analogies run upon sines, and sine-complements.
+
+
+Sinocotangentall,  is said of those Moods, which agree in that the termes
+of their Analogie run upon Sines and Tangent-complements.
+
+
+Sinus,  is so called ( I believe ) because it is alwayes in the very bosome of
+the Circle.
+
+
+Sinused,  is said of termes endowed or invested with Sines.
+
+
+Specialized,  contracted to more particular termes, vide, Individuated.
+
+
+Specifying,  determinating particularising.
+
+
+Specification,  a making more especiall, by contracting the generality of
+a thing, vide, Specialized.
+
+
+Sphericodisergeticks,  are the Sphericall Triangles of two operations.
+
+
+Structure of an operation,  is the whole frame thereof, from struo, stru­
+ctum.
+
+
+Subdatoquære,  is a particular datoquære, and is applied to the pro­
+blems of the cases of every Sphericodisergetick Mood, vide, Sub-pro­
+blems.
+
+
+Subajcent,  is the substerned side or the Base, of sub & jaceo, vide, Su­
+stentative, Sustaining side and Substerned.
+
+
+Subordinate problems,  is the same with subdatoquære.
+
+
+Subproblems,  is the same with subordinate problems, or problemets.
+
+
+Subservient,  is said of Moods which serve in the operation of other 
+Moods.
+
+
+Substerned,  is the subjacent side of Base: or, more generally, and side
+opposite to an Angle: of sub and sterno, sternere, vide, Sub­
+jacent.
+
+
+Subtendent,  is the side opposite to the right Angle, of sub and tendo:
+as if you would say, Under-stretched.
+
+
+Subtendentine,  is the subtendent of a little rectangled Triangle, com­
+prehended within the Area of a great one, and is sometimes called the
+little subtendent, and reere subtendent.
+
+
+Subtendentall,  is the subtendent of a great rectangled Triangle, within
+whose capacity is included a little one: it is likewise called the great
+subtendent, and maine subtendent.
+
+
+Supernumerary,  is said of the digit, by the which the proposed number
+exceeds in places the number of the places of the Radius.
+
+
+Supplements,  are the Oblongs made of the Segments of the root of a 
+Square; and so called, because they supply all that the Diagonals or
+
+
+
+Squares of the Segments joyned together, want of the whole lines
+square.
+
+
+Suppone severally,  is to signifie severall things.
+
+
+Sustaining side  is the substerned, or subjacent side.
+
+
+Sustentative,  is the same with sustaining, substerned, subjacent and
+Base.
+
+
+Sympathie of Angles,  is a similitude in their affection, of [GREEK], and 
+[GREEK], passio, vide homogeneall.
+
+
+T.
+
+TAble,  is an Index sometimes, and sometimes it is taken for a
+Briefe and summary way of expessing many things.
+
+
+Tangentine,  is that which concerneth Tangents or touch-lines.
+
+
+Tangentosinall,  is said of the Concordance of those Loxogonosphe­
+ricals, the termes of whose Analogie runne upon Tangents and
+Sines.
+
+
+Tenet,  is a secondary maxim, and is onely said here of Catheto­
+tetick principles.
+
+
+Theorematick,  speculative, from [GREEK], a speculation, which com­
+eth from [GREEK], or [GREEK], speculare, or contemplare.
+
+
+Topanglet, and verticalin  are the same.
+
+
+Trigonometry,  is the Art of calculating, and measuring of Triangles
+of [GREEK], triangulus, and [GREEK], metior.
+
+
+Trislotetras,  is that which runneth all upon threes and foures
+of [GREEK], and in plurali, [GREEK], tertius, trinus, triplex, tres, and
+[GREEK], numerus quaternarius, from [GREEK], quatuor.
+
+
+U.
+
+VAriator,  is from vario, variare, to diversifie, and is said of cases,
+which upon the same Datas are onely diverse in the manner of re­
+solving the quæsitum.
+
+
+
+
+Verticaline, verticall, verticalet,  are the top angles, and top anglets, from
+vertex, verticis.
+
+
+Underproblem, problemet, subordinate problem, sub-problem, under-da­
+roquæere, and sub. datoquære  are, all the same thing.
+
+
+Unradiated, or unradiused,  is said of a summe of Logarithms from
+which the Radius is abstracted.
+
+
+Z.
+
+ZEterick,  is said of Loxogonosphericall Moods which agree in
+the same quæsitas, from [GREEK], quæro, inquiro.
+
+
+

@@ -1,0 +1,270 @@
+
+	
+
+
+
+
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 6 8 4 8 
+
+v e r . 1 . 0  ( 2 0 1 9 )
+
+
+
+An Arithmeticall Militare Treatise, named
+STRATIOTICOS:
+Compendiously teaching the Science of Numbers,
+as well in Fractions as Integers, and so much of the Ru­
+les and Æquations Algebraicall and Arte of Numbers 
+Cossicall, as are requisite for the Profession of Soldiour.
+
+Together with the Moderne Militare Discipline, Offices, Lawes and
+Dueties in euery wel gouerned Campe and Armie to be obserued:
+Long since attempted by LEONARD DIGGES Gentleman,
+Augmented, digested, and lately finished, by 
+THOMAS DIGGES, his Sonne.
+
+Whereto he hath also adioyned certaine Questions of great Ordinaunce,
+resolued in his other Treatize of Pyrotechny and great
+Artillerie, hereafter to bee published.
+
+VIVET POST FVNERA VIRTVS.
+
+AT LONDON: 
+Printed by Henrie Bynneman.
+Anno Domini 1579.
+
+
+
+
+
+
+
+
+A Number is the multitude of Unites sette
+togither, as 2. 3. 4. &c.
+
+The Cipra o augmenteth places, but of himselfe signi­
+fieth not. To number anye summe nothing else is, but to
+declare the value of euerie Figure placed. So many places 
+are in your worke, as there be Elementes from the righte
+hand to the left. Euery Figure in the first place betokeneth
+himselfe, and so towarde the left side, tenne times so muche
+as he was the place before.
+
+
+
+
+TO adde is to gather and knit in one many numbers or 
+Unites, whereby the whole summe manifestly may ap­
+peare, as 3, 15 and 22 maketh 40 the whole &c.
+
+
+
+
+TO subduce or subtray any summe, is wittily to pull a lesse
+from a bigger number, or an equall from a like or equall, so that 
+that remaine if it be any thing, do appeare.
+
+
+
+
+TO multiplie, is to find of two Numbers a number product
+the one in the other augmented, the which so often may
+conteyne the number multiplied, as there be of Unites in 
+the Multiplicator. The lesse is named the Multiplicator or 
+
+
+
+
+Multiplyer, the other summe, or number to be multiplyed.
+
+
+
+
+TO deuide or parte, is ingeniously to find how oftentimes
+the diuisor is conteined in the number to be diuided, or to
+part any number into as manye portions as your diuisor
+appoynted. Then diuision sheweth onely howe often the
+Lesse summe is conteyned in the bigger, as if I woulde di­
+uide 40 by 8, that declareth how oftentimes 8 is conteyned
+in 40, so find I 5, and thus is my diuision perfourmed. The
+lesse summe is the Diuisor or Diuident, the other that number 
+to be diuided or diuisible, vnder whome, the two lines or 
+paralels must be drawen for your quotient, and the Diuisor 
+vnder them.
+
+
+
+
+TO Reduce, is to bring a number of grosse denominati­
+on into a smaller or contrarie. Grosse to subtile by Mul­
+
+
+
+
+tiplication, Subtile, to grosse by partition is perfourmed. A
+number of grosse Denomination is that, which conteyneth
+many other subtiler or smaller, as a Pounde in respecte of 
+Shillings. Shillings in comparison to Poundes are a sub­
+tile denomination.
+
+Our English mile grounded vpon the Statute, hath or­
+deyned three barlie cornes drie and round to make an ynch,
+twelue ynches a foote, three foote a yard, fiue yards a pearch, 
+& fortie pearches in length, & four of breadth, an acre of land:
+so the acre conteyneth 160 pearches, the halfe 80, and the
+yarde, whiche is the quarter 40. Twentie yards make a
+Score, and fortie pearches a Furlong, 8 furlong a Mile. So
+that by Reduction, you may find in the Englishe mile 320
+pearches, 1760 yards, 5280 foote, & 63360 ynches, somewhat
+greater than the Italian mile of 1000 pace, & 5 foote to a pace.
+
+
+Of waight according to the Statute of England.
+
+
+THe English Pennie which is called the Sterling round
+without clipping, shal wey 22 graines of wheat dry, & in 
+the midst of the eare. 20. pens maketh 1 ounce, 12 ounces maketh 
+
+
+
+
+a pounde, and this weight is called Troy weighte, whiche
+Goldsmithes commonly vse. By this whiche is saide, you
+may gather the ounce to conteine 440 graynes of wheate,
+and the pound 5280. There is another more vsuall weight
+called Haberdepoyse, the Scruple conteyneth 20 Graynes of
+Barlie, as the Pennie of Troy, the Dramme 3 scruples, the
+ounce 8 Drammes, so ye maye perceyue 480 Graynes of 
+Barlie in the ounce, and 7680 in a pound: but these rates
+often alter.
+
+...
+
+PRogression is a very compendious way to knitte and
+gather in one those numbers which do proceede with an 
+eauen and equal distance. In all Arithmetical Progression, 
+you shall conioyne the extreames, augmenting the number
+of those extreames so added, with the number that sheweth 
+how many places there be in the whole round of your pro­
+gression, the product mediating, as 5. 10. 20. 25. 30. 35. By 
+adding the extreames whiche is 5, and 35 encreaseth 40,
+multiplie it by the places which is 7, riseth 280, diuided by
+2, or mediated, sheweth 140 the whole summe. There is a­
+nother kinde of Progression, named Geometricall, whyche 
+encreaseth by 2, 3, 4, 5, or mofold infinitely, behold the figure.
+
+
+
+
+TO find the square Radix, or Roote of any number, is to
+gather a summe that multiplyed in himselfe, if it be 
+quadrate, iustly may make the aforesayde number, or else
+it may engender the bigger squares summe in that contey­
+ned. A square number is that which resulteth of any num­
+ber once multiplyed in himselfe. A quadrate Radix is cal­
+led that number, whiche by himselfe multiplyed, yeeldeth a 
+square summe. 
+
+
+
+
+To search or pull out the Radix, or roote cubical,  is to get
+a summe multiplyed once by himself, and again in the Pro­
+duct engendring the number proponed if it be Cubicall. A
+number Cubicall is that whiche by multiplication in hym­
+selfe, and agayne in that surmounteth, is ingendred. Radix 
+or Roote Cubicall, is that number so multiplyed, making
+the said summe cubicall. To multiplie anye number cubi­
+callye, is to encrease it once in himselfe, and againe that
+number with the product, as if I woulde multiplie 4, 4 in
+himselfe maketh 16, and foure times 16, is 64.
+
+
+
+
+A Fraction is a Distribution, appointed of a part or parts 
+of an Integer. As the Integers take their beginning 
+at 1, and continue in number without ende, euen to the 
+said Integers, by imagination from one second part, maye
+be dissolued, or broken in portions or parts infinite. The 
+partes of those simple or principall Fractions, haue also to 
+them parts following. To atteyne the knowledge of them, 
+acquaynte your selfe with these two termes, Numerator, 
+and Denominator. The office and duetie of the firste, is, to 
+
+
+
+
+expresse the number of such parts. The Denominator doth
+giue to those parts their names, as 3/4 which is three portions
+of a thing diuided in 4. The Numerator is called the Ele­
+mentes or Figures that be alway set aboue the short line. 
+The Characters or Elements vnder, beare the name of the 
+Denominator. 
+
+...
+
+TO reduce, is to bring Integers into Fractions or con­
+trarie, yea a fragment of Fractions of diuers Deno­
+minations into one, or what name you list.
+
+
+
+
+TO abbreuiate any Fragment, is to bring a Fraction to 
+his lest denomination.
+
+
+
+
+TO ad in common Fractions, is to gather and reduce ma­
+ny Fragmentes to one summe or principal Fraction.
+
+SVbduction is the taking of the one Fraction from the 
+other, the lesse from the greater, or equal from the like
+
+
+
+
+or equall.
+
+
+
+
+
+Of the Rule of Proportion, com­
+monly called the Golden Rule.
+Chapter 20.
+
+
+THis Rule is also called the Rule of three, for as muche
+as by three proportionall numbers knownen, it alwaye
+searcheth out the fourth proportionall, as if nine yardes of
+Veluet cost eleuen poundes, what shall 33 of the same cost.
+Heere are three numbers giuen, and a fourth demaunded.
+For the resolution of this and all suche like, worke by the 
+Rule Ensuing.
+
+The Rule.
+
+Multiplie the last number by the seconde, and diuide the 
+Product by the first number, so will your Quotient and re­
+mayne discouer the fourth proportionall desired.
+
+
+
+
+AEquation is nothing else but a certain conference of two
+numbers being in value Equal, and yet in multitude and 
+Denomination different.
+
+
+
+
+
+
+ 

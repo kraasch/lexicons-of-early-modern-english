@@ -1,0 +1,6619 @@
+
+
+
+
+
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 4 8 8 4
+
+v e r . 1 . 0  ( 2 0 1 9 )
+
+
+
+A
+Table Alphabeticall, con­
+teyning and teaching the true
+writing, and vnderstanding of hard
+vsuall English wordes, borrowed from
+the Hebrew, Greeke, Latine,
+or French. &c.
+
+With the interpretation thereof by
+plaine English words, gathered for the benefit &
+helpe of Ladies, Gentlewomen, or any other
+vnskilfull persons.
+
+Whereby they may the more easilie
+and better vnderstand many hard English
+wordes, which they shall heare or read in
+Scriptures, Sermons, or elswhere, and also
+be made able to vse the same aptly
+themselues. 
+
+Legere, et non intelligere, neglegere est.
+As good not read, as not to vnderstand. 
+
+AT LONDON,
+Printed by I. R. for Edmund Wea­
+uer, & are to be sold at his shop at the great
+North doore of Paules Church.
+1604.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+To the right honourable,
+Worshipfull, vertuous, & godlie
+Ladies, the Lady Hastings, the Lady
+Dudley, the Lady Mountague, the Ladie
+Wingfield, and the Lady Leigh, his Chri­
+stian friends, R. C. wisheth great prosperitie in this
+life, with increase of grace, and peace from GOD
+our Father, through Iesus Christ our Lord and
+onely Sauiour. 
+
+BY this Table (right Honourable & Wor­
+shipfull) strangers that blame our tongue
+of difficultie, and vncertaintie may heere­
+by plainly see, & better vnderstand those
+things, which they haue thought hard. Heerby
+also the true Orthography, that is, the true
+writing of many hard English words, borrowed
+from the Greeke, Latine & French, and how to
+know one from the other, with the interpretati­
+on thereof by plaine English words, may be lear­
+ned and knowne. And children heereby may be
+prepared for the vnderstanding of a great num­
+ber of Latine words: which also will bring much
+delight & iudgement to others, by the vse of this
+little worke. Which worke, long ago for the most
+part, was gathered by me, but lately augmented
+by my sonne Thomas, who now is Schoolemai­
+ster in London.
+
+
+
+
+
+ 
+Now when I had called to mind (right hono­
+rable and Worshipfull) the great kindnesse, and
+bountifulnes, which I found in that vertuous &
+godly Lady, Lucie Harington, your Honours
+and Worships mother, and my especiall friend in
+the Lord. When, and at such time as the right
+Worshipfull SirIames Harington Knight,
+your Ladiships brother was my scholler, (and
+now my singuler benefactor) when I taught the
+Grammer schoole at Okeham in the County of
+ Rutland: In consideration whereof, and also
+for that I acknowledge my selfe much beholding
+and indebted to the most of you, since this time,
+(beeing all naturall sisters) I am bold to make
+you all ioyntly patrons heereof, and vnder your
+names to publish this simple worke. And thus
+praying, that God of his vnspeakeable mercies,
+will blesse both your Honors and Worships, I doe
+with all good wishes to you all, with all yours, as
+to mine owne soule, humbly take my leaue. Co­
+uentry this xxvij. of Iune. 1604. 
+
+Your Honors and Worships, euer
+ready in Christ Iesus to be com­
+maunded, Robert Cawdrey.
+
+
+
+
+
+
+
+
+SVch as by their place and calling,
+(but especially Preachers) as haue oc­
+casion to speak publiquely before the
+ignorant people, are to bee admoni­
+shed, that they neuer affect any strange
+ynckhorne termes, but labour to speake so
+as is commonly receiued, and so as the most
+ignorant may well vnderstand them: ney­
+ther seeking to be ouer fine or curious, nor
+yet liuing ouer carelesse, vsing their speech,
+as most men doe, & ordering their wits, as
+the fewest haue done. Some men seek so far
+for outlandish English, that they forget al­
+together their mothers language, so that if
+some of their mothers were aliue, they were
+not able to tell, or vnderstand what they say,
+and yet these fine English Clearks, will say
+they speak in their mother tongue; but one
+might well charge them, for counterfeyting
+the Kings English. Also, some far iournied
+gentlemen, at their returne home, like as they
+loue to go in forraine apparrell, so they will
+pouder their talke with ouer-sea language.
+He that commeth lately out of France, will
+talk French English, and neuer blush at the
+
+
+
+
+
+ 
+matter. Another chops in with English Ita­
+lianated, and applyeth the Italian phrase to
+our English speaking, the which is, as if an
+Orator, that professeth to vtter his minde in
+plaine Latine, would needs speake Poetrie,
+& far fetched colours of strange antiquitie.
+Doth any wise man think, that wit resteth in
+strange words, or els staandeth it not in whol­
+some matter, and apt declaring of a mans
+mind? Do we not speak, because we would
+haue other to vnderstand vs? or is not the
+tongue giuen for this end, that one might
+know what another meaneth? Therefore,
+either wee must make a difference of Eng­
+lish, & say, some is learned English, & other­
+some is rude English, or the one is Court
+talke, the other is Country-speech, or els we
+must of necessitie banish all affected Rhe­
+torique, and vse altogether one manner of
+language. Those therefore that will auoyde
+this follie, and acquaint themselues with the
+plainest & best kind of speech, must seeke
+from time to time such words as are commonlie
+receiued, and such as properly may expresse
+in plaine manner, the whole conceit of their
+mind. And looke what words wee best vn­
+derstand, and know what they meane, the
+
+
+
+
+
+ 
+same should soonest be spoken, and first ap­
+plied, to the vttrance of our purpose. Ther­
+fore for this end, foure things would chiefly
+be obserued in the choise of wordes. First,
+that such words as wee vse, should be pro­
+per vnto the tongue wherein we speake. A­
+gaine, that they be plaine for all men to per­
+ceiue. Thirdly, that they be apt and meete,
+most properly to set out the matter. Fourth­
+lie, that words translated, from one signifi­
+cation to another, (called of the Grecians
+Tropes,) be vsed to beautifie the sentence, as
+precious stones are set in a ring, to commend
+the gold. Now such are thought apt words,
+that properly agree vnto that thing, which
+they signifie, and plainly expresse the nature
+of the same. Therefore, they that haue re­
+gard of their estimation and credite, do wa­
+rily speake, & with choise, vtter words most
+apt for their purpose. In waightie causes,
+graue wordes are thought most needfull,
+that the greatnes of the matter, may the ra­
+ther appeare, in the vehemencie of theyr
+talke. So likewise of other, like order must
+be taken. Albeit some, not onely doe not
+obserue this kind of aptnesse, but also they
+fall into much fondnes, by vsing words out
+
+
+
+
+
+ 
+of place, and applying them to diuers mat­
+ters, without all discretion.
+
+If thou be desirous (gentle Reader) right­
+ly and readily to vnderstand, and to profit
+by this Table, and such like, then thou must
+learne the Alphabet, to wit, the order of the
+Letters as they stand, perfectly without
+booke, and where euery Letter standeth: as
+(b) neere the beginning, (n) about the mid­
+dest, and (t) toward the end. Nowe if the
+word, which thou art desirous to finde, be­
+gin with (a) then looke in the beginning of
+this Table, but if with (v) looke towards
+the end. Againe, if thy word beginne with
+(ca) looke in the beginning of the letter (c)
+but if with (cu) then looke toward the end
+of that letter. And so of all the rest. &c.
+
+And further vnderstand, that whereas all
+such words as are deriued & drawne from the
+Greek, are noted with this letter, (g). And
+the French are marked thus (§) but such
+words as are deriued from the latin, haue no
+marke at all.
+
+
+
+
+
+
+
+
+
+A Table Alphabeticall,
+contayning and teaching the true
+writing, and vnderstanding of hard
+vsuall English words. &c. 
+
+
+(k) standeth for a kind of.
+(g. or gr.) standeth for Greeke.
+The French words haue this § before them.
+
+ A
+
+§ ABandon,  cast away, or yeelde vp, to
+leaue, or forsake.
+
+Abash,  blush.
+
+abba,  father.
+
+§ abbesse,  abbatesse, Mistris of a Nunne­
+rie, comforters of others.
+
+§ abbettors,  counsellors.
+
+aberration,  a going a stray, or wande­
+ring.
+
+abbreuiat, abbridge,  to shorten, or make short.
+
+§ abbut,  to lie vnto, or border vpon, as one
+lands end meets with another.
+
+abecedarie,  the order of the Letters, or hee
+that vseth them.
+
+aberration,  a going astray, or wandering.
+
+§ abet,  to maintaine.
+
+
+
+
+
+
+abdicate,  put away, refuse, or forsake.
+
+abhorre,  hate, despise, or disdaine.
+
+abiect,  base, cast away, in disdaine:
+
+abiure,  renounce, denie, forsweare:
+
+abolish, abolited,  make voyde, destroy, deface,	
+or out of vse.
+
+§ abortiue,  borne before the time.
+
+abricot, (k)  kind of fruit:
+
+abrogate,  take away, disanull, disallow,
+
+abruptly,  vnorderly, without a preface.
+
+absolue,  finish, or acquite:
+
+absolute,  perfect, or vpright.
+
+absolution,  forgiuenes, discharge:
+
+abstract,  drawne away from another: a lit­
+tlebooke or volume gathered out of a grea­
+ter.
+
+absurd,  foolish, irksome.
+
+academie,  an Vniuersitie, as Cambridge,
+or Oxford:
+
+academicke,  of the sect of wise and learned
+men.
+
+accent,  tune, the rising or falling of the voice.
+
+accept,  to take liking of, or to entertaine
+willingly.
+
+§ acceptance, an agreeing to some former act
+done before.
+
+accesse,  free comming to, or a way to a place,
+
+
+
+
+
+ 
+accessarie,  partaker in the same thing
+
+§ accessorie, an accident extraordinary
+
+accident,  a chance, or happening.
+
+accidentall,  falling by chance, not by nature
+
+accomodate,  to make fit too, or conuenient
+to the purpose
+
+§ accomplish,  finish, or make an end of.
+
+accommodating,  lending
+
+§ account,  reckon.
+
+§ accord,  agreement betweene persons
+
+accurate,  curious, cunning, diligent.
+
+§ accrew,  grow, increase, goe.
+
+§ acertaine,  make sure, certifie.
+
+acetositie,  sharpnes, or sowernesse
+
+§ acheeue,  to make an end of
+
+§ acquitall,  discharge
+
+acquisition,  getting, purchasing
+
+§ action,  the forme of a suite
+
+actiue,  nimble, ready, quicke.
+
+actuall,  in act, or shewing it selfe in deed
+
+acute,  sharp, wittie, quick
+
+adage,  an old speech, or prouerbe,
+
+adamantine,  as hard as Diamont
+
+addict,  giuen too, appointed too
+
+adhærent,  cleauing to, or taking part with.
+
+§ adiew,  farewell
+
+§ addresse,  prepare, or direct.
+
+
+
+
+
+ 
+adiacint,  lying too, adioyning too
+
+adiunct,  an accidentall qualitie, or any pro­
+perty, that is not a substance.
+
+§ adiourne,  deferre, or put off till another
+time.
+
+adiure,  make to sweare, or to deny
+
+administer,  gouerne, serue, or rule, or doe
+seruice vnto
+
+administrator,  one that doth busines for an
+other
+
+admire,  maruell at, or be in loue with
+
+admiration,  wonderment, reioycing
+
+§ admirall,  chiefe by sea, worthy
+
+admission,  receiuing, or leaue to enter into
+a place, accept.
+
+adopt,  to take for his child, freely to choose
+
+§ adore,  worship, or reuerence,
+
+adorne,  beautifie, apparrell, prepare.
+
+§ aduaunce,  preferre, lift vp to honor:
+
+aduent,  the comming
+
+aduerse,  contrary, or backward
+
+§ aduertise,  giue knowledge, aduise, or couun­
+sell:
+
+adulation,  flatterie, or fauning
+
+adulterate,  to counterfeit, or corrupt:
+
+aduocate,  a spokesman, atturney, or man
+of law, plead.
+
+
+
+
+
+
+§ aduousion,  patronage, or power to pre­
+sent, or giue a liuing.
+
+adustion,  burning, or rosting.
+
+Æ, see E.
+
+affable,  readie, and curteous in speech, gra­
+cious in words.
+
+§ affaires,  busines
+
+§ affect,  to desire earnestly, or to mind
+
+affected,  disposed, inclined
+
+affinitie,  kinne by marriage
+
+affirme,  auouch, acertaine
+
+§ affiance,  trust
+
+§ affianced,  betrothed
+
+§ affranchise,  set at libertie.
+
+agent,  doer, a steward, or commissioner
+
+aggrauate,  make more grieuous, and more
+heauie:
+
+agilitie,  nimblenes, or quicknes
+
+agglutinate,  to ioyne together
+
+agnition,  knowledge, or acknowledging
+
+agitate,  driuen, stirred, tossed
+
+agonie, (gr)  heauie passion, anguish, griefe
+
+§ aigre,  sharpe, sower,
+
+akecorne, (k)  fruit
+
+alacritie,  cheerefulnes, liuelines
+
+alablaster, (k)  stone
+
+alarum,  a sound to the battell.
+
+
+
+
+
+ 
+alchimie,  the art of turning other mettals
+into gold.
+
+§ alien,  a stranger
+
+§ alienate,  to estrange, or with-drawe the
+mind, or to make a thing another mans.
+
+all haile,  salute
+
+alledge,  bring proofe
+
+allegation,  alledging
+
+ allegorie, (gr)  similitude, a misticall speech,
+more then the bare letter
+
+§ allegiance, obedience of a subiect
+
+allieuate,  asswage, or make more easie and
+light "allieuate" predates OED first entry in Cawdrey 1613
+
+§ alliance,  kindred, or league.
+
+allusion,  meaning and pointing to another
+matter then is spoken in words
+
+allude,  to speake one thing that hath re­
+semblance and respect to another,
+
+aliment,  nourishment, sustenance
+
+ alpha, (gr)  the first Greeke letter
+
+ alphabet, (g)  order of letters in the crosse­
+row.
+
+altercation,  debate, wrangling, or conten­
+tion
+
+altitude,  height
+
+amaritude,  bitternesse
+
+ambage,  long circumstance of words.
+
+
+
+
+
+
+§ ambassadour,  messenger
+
+ambition,  desire of honour, or striuing for
+preferment
+
+ambodexter,  one that playeth on both hands.
+
+ambiguous,  doubtfull, vncertaine
+
+§ ambushment, priuie traine, lying secret­
+ly to intrap by the way
+
+§ amerce, amercement,  fine, or penalty.
+
+amiable,  louely, or with a good grace.
+
+amitie,  friendship, loue.
+
+amorous,  full of loue, amiable.
+
+§ amorte,  dead, extinguished, without life.
+
+amplifie,  enlarge, or make bigger.
+
+analogie, (gr)  conuenience, proportion.The word "convenience" is out of place.
+
+analisis, (gr)  resolution, deuiding into
+parts.
+
+anarchie, (gr)  when the land is without a
+prince, or gouernour.
+
+anatomie, (g)  cutting vp of the body.
+
+anathema, (g)  accursed or giuen ouer to
+the deuill.
+
+anchoue, (k)  of fruite.
+
+§ angle,  corner.
+
+§ anguish,  griefe.
+
+angust,  straight, narrow.
+
+animate,  encourage.
+
+
+
+
+
+
+animaduersion,  noting, considering, or
+marking.
+
+annalis,  chronicles of things from yeare to
+yeare.
+
+annex,  to knit or ioyne together.
+
+annihilate,  make voyd, or bring to no­
+thing.
+
+anniuersarie,  a yeares minde, or done and
+comming yearely.
+
+annuall,  yearely.
+
+anthem,  song.
+
+antecessor,  an auncestour, or predecessour
+that goeth or liueth in the age or place
+before vs.
+
+antichrist, (g)  against, or contrarie to
+Christ.
+
+anticipation,  preuenting by a foreknow­
+ledge.
+
+antidote, (g)  a counterpoise, or remedy a­
+gainst poyson.
+
+§ antidate,  a fore date.
+
+antipathie, (g)  contrarietie of qualities.
+
+antiquitie,  auncientnes.
+
+anticke,  disguised.
+
+antithesis (g)  a repugnancie, or contrarietie.
+
+antiquarie,  a man skilled, or a searcher of
+antiquities.
+
+
+
+
+
+
+annotations,  briefe doctrines or instructi­
+ons.
+
+anxitie,  care or sorrow.
+
+aphorisme, (g)  generall rule in phisick.
+
+apocalipse, (g)  reuelation.
+
+apocrypha (g)  not of authoritie, a thing hid­
+den, whose originall is not knowne.
+
+apologie (g)  defence, or excuse by speech.
+
+apostotate (g)  a backslider.
+
+apostacie (g)  falling away, backslyding,
+rebellion.
+
+apostle (g)  an ambassadour, or one sent.
+
+apothegme (g)  short wittie sentence, or
+speech.
+
+apparant,  in sight, or open.
+
+appall,  feare.
+
+apparition,  appearance, or strange sight.
+
+§ appeach,  accuse, or bewray.
+
+§ appeale,  to seeke to a higher Iudge.
+
+§ appease,  quiet, or pacifie.
+
+appendix,  hanging, or belonging to ano­
+ther thing.
+
+appertinent, appurtenance,  belonging vnto another
+thing.
+
+appetite,  desire to any thing.
+
+applaude,  to shew a liking of, as it were
+by clapping of hands.
+
+
+
+
+
+
+application,  applying too, or resorting to
+
+appose,  to aske questions, oppose.
+
+apposition,  adding or setting too.
+
+apprehension,  conceite, and vnderstan­
+ding.
+
+approbation,  allowance, or liking.
+
+appropriate,  to take, and keepe to, and for
+himselfe alone.
+
+approue,  alowe, or make good.
+
+approch,  come nigh.
+
+apt,  fit
+
+arbiter, arbitratour,  a Iudge in a controuersie
+betwixt men.
+
+§ arbitrement,  iudgement, censure, a­
+ward.
+
+ arch, (g)  chiefe.
+
+ arch-angell, (g)  chiefe angell
+
+archbishop,  chiefe bishop
+
+architect,  chiefe builder.
+
+ardent,  hoate, earnest
+
+ardencie,  heate, earnestnes  Antedates OED in first sense 1634
+
+argent,  siluer, coyne
+
+argue,  to reason
+
+ariditie,  drinesse
+
+ aristocraticall, (g)  gouernement of a king­
+dome by the peares and nobility.
+
+ arithmeticke, (g)  art of numbring
+
+
+
+
+
+
+arke,  shippe or chest
+
+§ armorie,  house of armour
+
+§ arrerages,  debt vnpaid, or things left vn­
+done and duties comming behind.
+
+arrest,  stay, or lay hold of
+
+arride,  to please well, to content
+
+§ ariue, ariuall,  come to land,
+or approch.
+
+arrogate,  to claime, or challenge
+
+arrogant,  proude, presumptuous.
+
+artifice,  skill, subtiltie: or a cunning peece
+of worke
+
+artificer,  handicrafts-man
+
+artificially,  workmanlike, cunningly
+
+articulate,  ioynted, set together, or to point
+out, and distinguish
+
+artichock, (k)  herbe
+
+§ artillery,  engines or instruments for war.
+
+ascend,  goe vp, or clime vp
+
+ascent,  a going vp
+
+ascribe,  giue to, adde to, attribute vnto
+
+askey, asquint,  looking aside, or awry.
+
+§ assay,  proofe, or a triall:
+
+assent,  agreement, or consent
+
+assertaine,  assure: certaine
+
+assentation,  flattery: speaking faire
+
+
+
+
+
+
+aspect,  looking vpon, beholding much, sight
+
+aspectable,  worthie, or easie to be seene. Predates OED 1614.
+
+asperat,  rough, sharpe, or vnpleasant. Predates OED 1623
+
+asperation,  breathing.
+
+aspire,  climbe vp, or come to, or high.
+
+§ assault, assaile,  to set vpon, or
+to proue.
+
+§ assemble,  gather together.
+
+assemblie,  companie
+
+assent,  consent.
+
+assertion,  affirming, auouching of any thing
+
+asseueration,  earnest affirming
+
+assiduitie  continuance, diligence
+
+assigne,  appoint, ordaine
+
+assignation,  appointment.
+
+assimulate,  to make like, to compare with.
+
+assistance,  helpe
+
+association,  ioyning together in fellow­
+ship.
+
+associate,  to accompanie, or follow
+
+§ assoyle,  excuse, cleare
+
+astipulation,  an auouching, or witnessing
+of a thing, an agreement
+
+astrictiue, astringent,  binding, or ioyning
+together.
+
+ astronomie, (g) astrologie, (g)  knowledge of
+the starres 
+
+
+
+
+
+
+ astrolabe, (g)  an instrument to know the
+motion of the starres.
+
+atheist, (g) atheall,  without, God, or beleeuing
+that there is no God, or de­
+nying any of his attributes.Predates OED 1612
+
+ atheisme, (g)  the opinion of the atheist.
+
+§ attach,  sease vpon, rest, or hold
+
+§ attaint,  conuict of crime
+
+§ attainder,  a conuiction, or prouing guil­
+tie of a crime or fault.
+
+§ attempt,  set vpon, or take in hand
+
+attendance,  watching, staying for, or way­
+ting vpon.
+
+attentiue,  heedie, or marking
+
+attenuate,  to make thinner or weaker
+
+attest,  to witnesse, or call to witnesse
+
+attrap,  ensnare
+
+attribute,  giue to, or impute.
+
+auarice,  couetousnes, or inordinate desire
+of money.
+
+auburne (k)  colour
+
+audience,  hearing, or hearkening, or those
+that heare.
+
+audacious,  bold, rash, or foolish hardie
+
+auditor,  hearer, or officer of accounts
+
+audible,  easie to be heard.
+
+auer,  auouch, call to witnes, proue.
+
+
+
+
+
+
+auert,  to turne from, or keepe away.
+
+augment,  to encrease
+
+auguration,  guessing, or coniecturing at
+things to come:
+
+§ avowable,  that which may be allowed and
+affirmed
+
+§ avouch,  affirme with earnest, defend.
+
+auoke,  to call from, or pull back Predates OED 1623
+
+austere,  sharpe, rough, cruell
+
+ authenticall, (g)  of authoritie, allowed by
+authoritie: the originall
+
+autumne,  the haruest
+
+ axiome (g)  a certaine principle, or general
+ground of any Art:
+
+ay,  euer, at any time, for euer
+
+azure, (k)  of colour. 
+
+
+ B 
+
+BAile,  suretie, witnes.
+
+ballance,  a paire of scales, or other
+thing.
+
+§ balase,  grauell, wherewith ships are poy­
+sed to goe vpright: or weight.
+
+bang,  beat
+
+bankerupt,  bankerout, waster
+
+banquet,  feast.
+
+
+
+
+
+
+ baptisme, (g)  dipping, or sprinkling.
+
+§ band,  company of men, or an assembly.
+
+baptist,  a baptiser
+
+barbarian,  a rude person
+
+barbell, (k)  fish
+
+barbarie, (k)  of fruite
+
+barbarisme,  barbarousnes, rudenes
+
+§ barke,  small ship
+
+barnacle, (k)  bird
+
+barrester,  one allowed to giue counsell, or
+to pleade:
+
+barreter,  a contentious person, quarreller,
+or fighter:
+
+§ barter,  to bargaine, or change
+
+baud,  whore
+
+bauin,  a faggot, or kid
+
+bashfull,  blush, or shamefast
+
+§ battrie,  beating or striking
+
+bay, (k)  tree.
+
+beadle,  office
+
+beagle, (k)  hound
+
+beatitude,  blessednes, happines
+
+beldam,  parent, or maister:
+
+bellona,  the goddesse of warre
+
+benediction,  praysing or blessing
+
+beneficiall,  profitable
+
+beneuolence,  good will, or fauour.
+
+
+
+
+
+
+benigne,  fauourable, curteous, gentle:
+
+benignitie,  gentlenes, or kindnes
+
+§ benisson,  blessing
+
+bequeath,  giue:
+
+bereft,  depriued, alone, voide, robd.
+
+besiedge,  compasse
+
+betrothed,  affianced, or promised in mar­
+riage:
+
+bewaile,  mone, complaine
+
+§ biere,  a cophin wherein dead men are
+carried:
+
+ bigamie, (g)  twise maried, or hath had two
+wiues
+
+billiment,  iewell, or garment
+
+bipartite,  deuided into two parts
+
+bisket,  bread:
+
+bishop,  ouer-seer, or prelate
+
+blase,  report, publish, shew forth
+
+ blaspheme, (g)  to speake ill of God:
+
+blattering,  vaine babling Predates OED 1613.
+
+§ blanch,  to make white, or white lime
+
+bleate,  cry
+
+blisse,  ioy, or happines.
+
+§ bonnet,  hat, or cap.
+
+bob,  beate
+
+§ bouge,  stirre, remoue from a place.
+
+boate,  ship
+
+
+
+
+
+ 
+braule,  wrangle.
+
+ brachygraphie, (g)  short writing.
+
+§ bragard,  fine, trim, proude
+
+§ brandish,  to shake a sword
+
+breuitie,  shortnes
+
+brickle, brittle,  easiely broken,
+lymber.
+
+§ brigand,  a theefe, or robber by the high
+way side.
+
+§ brigandine, coate of defence
+
+§ brigantine, a small ship
+
+brothell,  keeper of a house of baudry,
+
+brooch,  iewell.
+
+§ bruite,  report, noyse.
+
+buggerie,  coniunction with one of the same
+kinde, or of men with beasts.
+
+bugle,  glasse
+
+buglasse, (k)  herbe
+
+bullyon,  coyne
+
+§ burgesse,  a head man of a towne. 
+
+
+ C 
+
+CAlamitie,  trouble, affliction.
+
+calcinate,  to make salt:
+
+calefie,  make warme, heate, or chafe.
+
+ calygraphie, (g)  fayre writing.
+
+
+
+
+
+
+calliditie,  craftines, or deceit
+
+calumniation,  a discrediting by worde, or
+false accusation.
+
+camphire,  kind of herbe.
+
+capacitie,  largenes of a place: conceit, or
+receiet.
+
+§ capuchon,  a hood
+
+§ cancell,  to vndoe, deface, crosse out, or
+teare
+
+ canon (g)  law, or rule
+
+ canonise, (g)  make a saint, to examine by
+rule:
+
+canopie,  couer
+
+capitall,  deadly, or great, or woorthy of
+shame, and punishment:
+
+capable,  wise, apt to learne, bigge, or fit to
+receiue.
+
+capitulation,  distinguishing by parts
+
+captious,  catching, deceitfull, subtile,
+
+captiue,  prisoner
+
+captiuate,  make subiect, or a prisoner,
+
+cardinall,  chiefe, or principall
+
+carminate,  to card wooll, or deuide Predate OED 1613. 
+
+carnalitie,  fleshlines
+
+carnall,  fleshly, pleasing the flesh:
+
+carpe,  take exception against, or wran­
+gle.
+
+
+
+
+
+
+§ cassere,  dismisse, put away, or out of of­
+fice.
+
+casualtie,  chaunce or hap
+
+castigation,  chaistisement, blaming, cor­
+rection.
+
+ catalogue, (g)  beadroole, or rehearesall of
+words, or names
+
+ category, (g)  an accusation
+
+catechiser,  that teacheth the principles of
+Christian religion.
+
+cathedrall,  church, cheife in the diocesse
+
+catharre,  a flowing of humors from the
+head.
+
+ catholicke, (g)  vniuersall or generall.
+
+cauill,  to iest, scoffe, or reason subtilly
+
+caution,  warning, putting in minde, or
+taking heede
+
+celebrate,  holy, make famous, to publish,
+to commend, to keepe solemlie
+
+celeritie,  swiftnes, hast
+
+celestiall,  heauenly, diuine passing excel­
+lent.
+
+cement,  morter, or lime.
+
+censor,  a corrector, a iudge, or reformer of
+manners
+
+censure,  correction, or reformation
+
+ centre, (g)  middest of any round thing
+
+
+
+
+
+
+or circle.
+
+centurion,  captaine of a hundred men.
+
+ceruse,  white leade, or painting that wo­
+men vse.
+
+cessement,  tribute
+
+chanell,  sinke:
+
+ character, (g)  the fashion of a Letter, a
+marke, or stampe:
+
+§ chaunt,  sing
+
+§ champion,  wilde field, also a challenger,
+
+chambering,  lightnes, and wanton beha­
+uiour in priuate places
+
+charter,  a grant of any thing confirmed by
+seale.
+
+§ cheualrie,  knight-hood
+
+cherubin,  order of Angels:
+
+chibball, (k)  fruite
+
+ chirograph, (g)  hand writing
+
+ chiromancie (g)  telling of fortunes, by the
+lines in the hands:
+
+ chirurgion, (g)  a surgion
+
+ choller, (gr)  a humor causing anger
+
+chough, (k)  bird:
+
+ christ, (g)  annointed
+
+ chronickler, (g) chronographer,  historie wri­ 
+ter.
+
+ chronicall, (g)  returning at certaine times
+
+
+
+
+
+
+ chronologie, (g)  storie of times past.
+
+cibaries,  meates, nourishment
+
+cider,  drinke made of apples
+
+circuit,  about.
+
+circumcise,  to cut the priuie skin
+
+circumference,  the round and outmost cir­
+cuit, or compasse
+
+circumligate,  binde about
+
+circumscribe,  to compasse about with a line,
+to limit.
+
+circumspect,  heedie, quicke of sight, wise,
+and dooing matters aduisedly.
+
+circumlocution,  a speaking of that in ma­
+ny words, which may be said in few
+
+circumstance,  a qualitie, that accompaneth
+any thing, as time, place &c
+
+circumstant,  things that are about vs,
+
+circumuent,  to close in, to deceaue, or in­
+trap craftily.
+
+citron, (k)  fruit
+
+ciuilitie,  honest in conuersation, or gentle
+in behauiour.
+
+clamarus,  making a great noyse
+
+classick,  chiefe, and approued,   Predates OED 1613
+
+§ clauicordes,  mirth,
+
+claritude,  cleerenes, renowne, OED lacks second sense
+
+clemencie,  gentlenes, curtesie.
+
+
+
+
+
+
+client,  he that is defended.
+
+climate,  a portion of the worlde betwixt
+north and south
+
+ climactericall, (g)  that which ariseth by de­
+grees, as the sixtie third yeere is climac­
+tericall of seauentie.
+
+clister,  medicine
+
+coble,  amend
+
+coadiutor,  a fellow helper.
+
+cockatrice,  a kind of beast
+
+cænation,  supper, or a place to sup in
+
+cogitation,  thought, musing
+
+cognition,  knowledge
+
+cohærence,  ioyning, & vniting together.
+
+§ coin,  corner
+
+collect,  gather together
+
+colleague,  companion,
+
+collaterall,  on the other side, ouer against,
+as two lines drawne equally distant one
+from another, in due place
+
+collation,  recitall, a short banquet
+
+collect,  gather
+
+collusion,  deceit, cousanage
+
+colume,  one side of a page of a booke
+
+combine,  heale, or couple together,
+
+combination,  a ioyning, or coupling together
+
+combure,  burne, or consume with fire
+
+
+
+
+
+
+combustible,  easily burnt
+
+combustion,  burning or consuming with
+fire.
+
+comedie, (k)  stage play,
+
+comicall,  handled merily like a comedie
+
+commemoration,  rehearsing or remem­
+bring
+
+§ commencement,  a beginning or entrance
+
+ comet, (g)  a blasing starre
+
+comentarie,  exposition of any thing
+
+commerce,  fellowship, entercourse of mer­
+chandise.
+
+commination,  threatning, or menacing,
+
+commiseration,  pittie
+
+commodious,  profitable, pleasant, fit,
+
+commotion,  rebellion, trouble, or disqui­
+etnesse.
+
+communicate,  make partaker, or giue
+part vnto
+
+§ communaltie,  common people, or com­
+mon-wealth
+
+communion, communitie,  fellow­
+ship.
+
+compact,  ioyned together, or an agreement.
+
+compassion,  pitty, fellow-feeling
+
+compell,  to force, or constraine
+
+compendious,  short, profitable
+
+
+
+
+
+
+compensation,  a recompence:
+
+compeare,  like
+
+competent,  conuenient, sufficient, apt:
+
+competitor,  hee that sueth for the same
+thing, or office, that another doth:
+
+compile,  gather together
+
+complement,  perfecting of any thing
+
+complet,  fulfilled, finished
+
+Complexion,  nature, constitution of the
+body.
+
+§ complices,  fellowes in wicked matters
+
+compose,  make, or ioyne together
+
+composition,  agreement, a making, or
+mingling together.
+
+comprehend, comprise,  to con­
+taine
+
+comprimise,  agreement, made by parties
+chosen on either side
+
+comprimit,  iudge
+
+compte,  fine, decked: trimmed
+
+compulsion,  force, constraint
+
+computation,  an account or reckoning
+
+compunction,  pricking
+
+concauitie,  hollownes
+
+conceale,  to keepe close
+
+conception,  conceiuing in the wombe.
+
+concinnate,  made fit, finely apparelled
+
+
+
+
+
+
+concise,  briefe or short
+
+concoct,  to digest meate
+
+concord, concordance,  agree­
+ment
+
+concrete,  ioyned, or congealed together
+
+concruciate,  to torment, or vex together Not in OED
+
+concubine,  harlot, or light huswife.
+
+conculcate,  to treade vnderfoote
+
+concupiscence,  desire
+
+concurre,  agree together, runne together,
+or meete.
+
+concurse,  running together of many to a
+place.
+
+condigne,  worthie
+
+condiscende,  agree vnto, or consent
+
+condole,  to be greeued, or sorrowfull
+with another.
+
+conduct,  guiding, or hiring
+
+confabulate,  to talke together
+
+confection,  compounding, making, or
+mingling.
+
+confederate,  agreeing peaceably together
+by couenants made
+
+conferre,  talke together
+
+conference,  communication, talking toge­
+ther.
+
+confidence,  trust, hope
+
+
+
+
+
+
+confine,  to border vpon, to compasse in
+
+confirme,  establish
+
+§ confiscation,  forfeiture or losse of goods
+
+conflict,  battaile, strife, fight
+
+conforme,  to make like vnto, consent
+
+confound,  ouerthrow, destroy, mingle to­
+gether, or disorder.
+
+§ confront,  opposse, compare one to ano­
+ther.
+
+congeale,  to harden, or waxe hard, or
+freeze together
+
+congestion,  a heaping vp
+
+conglutinate,  to ioyne together
+
+congratulate,  to reioyce with another for
+some good fortune.
+
+congregate,  gather together
+
+congruence, congruitie,  agreablenes,
+or likenes.
+
+coniunction,  ioyning together
+
+coniure,  to conspire together, to sweare
+by.
+
+connexion,  ioyning together
+
+conuiuence,  sufferance, or winking at 
+
+conquest,  a complayning, or victorie
+
+consanguinitie,  kinred by blood, or birth
+
+consecrate,  make holie, to dedicate, or giue
+vnto.
+
+
+
+
+
+
+consectarie,  one that followeth any opini­
+on. Sense not in OED. 
+
+consent,  agreement
+
+consequence, consequent,  following
+by order.
+
+conserue,  keepe, saue, or maintaine
+
+consideratly,  wisely, and with aduise, con­
+sist, stand
+
+§ consistorie,  place of ciuill iudgement
+
+consociate,  companie with, or ioyne a com­
+panion vnto.
+
+consolation,  comfort
+
+consonant,  agreeable, likelie
+
+consort,  a companion, or company
+
+conspicuous,  easie to be seene, excellent
+
+conspire,  agree together, for to doe euill.
+
+constellation,  a company of starrs
+
+constitutions,  lawes, or decrees
+
+construe,  expound
+
+consul,  a chiefe gouernor among the Ro­
+manes.
+
+consult,  take counsaile
+
+consumate,  accomplish, fulfill, or finish.
+
+contagious,  that which corrupteth, or in­
+fecteth.
+
+contaminate,  defiled, or corrupted
+
+contaminouse,  infectious, defiled
+
+
+
+
+
+
+contemplation,  meditation, or musing
+
+contend,  wrangle
+
+contestate,  to call to witnes
+
+context,  the agreeing of the matter going
+before, with that which followeth. Predates OED 1613
+
+continent,  modest, abstaining, chast: al­
+so the firme land where no ile or sea is.
+
+contingent,  happening by chaunce
+
+contract,  make short, also a bargaine, or
+couenant.
+
+contradiction,  gaine saying
+
+contribute,  bestowe vpon, or giue vnto
+
+contribution,  a bestowing of any thing
+
+contributorie,  giuing a part to any thing
+
+contrite,  broken, sorrowfull
+
+contrition,  sorrow, sadnes
+
+contriue,  make
+
+contumacie,  stubbornnes, contempt
+
+contumelie,  slaunder, reproch
+
+contusion,  bruised, or beaten
+
+conuent,  bring before a iudge
+
+conuenient,  fit, well beseeming
+
+conuenticle,  a little assemblie
+
+conuerse,  companie with
+
+conuert,  turne, change
+
+conuict,  proued guiltie, ouercome
+
+conuince,  to ouercome, confute, or proue
+
+
+
+
+
+
+manifestly.
+
+conuocation,  an assembling, or calling to­
+gether.
+
+§ conuoy,  a waiting vppon: or keeping
+company in the way.
+
+conuulsion,  a pulling, or shrinking vp 
+
+copartner,  fellow partaker, or companion
+
+ cophin, (g)  basket, or chest for a dead bo­
+dy to be put in.
+
+copious,  plentifull, abounding
+
+copulation,  ioyning, or coupling together
+
+cordwainer,  shoemaker, or trade
+
+cordiall,  comforting the hart.
+
+§ coriuals,  competitors
+
+carnositie,  full of flesh, grosse
+
+corporall,  bodily
+
+corporate,  hauing a bodie:
+
+§ corps,  deade bodie
+
+corpulent,  grosse of body, fat, or great
+
+correspondent,  answerable
+
+correllatiues,  when2.things are so linked
+together, that the one cannot be without
+the otherr.
+
+corrigible,  easily corrected
+
+corroborate,  confirme, or strengthen, or
+make strong.
+
+corroded,  gnawd about
+
+
+
+
+
+
+corrosiue,  fretting
+
+ cosmographie, (g)  description of the
+world.
+
+costiue,  bound in the bodie
+
+§ couch,  bed, lie downe:
+
+§ couert,  hidden place, secrete
+
+§ counterchange,  to change againe:
+
+§ countermaund,  commaund contrarie
+
+§ countermine,  vndermine one against an­
+other.
+
+§ countermure,  to builde, one wall against
+another.
+
+crassitude,  fatnesse or thicknesse
+
+§ counterpoise,  make leuell, or to weigh, as
+heuie as another thing.
+
+cowslip, (k)  hearb
+
+§ counteruaile,  of equall valew
+
+credence,  beliefe
+
+§ curbe,  restraine, keepe in:
+
+credible,  which may be beleeued
+
+§ couerture,  couering
+
+creditor,  he which lendeth, or trusteth an­
+other:
+
+credulous,  readie to belieue, true
+
+credulitie,  rashnes in belieuing
+
+§ creuas,  rift.
+
+§ crible,  sifted 
+
+
+
+
+
+
+criminous, criminall,  faultie, that wherein is some
+fault.
+
+crisped,  curled, or frisled.
+
+ criticall, (g)  which giueth iudgement of
+sicknes. &c.
+
+crocodile, (k)  beast
+
+crucifie,  fasten to a crosse
+
+crude,  raw, not ripe, not digested:
+
+ crupt, (g)  hidden, or secret Predates OED 1613 "cruptical"; no entry for "crupt" 
+
+ crystaline, (g)  cleere like glasse, or christall.
+
+cubite,  a foote and a halfe
+
+culpable,  blame-worthy, guiltie,
+
+culture,  husbandry, tilling
+
+curiositie,  picked diligence, greater care­
+fulnes, then is seemely or necessarie,
+
+cursorilie,  swiftly, or briefely.
+
+curuefie,  bowed, or made crooked.
+
+custodie,  keeping, or looking to
+
+cymball,  an instrument of musicke, so cal­
+led.
+
+ cynicall, (g)  doggish, froward.
+
+ cypher, (g)  a circle in numbering, of no
+value of it selfe, but serueth to make vp
+the number, and to make other figures
+of more value.
+
+
+
+
+
+
+
+ D 
+
+DAmnable,  not to be allowed.
+
+ deacon, (g)  prouider for the poore
+
+ demonaicke, (g)  possessed with a deuill.
+
+deambulation,  a walking abroade
+
+§ debate,  strife, contention
+
+debar,  let:
+
+debilitie,  weakenes, faintnes.
+
+§ debonnayre,  gentle, curteous, affable,
+
+ decalogue, (g)  the ten commaundements:
+
+ decacordon, (g)  an instrument with tenne
+strings
+
+decent,  comlie, or beseeming
+
+decease,  a departing, or giuing place too.
+
+decide,  to determine, or make an end of.
+
+decipher,  describe, or open the meaning,
+or to count.
+
+decision,  cutting away.
+
+declamation,  an oration of a matter feyned.
+
+decline,  fall away, or swarue from,
+
+decoction,  liquor, wherein things are sod
+for phisicke.
+
+decorum,  comlines
+
+decrepite,  very old
+
+dedicate,  to giue for euer.
+
+
+
+
+
+
+deduct,  take or drawe out, abate, or dimi­
+nish.
+
+§ deface,  blot out, staine, bring out of fa­
+shion
+
+defame,  to slaunder, or speake ill of
+
+defect,  want, fayling
+
+§ defie,  distrust.
+
+define,  to shew clearely what a thing is.
+
+deflower,  dishonest, rauish, or disgrace
+
+deformed,  ill shapen, ill fauored
+
+§ defraude,  deceiue, beguile
+
+§ defraye,  lay out, pay, discharge
+
+degenerate,  be vnlike his auncestours: to
+grow out of kind.
+
+dehort,  moue or perswade from, to aduise
+to the contrarie.
+
+deitie,  Godhead
+
+deifie,  make like God
+
+delectation,  delight, or pleasure
+
+delegate,  an imbassadour, or one appoin­
+ted in anothers place.
+
+deliberate,  to take good counsell
+
+delineate,  to drawe the proportion of any
+thing.
+
+delicate,  daintie, giuen to pleasure
+
+delude,  deceiue, or laugh to scorne.
+
+§ deluge,  great floode, or ouer flowing of
+
+
+
+
+
+ 
+waters.
+
+delusion,  mockerie, a deceitfull thing
+
+demaund,  request, aske
+
+demerite,  deseruing, worthines
+
+ democracie, (g)  a common-wealth gouer­
+ned by the people.
+
+demonstrate,  shew plainely, or openly, to
+point out or manifest.
+
+demenour,  behauiour
+
+§ demurre,  to stay, to linger, or vse delaies
+
+denison,  free borne
+
+denounce,  declare, or giue warning of, or
+proclaime
+
+denomination,  a naming
+
+depend, dependance,  hang
+vpon.
+
+deplore,  to lament or bewaile
+
+deplume,  to pull of the feathers
+
+deportation,  carrying away
+
+depopulate,  spoile, or wast
+
+depose,  put away, depriue, or put downe.
+
+depraue,  marre or corrupt, or make worse.
+
+deprecation,  supplication, or requiring of
+pardon
+
+depresse,  to keepe downe
+
+depriue,  see depose 
+
+depute,  account, or esteeme
+
+
+
+
+
+
+deride,  mock, or laugh to scorne.
+
+derision,  mocking
+
+deriue,  fetch from
+
+deriuation,  taking away from some other
+matter.
+
+derogate,  to take away, or to diminish
+
+§ desastrous,  vnluckie, vnfortunate
+
+descend,  goe downe.
+
+describe,  to write foorth, to copie out, or to
+declare
+
+§ deseigne, deseignment,  an appoynting how any
+thing shall be done.
+
+desert,  wildernesse.
+
+desertion,  a leauing, or forsaking
+
+designe,  to marke out, or appoint for any
+purpose:
+
+desist,  leaue off, or stay
+
+desolate,  left alone, or forsaken
+
+desperate,  without hope, or past hope,
+
+detect,  bewray, disclose, accuse
+
+destinated,  appointed,
+
+destitute,  forsaken
+
+detest,  hate greatly, or abhorre
+
+deteined,  withholden, or kept back,
+
+determine,  resolue, conclude
+
+detract,  take from, or backbite
+
+detriment,  losse or hurt
+
+
+
+
+
+
+detrude,  thrust out, or from
+
+deuote,  to giue vnto, or appoint vnto
+
+deuotion,  holinesse.
+
+§ deuoyre,  dutie
+
+dexteritie,  aptnes, nimblenes
+
+ diabolicall, (g)  deuillish.
+
+ diademe, (g)  a Kings crowne:
+
+ diapason, (g)  a concorde in musick of all
+parts
+
+diet,  manner of foode
+
+dialect,  the manner of speech in any lan­
+guage, diuers from others.
+
+ dialogue (g)  conference, or talking toge­
+ther.
+
+ diameter, (g)  a line, crossing the midst of a­
+ny circle or figure
+
+ didacticall, (g)  full of doctrine or instructi­
+on.
+
+diffamation,  a slaundering, or speaking ill
+of:
+
+different,  vnlikely, disagreeing,
+
+difficill, difficult,  hard, vneasie,
+dangerous.
+
+diffident,  mistrustfull
+
+diffude,  poure out
+
+digest,  bring into order, to deuide, & distri­
+bute things into their right place.
+
+
+
+
+
+
+dignitie,  worthinesse
+
+digresse,  turne from, goe away
+
+digression,  departing from the matter in
+hand
+
+dilacerate,  to rent in sunder:
+
+dilate,  enlarge, spread abroade, or to dis­
+course vpon largely
+
+ dilemma, (g)  a forked kinde of argument,
+which on either side entrappeth.
+
+dimension,  measuring
+
+diminution,  lessening
+
+ diocesse, (g)  iurisdiction
+
+diocesan,  that hath iurisdiction
+
+direct,  guide, or rule: right, straight, also
+to order.
+
+disable,  make vnable, or finde fault with.
+
+disabilitie,  vnablenes
+
+§ disaduantageous,  hindering much
+
+disanull,  make voyde, or bring to nothing.
+
+§ disburse,  lay out money
+
+discent,  comming downe from another
+
+discerne,  know, put one from another, or
+put difference
+
+discide,  cut off, or in peeces
+
+discipline,  instruction, or training vp.
+
+disciple,  scholler,
+
+discipher,  to lay open, or make plaine
+
+
+
+
+
+
+disclose,  discouer, vtter, or manifest.
+
+§ discomfiting,  putting to flight
+
+discord,  disagreement, variance
+
+discretion,  wise choise of one from another
+
+discusse,  examine, debate, or search nar­
+rowly into:
+
+disfigure,  bring out of shape,
+
+§ disfranchis,  take away freedome:
+
+disioyne,  vnioyne, or seperate
+
+disiunction,  a deuiding, or seperating,
+
+§ disfranchised,  depriued of libertie.
+
+disgrade,  to discharge of his orders, or de­
+grees.
+
+§ disguised,  counterfeited, seeming that it
+is not:
+
+dislocation,  setting out of right place,
+
+§ disloyall,  one whom it is not good to trust,
+vntrustie, trayterous.
+
+dismember,  to pull and part one peece from
+another.
+
+dismisse,  let passe, or send away
+
+disparagement,  hurt, hinderance, or dis­
+grace:
+
+dispence,  to giue licence vnto
+
+disperse,  scatter, or spread abroade.
+
+dispeople,  to vnpeople a place
+
+displant,  to pull vp by the rootes, trees
+
+
+
+
+
+
+planted.
+
+display,  spread abroade
+
+dispose,  to set in order, to appoint.
+
+disposition,  naturall inclination, or setting
+in order.
+
+dispoyle,  take away by violence, or rob
+
+disputable,  questionable, or doubtfull, that
+may be reasoned of:
+
+dissent,  disagree, to be of a contrarie opini­
+on.
+
+dissimilitude,  vnlikenes
+
+dissimulation,  dissembling
+
+dissipation,  scattering abroade
+
+dissolue,  vnloose, or melte
+
+dissoluble,  easie to vnloose
+
+dissolute,  carelesse, rechlesse
+
+dissolution,  breaking, vnloosing.
+
+dissonant,  disagreeing
+
+distance,  space betweene
+
+distended,  stretched out, or out of ioynt.
+
+distinguish,  put difference, deuide, or point
+out from others.
+
+distillation, distilling,  dropping downe by
+little and little.
+
+distinct,  differing, or deuided
+
+distinction,  a difference, or seperation
+
+distracted,  drawne into diuerse parts
+
+
+
+
+
+
+distribute,  deuide in sunder, or to giue in
+sundrie parts.
+
+distribution,  diuision, or laying out by
+parts.
+
+disturbe,  disquiet, let, or interrupt
+
+disswade,  to perswade to the contrarie
+
+dittie,  the matter of a song.
+
+diuert,  turne from, to another
+
+diuine,  Heauenly godly, also to gesse, con­
+iecture, or prophesie.
+
+diuinitie,  heauenly, doctrine, also god­
+head.
+
+diuision,  parting, or seperating
+
+diurnall,  a daily mouing
+
+divulgate,  publish, or make common
+
+docilitie,  easie to be taught
+
+doctrine,  learning, or instruction
+
+dolor,  griefe, sorrow, or paine
+
+dolorous,  grieuous, or sorrowfull
+
+§ domage,  losse, harme, or hinderance
+
+domesticall,  at home, belonging to hous­
+hold: priuate
+
+dominere,  rule, beare sway
+
+domicilles,  houses
+
+dominion, domination,  rule, lordship or maistership.
+
+donatiue,  a gift, in money or other things
+
+
+
+
+
+
+dulcimur, dulcimar, (k)  instru­
+ment
+
+duarchy,  the equall raigne of two princes
+together.
+
+driblets,  small debts
+
+dulcifie,  sweeten
+
+dulcor,  sweetnesse
+
+durable,  long lasting, or of long continu­
+ance. 
+
+
+ E 
+
+Ebullient,  seething
+
+ebulliated,  boyled
+
+ eclipse, (g)  failing of the light of the sunne or
+moone
+
+eccho,  a sound, resounding back againe
+
+ ecclesiasticall, (g)  belonging to the church
+
+eden,  pleasure, or delight
+
+edict,  a commaundement from authoritie,
+a proclamation.
+
+edifice,  building
+
+edifie,  instruct, or builde vp in know­
+ledge.
+
+edition,  putting foorth, setting abroade
+
+education,  bringing vp
+
+effect,  a thing done, or to bring to passe
+
+
+
+
+
+
+effectuall,  forcible
+
+effeminate,  womannish, delicate, wan­
+ton.
+
+efficacie,  force, or strength
+
+efficient,  working, or accomplishing
+
+effusion,  powring, or running foorth
+
+ eglogue, (g)  a talking together
+
+egresse,  foorthgoing, or passage out
+
+eiection,  a casting foorth
+
+elaborate,  done curiously, and dilligently.
+
+election,  choise
+
+elect,  chosen, or picked out
+
+elegancie,  finesse of speech
+
+element,  the first principle or beginning of
+any thing.
+
+ elench, (g)  a subtill argument
+
+eleuate,  lift vp, or heaue vp
+
+elocution,  good vtterance of speech.
+
+emerods, (k)  of disease
+
+§ embark, imbark,  to ship a thing, or
+load a ship.
+
+ emblem, (g)  a picture shadowing out some
+thing to be learned.
+
+eminent,  appearing, higher, or further out,
+excelling.
+
+emmot,  pismire
+
+ emphasis, (g)  a forcible expressing
+
+
+
+
+
+
+§ empire,  gouernement: or kingdome
+
+emulation,  enuie, or imitate
+
+enarration,  declaration, expounding
+
+enigmaticall, (g)  full of hard questions, ob­
+scure.
+
+§ enchaunt,  bewitch
+
+encounter,  set against, or to meete
+
+§ encrochment,  when the Lord hath got­
+ten seisen of more rent, or seruices of his
+tenant then of right is due.
+
+§ endosse,  cut on the back, or write on the
+back.
+
+enduce,  moue
+
+enimitie, enmitie,  displeasure, or
+hatred.
+
+enflame,  burne, or set on fire.
+
+§ enfranchise,  make free
+
+§ engrate,  presse vpon
+
+§ enhaunce,  to lift vp, or make greater:
+
+§ enlarge,  make bigger, set at libertie
+
+§ enoble,  make noble, or famous
+
+enormious,  out of square, vnorderly Predates OED 1613 sense 1
+
+§ ensigne,  flagge for war
+
+§ enterlace,  to put betweene, intermingle:
+
+§ enterprise,  beginne, take in hand
+
+§ enterre,  lay in the earth
+
+§ entrals,  inward parts, as hart, liuer, &c.
+
+
+
+
+
+
+§ enuiron,  to enclose, or compasse about.
+
+epha,  kind of measure
+
+epicure,  giuen to pleasure.
+
+ epigram, (g)  a sentence, written vpon any
+for praise, or dispraise
+
+ epilogue, (g)  conclusion
+
+ epilepsis, (g)  the falling sicknes
+
+ episcopall, (g)  bishoplike.
+
+ epiphanie, (g)  appearing
+
+ epitaph, (g)  the writing on a tombe or
+graue.
+
+ epithite, (g)  a name or title giuen to any
+thing.
+
+ epitome, (g)  the briefe copie of a booke, &c.
+
+ epitomise, (g)  to make an epitome, or to
+bring a booke into a lesser volume.
+
+equalize,  match, or make equall
+
+equinoctium,  when the dayes and nights
+are equall.
+
+§ equipage,  furniture
+
+equitie,  right, lawfulnes
+
+erect,  set vp, or lift vp
+
+equiualent,  of equall valew.
+
+ ermite, (g)  one dwelling in the wildernes.
+
+erronious,  full of errour, and wandring
+out of the right way.
+
+§ essay,  tryall what one can say, or doe in
+
+
+
+
+
+
+any matter.
+
+§ escheat,  forfaite
+
+§ eschew,  shunning, auoyde, escape
+
+§ espoused,  promised in marriage
+
+essence,  substance, or being of any thing
+
+§ essoine,  excused for any cause
+
+§ establish,  confirme, make strong
+
+estimate,  esteeme, value, or prise, thinke or
+iudge.
+
+eternall,  euerlasting, without end
+
+ ethnick, (g)  an heathen, or gentile
+
+ etymologie, (g)  true expounding
+
+euacuated,  made voyde, cleane taken a­
+way: or emptied.
+
+ euangell, (g)  the gospell: or glad tidings Antedates OED sense 2 1614
+
+ euangelist, (g)  bringer of glad tidings
+
+euaporate,  to breath out
+
+euent,  chaunce, or that which followeth
+any thing.
+
+euict,  ouercome by law
+
+ eucharist, (g)  a thanksgiuing, the Lords
+supper.
+
+ eunuch, (g)  gelded, wanting stones
+
+euert,  turne vpside downe
+
+euident,  easie to be seene, plaine
+
+euocation,  calling forth
+
+exact,  perfectly done, or to require with
+
+
+
+
+
+
+extremitie.
+
+exaggerate,  heape vpon, amplifie to make
+a thing more then it is
+
+exaltation,  lifting vp
+
+exasperate,  whet on, to vex, or make more
+angrie
+
+excauate,  make hollow
+
+excæcate,  to make blind
+
+excessiue,  too much, more then enough
+
+§ excheaquer,  office of receits
+
+exclaime,  bray, or crie out
+
+exclude,  thrust, or shut out, or keepe
+out
+
+excogitate,  to muse, or deuise exactly.
+
+excommunicate,  to thrust out of company,
+or fellowship
+
+excrement,  dung, offal, refuse, or
+dregs.
+
+excruciat,  to vex, or torment
+
+excursion,  a skirmish in warres, of some
+few running from their companie
+
+execrable,  cursed
+
+execute,  performe, or exercise some
+charge
+
+exempt,  free, priuiledged.
+
+exemplifie,  enlarge, or declare by ex­
+amples
+
+
+
+
+
+
+exhalation,  a breath, or fume rising vp­
+ward
+
+exhaust,  drawne out, or emptied
+
+exhibite,  put vp or bestow: to offer, or set
+abroade for all men to see
+
+exiccate,  to drie vp Not in OED 
+
+exile,  banish, driue out
+
+exorable,  easie, to be intreated
+
+exorbitant,  out of order, measure or place.
+
+ exorcist, (g)  coniurer
+
+§ exorde,  beginne Not in OED 
+
+exordium,  a beginning, or entrance
+
+expect,  looke for
+
+expedient,  fit, meete or beseeming
+
+expedition,  hast, speede
+
+expell,  put out, or thrust out
+
+expend,  consider, or muse vpon
+
+expence,  cost, or money layd out
+
+experiment,  a proofe, or triall
+
+expert,  skilfull
+
+expiation,  pacifying with satisfaction, pur­
+ging by sacrifice
+
+expire,  to die, or giue vp the ghost to de­
+cay.
+
+explane,  to make manifest, or declare
+
+explicate,  declare plainely
+
+§ exploit,  enterprise, act, deede
+
+
+
+
+
+
+expose,  to offer, or lay open, to hazard,
+
+expostulate,  to reason, or chide with, to
+complaine:
+
+expresly,  fitly, manifestly
+
+exprobration,  vpbreyding, casting in ones
+teeth.
+
+expugnable,  to be wonne, or ouercome.
+
+expulse,  driue out, or thrust out
+
+exquisite,  perfect, fine, singuler, curious.
+
+extant,  appearing, abroad, shewing it selfe.
+
+extasie,  a traunce, or sowning.
+
+extemporall, extempore, extemporarie,  suddaine, without
+premeditation, or
+studie.
+
+extende,  spread foorth, prolong, or make
+longer, to inlarge.
+
+extenuate,  lessen, minish, or make lesse.
+
+externall,  outward, strange
+
+extinguish,  put out, or quench
+
+extinct,  put out
+
+extirpate,  to pull vp by the rootes
+
+extoll,  aduaunce, or praise highly, to lift vp
+
+extort,  to wring out, to wrest from by vio­
+lence.
+
+extract,  drawne out
+
+extrauagant,  wandring out of order.
+
+exulcerate,  to make sore, to corrupt.
+
+
+
+
+
+
+
+ F 
+
+Fabricate,  make, fashion.
+
+fabulous,  fained, counterfeited, much
+talked of
+
+fact,  deede
+
+facilitie,  easines
+
+faction,  deuision of people into sundry
+parts and opinions
+
+factious,  that maketh deuision, contenti­
+ous.
+
+factor,  one that doth busines for another
+
+facultie,  licence, power, aptnes
+
+fallacie,  deceit, falshood
+
+falsifie,  to forge, or counterfait
+
+fame,  report, common talke, credite
+
+fantacie,  imagination
+
+§ fantastique,  conceited, full of deuises
+
+§ farce,  to fill, or stuffe
+
+falcinate,  to bewitch, or disfigure by in­
+chauntment. 
+
+fastidiousnes,  lothsomnesse, or disdainfull­
+nesse
+
+§ faschious,  grieuous, or inducing to an­
+ger.
+
+fatall,  mortall, appointed by God to come
+
+
+
+
+
+
+to passe.
+
+§ fealtie,  faithfulnes
+
+fecunditie,  fruitfulnesse
+
+felicitie,  happinesse
+
+§ female, feminine,  the she in mankind, or other
+creatures.
+
+fermentated,  leauened
+
+feruide,  hote, scalding, burning
+
+festination,  hast, speede
+
+festiuitie,  mirth, pleasantnes
+
+festiuall,  merrie, pertaining to holy daies
+
+feruent,  hote, chafed, verie angrie
+
+fertile,  fruitfull, yeelding much fruit
+
+feuer,  ague
+
+fiction,  a lie, or tale fained
+
+fidelitie,  faithfulnes, trustines
+
+figurate,  to shadowe, or represent, or to
+counterfaite
+
+figuratiue,  by figures
+
+finall,  pertaining to the end
+
+finite,  hauing an end, and certaine limits.
+
+firme,  sure, stedfast, strong, constant
+
+fixed,  fastned, sure, fast
+
+§ flagon,  great wine cup, or bottell
+
+flagrant,  burning, hot
+
+flexible,  easilie bent, pliant, or mutable
+
+§ flote,  swime aloft
+
+
+
+
+
+
+fluxible,  thin, and running easily downe
+like water.
+
+§ floscles,  flowers
+
+fluxe,  disease of scouring
+
+§ feeble,  weake, lacking strength
+
+fomentation,  an asswaging, or comforting
+by warmth.
+
+foraine,  strange, of another country
+
+formall,  following the common fashion
+
+foraminated,  holed, or bored
+
+formidable,  fearefull, to be feared
+
+fornication,  vncleannes betweene single
+persones.
+
+fortification,  strengthning
+
+fortitude,  valiantnes, or couragiousnes,
+strength
+
+fortunate,  happie, hauing good successe
+
+fragilitie,  brittlenes, or weakenes
+
+fragments,  reliques, broken meates, peeces
+broken of.
+
+fragrant,  sweetly smelling
+
+§ franck,  liberall, bountifull
+
+fraternitie,  brotherhood
+
+§ franchise,  libertie, freedome
+
+fraudulent,  deceitfull, craftie, or ful of guile.
+
+frequent,  often, done many times: ordina­
+rie, much haunted, or goe too.
+
+
+
+
+
+
+frigifie,  coole, make cold
+
+friuolous,  vaine, trifeling, of no estimation.
+
+frontlet, (k)  attire for the fore-head
+
+fructifie,  to make fruitfull, or bring foorth
+much fruit.
+
+frugall,  thriftie, temperate in expences
+
+fruition,  inioying, possession
+
+frustrate,  make voyde, deceiue
+
+fugitiue,  runnagate, or starting away
+
+fulgent,  glistering, or shining
+
+fuluide,  yellowe
+
+fume,  to yeeld smoke
+
+function,  calling, or charge, or trade, and
+place wherein a man liueth.
+
+funerall,  buriall, mourning: pertaining to a
+buriall, or mourning.
+
+furbush,  to dresse or scoure, or make cleane
+
+§ furniture,  all things necessary to vse
+
+furious,  raging, or mad
+
+future,  that which shall be heereafter
+
+
+
+
+§ garboile,  hurlie burly
+
+gardian,  a keeper, or defendor
+
+gargarise,  to wash the mouth, and throate
+within, by stirring some liquor vp and
+downe in the mouth,
+
+garnar, granar,  corne, or corne
+chamber.
+
+
+
+
+
+
+§ garnish,  trime, deck vp, make fine.
+
+gem,  a precious stone
+
+§ gaie,  fine, trim
+
+gentilitie, generositie,  gentrie, nobilitie,
+gentlemanship.
+
+ genesis, (g)  beginning
+
+gentile,  a heathen
+
+generation,  ofspring
+
+ genealogie, (g)  generation, or a describing
+of the stock or pedegree.
+
+genitalles,  priuities
+
+genuine,  peculiar, or naturall
+
+genius,  the angell that waits on man, be it
+a good or euill angell
+
+genitor,  father
+
+ geographie, (g)  the describing of the earth.
+
+ geometrie, (g)  art of measuring the earth.
+
+ geomancie, (g)  sorcerie by circkles, and
+pricks in the earth
+
+germane,  come of the same stock
+
+gests,  things done, or noble acts of princes
+
+gibbocitie,  crookednes
+
+gire,  grin, or laugh
+
+giues,  fetters
+
+glee,  mirth, gladnes
+
+gospell,  glad tidings
+
+globe,  any thing, very round.
+
+
+
+
+
+
+glorifie,  to giue honour, praise, and com­
+mendation to any body.
+
+glosse,  a tongue, or exposition of a darke
+speech.
+
+gloze,  dissemble
+
+§ gourmandise,  deuouring, gluttony
+
+glutinate,  to glue, or ioyne together
+
+gnible,  bite
+
+ gnomen, (g)  the stile, or cock of a diall
+
+gradation,  steps, by little and little.
+
+graduate,  that hath taken a degree
+
+gratifie,  to pleasure, or doo a good turne in
+way of thankfulnes
+
+gratis,  freely, without desert
+
+gratitude,  thankfulnes
+
+gratulate,  to be glad for anothers sake,
+
+graue,  waightie, sober, sage, discreete
+
+grease,  fat
+
+§ guerdon,  a reward:
+
+§ guidance,  gouerning, or direction
+
+§ guise,  fashion, shape, custome,
+
+gulfe,  deepe poole, or pit
+
+gustation,  taste
+
+
+ H 
+
+HAbilitie, abilitie,  ablenes, or of
+sufficiencie.
+
+
+
+
+
+
+habitable,  able to dwell in
+
+habitacle, habitation,  a dwelling
+place:
+
+habite,  apparell, fashion, custome
+
+habitude,  disposition, plight, respect
+
+§ hale,  pull, draw, lift vp
+
+halaluiah,  praise the Lord
+
+hallucinate,  to deceiue, or blind
+
+ harmonie (g)  agreement of diuers sounds
+in musicke.
+
+§ hautie,  loftie, proude
+
+§ hazard,  venture, chaunce:
+
+§ herault,  kings messenger
+
+heathen,  see Gentile 
+
+hebrew,  fromHebersstock
+
+ hecticke, (g)  inflaming the hart, and soun­
+dest parts of the bodie
+
+ hemisphere, (g)  halfe of the compasse of hea­
+uen, that we see.
+
+helmet,  head peece,
+
+hereditarie,  comming by inheritance, or suc­
+cession.
+
+heritage,  inheritance, possession
+
+herbinger,  sent before to prepare
+
+ heriticall, (g) hereticke, (g)  one that maintaineth he­
+resies.
+
+hermite,  see ermite 
+
+
+
+
+
+
+heroicall, (g)  beseeming a noble man, or
+magnificent:
+
+§ hideous,  fearefull, terrible
+
+hierarchie, (g)  the gouernment of priests,
+or holy gouernance:
+
+hymne, (g)  kinde of song to the prayse of
+GOD.
+
+hipocrite, (g)  such a one as in his outward
+apparrell, countenaunce, & behauiour,
+pretendeth to be another man, then he
+is indeede, or a deceiuer.
+
+historicall, (g)  pertaining to historie
+
+§ homage,  worship, or seruice.
+
+§ homicide,  a man killer, or the killing of a
+man:
+
+hononimie, (g)  when diuers things are sig­
+nified by one word
+
+horror,  fearefull sorrow, feare, terror.
+
+ horizon, (g)  a circle, deuiding the halfe of
+the firmament, from the other halfe which
+we see not.
+
+hosanna,  saue now:
+
+hospitality,  good entertainement for friends
+and strangers.
+
+§ hostage,  pledge
+
+hostilitie,  hatred, or enmitie, or open wars.
+
+huckster,  marchant, or trade
+
+
+
+
+
+
+humane,  belonging to man, gentle, curte­
+ous, bounteous.
+
+humide,  wet,
+
+humiditie,  moysture
+
+hush, husht,  peace, or be
+still.
+
+ hyperbolicall, (g)  beyond all credite, or
+likelihoode of truth. 
+
+
+ I 
+
+ Idiome, (g)  a proper forme or speech:
+
+ idiot, (g)  vnlearned, a foole
+
+Iehoua,  Lord almighty
+
+ientation,  breakefast
+
+ieoperdie,  danger
+
+Iesus,  Sauiour.
+
+ignoble,  of low and base birth
+
+ignominie,  reproch, discredite, slaunder.
+
+illegitemate,  vnlawfully begotten, and
+borne.
+
+illiquinated,  vnmelted 
+
+illiterate,  vnlearned, without knowledge.
+
+illustrate,  to make plaine, to declare
+
+illuminate,  to inlighten, or make plaine
+
+illusion,  mockerie, iesting, or scoffing
+
+imbecilitie,  weakenes, feeblenes
+
+
+
+
+
+
+imbarge,   see em­
+barke.
+
+imitation,  following, dooing the like:
+
+immaculate,  vnspotted, vndefiled
+
+immanitie,  beastlie, crueltie, or hugenesse
+and greatnes
+
+immature,  vnripe, or out of season:
+
+immediate,  next to, not hauing any other
+betwixt
+
+imminent,  at hand, ready to come vpon
+
+immoderate,  without measure, exceeding
+great, or excessiue
+
+immortall,  euerlasting, that dieth not
+
+immunitie,  freedome from any thing, or
+libertie:
+
+immure,  to shut vp, or inclose within wals
+
+immutable,  constant, still the same, vn­
+changable:
+
+§ impart,  to make partaker of, to tell to
+
+impacience,  lacke of sufferance
+
+§ impaire,  diminish, lessen
+
+§ impeach,  accuse, hurt, or hinder
+
+impediment,  let, or hinderance
+
+impenetrable,  that cannot be pierced, or
+entred into:
+
+impenitent,  vnrepentant:
+
+imperated,  commaunded, or ruled ouer
+
+
+
+
+
+
+imperious,  desiring to rule, full of com­
+maunding, stately
+
+imperfection,  vnperfectnes
+
+imperiall,  belonging to the crowne
+
+impertinent,  not pertaining to the matter.
+
+impetrate,  obtaine by request
+
+impetuous,  violent
+
+impietie,  vngodlines, crueltie
+
+implacable,  that cannot be pleased or paci­
+fied.
+
+implement,  stuffe:
+
+imply,  to signifie, or make manifest
+
+imploy,  bestow, spend
+
+implore,  to desire with teares,
+
+implume,  to pull off the feathers The only OED citation.
+
+impose,  lay vpon, or put on
+
+importance,  of value, force, or worth:
+
+§ impost,  tribute
+
+imposture,  falshood, deceit,
+
+impotent,  weake, feeble,
+
+importune,  to be earnest with
+
+importunate,  requiring earnestly, without
+beeing satis-fied, till the request be obtey­
+ned.
+
+imprecation,  cursing, or wishing euill vn­
+to.
+
+§ impregnable,  vnuanquished, not able to
+
+
+
+
+
+
+be ouercome, strong.
+
+impression,  printing, marking, or stam­
+ping:
+
+improper,  vnfit, vnseemely, common
+
+impropriation,  a thing accounted proper,
+which is not indeede
+
+improbable,  that cannot be prooued.
+
+improuident,  carelesse, not foreseeing, or
+taking heede before hand.
+
+imprudent,  ignorant, rash, carelesse:
+
+impudent,  shamelesse,
+
+impugne,  resist:
+
+impunitie,  lack, or omission of punishment
+
+impuritie,  filthines, vncleannesse, dishone­
+stie.
+
+impute,  reckon, or assigne, blame, or to lay
+to ones charge
+
+inabilitie,  want of power or abilitie.
+
+inamored,  in loue with.
+
+inaugurate,  to aske counsell of soothsayers.
+
+incarnate,  taking flesh vpon him, or to bring
+flesh vpon.
+
+incense,  kind of offering made by fire
+
+incend,  kindle, burne, vexe, or chafe, to in­
+cense, to stirre vp, or to set on fire, or to
+anger.
+
+incessantlie,  earnestlie, without ceasing
+
+
+
+
+
+
+incest,  vnlawfull copulation of man and
+woman within the degrees of kinred, or
+alliance, forbidden by gods law, whether
+it be in marriage or otherwise.
+
+inchaunt,  bewitch, or charme
+
+incident,  happening, or chauncing
+
+incision,  cutting, in searching of a wound
+
+incitate,  to moue, or prouoke
+
+incline,  leane vnto, or towards
+
+include,  to shut in, or containe within
+
+incommodious,  hurtfull, vnfit
+
+incommunicable,  that cannot bee imparted
+to any other, or proper to one person,
+and none other.
+
+incomperable,  that hath not his like
+
+incompatible,  insufferable
+
+incomprehensible,  that cannot be concei­
+ued, or vnderstood
+
+incongruencie,  want of agreement
+
+inconsiderate,  rash, not taking counsaile
+
+incontinent,  liuing loosely, or vnchastly
+
+incontinently,  presently, disorderly, or with­
+out moderation.
+
+incredible,  marueilous, such as cannot be
+beleeued.
+
+incorporate,  to graft one thing into the bo­
+die of another, to make one bodie or sub­
+
+
+
+
+
+
+stance of two or moe, to mixe or put to­
+gether.
+
+incorruptible,  vncorruptible, vnperishable,
+or not subiect to corruption
+
+incredulous,  hardly brought to beleeue
+
+inculcate,  to vrge, or repeate one thing of­
+ten:
+
+inculpable,  without fault, blamelesse,
+
+incurable,  past cure, a wound that cannot
+be healed:
+
+incur,  runne into
+
+indecent,  not comly, or beseeming,
+
+indeere,  make bound to one,
+
+indefinite,  without rule, or order, not de­
+termined:
+
+indemnitie,  without losse
+
+indignitie,  vnworthinesse, vnseemly vsage,
+infamie, or disgrace
+
+indignation,  anger, chafing,
+
+indissoluble,  that cannot be vnloosed or vn­
+doone:
+
+§ indite,  to signifie, or giue in ones name.
+
+induce,  to moue vnto, or allure, or draw:
+
+indulgence,  sufferance, too gentle intrea­
+ting.
+
+induction,  bringing in
+
+indurate,  harden.
+
+
+
+
+
+
+industrie,  diligence or labour
+
+ineffable,  vnspeakable, that cannot be vttered
+
+inequalitie,  vnlikenes
+
+inestimable,  that cannot be valued, or ac­
+counted of as it deserueth.
+
+ineuitable,  that cannot be auoyded.
+
+inexorable,  that cannot, or will not be in­
+treated to graunt
+
+infallible,  vndeceiueable, vnguilefull, tru­
+stie.
+
+infamous,  ill reported of, or defamed
+
+infatuate,  to make foolish.
+
+infection,  corrupting
+
+infernall,  belonging to hell,
+
+inferre,  bring in, to alleage, or signifie
+
+infidelitie,  vnfaithfulnes:
+
+infinite,  without number, or end
+
+infirmitie,  weakenes:
+
+inflamation,  inflaming, or setting on fire
+
+inflexible,  that cannot be bended, vnruly.
+
+inflict,  to lay vpon
+
+influence,  a flowing in.
+
+informe,  giue notice to teach, to beginne to
+instruct.
+
+infringe,  to breake, to make weake, or fee­
+ble.
+
+infuse,  to poure in, or steepe in,
+
+
+
+
+
+
+§ ingage,  lay to pledge, binde himselfe
+
+ingratitude,  vnkindnes, or vnthankfulnes
+
+ingenious,  wittie, quicke witted
+
+ingine, engine,  an instrument to doo any thing
+with
+
+§ ingraue,  carue
+
+ingresse, ingredience,  enterance
+in
+
+ingurgitate,  to deuoure vp greedily
+
+inhabite,  dwell in
+
+inhabitable,  that cannot be dwelt in
+
+inherent,  cleauing fast vnto,
+
+inhibit,  forbid.
+
+inhibition,  forbidding.
+
+inhumane,  cruell, vncurteous.
+
+iniunction,  commaunding, rule or order.
+
+initiate,  to begin, instruct, or enter into
+
+iniurious,  wrongfull, or hurtfull,
+
+innauigable,  that cannot be sailed vpon
+
+innouate,  make newe, young, begin.
+
+innouation,  making new, an alteration.
+
+inoculated,  grafted, or vnholed.
+
+inordinate,  out of order, disordered,
+
+inquinate,  to defile, or disgrace
+
+inquisitiue,  desirous, and diligent to finde
+out by asking of questions.
+
+inquisition,  searching, or inquiring.
+
+
+
+
+
+
+insatiable,  that cannot bee filled or conten­
+ted.
+
+incend,  clime vp, or mount vpNot in OED.
+
+inscription,  a title, or note written vppon
+any place.
+
+inscrutable,  that cannot be searched into,
+or throughly knowne.
+
+insensible,  that cannot be felt or perceiued.
+
+inseperable,  that cannot be deuided.
+
+insert,  to put in, or graft in.
+
+insinuate,  creepe into ones fauour craftilie,
+also to signifie.
+
+insist,  to stay vpon:
+
+insociable,  that will not keepe company.
+
+insolent,  proude, disdainefull,
+
+insperge,  sprinkle, or cast vpon
+
+inspire,  breath or blow into
+
+instable,  inconstant, not steddie.
+
+§ install,  admit to a place of office, or ho­
+nour.
+
+instant,  earnest, importunate,
+
+instauration,  repairing, renewing.
+
+instigation,  prouoking, or mouing forward.
+
+instill,  to put in, or drop in.
+
+instinct,  inward motion, or stirring.
+
+institute,  appoint, ordaine, begin, or go in
+hand with.
+
+
+
+
+
+
+insulte,  to triumphe, or vaunt ouer.
+
+insupportable,  not able to be borne
+
+integritie,  purenes, innocencie
+
+intelligence,  knowledge from others
+
+intemperate,  without measure or meane,
+vnmodest in behauiour
+
+intende,  to purpose, or think
+
+intentiue,  earnestly bent, and musing
+
+intercession,  going betweene, or making
+intreatie for another,
+
+intercept,  preuent, or take before
+
+interchange,  exchang
+
+intercourse,  mutuall accesse, or passage one
+to another
+
+interdict,  to forbid straitly
+
+§ interest,  loane, right, also a part in any
+thing
+
+interlace,  mixe
+
+interline,  draw a line betwixt, or to blot
+out with a penne, and to write be­
+twixt
+
+interlocution,  interrupting of anothers
+speech
+
+intermedle,  deale with
+
+intermingle,  mixe, or mingle with, or a­
+mongst
+
+intermission,  foreslowing, a pawsing,
+
+
+
+
+
+
+or breaking of
+
+interpellate,  disturbed, hindered
+
+interpreter,  expounder
+
+interprete,  open, make plaine, to shewe
+the sence and meaning of a thing
+
+interre,  to burie
+
+interrogation,  a question, or asking
+
+interrupt,  breake of, or let
+
+§ intire,  whole, sound, vncorrupt
+
+intestate,  that dieth without making a will
+
+intimate,  to declare or signifie
+
+intised,  drawne, allured
+
+§ intituled,  called, noted, written on the
+beginning
+
+intractable,  vnrulie, troublesome
+
+intricate,  inwrapped, doubtfull, hard to be
+knowne.
+
+introduction,  entrance, or leading in
+
+intrude,  to thrust ones selfe into the com­
+pany of others, or enter in violently
+
+inuade,  to set vpon, to lay hold on
+
+inueigle,  intice, or deceiue by subtiltie, to
+intrape.
+
+inueighe,  to raile vppon bitterly
+
+§ inuentory,  table of goods
+
+inuention,  deuise, or imagination
+
+§ inueloped,  wrapped in, intangled
+
+
+
+
+
+
+inuersion,  turning vpside downe, turning
+contrariwise.
+
+§ inuest,  to adorne, or decke, or grace.
+
+inueterate,  of long continuance, growne in
+custome:
+
+inuincible,  not to be wonne
+
+inuisible,  that cannot be seene or perceiued:
+
+inuiolable,  that cannot be broken
+
+inuite,  bid, request
+
+invndation,  an ouerflowing by water,
+
+invocation,  a calling vpon any thing with
+trust in the same
+
+irchin,  a hedgehog.
+
+ ironie, (g)  a mocking speech
+
+irreligious,  vngodly, wanting religion
+
+irreprehensible,  without reproofe
+
+irreuocable,  not to be recalled, or not to bee
+withdrawne
+
+irritate,  to make angry
+
+irruption,  breaking in
+
+§ issue,  euent, or successe, or end:
+
+iterate,  to repeat, or do a thing often, or a­
+gaine:
+
+iubilee,  yeere of ioy, which happened to the
+Iewes euery fiftie yeere.
+
+iudaisme,  worshipping one God without
+Christ.
+
+
+
+
+
+
+iudiciall,  belonging to iudgement
+
+iurisdiction,  authoritie, to make, or execute
+lawes in any place.
+
+iustifie,  approoue, or make to be accounted
+good and iust
+
+iustified  made or accounted for righteous,
+cleane from sinne.
+
+laborinth,  a place so full of windings and
+turnings, that a man cannot finde the
+way out of it:
+
+laborious,  painfull, full of labour
+
+§ language,  a tongue, or speech:
+
+languishing,  pining, consuming, wearing
+away with griefe or sicknes
+
+lapidarie,  one skilfull in pretious stones or
+iewells
+
+§ largesse, or largis:   liberalitie 
+
+lasciuious,  wanton, lecherous
+
+lassitude,  wearines
+
+latitude,  breadth, largnes
+
+lauacre,  a bath or font
+
+lauish,  to spend extraordinarily
+
+laud,  praise, or commendation
+
+laudable,  worthie of praise
+
+laxatiue,  loose, purging
+
+§ league,  agreement, or couenant of peace.
+
+leake,  runne out.
+
+
+
+
+
+
+lecherie,  vnchastnesse, luxurie, and vnlaw­
+full lust
+
+§ leete,  court
+
+§ legacie,  a gift by will, or an ambassage
+
+legate,  ambassadour
+
+§ legeiredemaine,  lighthandednes, craftie
+slights, and conueiance
+
+legion,  host, or band of souldiers
+
+legitimate,  lawfull, according to lawe, and
+good order
+
+lenitie,  gentlenes, mildnes
+
+lethall,  mortall, deadly
+
+ lethargie, (g) (k)  a drowsie and forgetfull
+disease.
+
+leuell,  right, straight
+
+leuitie,  lightnes, inconstancie
+
+libertine,  loose in religion, one that thinks
+he may doe what he listeth
+
+libell,  a writing, or booke
+
+librarie,  a studie, a great number of bookes
+
+licentious,  taking libertie to doe euill
+
+ligate,  bound, tyed  The only OED citation. 
+
+ligament,  the string tying the bones toge­
+ther
+
+§ linage,  stocke, kinred
+
+limitation,  appointment, how farre any
+thing shall goe, restraining:
+
+
+
+
+
+
+limber,  britle
+
+limit,  bounds, border, or land marke, al­
+so to set such bounds. &c.
+
+liniament,  a forme, or proportion by lines,
+that are drawne
+
+lingell,  shoemakers threed
+
+linguist,  skilfull in tongues
+
+linguish,  to leaue or forsake
+
+lint,  cloth
+
+liquide,  moist, melted:
+
+literature,  learning
+
+litigious,  quarrellous, full of strife
+
+§ lieuetenant,  deputie in anothers place
+
+lithernesse,  slouthfulnes, idlenes
+
+loame,  earth, or morter
+
+ logicall, (g)  belonging to reason
+
+longitude,  length
+
+lore,  lawe
+
+§ lotarie,  casting of lots.
+
+§ lourdin,  rude, clownish
+
+§ loyall,  obedient, trustie, constant
+
+lumber,  old stuffe
+
+lunatick,  wanting his wits, at a certaine
+time of the age of the moone
+
+lumpish,  sad or sower countenance.
+
+lustre,  glistering, shinning
+
+luxurious,  riotous, and excessiue in plea­
+
+
+
+
+
+
+sure, and wontonnesse.
+
+
+ M
+
+MAcerate,  to steepe in water, or make
+cleane
+
+madefie,  dip, make wet
+
+maffle,  stammer, or stut
+
+magicke,  inchaunting, coniuring
+
+magistrate,  gouernour
+
+ magitian, (g)  one vsing witchcraft
+
+magnanimitie,  valientnes, courage
+
+magnificence,  sumptuousnes
+
+magnifie,  to extoll, or praise highly
+
+magnitude,  greatnes
+
+§ mayre,  leane  Not found in OED.
+
+maiestie,  the stately port and honourable
+renowne of any
+
+§ maladie,  disease
+
+§ malecontent,  discontented
+
+malediction,  slaundring, ill report, or
+backbiting, or cursing
+
+malefactor,  an euill doer
+
+malepert,  saucy, proud, snappish
+
+§ maligne,  to hate, with purpose to hurt
+
+§ malignitie,  naughtines, malice
+
+malitious,  hating, or enuying
+
+
+
+
+
+
+manchet,  fine white breade
+
+mandate,  a charge, or commaundement
+
+§ maniacque,  mad: braine sick
+
+manicle,  a fetter, for to bind the hands
+
+manifest,  opened, declared or reuealed
+
+manuring,  dung, tilling
+
+§ mannage,  handle Not in OED in this form. 
+
+mansion,  an abiding place
+
+manuall,  done with the hand
+
+manumisse,  to set free, or at libertie
+
+ maranatha, (g)  accursed
+
+§ marche,  goe in aray, or goe forward
+
+margent,  edge, or brim of any thing
+
+§ marte,  a faire
+
+§ massacre,  kill, put to death
+
+martiall,  warlike, or valiant, or taking
+paines and delight in warres
+
+ martyre, (g)  witnes, one suffering death
+for the faith of Christ
+
+materiall,  of some matter, or importance.
+
+matrixe,  wombe
+
+matron,  an auncient, sober, and a discreete
+woman.
+
+mature,  ripe, perfect, speedy
+
+§ maugre,  despight, against ones will
+
+maxime,  a principle, or sure ground in any
+matter
+
+
+
+
+
+
+ mechanicall, (g) mechanick,  handie
+craft.
+
+mediatour,  aduocate, or surety, or one
+making peace betwixt two
+
+medicine,  remedie, or cure
+
+mediocritie,  a measure, a meane
+
+meditate,  muse vpon, bethinke
+
+meditation,  the earnest minding or think­
+ing vpon a thing
+
+ melancholie, (g)  black choler, a humor of
+solitarines, or sadnes
+
+mellifluous,  sweete as hony, yielding
+much hony.
+
+ melody, (g)  sweete sounding, or sweete
+musick
+
+memorable,  worthie to be remembred
+
+§ menace,  to threaten
+
+menstruous,  defiled, or foule.
+
+mentall,  belonging to the minde
+
+mercenary,  seruing for wages, and hire­
+ling.
+
+meridian,  pertaining to noone tide
+
+meritorious,  that deserueth, or set for ad­
+vauntage.
+
+ metamorphosis, (g)  a changing of one
+shape, or likenes into another
+
+ metaphor, (g)  similitude, or the putting
+
+
+
+
+
+
+ouer of a word from his proper and na­
+turall signification, to a forraine or vn­
+proper signification.
+
+ meteors, (g)  elementarie bodies, or moyst
+things, ingendered of vapours in the
+ayre aboue.
+
+ method, (g)  an order, or readie way to
+teach, or doo any thing
+
+ methodized, (g)  brought into order
+
+ metropolitaine, (g)  of the chiefe citty.
+
+ microcosme, (g)  a little world
+
+militant,  warring, or beeing in warres.
+
+§ miguionise,  play the wanton: 
+
+ministration,  ministring, or seruice, or
+charge to doo a thing:
+
+minoritie,  a mans time vnder age
+
+minutly,  smally:
+
+miraculous,  meruailous, or wonderfull:
+
+§ mirrour,  a looking-glasse
+
+miscreants,  infidels, mis-beleeuers:
+
+misprission,  concealement of a mans owne
+knowledge. Sense not recognized by OED.
+
+misknow,  to mistake purposely, to be igno­
+rant of.
+
+mitigate,  asswage, qualifie, or pacifie
+
+mixtion, mixture,  mingling, or tempering
+together.
+
+
+
+
+
+
+mobilitie,  moouing or stirring.
+
+modell,  measure,
+
+moderate,  temperate, or keeping a meane,
+
+moderation,  keeping due order and pro­
+portion:
+
+§ moderne,  of our time
+
+modest  sober, demure
+
+§ moitie,  halfe.
+
+molestation,  troubling
+
+mollifie,  make soft
+
+momentanie,  that which lasteth but a
+while:
+
+moment,  weight, or importance, also a
+short time
+
+ monarch, (g)  one ruling all the kingdoms
+about him
+
+ monarchie, (g)  the rule of one prince a­
+lone:
+
+ monasterie, (g)  colledge of monks
+
+ monopolie, (g)  a licence that none
+shall buy and sell a thing, but one
+alone.
+
+monument,  a remembrance of some nota­
+ble act, as Tombs
+
+moosell,  to fetter
+
+§ moote,  argue, or dispute a case in law
+
+moralitie,  ciuill behauiour.
+
+
+
+
+
+
+morall,  pertaining to manners, behauior,
+and life, among men
+
+§ morgage,  lay to pawne
+
+morigerous,  well mannered
+
+mortall,  that endeth ere hauing an end,
+and dying deadly:
+
+mortifie,  kill, or make dead, and sence­
+lesse.
+
+mortuarie,  dutie paid for the dead,
+
+motiue,  cause moouing, or the thing, and
+reason, that mooueth to doe any
+thing.
+
+§ mouldre,  make small, turne to dust
+
+mulct,  a fine, penaltie, or punish­
+ment:
+
+multiplicitie,  varietie, or diuersitie of
+sorts.
+
+mundifie,  to make cleane:
+
+munition,  defence, supportation, or
+strength, and plentie of weapons, to
+resist in warre.
+
+municipall,  priuately belonging to a free­
+man, or burgesse of a cittie.
+
+ muses, (g)  goddesses of learning.
+
+§ mustaches,  the hayre of the vpper
+lippe.
+
+mutable,  changeable, wauering.
+
+
+
+
+
+
+mutation,  change.
+
+ muthologie, (g)  expounding of the tales of
+the Poets.
+
+mutilate,  wanting some part, maimed
+
+mutuall,  one for another
+
+ myrrhe, (g)  sweet gumme
+
+ mysterie, (g)  a secret, or hid thing:
+
+ mysticall, (g)  that hath a misterie in it. 
+
+
+ N 
+
+NArration,  declaration, or report.
+
+nationall,  belonging, or consisting of
+a nation, or kingdome.
+
+natiue,  where one was borne, or naturall.
+
+natiuitie,  birth, or the day of birth
+
+nauigable,  where ships may safely passe, or
+that may be sailed vpon.
+
+nauigation,  sayling, or passing by water
+
+ necromancie, (g)  blacke art, or coniuring,
+by calling vpon spirits.
+
+nectar,  a pleasant drinke, which is feyned
+to be the drinke of the gods.
+
+negatiue,  that denieth
+
+negotiation,  trafficke, or busines
+
+ neotericke, (g)  one of late time
+
+§ nevewe,  a sonne or daughters sonne
+
+
+
+
+
+
+nerue,  sinewe
+
+§ nete,  fine
+
+neutrall, neuter,  of neither
+side:
+
+§ nice,  slow, laysie
+
+ nicholaitan, (g)  an heretike, like Nicholas,
+who helde that wiues should bee com­
+mon to all alike.
+
+nominate,  to name, or appoint
+
+§ nonage,  a childs time, vnder age
+
+nonresidencie,  vnnecessary and wilfull ab­
+sence, of any one from his place or
+charge:
+
+§ nonsuite,  not following, or the ending
+and giuing ouer of a suite
+
+notable,  worthy, meete to be regarded and
+esteemed:
+
+notarie,  Scriuener, or register
+
+notifie,  to make knowne, or to giue war­
+ning of.
+
+notion,  inwarde knowledge, or vnder­
+standing:
+
+notorious,  knowne to all, or made plaine
+and manifest.
+
+noyance,  hurt.
+
+noysome,  hurtfull,
+
+nullitie,  nothing
+
+
+
+
+
+
+numeration,  numbring
+
+nuncupatory,  telling, or declaring any
+thing.
+
+nuptiall,  belonging to marriage
+
+nutriment,  nourishment
+
+
+ O 
+
+Obdurate,  harden, or to make more hard
+
+§ obeisance,  obedience
+
+obiect,  laide, or set against, or that where­
+on any thing resteth, or that where any
+thing is occupied, or set a worke.
+
+oblation,  offering
+
+oblectation,  recreation, delight
+
+obliged,  bound, or beholden
+
+oblique,  crooked, ouerthwart
+
+obliuious,  forfetfull
+
+obloquie,  euill report
+
+obnoxious,  faultie, subiect to danger
+
+obnubilate,  to make darke.
+
+obscæne,  bawdie, filthy, ribauldrie
+
+obscure,  darke, or cloudie
+
+obsequious,  seruiceable, readie at hand
+
+obseruant,  dutifull, full of diligent ser­
+uice.
+
+obsession,  besieging, or compassing about
+
+
+
+
+
+ 
+obsolete,  olde, past date, growne out of
+vse or custome.
+
+obstacle,  hinderance or let
+
+obstinate,  froward, stubberne, or stiffe in
+his owne opinion
+
+obstruction,  stopping, repressing
+
+obtestate,  humble, to beseech, or to call to
+witnesse: Predates OED 1613.
+
+obtrectation,  slaunder, euill report.
+
+obtuse,  dull or blunt:
+
+occidentall,  belonging to the west
+
+occluding,  shutting fast:
+
+§ occurrences,  occasions, things that offer
+themselues by the way:
+
+ ocean (g)  the maine sea
+
+odious,  hatefull, disdainfull
+
+odor,  smell, sent, or sauour:
+
+odoriferous,  sweet smelling
+
+ oeconomicke, (g)  things that pertaine to
+houshold affaires
+
+offensiue,  giuing offence, offering wrong,
+or displeasing
+
+officiall,  belonging to an office,
+
+officious,  dutifull, dilligent, very readie or
+willing to please.
+
+ oligarchie, (g)  a Common-wealth, where
+two Princes equall haue all the autho­
+
+
+
+
+
+
+ritie.
+
+oliuet,  place of Oliues:
+
+§ ombrage,  shade, harbor, or bower to rest
+vnder.
+
+ominous,  that signifieth some good, or ill
+lucke:
+
+omit,  let passe, ouerslip.
+
+omnipotent,  almightie, great, or high
+
+omni-scient,  knowing all things
+
+onerous,  burdenous, or chargeable
+
+onust,  loaden, ouerchargedfirst instance of term in OED 
+
+operation, operatiue,  working, or
+effect
+
+opinionate,  hauing a good opinion of, or
+standing on his owne opinion
+
+oportunitie,  fitnes, to any thing,
+
+oppilation,  stopping
+
+oppose,  set againe
+
+opposite,  contrarie, or set ouer against
+
+oppressed,  grieued, or violently wron­
+ged:
+
+opprobrious,  reprochfull, to taunt, reuile,
+or vpbraide with bad speeches.
+
+oppugne,  to labour against, to resist
+
+option,  choosing or wishing
+
+ oracle, (g)  a speech or aunswere giuen from
+God:
+
+
+
+
+
+
+oratorie,  eloquent speech:
+
+ordination,  ordeyning
+
+ordure,  dung, filth,
+
+orifice,  mouth
+
+originall,  the first, or such as it was at the
+beginning
+
+ organe, (g)  an instrument to doo any thing
+with:
+
+ornament,  a decking, adorning, or trim­
+ming.
+
+ orphant, (g)  a childe without parents
+
+ossicle,  bone:
+
+§ ostages,  pledges giuen and taken
+
+ostentation,  boasting
+
+ orthographie, (g)  true writing
+
+§ ouerplus,  more then needeth
+
+§ outragious,  fierce, vnreasonable. 
+
+
+ P
+
+PAcifie,  to make quiet.
+
+pactation,  a couenanting or bargay­
+ning.
+
+§ palatine,  belonging to a Princes Court,
+or pallace.
+
+ palinodie, (g)  a recanting, or vnsaying of
+any thing
+
+
+
+
+
+
+palpable,  that may be felt, manifest:
+
+pamphlet,  a small treatise, or booke
+
+ parable, (g)  similitude, or an applying of
+some thing to our matter, fitly alleaged,
+for some likenesse which it hath to our
+purpose.
+
+ paradise, (g)  place of pleasure
+
+ paradoxe, (g)  marueilous, or strange
+speech:
+
+§ paragon,  patterne, example
+
+ paraleles, (g)  lines, or other things as farre
+off from one another, in one place as in
+another.
+
+paramour,  an amorous louer
+
+ paraphrase, (g)  exposition of any thing by
+many words.
+
+ parasite, (g)  a base flatterer, or soothing
+companion:
+
+ parenthesis, (g)  a clause contayned in ano­
+ther sentence:
+
+paricide,  a murtherer of parents
+
+§ parle,  speech, or conference.
+
+parsimonie,  thriftines, sparing
+
+participate,  partake, deuide, or distribute,
+to giue, or take part:
+
+particularize,  to deuide into parts, and to
+handle euery particuler.
+
+
+
+
+
+
+partition,  deuision.
+
+passeouer,  one of the Jewes feasts, in re­
+membrance of Gods passing ouer them,
+when he slewe so many of the Egiptians
+
+passion,  suffering, griefe
+
+pastorall,  belonging to sheapheards
+
+ patheticall, (g)  vehement, full of passions,
+or mouing affections
+
+ patriarke, (g)  chiefe father
+
+patrimonie,  fathers, gift, or goods left by a
+father
+
+§ patronage,  defence, protection
+
+patronise,  defend
+
+paucitie,  fewnes, or smale number
+
+pause,  thinke, stay, or rest
+
+§ pauillion,  tente
+
+peerelesse,  worthie, vnmatchable
+
+peccaui,  I haue offended.
+
+peccant,  offending, doing amisse
+
+peculiar,  proper, or specially belonging
+
+pecuniarie,  coyne
+
+pellicles,  skinnes
+
+penetrable,  that may be pearsed
+
+penitentiarie,  one repenting, or doing pen­
+naunce.
+
+penaltie,  losse
+
+§ pension,  payment, yearely fee
+
+
+
+
+
+
+§ pensiue,  sorrowfull
+
+ pentecost, (g)  whitsontide
+
+penurie,  want or extreame neede
+
+perambulation,  a walking about
+
+peregrination,  iourneing in a strange land
+
+peremptorie,  resolute, short
+
+perforations,  holes, or pierced through
+
+perfidious,  trayterous, vnfaithfull
+
+perfricated,  rubbed much
+
+perilous,  dangerous
+
+periclitation,  ieopardie, or hazarding
+
+ period, (g)  the end of a perfect sentence
+
+periurie,  forswearing, or breaking of ones
+oath.
+
+permanent,  continuing, or a biding till the
+end
+
+permission,  sufferance, leaue
+
+permit,  suffer, giue leaue
+
+permutable,  changable
+
+pernitious,  dangerous, hurtfull
+
+perpendicular,  directly, downe right
+
+perpetrate,  to commit, or doe
+
+perpetuitie,  continuance for euer
+
+perplexitie,  troublesome, griefe, distresse,
+doubtfulnes
+
+persecute,  trouble, afflict, or pursue
+after.
+
+
+
+
+
+
+persist, perseuer,  continew, constantly,
+and resolutely.
+
+personate,  to counterfaite, anothers per­
+son
+
+perspicacie,  quicknes of sight, vnderstan­
+ding
+
+perspicuous,  euedent, cleare, that may bee
+seene through
+
+pertinacie,  obstinacie, stifnes in opinion
+
+perturbation,  disquietnes, or trouble
+
+peruerse,  froward, mischeiuous
+
+peruert,  ouerthrowe, or turne vp side
+downe
+
+§ pese,  to weigh
+
+peruicacie,  obstinacie, stifneckednes
+
+§ pesant,  clowne
+
+pester,  filled
+
+pest,  the plague, or pestilence
+
+pestiferous,  contagious, hurtfull
+
+petition,  prayer, or request
+
+§ pettigree,  stock, or ofspring
+
+petulancie,  wantonnes, saucines.
+
+ phantasie, (g)  imagination
+
+ philacteries, (g)  scroles of parchment,
+whereon, was writen the tenne com­
+maundements.
+
+ physiognomie, (g)  knowledge of a mans
+
+
+
+
+
+
+nature by his visage, and countenance
+
+ physicke, (g)  medicine, helping, or curing
+
+ phlebotomie, (g)  letting bloud
+
+ phrase, (g)  forme of speach
+
+ philosophie, (g)  study of wisdome
+
+ phrensie, (g)  madnes
+
+pietie,  godliness, holines
+
+§ pillage,  spoile in warre, and sacking, of
+the enemies.
+
+pinguiditie,  fatnes, or greasinesse
+
+§ pilot,  maister, guider of a ship
+
+§ pionner,  digger, or ditcher
+
+ piramis, (g) piramides,  a steeple, or other build­
+ing, or a pillar broade be­
+neath, and sharpe aboue
+
+pistated,  baked
+
+§ pirate,  a robber on the sea
+
+§ pittance,  short, banquet
+
+placable,  easie to be pleased
+
+ planet, (g)  wandring starre
+
+§ plaintife,  the partie complayning
+
+plausible,  pleasing, or receiued ioyfully, and
+willingly
+
+plenitude,  fulnes, thicknesse
+
+§ plonge,  dippe, or put vnder the water
+
+plume,  feather
+
+pluralitie,  more then one
+
+
+
+
+
+
+pluuiatile,  raine
+
+ poeme, (g)  verses of a poet
+
+ poet, (g)  a verse maker
+
+poetesse,  a woman poet
+
+ pole, (g)  the end of the axeltree whereon
+the astronomers, faine the heauens to be
+turned.
+
+pollicie,  a wittie shift
+
+ poligamie, (g)  hauing moe wiues then
+one
+
+polish,  to deck, or make faire, smooth,
+sleeke, or shining
+
+pollute,  defile, or distaine, or make fil­
+thie
+
+pomegarnet, orpomegranet, (k)  fruite
+
+pompe,  the countenance of things in fur­
+niture, and setting foorth to the outward
+shewe.
+
+ponderous,  weightie, heauie
+
+pontificall,  lordly, sumptuous, bishop­
+like.
+
+portable,  that may be carried with ease.
+
+popular,  seeking the fauour of the people
+by all meanes possible:
+
+populus,  full of people:
+
+popularitie,  pleasing the people,
+
+position,  a question to be disputed of
+
+
+
+
+
+
+posteritie,  they that come after by birth:
+the age after vs.
+
+postscript,  written after
+
+potion,  a drinke,
+
+§ pourtrait,  draw the forme, or proportion
+of a thing
+
+ practicall, practique, pragmaticall(g)  practising.
+
+§ preamble,  forespeech, a flourish, entrance,
+or assay.
+
+precedent,  going before
+
+precept,  a rule giuen, an admonition, or
+commaundement.
+
+precinct,  compasse appointed:
+
+predecessor,  one that was in place before
+another.
+
+predestinate,  to appoint before.
+
+prediction,  afore telling, or prophecying
+
+predominante,  ruling
+
+preheminence,  excellent, rule, authoritie
+ouer others
+
+preface,  a speech before the matter it
+selfe
+
+prefigurate,  forshewe by a figure
+
+prefixed,  set in the fore part
+
+pregnant,  wittie, substantiall, with
+
+
+
+
+
+
+child,
+
+preiudicate,  giuing his iudgment, before
+he knoweth the man, or matter
+
+preiudice,  hindering ones cause, sentence,
+an opinion deliuered before knowledge
+of any thing
+
+preludium,  an entrance to any thing
+
+premeditation,  thinking of a matter before
+hand
+
+§ premunire,  forfeiture of goods
+
+preoccupation,  a preuenting by speech or
+other wayes
+
+preordination,  appointing before
+
+preparatiue,  that which maketh fit or pre­
+pareth
+
+preposterous,  disorder, froward, topsiter­
+uie, setting the cart before the horse, as
+we vse to say
+
+prerogatiue,  priuiledge, or authoritie be­
+fore another
+
+presage,  to tell before, to betoken, to fore­
+see.
+
+ presbitarie, (g)  eldership
+
+prescience,  foreknowledge
+
+prescript,  decree, or assignement
+
+prescription,  limitation, or appointing a
+certaine compasse.
+
+
+
+
+
+
+preseruatiue,  that which defendeth
+
+president,  a chiefe, ruler next vnder the
+highest
+
+prest,  reacte unclear what is meant by "reacte"
+
+presuppose,  faine a thing to be before it
+is.
+
+pretermit,  to passe ouer, to forget willing­
+lie.
+
+preterlapsed,  passed, or gone past
+
+pretext,  an excuse, colour, or pretence
+
+preuarication,  collusion, or betraying of a
+cause or matter, for want of more ear­
+nest speech.
+
+primitiue, primarie,  first, or formost,
+or excellent,
+
+prioritie,  being in the formost place, or in
+greater excellencie and superioritie then
+another.
+
+pristine,  old, wonted, or accustomed
+
+priuation,  depriuing, vtter taking away,
+or withdrawing
+
+priuiledge,  prerogatiue, or liberty, more
+then others haue
+
+probable,  that may be easilie proued to be
+true.
+
+probation,  alouance, tryall
+
+ probleme (g)  proposition, or sentence
+
+
+
+
+
+
+in manner of a question.
+
+proceede,  goe forth, or goe forward,
+
+processe,  proceeding, passing forward,
+
+procliuitie,  inclination to any thing
+
+proctour,  a factour, or solicitor.
+
+procrastinate,  to defer, or delay
+
+prodigall,  too riotous in spending
+
+prodigious,  wonderfull, giuing an ill
+signe.
+
+prodition,  betraying, treason
+
+profane,  vngodly, not consecrated, or vn­
+hallowing that which was holy.
+
+profound,  deepe, or high.
+
+profunditie,  deepenes.
+
+profusion,  pouring out wastfully,
+
+progenie,  ofspring, generation, or issue of
+children.
+
+progenitor,  a fore-father, or grandfather.
+
+ prognosticate, (g)  to know or giue out be­
+fore-hand, or to tell afore-hand what
+shall happen.
+
+progresse,  a going forward:
+
+prohibit,  to forbid, or giue straight charge
+to the contrary.
+
+proiect,  a plot, or wise contriuing of any
+thing, or casting forth
+
+prolixe,  tedious, long, or large.
+
+
+
+
+
+
+prolocutor,  a speaker for another
+
+prologue,  a preface, or forespeech
+
+prolong,  stretch out, or defer.
+
+promerit,  desert:predates noun usage in OED -- earliest 1630
+
+promote,  to honor or aduaunce to greater
+dignitie, and higher place
+
+prompt,  ready, quicke:
+
+promulgation,  publishing openly, or pro­
+claiming.
+
+prone,  ready, or inclining
+
+§ prowesse,  valiantnesse
+
+propagate,  to enlarge, or multiply.
+
+ prophecie, (g)  foretell, or expound
+
+ prophet, (g)  he that prophecieth
+
+propitiation,  a sacrifice to appease Gods
+displeasure:
+
+propitiatorie,  that which reconcileth, or
+which purchaseth mercie, at the mercie
+seate:
+
+propitious,  not displeased, fauourable
+
+proportion,  equalnes, measure:
+
+propose,  propound, set before, or shew
+
+proprietie,  propertie, owing, or challeng­
+ing as his owne, and none others:
+
+proroge,  put off, prolong, deferre
+
+proscription,  a condemnation, or banish­
+ment proclaimed, or an open
+
+
+
+
+
+
+sale.
+
+prose,  that writing which is not verse.
+
+ proselite, (g)  stranger conuerted to our re­
+ligion or manners:
+
+prosequute,  follow after, or finish
+
+prospect,  a sight a farre off.
+
+prostitute,  set open for vncleanesse, to set
+foorth to sale.
+
+prostrate,  to cast downe, or fall downe flat
+on the ground.
+
+protect,  defend, saue, or couer:
+
+protest,  to affirme, and declare openly:
+
+protract,  deferre, or prolong, or draw out
+at length:
+
+prouident,  foreseeing with wise considera­
+tion, and prouiding aforehand
+
+prouinciall,  iurisdiction, belonging to a pro­
+uince, or outcountry
+
+prouocation,  prouoking, enforcing, vrging
+pressing, or alluring
+
+prudence,  wisdome, wittinesse
+
+publicane,  a farmer, or common man of a
+Cittie:
+
+§ pulers,  dust, or pouders
+
+puluirisated,  beaten, or broken into dust, or
+powder. 
+
+purifie,  purge, scoure, or make cleane
+
+
+
+
+
+
+§ pursuit,  following after
+
+putrifie,  to waxe rotten, or corrupted as a
+sore.
+
+pulsillanimitie,  faint-hartednes, cowardli­
+nesse.
+
+§ puissant,  strong, valiant
+
+
+ Q 
+
+QVadrangle,  foure-cornered
+
+quadrant, quadrate,  foure square, or
+a quarter.
+
+quartane,  belonging to, or comming euery
+fourth day.
+
+queach,  thicke heape
+
+querimonious,  full of complaining, and la­
+mentation: First OED citation.
+
+§ quintessence,  chiefe vertue, drawne by
+art out of many compounds together.
+
+quondam,  heeretofore, in times past
+
+§ quote,  cite, preuent
+
+quotodian,  daily, that happeneth euery
+day.
+
+
+ R 
+
+RAcha,  fie, a note of extreame anger,
+signified by the gesture of the person
+that speaketh it, to him that he speaketh to.
+
+
+
+
+
+ 
+radicall,  partaining to the roote, naturall:
+
+radiant,  shining bright:
+
+§ rallie,  gather together men dispersed, and
+out of order.
+
+§ rampar,  fortification, or trench
+
+rapacitie, rapine,  violent, catching, extortion, or
+pillage, or rauening.
+
+raritie,  scarsenes, fewnes
+
+ratifie,  establish, or confirme
+
+§ rauish,  take away by force,
+
+§ raunged,  ordered, or put into order
+
+reachlesse,  carelesse, or negligent:
+
+reall,  substantiall, or that is indeede subsi­
+sting:
+
+recantation,  an vnsaying of that which was
+said before
+
+recapitulation,  a briefe rehearsing againe
+of any thing
+
+receptacle,  a place to receiue things in
+
+reciprock, reciprocall, or   that hath respect back a
+gaine to the same thing.
+
+recite,  rehearse, or repeate
+
+reclaime,  to gainesay, or call back againe:
+
+§ recognissance,  acknowledging, or a signe
+of acknowledging, and confessing any
+thing.
+
+§ recoile,  goe backe.
+
+
+
+
+
+ 
+reconcile,  bring into fauour, or to make
+peace betwixt.
+
+records,  writings layde vp for remem­
+brance:
+
+recreate,  refresh, comfort,
+
+recourse,  a running backe againe
+
+rectifie,  to make right or straight
+
+redeeme,  purchase, buy againe, or raun­
+some.
+
+redemption,  a buying againe
+
+§ redresse,  correct, amend.
+
+reduce,  to bring back againe
+
+reduction,  a bringing backe
+
+redundant,  ouerflowing, or abounding too
+much.
+
+reduplicated,  doubled.
+
+reedifie,  build vp againe
+
+reestablish,  to settle againe as before
+
+refection,  a refreshing, or recreating.
+
+refell,  to confute, or proue false
+
+reference,  a pointing at, or alluding to
+
+referre,  put ouer, or to report himselfe vn­
+to.
+
+refine,  repaire, renue, or amend
+
+reflection,  casting backe, or bowing, tur­
+ning backe againe
+
+refractarie,  wilful in opinion, obstinate.
+
+
+
+
+
+
+§ refraine,  abstaine from, keepe in
+
+refuge,  succour, or place of safetie
+
+refulgent,  shining bright
+
+refute,  to disproue
+
+regall,  princly, like a King
+
+regenerate,  borne againe
+
+regeneration,  a new birth,
+
+regent,  a Gouernor, or Ruler
+
+regiment,  gouernment, guidance, rule, or
+dominion.
+
+register,  kalender, a reckoning booke
+
+regrator,  huckster, or one that buyeth any
+thing, and trims it vp to make it more
+salable.
+
+ regresse,  returning backe againe
+
+reguler,  made according to rule and order.
+
+reiect,  fling, cast away, or refuse
+
+§ reioynder,  a thing added afterwards, or
+is when the defendant maketh answere
+to the replication of the plaintife.
+
+reiterate,  to doo, or repeate againe the same
+thing often.
+
+relapse,  back-sliding.
+
+relate,  report, rehearse, or declare
+
+relation,  pointing, reporting, or referring
+
+relatiue,  hauing relation vnto
+
+relaxation,  refreshing, releasing,
+
+
+
+
+
+
+release,  free, quit:
+
+§ reliefe,  ayde, helpe, or succour.
+
+reliques,  the remainder.
+
+relinquish,  to leaue, or forsake
+
+relish,  tast:
+
+remarkable,  able or worthy to be marked a­
+gaine:
+
+remisse,  loose, negligent, or dull, or too fa­
+uourable.
+
+remit,  forgiue, release, or acquite.
+
+§ remorse,  prick of conscience
+
+remote,  set a farre of
+
+remuneration,  rewarding, or requiting
+
+renouate,  renew, or repaire
+
+renounce,  forsake, or resigne
+
+§ renoume,  credite, fame, report
+
+reparation,  a renewing
+
+§ repast,  foode
+
+§ repeale,  call backe againe
+
+repell,  to put, or thrust backe
+
+repercussiue,  striking, or rebounding back
+againe.
+
+replenish,  fill:
+
+replete,  filled full
+
+repleueying,  redeeming of a gage, or any
+thing in prison:
+
+replie,  to confirme a speech before vttered.
+
+
+
+
+
+
+§ repose,  put, wholly to rest
+
+represent,  expresse, beare shew of a thing
+
+represse,  put downe, to let or stop
+
+reprobate,  a cast away, out of fauour, a
+forlorne person, and one past grace
+
+§ reproch,  shame, disgrace
+
+republicke,  a Common-wealth
+
+repugnancie,  contrarietie, or disagreement
+
+repugnant,  contrarie
+
+repugne,  to resist, oppose, stand against
+
+repulse,  to put, or driue backe
+
+repute,  account, or esteeme:
+
+requisite,  required as necessary:
+
+reserue,  to keepe for the time to come
+
+resident,  abiding or continuing in his place.
+
+resignation,  a yeelding vp, or restoring of a­
+nie thing.
+
+resigne,  giue ouer to another
+
+resist,  withstand
+
+resolue,  to vnloose, to satisfie, to purpose
+constantly,
+
+§ resort,  accesse, or comming to
+
+respiration,  breathing out.
+
+§ respite,  defer, or delay the time, to breath
+in:
+
+resplendent,  shining bright
+
+responses,  answers.
+
+
+
+
+
+
+restauration,  restoring, or reuiuing
+
+restitution,  restoring, satisfaction
+
+restrained,  beeing held in, or brideled
+
+resume,  take againe
+
+§ retire,  to giue backe, or goe back
+
+reteyne,  keepe backe
+
+retort,  to turne, or wrest backward
+
+§ retract,  going backe
+
+retrograde,  going backward
+
+§ reuell,  play the wanton
+
+reuerend,  worthy of reuerence
+
+reueale,  lay open, disclose, or make known
+a matter of secret
+
+reuert,  to returne
+
+§ reuenewe,  rents comming in
+
+reuoke,  to call backe, or draw back
+
+§ reuolt,  forsake one, to goe to another his
+enemie:
+
+reuolue,  to tosse vp and downe, to deter­
+mine well of in the mind 
+
+ rhetorician, (g)  learned and skilfull in rhe­
+toricke.
+
+ rhetoricke, (g)  art of eloquence
+
+ rheume, (g) catarre, or   a distilling of hu­
+mours from the head
+
+ridiculous,  that deserueth to be laughed at
+in scorne.
+
+
+
+
+
+
+§ rifle,  search, take away by violence
+
+rigorous,  cruell, and hard
+
+§ rinse,  wash, make cleane by washing
+
+§ riuall,  one suing, and striuing for the same
+thing.
+
+rubrick,  a lawe, or title
+
+§ royalty,  gouernement, rule, authority
+
+rudiment,  first instruction, or principle
+
+rubicunde,  red, or ruddie
+
+ruinous,  ready to fall
+
+ruminate,  to chewe ouer againe, to studie
+earnestlie vppon
+
+runnagate,  one that runneth away, and
+wandreth abroad.
+
+rupture,  breach, or bursting
+
+rurall, rusticall,  clownish, vplandish, or chur­
+lish, and vnmannerly
+
+
+
+
+saboth,  rest
+
+sacrament,  holie signe, oath, or misterie
+
+sacred,  holy, consecrated
+
+sacrifice,  an offering
+
+sacrificule,  a little offering First OED citation.
+
+sacriledge,  church robbing, the stealing of
+holy things
+
+§ safeconduit,  safe keeping or safe guiding
+
+sagacitie,  sharpnes of wit, witnes
+
+saint,  holy one
+
+
+
+
+
+
+§ sallie,  to step out from the rest of the ar­
+mie, to make a skermish
+
+saluation,  a sauing
+
+salubritie,  wholesomnes
+
+sanctifie,  hallowe, make holy, or keepe
+holy
+
+sanctification,  holines
+
+sanctitie, sanctmonie,  holi­
+nes.
+
+sanctuarie,  holy place, saue, defend
+
+ sandals, (g)  slippers
+
+sanguine,  bloudy, or of the colour of
+bloud.
+
+sanitie,  health, or soundnes
+
+sapience,  wisdome
+
+satiate,  filled, satisfied
+
+satietie,  fulnes, plentie
+
+satisfaction,  a making amends for wrongs,
+or displeasures
+
+satisfactorie,  that dischargeth, or answer­
+eth for
+
+saturate,  filled, or glutted
+
+saturitie,  fulnesse, or plentifulnesse
+
+§ sauage,  wild, cruell, or rude
+
+ satyre, (g)  a nipping and scoffing verse
+
+satericke, satiricall,  belonging to a
+scoffing verse.
+
+
+
+
+
+
+ scandalize, (g)  to offend, or giue occasion,
+to mislike
+
+ scandall, (g)  an offence, or stumbling
+block
+
+§ scarifie,  to launce, or open a sore
+
+§ schedule,  obligation, or bill of ones hand.
+
+schisme,  breach, or diuision in matters of
+religion
+
+schismatike,  that maketh a schisme
+
+science,  knowledge, or skill
+
+scripture,  writing
+
+scruple,  doubt, difficultie
+
+scrutiny,  dilligent search, inquiry
+
+scrupulous,  full of doubts
+
+scurrilitie,  saucie, scoffing
+
+seclude,  shutout, or put a part
+
+sectarie,  one whom many other doe followe
+in opinion.
+
+sect,  a diuersitie in opinion from others
+
+section,  a deuision, or parting
+
+secular,  worldly, of the world
+
+secundarie,  the second, or of the second sort
+
+securitie,  carelessenes, feare of nothing
+
+sediment,  that which sinketh to the bot­
+tome.
+
+seditious,  making contention
+
+seduce,  deceiue, or deuide, or leade aside
+
+
+
+
+
+
+sedulitie,  dilligence or carefulnes
+
+§ segniorie,  lordship
+
+segregate,  to set a part, or seperate
+
+§ seize,  to forfaite to the prince
+
+select,  to choose out from others
+
+semicircle,  halfe a circle, or compasse
+
+seminarie,  a nurserie, or seede plot for
+young trees, or grafts
+
+senator,  alderman, or counsailer
+
+sense,  feeling, or perceiuing
+
+sensible,  easily felt, or perceiued
+
+sensuall,  brutish, pertaining to the flesh, and
+bodily sence
+
+sententious,  full of fine sentences, and
+speeches.
+
+§ sentinell,  watching by night
+
+seperation,  deuiding, seuering, or parting
+one from another
+
+sepulcher,  graue, or tombe
+
+sepulte,  burie, or lay in the ground
+
+sequele,  following, or that which follow­
+eth.
+
+sequester,  to put into an indifferent mans
+hands, to deuide, keepe or iudge of
+
+serious,  earnest, or of waight, and impor­
+tance
+
+serpentine,  of, or like a serpent
+
+
+
+
+
+
+seruile,  slauish
+
+seruitude,  bondage, or slauery
+
+seuere,  sharpe, curst, or cruell
+
+seueritie,  sharpnes, roughnes
+
+sex,  kind
+
+shackle,  fetter
+
+significant,  plainely signifying
+
+simile, or, similitude,  likenes, or re­
+semblance.
+
+§ simonie,  when spirituall matters, are
+bought, and solde for money
+
+simplicitie,  plainenes
+
+sinister,  vnhappie, bad, vnlawefull, or con­
+trarie.
+
+sincere,  pure, vncorrupt, vnmingled, or
+without dissimulation
+
+singularitie,  being like no body else, in o­
+pinion, or other wayes
+
+situation,  setting, or standing of any place.
+
+sleight,  guile, craft, or subtiltie.
+
+smatterer,  some what learned, or one ha­
+uing but a little skill
+
+snatch,  to take hastely
+
+snipperings,  pairings
+
+§ soare,  mount high
+
+sociall, or sociable,  fellowe like, one that wil
+keepe company, or one with
+
+
+
+
+
+
+whom a man may easily keepe com­
+pany.
+
+societie,  fellowship, company
+
+sodomitrie,  when one man lyeth filthylie
+with another man
+
+§ soiourne,  remaine in a place
+
+solace,  comfort
+
+solemnize,  to doe a thing with great
+pompe, reuerence, or deuotion
+
+§ solicite,  moue
+
+solide,  sound, heauie, not hollowe
+
+solitarie,  alone, or without company
+
+solution,  vnloosing, or paying
+
+ sophister, (g)  cauiller, or craftie disputer
+
+sophistikation, sophisme,  a cauilling, deceit­
+full speech.
+
+§ sotte,  foole, dunse
+
+§ soueraigne,  chiefe, or highest in autho­
+ritie.
+
+§ source,  waue, or issuing foorth of water
+
+§ soile,  foule, or durtie
+
+spatious,  large, wide, or broade
+
+specifie,  signifie, or declare particularly
+
+specke,  spot, or marke
+
+spectacle,  a thing to be looked at
+
+sperme,  seede
+
+ sphære, (g)  round circle, or any thing that
+
+
+
+
+
+
+is round
+
+spicerie,  a place to keepe spice in
+
+splendent,  glistering, shinning
+
+splene,  milt
+
+spongeous,  like a sponge
+
+spousals,  betrothings, or contracts
+
+spume,  fome, or froth
+
+stabilitie,  surenes, certaine, strong
+
+stable,  sure, stedfast
+
+stablished,  sure, confirmed, one made
+strong
+
+station,  a standing place
+
+statue,  an image of wood, or any other
+matter
+
+stature,  height, bignes
+
+sterilitie,  barrennes
+
+ stigmaticall (g)  knauish, noted for a lewd
+naughty fellowe, burnt through the eare
+for a rogue.
+
+stile,  manner, or forme of speech, or wri­
+ting
+
+stillatorie,  a distilling place
+
+stipendarie,  one that serueth for wages
+
+stipulation,  a solemne couenant
+
+strangle,  kill, or hang
+
+stratageme,  a pollicie, or wittie shift in
+warre
+
+
+
+
+
+
+strict,  straight, seuere, or sharpe.
+
+strictnes,  narrownes, or smalenes
+
+studius,  dilligent, desirous of lear­
+ning.
+
+stupefie,  to astonish
+
+stupiditie,  astonishment, dulnes
+
+suasorie,  containing counsaile and exhorta­
+tion
+
+subalterne,  succeeding, following by course
+and order.
+
+subdued,  kept vnder, or brought in subiec­
+tion
+
+sublimity,  height, highnes
+
+sublime,  set on high, lift vp
+
+submisse,  lowly, humble, brought in sub­
+iection
+
+§ suborne,  to procure false witnes
+
+subscribe,  write vnder, or to agree with an­
+other in any matter
+
+subsequent,  following hard by
+
+subsiste,  to abide, or haue a being
+
+substitute,  a deputie, or one set in place of
+another.
+
+substract, subtract,  take from, with­
+drawe.
+
+subtill,  craftie, wilie, deceitfull
+
+subuerte,  to turne vpside downe, to de­
+
+
+
+
+
+
+stroy.
+
+succeede,  followe, or come in anothers
+place
+
+successor,  he that comes in place of another
+
+succincte,  shorten, or briefe, or close girt
+vp
+
+suggest,  prompt, tell priuily, or put in mind
+of.
+
+suffixed,  fastened vnto
+
+suffocate,  to choake vp, or strangle
+
+suffragane,  a bishops deputie, or hel­
+per
+
+suffrage,  consent, or voice, or helpe
+
+suggest,  a high place, or pulpitthis entry must be damaged
+
+sulphure,  brimstone
+
+§ summarie,  an abridgement, or thing
+drawne into a lesse compasse
+
+summarilie,  briefely, in fewe words
+
+§ sumptuous,  costly, rich
+
+supererogation,  giuing more then is re­
+quired.
+
+superabundant, superfluous,  needelesse, vnnecessarie
+ouer much, that which
+runneth ouer.
+
+superficies,  vpper side, or out side
+
+superficiall,  taking onely the outside, and
+vttermost part
+
+
+
+
+
+
+superioritie,  place aboue another
+
+superscription,  writing aboue
+
+superstitious,  fearefull in matters of religi­
+on without cause, one giuen to false and
+vaine religion
+
+supplant,  ouerthrowe, or trippe, with the
+feete.
+
+supplement,  that which maketh vp, or ad­
+deth that which wanteth in any thing
+
+§ supple,  make soft, or gentle
+
+supplication,  request, or prayer
+
+§ suppliant,  humbly intreating
+
+support,  beare vp, or conuaie vnder
+
+supposition,  supposing, thinking, iudging,
+or imagining.
+
+suppresse,  keepe downe, conceale, or keepe
+secret
+
+supreme,  the highest, or greatest
+
+supremacie,  chiefedome, or highest place in
+authoritie aboue all others
+
+§ surcease,  to giue ouer, or cease
+
+§ surcharge,  ouercharge, hurt
+
+§ surmount, surpasse,  exceede, or
+goe beyond
+
+surplus,  more then inough
+
+§ surprise,  to come vpon, and vnawares,
+and to take of a suddaine.
+
+
+
+
+
+ 
+surrender,  to yield vp to another
+
+§ surrogate,  a deputie in anothers place
+
+§ suruiue,  ouer liue, or liue after
+
+suspense,  doubt, or vncertaintie
+
+sustained,  suffered, or endured
+
+swaine,  clowne
+
+swarth,  darke, or blackish
+
+swarue,  goe awry erre.
+
+ sycophant, (g)  tale bearer or false accu­
+ser.
+
+ symball, (g)  creede
+
+ symmetrie, (g)  a due proportion of one part
+with another
+
+ sympathie, (g)  fellowelike feeling.
+
+ symptome, (g)  any griefe, or passion, fol­
+lowing a disease
+
+ synagogue, (g)  place of assemblie
+
+ synode, (g)  a generall assemblie, or mee­
+ting
+
+
+ T 
+
+§ Tablet,  little table
+
+tabernacle,  a tent, or pauilion
+
+tacite,  still, silent, saying nothing
+
+taciturnite,  silence, or keeping counsaile
+
+§ tapish,  lie downe, hide it selfe
+
+
+
+
+
+ 
+taxed,  seised, appointed to pay a subsidie
+
+temerarious,  rash, vnaduised, or haire­
+braine
+
+temeritie,  rashnes, vnaduisednes
+
+temperance,  sobrietie, moderation
+
+temperate,  keeping a meane, moderate
+
+temperature, temperament,  temperatenes, meane,
+or due proportion.
+
+tempestuous,  boisterous, or stormie
+
+temporall,  that which indureth but for a
+certaine time
+
+temporarie,  for a time
+
+temporise,  to serue the time, or to followe
+the fashions, and behauiour of the
+time.
+
+tenacitie,  nigardnes
+
+tenuitie,  smalenesse, or slendernesse
+
+§ tenure,  hold, or manner of holding a pos­
+session
+
+termination,  ending, finishing, or boun­
+ding
+
+§ teritorie,  region, or the countrie lying a­
+bout the citie.
+
+tertian,  belonging to euery third day
+
+terrestriall,  earthly
+
+testament,  last will
+
+testification,  witnessing
+
+
+
+
+
+
+testimonies,  records, depositions or wit­
+nessings.
+
+ tetrarch, (g)  gouernour, or prince of a
+fourth part, of a country
+
+ theologie. (g)  diuinitie, the science of liuing
+blessedly for euer
+
+ theoricke, (g)  the contemplation, or inward
+knowledge, of any art
+
+ throne, (g)  a kings seate, or chaire of
+estate.
+
+throtle,  strangle, hang, or torment
+
+thwart,  crosse, or mock
+
+thwite,  shaue
+
+timerous,  fearefull, abashed
+
+timiditie,  fearefulnes
+
+tincture,  a colour, die, or staining
+
+tolerable,  that which may be suffered
+
+ tone, (g)  a tune, note, or accent
+
+§ trace,  find out by the foote steppes
+
+tractable,  easie to handle, or easie to be en­
+treated
+
+tractate,  a treatise, or booke, handling any
+matter
+
+§ tracte,  a space, or length
+
+ tradition,  a deliuering from one to ano­
+ther.
+
+ traduce,  to slaunder, reproach, or defame,
+
+
+
+
+
+
+to bring in, or drawe from one to ano­
+ther.
+
+§ traffique,  bargayning
+
+ tragedian,  a maker, or player, of a tragedy.
+
+ tragedie, (g)  a solemne play, describing
+cruell murders and sorrowes
+
+ tragicall,  cruell, sorrowfull, like a tragedy.
+
+§ traine,  followers, company
+
+ tranquilitie,  quietnes, or calmenes, or
+rest
+
+ transcendent,  climing ouer, mounting vp
+
+ transferre,  conceiue ouer
+
+ transforme, transfigure,  change from one fashion, to
+another
+
+ transgresse,  breake, offende or goe ouer
+
+§ transitorie,  soone passing away, not long
+lasting.
+
+ translation,  altering, chaunging
+
+ transmigration,  a passing from one place, to
+dwell in another.
+
+ transmutation,  a change from one place,
+to another
+
+ transome,  lintell ouer a dore
+
+ transparent,  that which may bee seene
+through
+
+ transport,  carie ouer, from one place to
+another.
+
+
+
+
+
+
+ transpose,  change
+
+ transubstantiation,  a changing of one sub­
+stance into another
+
+§ trauerse,  strike, or thrust through
+
+ triangle, triangular,  three cor­
+nered.
+
+ tribe,  a company, ward, or hundred
+
+§ tribulation,  trouble, sorrowe, anguish
+
+ tribunall,  iudgement seate
+
+§ tributarie,  that payeth tribute
+
+§ tribute,  rent, pension, or subsidie
+
+ tripartite,  threefold, or deuided into three
+parts.
+
+ triuiall,  common, of smale estimation
+
+ triumph,  great ioy outwardly shewed
+
+ triumphant,  reioycing for the conquest
+
+§ trompe,  deceiue
+
+ troncheon,  stake, or billet
+
+ trophee,  a victorie, or any thing set in
+signe of victorie
+
+ tropickes, (g)  circles in the heauen which
+when the sunne comes too, beginnes
+to returne againe.
+
+§ troupe,  company, or band of men in an
+army
+
+ truce,  peace
+
+ trucheman,  an interpreter
+
+
+
+
+
+
+ truculent,  cruell, or terrible in counte­
+nance.
+
+ trunchion,  weapon.
+
+ tumult,  vprore, hurly, burly or insurrec­
+tion
+
+ tumultuous, turbulent,  troublous, disturbing
+or disquieting.
+
+ tiranize,  vse crueltie
+
+ type, (g)  figure, example, shadowe of any
+thing. 
+
+
+ V 
+
+ Vacant,  voyde, or emptie
+
+ vacation,  a time of ceasing from labour
+
+§ vagabonde,  runnagate, one that will stay
+no where
+
+validitie,  strength, or force, or value
+
+valour,  force, courage, or strength
+
+value,  price, or estimation
+
+§ vanquish,  ouercome, preuaile, conquer,
+or ouerthrowe
+
+vapor,  moisture, ayre, hote breath, or rea­
+king
+
+varietie,  change, or diuersitie
+
+§ vassall,  slaue, client
+
+vaste,  spoiled, destroyed, emptie
+
+
+
+
+
+
+§ vauntcourers,  forerunners
+
+vbiquitie,  presence of a person in all places.
+
+varnish,  shine
+
+vegetable,  springing, or growing, as
+herbes.
+
+vehement,  earnest, strong, forcible
+
+vendible,  saileable, easie, and readie to be
+solde
+
+venerable,  worshipfull, or reuerende
+
+veneriall, venerous,  fleshly, or lecherous,
+giuen to lecherie.
+
+veniall,  that which may be pardoned
+
+vente,  saleable
+
+ventricle,  the stomacke which receiues the
+meate
+
+venuste,  faire, beautifull
+
+verbatim,  word by word, perfectly
+
+verbositie,  much talking, and pratling
+
+veritie,  truth
+
+verifie,  to proue it to be true
+
+versifie,  make verses
+
+vertigiousnes,  lightnes, or a swimming of
+the heade Not in OED.
+
+vestall,  a nunne, vowing chastitie
+
+vesture, vestiment,  garment, attire, or
+clothing.
+
+§ viand,  victailes
+
+
+
+
+
+
+§ viceroy,  one set as a deputie in the Kings
+place.
+
+vicinitie,  neighbourhoode
+
+vicegerent,  one that supplyeth the place of
+another.
+
+vicious,  faultie, or full of vice
+
+victorious,  that hath gotten many victo­
+ries.
+
+viewe,  behold, marke, or consider, or looke
+vppon
+
+vigilance,  watchfull, dilligence.
+
+vigour,  strength, courage, or force
+
+vincible,  that may be wonne, or easily o­
+uercome.
+
+vineyard,  orchard of grapes
+
+violate,  to transgresse, defile, deflowre, or
+breake.
+
+violent,  forcible, cruell, iniurious:
+
+viperine,  like a viper, or of a viper.
+
+virago,  a woman of a manly courage
+
+virulent,  full of poyson, venemous.
+
+§ visage,  face, forme, or shape.
+
+vision,  sight, apparition, or a phantasie.
+
+visible,  that may be seene
+
+visitation,  going to see
+
+vitall,  liuely, or pertayning to life.
+
+vitiate,  to corrupt, or deflower, and defile.
+
+
+
+
+
+
+viuificent,  liuely, or full of strength
+
+viuifie,  to quicken, or make aliue:
+
+vlcer,  bile, or botch
+
+vlcerate,  to blister, or make full of sores
+
+vmpire,  iudge:
+
+vnconceaueable,  not able to be conceiued
+
+vnaccessible,  that cannot be come to.
+
+vnanimitie,  one consent of hart and mind
+
+vnction,  annointing
+
+vndecent,  vncomlie
+
+vndermine,  graue, dig
+
+vnguent,  an oyntment, or fat iuyce
+
+vnitie, vnion,  peace, or
+concord
+
+vnitie,  to make one thing of two, or moe,
+to couple, or ioyne:
+
+vnsatiable,  not content
+
+vniformitie,  one and the same fashion
+
+vniuersall,  generall, common:
+
+vocall,  with the voice, or pertaining to the
+voyce:
+
+vocation,  calling, estate, or trade of life.
+
+vnsatiable,  that neuer hath enough, neither
+can be satis-fied:
+
+volubilitie,  swiftnes, or inconstancie
+
+voluntary,  of the owne accord, without be­
+ing taught, or vrged.
+
+
+
+
+
+
+voluptuous,  giuen to pleasure
+
+§ vpbraid,  rise in ones stomack, cast in ones
+teeth:
+
+vrbanitie,  curtesie, good manners, or gen­
+tlenes:
+
+vrgent,  earnestly calling vpon, forcing
+
+§ vsurpe,  take vnlawfull authoritie, or to
+vse against right and reason.
+
+§ vtensiles,  things necessary for our vse in
+house-keeping, or in a trade.
+
+vtilitie,  profit
+
+vlgar,  common, much vsed
+
+
+ Z 
+
+ZOdiack, (g)  a circle in the heauen,
+wherein be placed the 12.signes, and
+in which the Sunne is mooued.
+
+
+FINIS.
+
+
+
+
+

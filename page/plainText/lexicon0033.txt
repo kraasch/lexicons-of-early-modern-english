@@ -1,0 +1,3043 @@
+
+
+
+
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 8 8 7 2
+
+v e r . 1 . 0  ( 2 0 1 9 )
+
+
+
+
+
+Os facies mentum
+
+
+
+
+
+
+
+
+
+
+
+a mouth 
+OS
+
+
+a face 
+facies
+
+
+a chyne 
+mentum
+
+
+a toth 
+dens
+
+
+a throot 
+guttur
+
+
+a tonge 
+lingua
+
+
+roffe of the mouth 
+palatum
+
+
+a berde 
+Barbar
+
+
+a browe 
+supercilium
+
+
+a brye 
+cilium
+
+
+a forhede 
+frons
+
+
+temples 
+tempora
+
+
+a lype 
+labrum
+
+
+an eyelyde 
+Palpebra
+
+
+anye 
+sic
+
+
+the sygthe 
+oculus
+
+
+the whyt of the eye 
+acies albugo
+
+
+apple of the eye 
+pupilla
+
+
+the typ of the nose. 
+Pirula
+
+
+snyuel of the nose. 
+pus nasi sunt
+
+
+the space betwene the nose thyrlis 
+interfinia naris et
+
+
+of the hede 
+capitis
+
+
+branpan 
+trinum
+
+
+a toppe 
+vertex
+
+
+a deuydyng of the here 
+discrimen et
+
+
+a nere 
+auris
+
+
+the forthyr part. 
+Sinciput
+
+
+the myde part. 
+ast interciput	
+
+
+the hynder part of the hede. 
+occiput et
+
+
+brayne. 
+cerebrum
+
+
+a parte 
+pars
+
+
+a chyce 
+Faux et
+
+
+a gome 
+iungiua cum
+
+
+a forhede 
+fortilla
+
+
+an here. 
+capillus
+
+
+a grystell 
+Est cartilago sic
+
+
+a dewlap 
+legia sic
+
+
+a grethe tothe 
+genuinus
+
+
+palme of the hande. 
+Palma
+
+
+ioynt handes 
+iuncture manibus sunt
+
+	
+an helbow 
+vlna
+
+
+brawen of the arme 
+lacertus
+
+
+nayles 
+Vngues cum
+
+
+fyngyrs 
+digitis
+
+
+a sholder 
+humerus cum
+
+
+a brest 
+pectore
+
+
+a neck 
+collus
+
+
+armepyt 
+Acelle
+
+
+a fyst 
+pugnus
+
+
+a cubyt 
+cubitus cum	
+
+
+blode 
+sanguine
+
+
+a tet 
+manus
+
+
+a belly 
+Venter
+
+
+a bleder 
+vesica
+
+
+a back 
+tergum
+
+
+a backbone 
+spondilia
+
+
+a rybbe 
+costa 
+
+
+a nauell 
+Est vmbilicus
+
+
+a syde 
+latus et
+
+
+flesshe. 
+caro
+
+
+skyn. 
+pelle
+
+
+botokys 
+nates sunt
+
+
+a herte. 
+Cor
+
+
+a mylt. 
+splen
+
+
+a long. 
+pulmo
+
+
+a splene. 
+lien
+
+
+a gal. 
+fel
+
+
+a mydryf. 
+ren
+
+
+a maw. 
+diafragm
+
+
+the rem of the bat 
+iecur
+
+
+Meaning unclear.
+
+
+
+wynd pipis 
+Arterie
+
+
+a stomake 
+stomachus post
+
+
+bowelles 
+intestina sic
+
+
+a mawe. 
+epar
+
+
+an ars 
+Anus
+
+
+a thygh 
+crus
+
+
+yong heer 
+pubes
+
+
+a back 
+dorsum sic
+
+
+a backbone 
+spina
+
+
+the ende of the gut 
+podexque
+
+
+whyrlbone 
+Vertebra cum
+
+
+knyes 
+genibus sum
+
+
+the kne knap 
+internodia
+
+
+a senow 
+neruus
+
+
+an hamme 
+Poples atque
+
+
+shyne 
+sura
+
+
+the skyne of concepcyon 
+matrix sic addito ca.
+
+
+ankyll 
+anca.
+
+
+brawne of the arme 
+Musculus &
+
+
+a veyne. 
+vena
+
+
+leege 
+tibia sic atque
+
+
+the master veyne 
+sophena
+
+
+a too 
+Articulus
+
+
+the sool of the fote 
+planta cum
+
+
+an hele 
+calce
+
+
+mary 
+medulla
+
+
+an anklay 
+cauilla
+
+
+a parte of the fote 
+Pars pedis
+
+
+Damage to headword supplied from the 1516 edition (STC 18874).
+
+
+
+an hele 
+est callus dicetur
+
+
+Damage to explanation supplied from the 1516 edition (STC 18874).
+
+
+
+a pathe 
+semita callis
+
+
+
+
+
+
+
+
+a grete too. 
+Istis coniugas 
+
+
+a thombe 
+allux pollex quoque	
+lector
+
+
+a thombe. 
+Est pollex
+
+
+the first finger.
+ index
+
+
+the myd finger.
+ medius
+
+
+the leche finger.
+ medicus
+
+
+the lytil finger
+ auricularis
+
+
+brede 
+Panis
+
+
+ale 
+ceruisia
+
+
+a spone 
+coclear
+
+
+salt 
+sal
+
+
+a onyon. 
+cepeque
+
+
+a table clothe 
+mappa
+
+
+a disshe 
+Discus
+
+
+gruell. 
+puls
+
+
+wortseedis for potage. 
+olera legumem
+
+
+"wortseedis" not found in the OED.
+
+
+
+benys. 
+fabaque
+
+
+pesyn 
+pisa
+
+
+a bone. 
+Os
+
+flesshe 
+carnes
+
+
+salte. 
+salsa
+
+
+heryng 
+allec sic
+
+
+fisshe 
+piscis
+
+
+egges 
+ioua
+
+
+messes 
+Fercula
+
+
+brookenmeet 
+fragmentum
+
+
+mylk 
+lac
+
+
+chese 
+caseus atque
+
+
+butter 
+butirum
+
+
+a symnel 
+Artocopus
+
+
+a wastel 
+libum sic
+
+
+a loof 
+coliphium
+
+
+a wynsop. 
+vipaque
+
+
+a flawne 
+flaton
+
+
+ginger 
+Zinziberum
+
+
+pepir 
+piper
+
+
+garleke 
+allium
+
+
+mustarde 
+sinapi vel
+
+
+vinegre 
+acetum
+
+
+a way. 
+Vicus in
+
+
+a iorney. 
+iter
+
+
+a stone 
+lapis &
+
+
+a turfe. 
+cespes
+
+
+a chyne of theyrthe 
+limus
+
+
+a pyt 
+puteusque
+
+
+a toppe 
+Est trocus atque
+
+
+a balle. 
+pila
+
+
+a coite 
+discus
+
+
+a play 
+ludusque
+
+
+a wrestlynge place 
+palestra
+
+
+a howse 
+Est domus
+
+
+a chyrche 
+ecclesia
+
+
+a can 
+castrum	
+
+
+a walle. 
+murus
+
+
+a shepcote. 
+casa
+
+
+a gate 
+porta
+
+
+a cerge or a taper. 
+Cerius
+
+
+a anter. 
+ara
+
+
+a stayer 
+gradus
+
+
+a glasse 
+vitrum
+
+
+a crosse. 
+crux
+
+
+a lampe 
+lampas
+
+
+an image 
+imago
+
+
+a chesal or mater. 
+Infula
+
+
+a dalmank 
+dalamtia sic
+
+
+an amesse 
+examitum simul
+
+
+a aube 
+alba.
+
+
+a box 
+Pixis &
+
+
+offringes. 
+oblata
+
+
+cruettis. 
+fioleque
+
+
+sacrament. 
+viatica
+
+
+creme 
+crisma
+
+
+a graue 
+Et tumulus
+
+
+a beer 
+libitinaque
+
+
+a wel 
+fons
+
+
+a belly 
+campana
+
+
+lanterne 
+lucerna
+
+
+ynke 
+Encaustum
+
+
+an horne. 
+cornu
+
+
+a pooesse 
+pumex vel
+
+
+a rewle. 
+regula
+
+
+a mergente. 
+mergo
+
+
+a wode 
+Silua
+
+
+a mylle 
+molendinum
+
+
+an hyl 
+mons
+
+
+a valley. 
+vallis
+
+
+a felde. 
+ager
+
+
+a way. 
+vra
+
+
+a medew 
+patum
+
+
+a flour. 
+Flos
+
+
+hey 
+fenum
+
+
+eer of corne. 
+spica
+
+
+corne 
+granum
+
+
+a sythe. 
+falx
+
+
+a shefe 
+merges
+
+
+an ere of corne 
+arista
+
+
+a rishe 
+Cirpus
+
+
+a pismichil 
+formicetum
+
+
+Presumably a form of "pismire" but not found in the OED.
+
+
+
+a brook 
+torrens vel
+
+
+a banke 
+ripa vel
+
+
+a felde 
+ager
+
+
+a herbe or gresse. 
+Herba
+
+
+corne. 
+seges
+
+
+stubble. 
+stipula
+
+
+slimen. 
+sinius
+
+
+a forowe 
+sulcus quoque
+
+
+a balke 
+lira
+
+
+a flese 
+Vellus
+
+
+a shepe. 
+ouis
+
+
+a lambe 
+agnus
+
+
+a weder 
+aries sic
+
+
+a skyn 
+pellis
+
+
+a folde 
+ouile
+
+
+
+
+
+
+
+
+a rake 
+Et cartis &
+
+
+a boole or a stal. 
+bostar
+
+
+a band 
+vinclum	
+
+
+ashekel 
+numellaque
+
+
+wyther 
+restis
+
+
+a fanne	 
+Vannus &
+
+
+a mowe 
+arcomus sic
+
+
+a barne. 
+horria
+
+
+corne. 
+farque
+
+
+smal sede 
+lupinus
+
+
+thresher 
+Et triturator
+
+
+chane. 
+acus
+
+
+a oedyl or a ceue. 
+cribrum
+
+
+a rake 
+rastrumque
+
+
+a flayle 
+flagellum
+
+
+whete 
+Frumentum
+
+
+rye 
+sigulum sic
+
+
+barly mingled or 
+ordia
+
+
+mastelyne corne. 
+mixtilioque
+
+
+a humlok. 
+Erica
+
+
+a cokyl 
+zolium
+
+
+drauke 
+zizania dic &
+
+
+ootes 
+auena.
+
+
+a strykil 
+Historium
+
+
+a boshel 
+modius
+
+
+a brome. 
+scoba
+
+
+bellos. 
+follis
+
+
+brande.  
+teda
+
+
+a stole 
+scabellum
+
+
+a bakhowse 
+Pistrinum
+
+
+paste 
+pasta
+
+
+an ouen 
+furnus
+
+
+meel 
+farinaque
+
+
+leede 
+plumbum
+
+
+kylne 
+Vstrinam
+
+
+Damage obliterates "kilne," which is supplied from the 1516 edition (STC 18874).
+
+
+
+growte	 
+granamellum	
+
+
+a querne 
+mola	
+
+
+a here 
+ciliciumque
+
+
+a shyppe. 
+Nauis
+
+
+a net. 
+rhete
+
+
+the se. 
+mare
+
+
+a bootman 
+reme
+
+
+a sayl 
+velum quoque
+
+
+a maste 
+mulus
+
+
+a ancor 
+Ancora dic
+
+
+shyphyre 
+naulum
+
+
+gables 
+rudentes
+
+
+a corde 
+cordaque
+
+
+an oore 
+remus
+
+
+a plugh 
+Est aratrunque
+
+
+a share 
+vomer
+
+
+an erar 
+culture
+
+
+a gadde 
+gerusa
+
+
+an halter 
+capistrum
+
+
+an axiletre. 
+Aris
+
+
+a carte. 
+biga
+
+
+a yoke 
+iugum
+
+
+a spook. 
+radius
+
+
+a whele. 
+rota
+
+
+a prycke. 
+stilio
+
+
+a songe 
+cantus
+
+
+an harowe 
+Harpica sunt
+
+
+hors harnes 
+phalere
+
+
+a croper 
+postela
+
+
+a teme 
+temoque
+
+
+a tylhors 
+veredus
+
+
+thayre. 
+Aer
+
+
+the sonne. 
+sol
+
+
+a cloude. 
+nubes
+
+
+a renbowe. 
+iris sic
+
+
+the mone. 
+lunaque
+
+
+sterre 
+stella
+
+
+roste 
+Assa
+
+
+safran 
+crocus
+
+
+iouste 
+succus
+
+
+a pastey 
+pastillus
+
+
+cummyn 
+subdes iminum
+
+
+a knyf 
+Cultellus
+
+
+a pere 
+pirum
+
+
+a apell 
+pomum
+
+
+a cup 
+ciphus quoque
+
+
+wyne 
+vinum
+
+
+a borde	 
+Mensa
+
+
+a trestell 
+tripos
+
+
+a lauer 
+lauacrum
+
+
+a basyn 
+pelues
+
+
+a thowel 
+manutergia
+
+
+a veel 
+velum
+
+
+a perech 
+Partica cum
+
+
+a cheer	 
+cathedra
+
+
+quishen 
+puluinar
+
+
+bryde 
+auisque
+
+
+a cage 
+castella
+
+
+a chaderon 
+Acypopyrgia
+
+
+bellous 
+follis
+
+
+a benche 
+scamnum
+
+
+a brande 
+teda
+
+
+a stole 
+scabellum
+
+
+a dyse 
+Alia
+
+
+shekker 
+scaccarum
+
+
+shekkerman 
+scaccus
+
+
+"shekkerman" antedates earliest OED citation (?1577).
+
+
+
+a dyse 
+talis quoque
+
+
+a poynt in the tables 
+pirgus
+
+
+dreggis. 
+Fex
+
+
+a panies 
+calaphus
+
+
+a barell 
+cadus
+
+
+a costrell 
+onopherum sic
+
+
+a spyggot. 
+clipsedra
+
+
+vessell for wyne 
+orbis
+
+
+
+
+
+
+
+
+a tonne 
+Est dolium
+
+
+swete wyne 
+nectar
+
+
+must 
+mustrum sit
+
+
+a botell 
+obbaque	
+
+
+a cace 
+teca
+
+
+fyre 
+Ignis
+
+
+a cool 
+carbo
+
+
+eshes 
+cinis
+
+
+smoke 
+fumus
+
+
+a fyrebronde. 
+fax
+
+
+turffe. 
+gleba
+
+
+a sperkle 
+fauilla
+
+
+a postyk 
+Contus
+
+
+a gredyron 
+cartus &
+
+
+a pot 
+olla
+
+
+a panne 
+patella
+
+
+a fleshoke 
+creagra
+
+
+a plater 
+parapcis
+
+
+a kechen page. 
+Lixa
+
+
+a brendyron. 
+tripes
+
+
+a boket. 
+stula 
+
+
+can 
+cacabus sic
+
+
+pestell 
+pila
+
+
+a spit 
+vertutum
+
+
+a fryinge panne. 
+Sartago
+
+
+asklyse 
+spacula
+
+
+a peperquerne 
+pipervs mola
+
+
+foome 
+spumaque
+
+
+a flame. 
+lamma
+
+
+a breche 	
+Bracca
+
+
+a cherte 
+camisia vel
+
+
+a blank 
+loder
+
+
+sheet 
+linthea
+
+
+a bedde 
+lectus
+
+
+a cloke	 
+Collobium
+
+
+a coote 
+tunica
+
+
+sleues 
+manice sunt
+
+
+a furre 
+pennula
+
+
+a cloth 
+pannus
+
+
+a bolster 
+Ceruical
+
+
+a pyssynge vessell. 
+medula
+
+
+nayles 
+clauus
+
+
+a chyste 
+scrinium
+
+
+a locke 
+sera
+
+
+a key 
+clauus
+
+
+a kercyeffe 
+Flamea
+
+
+a kalle 
+reticulum
+
+
+a bonet 
+tuberus
+
+
+fillet 
+vittaque
+
+
+a quoyffe 
+tena
+
+
+doores 
+Hostia sunt
+
+
+a wall 
+pariesque
+
+
+a wyndow 
+fenestra vel
+
+
+floor 
+arca
+
+
+a post 
+postis
+
+
+a kynge seet 
+Et lolium
+
+
+a chamber or a wole. 
+cameraque
+
+
+a spence 
+penu sic 
+
+an h 
+an h
+
+
+a kechyn 
+canuina
+
+
+a lyne or a plummet 
+Est perpendiculum
+
+
+a brood ax 
+dolabrum
+
+
+a twyb 
+bipei
+
+
+ 
+amussis	
+
+
+an hachet 
+Ascis cum
+
+
+a wymbyll 
+terebro sic
+
+
+a chesel 
+celis cum
+
+
+a agore 
+penetrale
+
+
+Latin "penetrale" means inner chamber.
+
+
+
+a chyp 
+Assula cum
+
+
+a saw 
+terebro
+
+
+a tre 
+lignumque
+
+
+a pyn 
+cauilla
+
+
+a hole 
+foramen.
+
+
+a lyne 
+Linia
+
+
+chalke. 
+cum creta
+
+
+to hew. 
+dolo
+
+
+a compas. 
+crusnus
+
+
+a quitasice. 
+apoca
+
+
+a tayle 
+dica
+
+
+a garden 
+Ortus
+
+
+a wel 
+fons et
+
+
+water 
+aqua
+
+
+a ponde 
+stagnum
+
+
+a bridge 
+pons
+
+
+a benke 
+mergoque
+
+
+a leke 
+porrum.
+
+
+a spade 
+Vanga
+
+
+a matcke 
+ligo
+
+
+a shouell 
+tribula sit
+
+
+dunge 
+fimius
+
+
+a forke 
+furcaque
+
+
+a gadde. 
+
+
+a ditche. 
+Fessa
+
+
+a maresse. 
+palus
+
+
+an hedge. 
+sepes
+
+
+a breer 
+tribulus sic
+
+
+a thorne 
+spinaq
+
+
+a plumtre. 
+Est prunus
+
+
+cheritre. 
+cerasus
+
+
+a nuttre. 
+nux
+
+
+an almetre. 
+vlnus
+
+
+a vintre. 
+vitis
+
+
+a honicome. 
+Fauus
+
+
+a bee. 
+apis
+
+
+wexe. 
+cera
+
+
+hony 
+mel sic
+
+
+beehyues. 
+apiaria
+
+
+a dronebee 
+fucu
+
+
+"dronebee" antedates earliest OED citation (?a1513)
+
+
+
+a tree 
+Est arbor
+
+
+a lefe 
+folium
+
+
+a rote 
+radir
+
+
+a bowe 
+ramum quoque
+
+
+
+
+
+
+
+
+snowe 
+Nix
+
+
+hayll 
+grando
+
+
+thondre 
+tonitruus
+
+
+rayne 
+pluuia
+
+
+lyghtninge 
+fulgurque
+
+
+huorefroste 
+pruina
+
+
+
+wynter 
+Bruma
+
+
+frost 
+gelu
+
+
+yce. 
+glacies
+
+
+whorlwynde. 
+turbo
+
+
+a sonbeme. 
+radius
+
+
+hete 
+calor
+
+
+somer 
+estas
+
+
+
+a taylour 
+Scissor
+
+
+a nedle 
+acus
+
+	
+threde 
+filum
+
+
+sheres 
+forceps
+
+
+a thimble 
+digitale vel
+
+
+an elne 
+vlna
+
+
+
+lether 
+Et corium
+
+
+an aule 
+sibula
+
+
+a shoo 
+sotularis
+
+
+cordewyne. 
+alutaque
+
+
+a last 
+galla
+
+
+
+ynke or bletche 
+Ac atramentum
+
+
+a parynge 
+precigmen
+
+
+a thonge 
+corrigia
+
+
+a brystill 
+ceta
+
+
+
+a welte	 
+Ac intercutia
+
+
+a soole 
+solium
+
+
+a bletche potte 
+dic anfariumque
+
+
+"bletche potte" not found in OED but its equivalent "blatch-pot" is earlier (a1500).
+
+
+
+wole 
+Lana
+
+
+a rocke. 
+colus
+
+
+a spyndil 
+fusa
+
+
+a besem 
+sic scoba
+
+
+herdes 
+matraxaque
+
+
+See Middle English Dictionary, "herde," n. 3 ("hards").
+
+
+
+flax 
+linum
+
+
+
+a posnet 
+Vrciolus
+
+
+a cradel. 
+cune
+
+
+pappe 
+papatum
+
+
+a cradibilbande. 
+fyscia
+
+
+broode 
+lata
+
+
+
+a gyrth 
+Singula
+
+
+a sadyl. 
+sella
+
+
+stirop. 
+strepa
+
+
+a sporre 
+calcar
+
+
+a bridil 
+frenunque
+
+
+an halter 
+capistrum
+
+
+
+a boot 
+Ocrea cum
+
+
+a coyf 
+tencis
+
+
+a patril 
+antecaque
+
+
+a male 
+mantica
+
+
+an horsshoo 
+ferrum.
+
+
+
+a hose 
+Sunt calige 
+
+
+lasshis 
+ligule
+
+
+a snare 
+laqueus
+
+
+a panucher 
+lumbareque
+
+
+a webbe 
+tela
+
+
+
+a gyrdil 
+Cum zona
+
+
+a purse 
+locus
+
+
+an aglette 
+acuaria
+
+
+a gloue 
+cum ceroteca
+
+
+
+siluer 
+Argentum
+
+
+a pounde. 
+libra
+
+
+a shelinge 
+solidusque
+
+
+a quoine 
+nummisma
+
+
+golde 
+vel aurum
+
+
+a tongis 
+Fortifer
+
+
+a stedy 
+incus
+
+
+"a stedy" mayt have been a variant spelling of "anvil".
+
+
+
+a forge 
+fabricca
+
+
+an hammer 
+maleus
+
+
+a fyre 
+atque
+
+
+a chiminey 
+caminus
+
+
+sterle 
+Inde calibs
+
+
+yron 
+ferrum
+
+
+a gobbet 
+frustrum
+
+
+a bernakel 
+camus
+
+
+metal 
+atque metallum
+
+
+sheris 
+Forfex
+
+
+a glasse 
+cum speculo
+
+
+a combe 
+pectenque
+
+
+rasour 
+nouacula
+
+
+a whetstone 
+cosque
+
+
+a spere 
+Lancea vel
+
+
+a swerde 
+gladius
+
+
+a dart 
+pilum
+
+
+an arowe 
+sagitta vel
+
+
+a bowe 
+arcus
+
+
+a beest 
+Bestia
+
+
+This damaged entry is supplied by the 1515 edition (STC 18874).
+
+
+
+a byrde 
+polucris
+
+
+a serpent 
+serpens
+
+
+a flye 
+sic muscaque
+
+
+a worme 
+vermis
+
+
+a cocke 
+Gallus
+
+
+This damaged entry is supplied by the 1515 edition (STC 18874).
+
+
+
+henne 
+llina
+
+
+a chekin. 
+sic pullus
+
+
+gander 
+anceret
+
+
+a gose 
+auca
+
+
+a sparowe 
+Passer
+
+
+This damaged entry is supplied by the 1515 edition (STC 18874).
+
+
+
+a ducke 
+aneta
+
+
+This damaged entry is supplied by the 1515 edition (STC 18874).
+
+
+
+an egle. 
+aquila
+
+
+a crowe. 
+cornix
+
+
+a rauin 
+coruusque
+
+
+a doue 
+columba
+
+
+a cyte 
+Vrbs
+
+
+This damaged entry is supplied by the 1515 edition (STC 18874).
+
+
+
+a cytesyn 
+a ciuis
+
+
+This damaged entry is supplied by the 1515 edition (STC 18874).
+
+
+
+a crosway 
+biuium vel
+
+
+a shoppe 
+opella
+
+
+a becher 
+lanista
+
+
+ashamelles 
+macellum
+
+
+
+
+
+
+
+
+scabby 
+Scaber
+
+
+a glyer 
+strabo
+
+
+This corrected headword is supplied by the 1515 edition (STC 18874).
+
+
+
+a pelery 
+colligistrum
+
+
+a fetter 
+compresque
+
+
+a cheyn 
+cathena
+
+
+a nayle 
+Vngula
+
+
+a tayle 
+cauda
+
+
+a piler. 
+pila
+
+
+an horne. 
+cornu
+
+
+blode. 
+cruor
+
+
+guttis 
+exsta
+
+
+an hagesse 
+tucetum
+
+
+a colte 
+Pullus
+
+
+an horse 
+equus
+
+
+a mare 
+vel equa
+
+
+a calfe 
+vitulus
+
+
+an oxs. 
+bos
+
+
+a cowe. 
+vacca
+
+
+a chawdd 
+abel
+
+
+Damaged entry. The 1515 edition lists "a chawdaw" (a crow) for Latin "caballus" (a horse).
+
+
+
+a hogge 
+Porcus
+
+
+a pigge 
+porcellus
+
+
+a bubile 
+taurus
+
+
+Latin "bubile" is a stall for cattle. The 1515 edition has "bulle."
+
+
+
+a gelt 
+nefrendus
+
+
+a boor. 
+aper
+
+
+a sowe 
+sus
+
+
+a dogge 
+Et canis
+
+
+a whelpe 
+et catulus
+
+
+ratte 
+dic sorex
+
+
+a cat 
+murilegus
+
+
+a mous 
+mus
+
+
+a stede 
+Dextrarius
+
+
+a wether 
+veruex
+
+
+a ram. 
+aries
+
+
+an elephant. 
+elephas
+
+
+a shepe. 
+ouis
+
+
+a lambe 
+agnus
+
+
+a littil lambe 
+Agnellus
+
+
+a thefe 
+latro
+
+
+a fox 
+vulpes
+
+
+an asse 
+asinus
+
+
+an vrchen 
+cirogrillus
+
+
+a beest 
+Est animal
+
+
+a beest 
+pecus
+
+
+a spaniel 
+odorinsecus
+
+
+a camel 
+atque camelus
+
+
+an ape 
+Simea
+
+
+a hekforth 
+iumentumque
+
+
+Latin "Juventum" means a mule or beast of burden, and "hekforth," though not 
+in the OED, appears in a will dated about 1518 and mentioned in 
+James A. Raftis' Early Tudor Godmanchester (1990): 96.
+
+
+
+a yong boole. 
+iuuencus
+
+
+a yonge kowe. 
+iuuenta
+
+
+a brok or herforde 
+melota
+
+
+"herforde" antedates the earliest OED citation (1805). Brokes are "short-stapled wool," and a Latin "melota" is commonly a sheepskin.
+
+
+
+a moule 
+Talpa
+
+
+a wolfe 
+lupus
+
+
+a mule 
+mulus
+
+
+a broke 
+taxus
+
+
+a whesel 
+mustela
+
+
+ 
+oncus
+
+
+a goot 
+Hircus
+
+
+a lytil goot 
+capriolus
+
+
+a goot 
+capra
+
+
+a doo 
+dama
+
+
+a goot 
+caper
+
+
+an herte 
+quoque ceruus.
+
+
+
+a grehonde 
+His leporarius
+
+
+a dogge 
+bobexque
+
+
+a tyde dogge. 
+lascesca
+
+
+a gret dogge 
+molosus
+
+
+a mouth 
+Tinia
+
+
+a louse 
+pediculusque
+
+
+a flee 
+pulexlens
+
+
+a nytt 
+ciroque
+
+
+a worme 
+vermis.
+
+
+a flye 
+Musca
+
+
+a gnat 
+culex
+
+
+a bee 
+et apis
+
+
+gnatte 
+cinifes
+
+
+"gnatte" supplied from 1515 edition.
+
+
+
+a spider 
+ac aranea
+
+
+a waspe 
+vespa
+
+
+
+an oule. 
+Bubo
+
+
+a dragon 
+draco
+
+
+a frogge. 
+rana
+
+
+a tood 
+bufo
+
+
+an addir 
+sic vipera
+
+
+a snayle 
+liuax
+
+
+
+a beer 
+Vrsus
+
+
+a pismur 
+formica
+
+
+a bocke 
+vespertioque
+
+
+a greshope 
+sicada
+
+
+a broke 
+Castor
+
+
+a cony 
+cuniculus
+
+
+an hare 
+lepus
+
+
+a lyon 
+et leo
+
+
+a leoparde 
+vel leopardus
+
+
+a kyng. 
+Rex
+
+
+a rock 
+rogus
+
+
+an alpin 
+alpinus
+
+
+a knyght 
+miles
+
+
+a quene 
+regina
+
+
+a folower 
+pediuus.
+
+
+a squier 
+Armiger
+
+
+a lady 
+et domina
+
+
+a prince 
+princeps
+
+
+a lytil lady 
+domicellaque
+
+
+a virgin 
+virgo
+
+
+a poope 
+Papa
+
+
+an emperour. 
+vel imperator
+
+
+a baron. 
+baro
+
+
+a duke, 
+dux
+
+
+a lorde 
+herus
+
+
+a lady 
+et hera
+
+
+an erle 
+Comes
+
+
+a burges 
+burgensis
+
+
+an enmy 
+hostis
+
+
+
+
+
+
+
+
+
+an archdecon 
+Archidyaconus
+
+
+an officiall 
+officialis
+
+
+a bedill 
+proco
+
+
+a dean 
+decanus
+
+
+a persom 
+Rector
+
+
+idem person 
+persona
+
+
+a decon 
+leuitaque
+
+
+a preest 
+presbyter
+
+
+an heyre 
+heres
+	
+
+ 
+Nunc ponamque
+
+
+vicar 
+vicarios
+
+
+a bysshope 
+antistesque
+
+
+a prelat. 
+prelatos
+
+
+a primat 
+Primas
+
+
+a batiser 
+baptista
+
+
+a chaplen 
+a capellanus
+
+
+a chantor 
+quoque cantor
+
+
+the godeman of the house 
+Atque paterque familias
+
+
+the gode wyf 
+vel matronaque
+
+
+a mother 
+mater.
+
+
+doughter. 
+Filia
+
+
+a son 
+filius
+
+
+a brother 
+atque fraterque
+
+
+a sister 
+soror
+
+
+a wyfe 
+simul vxor
+
+
+an olde wyf. 
+Est auus
+
+
+a grandam. 
+aueque
+
+
+father in law. 
+socer
+
+
+a brother in law. 
+nurus
+
+
+a brother in law. 
+quoque leuir
+
+
+a son in law. 
+Est gener
+
+
+a mother in law. 
+et socrus
+
+
+a fathers brother. 
+patruus
+
+
+a mothers brother 
+sic auunculus atque
+
+
+a gold smyth 
+Aurifaberque
+
+
+a smyth 
+faber
+
+
+a carpenter 
+carpentarius
+
+
+a fowler 
+simul anceps
+
+
+a sower 
+Sutor vel tranctorque
+
+
+a cooke 
+cocus
+
+
+a butler 
+pincerna
+
+
+a seruant 
+minister.
+
+
+stewarde 
+Atque fenescallus
+
+
+a bayly 
+balliuus
+
+
+a mayr 
+prepositusque
+
+
+a sercher 
+Ac explorator
+
+
+a standerdberer 
+vexillator
+
+
+a hangman. 
+quoque lictor
+
+
+a nurse 
+Nutrix
+
+
+a sharpstar 
+filiatrix
+
+
+a leper 
+saltatrix
+
+
+a dissayuer 
+prestigiatrix
+
+
+a bawde 
+Pronuba
+
+
+an harlote 
+vel meretrix
+
+
+a singinge woman 
+cantatrix
+
+
+a knytter 
+qouque empty
+
+
+a messanger 
+Nuncius
+
+	
+a mydwyfe 
+ac obstetrix
+
+	
+a porter 
+et portarius atque
+
+
+
+
+Impressum Anterpie, perme Io­
+hannem de Doeshorch.
+
+
+
+
+
+

@@ -1,0 +1,231 @@
+
+
+
+
+
+THE 
+SEAMANS
+KALENDER,
+OR
+An Ephemerides of the Sun, Moone,
+and certaine of the most notable
+fixed Starres.
+
+Together with many most needfull and necessary mat-
+ters, to the behoofe and furtherance principally of Marriners and
+Seamen: but generally profitable to all Trauailers, or such
+as delight in the Mathematicall studies.
+
+The Tables being for the most part Calculated from the yeere 1601.
+to the yeare 1624. By I.T.
+
+London: E. Allde for Iohn Tapp, 1602.
+
+
+
+
+
+
+Certaine definitions, meete to be vn­
+derstood of those that will practise
+Nauigation.
+
+
+A Spheare or Globe,  is a round fi­
+gure, made by the turning of 
+halfe a Circle, till it end where
+it beganne to be mooued, or a
+massie body inclosed with one
+plat-forme or surface: in the 
+middle wherof is a pricke, from
+which all lynes drawne to the 
+surface are equall. 
+
+Center,  is the point or pricke
+aforesayd, in the middle of a
+Spheare, Globe or other Circle. 
+
+Diameter  is a right lyne, drawne through the Center, to the
+Circumference or surface of a spheare or circle to each side therof. 
+
+Circumference  is a round circle equally distant on all sides,
+from the Center thereof. 
+
+Surface or Superficies,  is the vpper part of any thing. 
+
+A Degree  is the 360. part of the Circumference of any circle. 
+
+A Minute  is the 60 part of a Degree, being vnderstood of
+measure: but in time, a Minute is the 60. part of an houre, or 
+the fourth part of a degree. 15. degrees answering to an houre,
+and 4. Minutes to a degree. 
+
+The Pole  is a point or pricke immagined in the heauens,
+wherof are two, the North Pole and the South Pole, oppisite
+one to another: the North Pole being the Center to a circle,
+described by the motion of the North Starre, or the taile of the 
+
+
+
+little Beare: For which point aforesaid, a lyne imagined to 
+passe through the Center of the earth, and passing directly to
+the opposite part of the heauens, sheweth the South Pole. 
+
+The Equinoctiall,  is a great circle imagined in the heauens:
+also deuiding the heauens into two equal parts, and lying iust
+in the middle betweene the two Poles, being in compasse from
+West to East 360. degrees, euery degr. of terestriall measure,
+valewing 20. English Leagues or 60. miles. 
+
+The Meridian,  is a great circle, deuiding the Equinoctiall
+at right angles into two equall partes, passing also through
+both the Poles and the Zenith: to which Circle, the Sunne
+comming twise euery 24. houres, makes the middle of the day
+and the middle of the night.
+
+Note that euery place hath a seuerall Meridian, which doe all
+meete together in the Poles of the world.
+
+Zenith,  is a point or pricke in the heauens right ouer our
+heads, 90. degrees from the Horizon, as the Pole is 90. degrees 
+from the Equinoctiall. 
+
+Nadir  is a point or Pricke in the heauens vnder our feete,
+opposite to the Zenith. 
+
+Horisont,  is a great circle, deuiding that part of the heauens
+which we see, from the other part which we see not. 
+
+Azimuth,  is a great circle crossing the Horizont at right
+angles, as the Meridians doe the Equinoctiall, being many as
+the Meridians are: and as the Meridians concurre and meete
+together in the Poles of the world, so doe the Azimuthes meete
+the Zenith, which is the Pole of the Horizon. 
+
+Paralels,  are lynes or circles equally distant in all partes one
+from another, as all circles of East and West are Paralell to
+the Equinoctiall. 
+
+Almicanterahs,  are circles Paralell to the Horizon, being
+also circles of altitude or eleuation, being that the altitude of
+the Sunne, Moone or Starres aboue the Horizon are descri­
+bed thereby: which Almicantars doe crosse the Azimuths, as
+the Paralels or Circles of East and West doe crosse the Meri­
+dians. 
+
+
+
+The Tropicke,  are two lesser Circles paralell to the Equinocti­
+all, limmitting the boundes of the Zodiacke or the greatest decli­
+nation of the Sunne on each side of the Equinoctiall: the Tro­
+picke of Cancer northward, and the tropicke of Capric. southward:
+whose distance from the said Equinoctiall are 23. degrees 28. min. 
+
+The Zodiacke,  is a great Circle crossing the Equinoctiall in two
+opposite places thereof, and swaruing Byas wise therefrom, to­
+wards eyther of the Poles, touching the tropicke of Canc. on the
+north part, and the tropicke of Capr on the south part therof In the
+Zodiacke are the twelue signes, viz. [signs for Aries. Taurus. Gemini. Leo. Virgo. Libra. Scorpio. Sagitarius. Capricor. Aquarius. Pisces.].
+euery signe being 30. degr. in length, and 12. in breadth: through
+which signes the Sunne passing, describeth a yeere, & the Moone
+passing like wise through the same, makes a month: the 12. de. that
+the Zodiack hath in bredth is allowed for the latitude of the planets. 
+
+Eclipticke,  is a circle lying iust in the middle of the Zodiack, out
+of which the Sunne neuer goeth, but the Moone and the other pla­
+nets are sometime on the one side, and sometime on the other
+side thereof, in which the head and tayle of the Dragon al­
+so is. 
+
+The head and tayle of the Dragon,  are two opposite points in the 
+Eclipticke lyne of the zodiacke, which goeth backward through all
+the 12. signes in 19. yeeres: and when it hapneth that the Sunne
+and Moone are in Coniunction, in that place of the Eclipticke,
+where the head or taile of the Dragon is, then is the Sunne Eclip­
+sed, and being in the opposition, the Moone being in eyther of the 
+said points, the Moone shall be Eclipsed. 
+
+The Circle Articke,  is a circle which encloseth all those Starres
+which doe neuer rise nor set in any latitude, but are alwaies aboue
+the Horizon, where the North Pole is raised: the like is vnder­
+stood of the Circle Antaricke, where the South Pole is ray­
+sed. 
+
+The Polar Circles,  are two little Circles distant from the Poles
+of the world, so much as is the greatest Declination of the Zo­
+diacke from the Equinoctial: in which Polar circles are the poles
+of the zodiacke. 
+
+Colures,  are two great Circles passing through both the Poles,
+
+
+
+crossing one another in the said Poles at right angles, and deui­
+ding the Equinoctiall and the Zodiacke into foure equall partes,
+making thereby the foure seasons of the yeare: the one Colure
+passing through the Equinoctiall pointes of Aries and Libra, shew­
+eth the beginning of the Spring time and Autumne: at which two
+times the dayes and nights are equall. The other Colure passing
+through the two tropicall points of Cancer and Capricorne, shew­
+eth the beginning of Summer and Winter, at which two times,
+the dayes and nights are longest and shortest. 
+
+Altitude in the heauens,  is the height of any thing aboue the Ho­
+rizon towards the Zenith. 
+
+Latitude,  is the widenes or distance of the Planets or Stars, from
+the Eclipticke, eyther Northward or southward: Also Latitude is
+the distance of the Zenith of any place from the Equinoctiall, to­
+wards either of the Poles, which is alwaies equall with the height
+of the Pole of the same place. 
+
+Longitude,  is length, and in the heauens it is vnderstood the di­
+stance of any Starre or Planet, from the beginning of Aries, to the 
+place of the said Planet or starre, or from the beginning of any signe
+to a certaine other part or degree of the same signe: Otherwise,
+Longitude in the earth, is the distance of the Meridian of any place,
+from the Meridian which passeth ouer the Isles Azones: where the 
+beginning of Longitude is said to be Longitude, is counted vpon
+the Equinoctiall, and Latitude vpon the Meridian. 
+
+Declination,  is the declining or distance of the Sunne, Moone or 
+Starres, from the Equinoctiall: and is said to bee North or south,
+according to that Pole toward which it leaneth. 
+
+Amplitude,  is the distance of the rising and setting of the Sunne,
+Moone or starres, from the true East or West point of the Com­
+passe vpon the Horizon. 
+
+Ascention,  is the rising of any starre, or of any portion of the E­
+clipticke aboue the Horizon. 
+
+The Golden number or Prime,  is the time of 19. yeeres, in which 
+time the Sunne and Moone maketh all the variety of their Con­
+iunctions, Oppositions, and other aspects. 
+
+Epact,  is the 11. days and three houres, which are added to
+
+
+
+the yeere of the Moone, being 354. dayes to make it equall with
+the yeere of the Sunne, which consisteth of 365. dayes and 1/4.
+By the Prime is found out the Epact: and by the Epact is found
+out the age of the Moone. 
+
+The Circle of the Sunne,  is the number of 28: because that in 28
+yeeres, all the variety of Dominicall or sunday Letters and Leape
+yeeres are expyred, being that the 29. yeere, the said Circle doth be­
+gin againe: The vse of which number is to finde out the Domi­
+nicall Letter for any yeere past, present or to come. Where note,
+that there is but 7. letters which serue for sunday letters, viz. A B 
+C D E F G. And albeit that in the daies of the weeke, they proceed
+according to theyr naturall order of the Alphabet, yet in the yeeres
+they goe backeward: as if G. be for one yeere, F. shal be for the next:
+and when it is leape yeere (which is euery fourth yeere) then there
+is two letters for that yeere, the first seruing from the first of Ianu­
+ary till S. Mathias day, which is then the 25. of February, and 
+then the other letter takes place, and serues till the ende of the 
+yeere. 
+
+
+

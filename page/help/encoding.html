@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="../favicon.png" />
+    <link rel="stylesheet" href="../app.css" />
+    <meta name="viewport" content="width=device-width" />
+    
+		<link rel="modulepreload" href="../_app/immutable/entry/start.Cy9bndSL.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/entry.D3FPwgJc.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/scheduler.Cs0xm5t1.js">
+		<link rel="modulepreload" href="../_app/immutable/entry/app.zARAMDCC.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/index.BdoLxVUq.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/0.mpMQbeMG.js">
+		<link rel="modulepreload" href="../_app/immutable/chunks/stores.Dbxp7nn3.js">
+		<link rel="modulepreload" href="../_app/immutable/nodes/5.BL1xKxKB.js">
+  </head>
+  <body data-sveltekit-preload-data="hover">
+    <div style="display: contents">  <div id="main" class="middle"><div class="container"><div id="header"><div class="logo" data-svelte-h="svelte-18mkgfm"><a href="../index.html" aria-label="Go to homepage"><img src="../leme-logo.jpg" alt="LEME logo"></a></div> <div class="howell" data-svelte-h="svelte-c02o5"><a href="../howell.html" aria-label="Click here to read about James Howell's Lexicon Tetraglotton frontispiece"><img src="../howell-thumb.jpg" alt="James Howell's Lexicon Tetraglotton (1660) frontispiece"></a></div></div> <div id="nav" data-svelte-h="svelte-ciaie"><div class="item dropdown"><a href="../lexiconsByDate.html">Lexicons</a> <div class="dropdown-content"><a href="../lexiconsByDate.html">Lexicons By Date</a> <a href="../lexiconsByAuthor.html">Lexicons By Author</a> <a href="https://tspace.library.utoronto.ca/handle/1807/99021">TSpace LEME collection</a></div></div> <div class="item dropdown"><a href="../help.html">About</a> <div class="dropdown-content"><a href="../help.html">Introductory Help</a> <a href="intro.html">Introduction</a> <a href="encoding.html">Guide to Encoding</a> <a href="glossary.html">Glossary</a> <a href="people.html">People</a> <a href="termsofuse.html">Terms of Use</a></div></div></div> <div id="main-content"><h1 data-svelte-h="svelte-1ukuznk"> LEME Database Encoding Practice</h1> <p data-svelte-h="svelte-zxmhfa">Tagging in LEME adds information about the features of Early Modern English word-entries so as to support advanced
+  searching. For example, we tag a word by its language so that researchers can restrict their searches to that
+  language. We also encode texts so as to expand abbreviations and emend typos, thereby making word-entries easier to
+  read.</p> <p data-svelte-h="svelte-u50wc9">LEME uses tags that are explicitly called for by lexicographical practices in this period. Early Modern lexicographers
+  are seldom interested in variant spellings or syllabification: as a result, we do not have tags for these. LEME also
+  does not require a conventional order of elements in a word-entry. If a lexicographer wants to reverse the order of
+  headword and explanation, use sentences as headwords, or permit etymons inside an explanation, so be it. We do not use
+  the word &quot;definition&quot; for an explanation because definitions bore only a non-lexical meaning until the first quarter
+  of the eighteenth century. Definitions applied to things, not words. An explanation may be idiosyncratic. It can
+  include translated equivalents, synonyms, logical definitions (of things), conceptualizations, etymologies, and even
+  anecdotal digressions. Word-entries may appear as running prose within paragraphs.</p> <p data-svelte-h="svelte-e0b0kb">The simpler the LEME tagset can be, the better. When drilling down into a word-entry, LEME enables you to see this
+  encoding. All word-entries have these three structural tags:
+  <br></p> <p data-svelte-h="svelte-1iup8ke"><strong>&lt;wordentry type=&quot;a&quot;&gt;
+    <br>
+    &lt;form lang=&quot;en&quot;&gt;</strong>
+  …
+  <strong>&lt;/form&gt;
+    <br>
+    &lt;xpln lang=&quot;en&quot;&gt;</strong>
+  …
+  <strong>&lt;/xp</strong> <u><strong>l</strong></u> <strong>n&gt;
+    <br>
+    &lt;/wordentry&gt;</strong></p> <p data-svelte-h="svelte-1v4nkxq">Each word-entry contains a headword (
+  <strong>form</strong>
+  ) and an explanation (
+  <strong>xpln</strong>
+  ). Each tag has a small number of features. The word-entry here is marked as sorted alphabetically within the dictionary.
+  Both
+  <strong>form</strong>
+  and
+  <strong>xpln</strong>
+  tags can have a feature or element,
+  <strong>lang</strong>
+  , that specifies their language. Most tags come in pairs: the first one begins characterizing the word that follows, and
+  the second tag ends that annotation. </p> <p data-svelte-h="svelte-1s5n5d2">Tags also describe other structures inside word-entries. Both <strong>form</strong>
+  and
+  <strong>xpln</strong>
+  may enclose other tags, some of which is textual:
+  <strong>expan</strong>
+  marks an expanded abbreviation,
+  <strong>emend</strong>
+  the LEME editor&#39;s emendation of a typo, correction the scribe&#39;s change of a word or passage in a manuscript text, and
+  <strong>damage</strong>
+  a
+  <u>section of the text</u>
+  that is obliterated.
+  <u>Inside a word-entry</u>
+  , term tags mark a change in language and
+  <strong>xref</strong> <u>marks</u>
+  a cross-reference. Each
+  <u>word-entry</u>
+  may also have, as an internal feature, an element that LEME calls a
+  <strong>lexeme</strong>
+  , which is the modern spelling and part of speech for the corresponding headword in the Oxford English Dictionary.</p> <p data-svelte-h="svelte-1m2n6rc"><strong>&lt;wordentry type=&quot;h&quot;&gt;
+    <br>
+    &lt;form lexeme=&quot;ditty(n)&quot;&gt;</strong>
+  dittie
+  <strong>&lt;/form&gt;
+    <br>
+    &lt;xpln&gt;</strong>
+  the matter of a song.
+  <strong>&lt;/xpln&gt;
+    <br>
+    &lt;/wordentry&gt;</strong></p> <p data-svelte-h="svelte-1dqd62w">Imagine tags as Russian dolls. The outermost two-part <strong>leme</strong>
+  tag encloses a number of inner
+  <strong>sections</strong>
+  , which may enclose several smaller gatherings, such as different glossaries. Each glossary may consist of groups of word-entries,
+  such as for words beginning with A, B, C, etc., or for word-entries about a series of topical subjects.</p> <p data-svelte-h="svelte-1u7b1pr">The art of assigning lexemes to old-spelling words is called <u>lemmatization</u>
+  . Lemmatization enables LEME to respond to search queries expressed in modern spellings by listing word-entries whose forms
+  and explanations use old spellings and inflections of the search term.</p> <p data-svelte-h="svelte-1o5wu1m">In modern dictionaries, word-entries often have sub-entries that describe different senses of the headword. Many Early
+  Modern lexical works do not clearly mark senses but all the same may have reams of sub-entries. Here is a sample from
+  John Rider&#39;s English-Latin dictionary of 1589:</p> <p data-svelte-h="svelte-1exqlgf"><strong>&lt;wordentry type=&quot;h&quot;&gt;
+    <br>
+    &lt;form lang=&quot;en&quot;&gt;</strong>
+  To Chaine, or tie in, or with chaines.
+  <strong>&lt;/form&gt;
+    <br>
+    &lt;xpln lang=&quot;la&quot;&gt;</strong>
+  1 Cateno.
+  <br> <strong>&lt;subform lang=&quot;en&quot;&gt;</strong>
+  To chaine together.
+  <strong>&lt;/subform&gt;
+    <br>
+    &lt;subxpln lang=&quot;la&quot;&gt;</strong>
+  1 Concateno.
+  <strong>&lt;/subxpln&gt;
+    <br>
+    &lt;subform lang=&quot;en&quot;&gt;</strong>
+  Chained.
+  <strong>&lt;/subform&gt;
+    <br>
+    &lt;subxpln lang=&quot;la&quot;&gt;</strong>
+  1 Catenatus, p. catenarius, ad
+  <strong>&lt;/subxpln&gt;
+    <br>
+    &lt;subform lang=&quot;en&quot;&gt;</strong>
+  A chaine.
+  <strong>&lt;/subform&gt;
+    <br>
+    &lt;subxpln lang=&quot;la&quot;&gt;</strong>
+  1 Catena, f.
+  <strong>&lt;/subxpln&gt;
+    <br>
+    &lt;subform lang=&quot;en&quot;&gt;</strong>
+  A little chaine.
+  <strong>&lt;/subform&gt;
+    <br>
+    &lt;subxpln lang=&quot;la&quot;&gt;</strong>
+  1 Catenula, catenna, f. catellum, n.
+  <strong>&lt;/subxpln&gt;
+    <br>
+    &lt;subform lang=&quot;en&quot;&gt;</strong>
+  A chaining.
+  <strong>&lt;/subform&gt;
+    <br>
+    &lt;subxpln lang=&quot;la&quot;&gt;</strong>
+  1 Catenatio, f.
+  <strong>&lt;/subxpln&gt;
+    <br>
+    &lt;/xpln&gt;
+    <br>
+    &lt;/wordentry&gt;</strong></p> <p data-svelte-h="svelte-skk4g2">Rider&#39;s practice does not conform to modern expectations in some respects. Note how he places a miniature monolingual
+  English word-entry within the headword form; and how his sub-entries sometimes resemble a different sense (&quot;To chaine
+  together&quot;), and other times various derivatives of the &quot;Cateno&quot; word-family (which all share the same root).</p> <p data-svelte-h="svelte-1x6zal">LEME aims at an intelligible transcription of its lexical texts. In the 1990s, I developed a more florid tag-set
+  suited for diplomatic or critical editions. When I changed from making editions to developing a databas
+  <u>e</u>
+  , my tags contracted. Eventually, with the emergence of the Text Encoding Initiative guidelines, I dis
+  <u>re</u>
+  garded most tags for traits of display (e.g., font) and bibliographical elements (e.g., signature, catchword, running-titles).
+  Yet LEME often keeps to the original lineation of its texts because that promotes easier proofreading.</p> <p data-svelte-h="svelte-1yf6v0p">Encoding in LEME exists even at the level of the individual character. Unicode supplies us with what we need, although
+  it also uses many popular entity references that are not as taxing on memory as Unicode. For example, <strong>&amp;shy;</strong>
+  (soft hyphen) joins words split by a line-end,
+  <strong>&amp;amp;</strong>
+  is ampersand, and
+  <strong>&amp;oelig;</strong>
+  and
+  <strong>&amp;aelig;</strong>
+  are the two digraphs. In another respect, regrettably, LEME lacks a standard for reproducing special abbreviation characters
+  in Renaissance texts. We use our own shorthand codes based loosely on the appearance of the character, but in very formal
+  encoding for exchange purposes, we use Babelmap, an excellent tool, to input actual Unicode character sets.</p> <p data-svelte-h="svelte-opow6n">Various tags are <u>permitted</u>
+  and recognized within wordentries but, during processing, are silently ignored. They are &lt;cit&gt;, &lt;correction&gt;,
+  &lt;damage&gt;, &lt;doubtful&gt;, &lt;f&gt;, &lt;hungword&gt;, &lt;infl&gt;, &lt;lemeformat&gt;, &lt;pos&gt;, &lt;pronun&gt;,
+  and &lt;s&gt;. They can be seen but are not acted on by the database.</p> <p data-svelte-h="svelte-snqxbs">The tag collection in LEME is a creature of SQL database technology. It does not pretend to be a recommended standard
+  for other corpora. However, LEME is translating its SQL tags into two formal xml languages for purposes of exchange:
+  one uses LEME&#39;s own tags, and the other uses TEI, an international standard. A discussion of that will coincide with
+  the release of LEME&#39;s texts in xml format.</p> <h2 data-svelte-h="svelte-1qxbniy">List of LEME Database Tags</h2> <h3 data-svelte-h="svelte-1ko2nwv">STRUCTURAL</h3> <p data-svelte-h="svelte-bi7xui">Leme  (text id)
+  <br>
+  Section  (such as title-page, preface, glossary, etc.)
+  <br>
+  Set  (for use at the start of an encoded text to set defaults)
+  <br>
+  Wordgroup1  (largest unit of grouping word-entries: e.g., alphabetical)
+  <br>
+  Wordgroup2  (sub-group within wordgroup1)
+  <br>
+  Wordgroup3  (sub-group within wordgroup2)
+  <br>
+  Wordentry  (complete word-entry)
+  <br>
+  Form  (headword)
+  <br>
+  Xpln  (explanation of headword)
+  <br>
+  Subform  (related sub-headword)
+  <br>
+  Subxpln  (explanation of sub-headword)
+  <br>
+  Heading  (titles of sections)
+  <br>
+  Closing  (colophon)
+  <br>
+  Alpha  (alphabetic letter for current wordgroup1)</p> <h3 data-svelte-h="svelte-11h829b">TEXTUAL</h3> <p data-svelte-h="svelte-1vh6tvf">Addition    (annotation by <u>someone</u>
+  other than editor or author)
+  <br>
+  Blockquote  (equivalent to lemeformat)
+  <br>
+  Cit  (citation)
+  <br>
+  Class  (text-type, such as an etymon language)
+  <br>
+  Correction    (a scribe&#39;s correction in a manuscript)
+  <br>
+  Damage  (loss of text)
+  <br>
+  Doubtful  (uncertain reading)
+  <br>
+  Editoraddition  (addition of clarifying text by the editor)
+  <br>
+  Emend  (editor&#39;s correction)
+  <br>
+  Etym  (etymon)
+  <br>
+  Etymlang  (language of an etymon)
+  <br>
+  Expan  (expansion of a contraction)
+  <br>
+  Expression   (identical with term tag)
+  <br>
+  F  (font)
+  <br>
+  Hungword  (word or word-part shifted to adjacent line)
+  <br>
+  Infl  (inflection)
+  <br>
+  Joinnext  (display adjacent word-entries together)
+  <br>
+  Lemeformat    (passage set apart, such as verse)
+  <br>
+  Lemenote  (editorial comment in a wordentry)
+  <br>
+  Lemepagenote  (editorial note on a page but outside a word-entry)
+  <br>
+  Note  (marginal comment, item number, etc.)
+  <br>
+  Page   (page-break marker)
+  <br>
+  Pos   (part of speech)
+  <br>
+  Pronun     (pronunciation)
+  <br>
+  S  (scribe)
+  <br>
+  Term  (change of language)
+  <br>
+  Xref  (cross-reference)</p> <p data-svelte-h="svelte-1spolc1"><br>
+  Editor / 9 October 2018</p></div></div> <div id="footer" data-svelte-h="svelte-168gy8y"><hr> <p class="credits center"><span class="big">Ian Lancashire, Editor.</span> <br>
+      Content on this site is licensed under a
+      <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution 4.0 International license</a></p> <div class="container"><div><a href="https://library.utoronto.ca/" target="_blank" aria-label="University of Toronto Libraries website"><img src="../uoft-libraries-logo.png" alt="University of Toronto Libraries Logo"></a></div> <div><a href="http://tapor.ca/" target="_blank" aria-label="TAPoR website"><img src="../tapor-logo.jpg" alt="TAPoR Logo"></a></div> <div><a href="https://utorontopress.com/ca/" target="_blank" aria-label="University of Toronto Press website"><img src="../utp-logo.jpg" alt="University of Toronto Press Logo"></a></div></div></div></div> 
+			
+			<script>
+				{
+					__sveltekit_ptf78z = {
+						base: new URL("../..", location).pathname.slice(0, -1)
+					};
+
+					const element = document.currentScript.parentElement;
+
+					const data = [null,null];
+
+					Promise.all([
+						import("../../_app/immutable/entry/start.Cy9bndSL.js"),
+						import("../../_app/immutable/entry/app.zARAMDCC.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 5],
+							data,
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+  </body>
+</html>

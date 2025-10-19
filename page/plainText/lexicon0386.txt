@@ -1,0 +1,336 @@
+
+
+
+
+
+
+l e m e . l i b r a r y . u t o r o n t o . c a
+
+s t c 1 6 4 3 a
+
+v e r . 1 . 0  ( 2 0 1 8 )
+
+
+
+To the Reader.
+
+
+
+These words explained are not in­
+tended for the learned, but for the un­
+learned, whereby they may come to the understan­
+ding of this booke and others of the same na­
+ture, and the rather because many sen­
+tences may depend on the ope­
+ning of a word.
+
+
+
+
+
+SYnecdoche, A figure containing a part for the whole 
+p. 3.
+
+Genuine distribution naturall or proper division. p. 4.
+
+Metonymy a figure by which the cause is put for the effect, 
+or the subject for the Adjunct or contrarywise, the effect 
+for the cause. p. 5.
+
+Inaccessibile that cannot be gone unto. p. 10.
+
+Essence the beginning. p. 11.
+
+Consectaries, or conclusions. p. 12.
+
+Subsistence the manner of being. ibidem.
+
+Abstract the substantive as, whitenesse. ibidem.
+
+Concrete the Adjective as white. ibidem.
+
+Imparitie Inequality. ibidem.
+
+Equivocally Doubtfull. p. 13.
+
+Analogically by way of Resemblance. ibidem.
+
+
+
+
+
+Numericall,
+Individuall As one and the same thing not only in 
+nature, but in number. p. 14. 
+
+Dimension the measure of a thing. ibidem.
+
+Immensity greatnesse. p. 15.
+
+Relatives Respective. p. 17.
+
+Individuating Restraining or Limiting. ibidem.
+
+Procession Issuing. p. 19.
+
+Efficiency of God his working power. p. 21.
+
+Syllogisme an argument. p. 23.
+
+Identity Samenesse of a thing. p. 25.
+
+Termination the relation of a worke to a particular person. 
+p. 26.
+
+Analysis resolution. p. 28.
+
+Idea a forme or image of a thing in a mans mind. ibidem.
+
+Quiddity the being of a thing. p. 29.
+
+Existence the actuall being of a thing. ibidem.
+
+Contingent accidentall. ibidem.
+
+Simple intelligence Gods absolute Knowledge. ibidem.
+
+Science is Knowledge. p. 30.
+
+Sapience is Wisdome. ibidem.
+
+Concomitant Accompanying. p. 31.
+
+Antecedent going before. ibidem.
+
+Connexion joyning before. ibidem.
+
+Exist to have an actuall being. p. 32.
+
+Passive attingency, that is the Efficacy of the will of God, upon 
+one thing causing another thing. ibidem.
+
+Contingency by chance. p. 34.
+
+Metonymically by a figure, the cause for the effect, or the 
+subjects for the quality, or contrary wise. p. 35.
+
+Formacy transcient really passing. p. 36.
+
+Virtually that is in power. ibidem.
+
+Præexist to be before. ibidem.
+
+Entitie the being of a thing. p. 38.
+
+Aggregation heaping up or joyning together. ibidem.
+
+Incompleat Imperfect. p. 40.
+
+
+
+
+
+Intrinsecally inwardly. p. 48. 
+
+Indissoluble that must not be dissolved. ibidem.
+
+Previous going before. p. 50.
+
+Sunteresis that part of the understanding in which we keepe 
+severall Notions. p. 54.
+
+Animall living. ibidem.
+
+Sanction the establishment of the Law. ibidem.
+
+Adjuvant belying. p. 57.
+
+Sophisticall by a false argument. p. 58.
+
+Prediction fortelling. p. 59.
+
+Homogeneall of the same name and nature. p. 67.
+
+Detractation with-drawing from the Law. p. 70.
+
+Theoreticall contemplative. p. 72.
+
+Inauguration installing. p. 97.
+
+Ubiquitari that is everywhere. p. 108.
+
+Promiscuously confused. p. 114.
+
+Physicall motion an actuall change. p. 130.
+
+Adequate of the same extent. p. 132.
+
+Extrinsecall outward. p. 136.
+
+Manumission freedome. p. 139.
+
+Transmutation change. p. 146.
+
+Collectively together. p. 153.
+
+Integrally wholly. p. 154.
+
+Genus a logicall terme intimating a nature common to severall 
+kinds. d. 155.
+
+Species is a logicall terme signifying a nature agreeable onely to 
+severall particulars. ibidem.
+
+Theologicall Axiome, a rule in Diuinitie. p. 177.
+
+Proems beginnings. p. 181.
+
+Exordium Preface. ibidem.
+
+Predication
+Predicated denomination or naming. p. 189. 
+
+Reciprocall interchangeable. p. 188.
+
+Suspension or abstension withholding. p. 191.
+
+Secluding or shut out. ibidem.
+
+
+
+
+
+Proselytes followers. p. 127. 
+
+Intensively the inward vertue of a thing, extensively are out­
+ward acts of a thing. p. 200.
+
+Aberration erring. p. 201.
+
+Classes the lesser meeting. p. 202.
+
+Synods the greater meeting. ibidem.
+
+Oecumenicall universall. ibidem.
+
+Consubstantiation the being of two substances together. p. 208
+
+Tropee a translation of the signification of words. p. 209.
+
+Delegated appointed. p. 214.
+
+Lesbian crooked. p. 225.
+
+Ethicks manners. p. 226.
+
+Mediocrity the meane. p. 234.
+
+Specificall the same in kind. ibidem.
+
+Ens incomplexum a simple being. p. 253.
+
+Specificative that makes divers kinds. ibidem.
+
+Appretiatively valuablely. p. 268.
+
+Compellation naming or calling. p. 275.
+
+Sympathies the agreements of nature.
+
+Antipathies the disagreements of nature.
+p. 277. 
+
+Appropriation applying to one. p. 282.
+
+Mentall in the understanding. ibidem.
+
+Vocall in word. ibidem.
+
+Deprecation to pray against. p. 285.
+
+Anthemes songes. p. 284.
+
+Impetration obtaining. p. 287.
+
+Celebration praising. p. 289.
+
+Metaphoricall the property of one thing is translated to ano­
+ther. p. 291.
+
+Promissory promising. p. 293.
+
+Assertory affirming. ibidem.
+
+Candidly ingenuously. p. 294.
+
+Spontaneous willingly. p. 295.
+
+Exorcismes conjuration. p. 296.
+
+Indefinite unlimited. ibidem.
+
+
+
+
+
+Fortuitous casuall. p. 297. 
+
+Conjecture guesse. ibidem.
+
+Pertinacious obstinate. p. 302.
+
+Monomachies Duells. p. 306. 
+
+Accurate perfect. p. 309.
+
+Redundancy abounding. ibidem.
+
+Detraction slander. p. 311.
+
+Iotaes tittles. ibidem.
+
+Subjective in this place terminated. p. 314.
+
+Objectively referred by ibidem.
+
+Idolothites things offered to indolls. p. 315.
+
+Situation seating. p. 319.
+
+Prolepsis or 
+Anticipation The declaring of a thing before that 
+shall bee done afterward. p. 323.
+
+Polygamy many mariages. p. 325.
+
+Adumbration shadowing. p. 329.
+
+Iudiciall the Lawes for the Common-Wealth. p. 330.
+
+Allegorically figuratively. p. 337.
+
+Concession granting. ibidem.
+
+Mechanicall Handiwork. ibidem.
+
+Disparity inequality. p. 345.
+
+Emendative correcting. p. 152.
+
+Commutative changing. ibidem.
+
+Criminall. faulty. ibidem.
+
+Parsimony sparing. p. 378.
+
+Pedagogy Child-hood. p. 330.
+
+Accommodation fitting. p. 331.
+
+
+
+FINIS.
+
+
+
+
