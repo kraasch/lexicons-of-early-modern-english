@@ -21825,3 +21825,11 @@ Spelling
 [A New Universal Etymological English Dictionary](lexicons/1346.html)
 
 1755
+
+*   [Scott, Joseph Nicol (lex.)](people/1019.html)
+*   [Bailey, Nathan (lex.)](people/984.html)
+
+English lexis
+
+[Download](plainText/lexicon1346.txt)
+
