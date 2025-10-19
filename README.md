@@ -12,6 +12,21 @@ Demo picture:
 </p>
 -->
 
+## Content
+
+Under [page/plaintexts](./page/plainText/) the original text sources can be found.
+
+One overview is provided by the list of authors in the directory [page/lexiconsByAuthor](./page/lexiconsByAuthor/).
+
+Most info is provided by the table under [page/lexiconsByDate](./page/lexiconsByDate/index.html).
+
+Here is the converted markdown version of the [Lexicons By Date table](./table.md), having the following format:
+
+| ID | TITLE | DATE | AUTHORS | GENRE | SUBJECTS | FULL TEXT |
+| --- | --- | --- | --- | --- | --- | --- |
+| 630 | Alren hath Virtue to Purge Flewme | ca. 1400 - ca. 1500 | Gerford, | Hard words | herbal | Not available |
+| 797 | The State Papers Latin-English Dictionary Fragment | ca. 1400 - ca. 1500 | Anonymous, | Multilingual lexis | Latin | Not available |
+
 ## Files
 
 The directory tree consists of 16 directories.
@@ -35,21 +50,6 @@ The directory tree consists of 16 directories.
     ├── people
     └── plainText
 ```
-
-## Overview and Content
-
-Under [page/plaintexts](./page/plainText/) the original text sources can be found.
-
-One overview is provided by the list of authors in the directory [page/lexiconsByAuthor](./page/lexiconsByAuthor/).
-
-Most info is provided by the table under [page/lexiconsByDate](./page/lexiconsByDate/index.html).
-
-Here is the converted markdown version of the [Lexicons By Date table](./table.md), having the following format:
-
-| ID | TITLE | DATE | AUTHORS | GENRE | SUBJECTS | FULL TEXT |
-| --- | --- | --- | --- | --- | --- | --- |
-| 630 | Alren hath Virtue to Purge Flewme | ca. 1400 - ca. 1500 | Gerford, | Hard words | herbal | Not available |
-| 797 | The State Papers Latin-English Dictionary Fragment | ca. 1400 - ca. 1500 | Anonymous, | Multilingual lexis | Latin | Not available |
 
 ## Tasks
 
